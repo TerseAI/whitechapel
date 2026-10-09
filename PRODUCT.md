@@ -1,4 +1,4 @@
-# Whitechapel
+# Mystery in Whitechapel
 
 ## Purpose
 

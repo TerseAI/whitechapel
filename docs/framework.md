@@ -32,7 +32,7 @@ Cutscenes persist their run, current turn, readiness, acknowledgements and skip 
 
 With the preview running, `npm run test:framework` uses two Chrome profiles to check the multiplayer flow. It saves screenshots in `.qa/framework/`. `STORY_PATH` can select another story in this launcher too.
 
-`npm run test:solo` checks solo entry, membership protection, scene advancement, inspections, reports, the complete fixture and saved completion, with desktop and phone captures. Against another story it checks entry and reconnection. `npm run test:sixth-murder -- --solo` plays through every chapter of The Sixth Murder against its preview; use `AI_MODE=authored` on the preview for deterministic checks.
+`npm run test:solo` checks solo entry, membership protection, scene advancement, inspections, reports, the complete fixture and saved completion, with desktop and phone captures. Against another story it checks entry and reconnection. `npm run test:sixth-murder -- --solo` plays through every chapter of Mystery in Whitechapel against its preview; use `AI_MODE=authored` on the preview for deterministic checks.
 
 `npm run test:lobby` checks keyboard selection, invitation copying and its fallback, partner arrival, readiness cancellation, reconnection and the joint start. It also checks both entrance pages at desktop, tablet and phone sizes, saving screenshots in `.qa/lobby/`. Set `FRAMEWORK_ORIGIN` when using a different preview port.
 

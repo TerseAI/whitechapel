@@ -1,10 +1,10 @@
-# Whitechapel documentation
+# Mystery in Whitechapel documentation
 
 Historical research and documentation for the current investigation framework.
 
 ## Active script
 
-[The Sixth Murder — working script](the-sixth-murder-plot-overview.md) is the single current script under review. It includes the plot, scene prompts and branches, evidence connections, cooperative progression, framework requirements and reference catalogue. Preserve it during documentation and framework cleanup. The playable implementation lives in [stories/sixth-murder/](../stories/sixth-murder/).
+[Mystery in Whitechapel — working script](the-sixth-murder-plot-overview.md) is the single current script under review. It includes the plot, scene prompts and branches, evidence connections, cooperative progression, framework requirements and reference catalogue. Preserve it during documentation and framework cleanup. The playable implementation lives in [stories/sixth-murder/](../stories/sixth-murder/).
 
 ## Research and writing
 

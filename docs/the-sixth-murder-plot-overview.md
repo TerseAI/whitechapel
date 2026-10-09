@@ -1,4 +1,4 @@
-# The Sixth Murder
+# Mystery in Whitechapel
 
 The current working script for **Whitechapel**, an investigation for two human players intended to take about an hour. This document contains the plot, scene choices, evidence flow, progression and references. The playable story, dialogue branches and artwork live in stories/sixth-murder. This working plot describes the current candlestick-slip version.
 

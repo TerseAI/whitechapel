@@ -47,7 +47,7 @@ See [the Case Map contract](docs/case-map.md) before changing investigation UX.
 
 ## Story packages and documentation
 
-The game is called Whitechapel. The default `stories/starter` package is empty. Use [story authoring](docs/story-authoring.md) and `stories/story.schema.json` for content. Keep plot IDs out of engine components. Saved cases require a matching story ID and version; no compatibility adapters or migrations are provided.
+The game is called Mystery in Whitechapel. The default `stories/starter` package is empty. Use [story authoring](docs/story-authoring.md) and `stories/story.schema.json` for content. Keep plot IDs out of engine components. Saved cases require a matching story ID and version; no compatibility adapters or migrations are provided.
 
 Keep `docs/` focused on historical research, source discussion, current framework behavior and authoring. Story-specific scripts, assets and production records belong with their story package. Keep repository documentation current rather than retaining superseded drafts or decision logs.
 

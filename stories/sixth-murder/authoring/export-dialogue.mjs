@@ -1,5 +1,5 @@
 export function dialogueOverview(characters) {
-  return ['# The Sixth Murder — playable dialogue', '',
+  return ['# Mystery in Whitechapel — playable dialogue', '',
     'Generated from the current story. Gates describe when a question is available; recorded denials and admissions remain distinct.', '',
     ...characters.flatMap(character => [
       `## ${character.name} — ${character.id}`, '', `Location: ${character.location}`, '',

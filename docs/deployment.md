@@ -63,7 +63,7 @@ Generated audio stays with fal and each client plays its returned HTTPS media UR
 
 Open the same production URL on both devices. Choose **Play with a partner**, share the case invitation, select different inspectors and mark both ready. Both players must agree on reports. **Play solo** creates a separate case with one detective and adapted requirements. Each browser retains its own player credentials; use the same browser profile to return.
 
-The website and actors must use the same story ID, story version and storage version. The Sixth Murder uses story version 6 and engine storage version 5. Old invitations and browser saves cannot resume the retired data model; start a new case and share its new invitation.
+The website and actors must use the same story ID, story version and storage version. Mystery in Whitechapel uses story version 6 and engine storage version 5. Old invitations and browser saves cannot resume the retired data model; start a new case and share its new invitation.
 
 ## Local development
 

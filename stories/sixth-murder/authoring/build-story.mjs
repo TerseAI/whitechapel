@@ -18,7 +18,7 @@ const searchDeductions = ['report-edition', 'false-knife', 'staged-resemblance']
 const enquiryEvidence = ['hale-private-recovery', 'courtyard-knife', 'hale-discovery', 'george-discovery', 'arthur-visit', 'arthur-trunk-reply', 'travel-papers', 'medical-findings', 'maggie-separation', 'address-verified'];
 const story = {
   $schema: '../story.schema.json', schemaVersion: 2, id: 'sixth-murder', version: '6',
-  title: 'Whitechapel', subtitle: 'The Sixth Murder',
+  title: 'Mystery in Whitechapel', subtitle: '',
   description: 'A case for two investigators. Whitechapel, November 1888: an evening’s lodging becomes an enquiry into a woman’s death and the life she meant to begin. An original fictional mystery set against the historical murder enquiry.',
   ...(media.cover ? { cover: media.cover } : {}), ...(media.music ? { music: media.music } : {}),
   assets: media.assets ?? {}, models: scenes.models ?? {}, inspectors: starter.inspectors, sites: scenes.sites ?? {}, voices: media.voices ?? {},

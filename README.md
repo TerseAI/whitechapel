@@ -1,4 +1,4 @@
-# Whitechapel
+# Mystery in Whitechapel
 
 Mystery game based in Victorian London, for one player or two-player co-op. The repository contains a reusable investigation framework and an empty starting scene with Inspector Reed and Inspector Ellis. Stories supply their own plot, cast and assets.
 
@@ -15,7 +15,7 @@ Open **http://127.0.0.1:5188**. Choose **Play solo** to investigate with one det
 
 The launcher uses ports 5188, 3188 and 7188 and saves cases in `.durable-actors/`. Frontend edits refresh through Vite. Backend, shared-code, story and story-asset edits restart the development services and reload the preview automatically. Press Enter in the dev terminal to restart manually. Saved cases stay in the same directory; only one runtime may use a data directory at a time.
 
-## Play The Sixth Murder
+## Play Mystery in Whitechapel
 
 ```sh
 npm run dev:sixth-murder
@@ -25,13 +25,13 @@ Open **http://127.0.0.1:5388** and choose solo or co-op. Cases are saved in `.du
 
 For live characters, copy `.env.example` to `.env.local` and set `TYPESAFE_API_KEY` and `FAL_KEY`. Jev selects permitted reactions; each character uses Gemini 3.8 Flash (`google/gemini-3.8-flash`) with medium thinking through fal’s OpenRouter endpoint by default, with individual goals and persistent memory. Dialogue, transcription and speech use fal credits; no separate OpenAI API key is needed. ElevenLabs Turbo v2.5 speech runs through fal and is streamed from temporary provider links; the game does not store generated audio files. Click Start talking once, then speak naturally; each message is sent when you stop, or use hold to talk instead. ElevenLabs Scribe v2 through fal transcribes each message; characters respond naturally, including small talk and follow-ups. Authored questions and response choices remain available alongside optional live voice conversation. The script's clues, objects, prerequisites and protected disclosures remain authoritative. Keys stay on the server; restart the launcher after changing them. Use `AI_MODE=live` to require model credentials. `AI_MODE=authored` disables live conversation for deterministic framework testing.
 
-`npm run test:ai` runs a live browser check against port 5388 and uses provider credits. `npm run test:persistence` verifies generation checkpoints and committed evidence across real runtime restarts using isolated temporary storage. The Sixth Murder uses story version 6; start a new case for this version.
+`npm run test:ai` runs a live browser check against port 5388 and uses provider credits. `npm run test:persistence` verifies generation checkpoints and committed evidence across real runtime restarts using isolated temporary storage. Mystery in Whitechapel uses story version 6; start a new case for this version.
 
 The story package and its production material live in [stories/sixth-murder/](stories/sixth-murder/). `npm run build:sixth-murder` validates and builds it; the empty starter remains the default for framework work. For an isolated development case, run `STORY_PATH=stories/sixth-murder/story.json FRAMEWORK_PORT=5388 npm run dev:framework`, then `npm run test:sixth-murder` in another terminal to exercise the complete two-player case. Add `-- --solo` for the one-detective playthrough.
 
 ## Hosting
 
-Run `npm run cloud:prepare` to package The Sixth Murder, then `npm run test:cloud` to verify that exact package locally. After deployment, `npm run test:cloud:hosted` checks the real cloud actors using `TERSE_ACTOR_URL` and `TERSE_API_KEY` from `.env.local`.
+Run `npm run cloud:prepare` to package Mystery in Whitechapel, then `npm run test:cloud` to verify that exact package locally. After deployment, `npm run test:cloud:hosted` checks the real cloud actors using `TERSE_ACTOR_URL` and `TERSE_API_KEY` from `.env.local`.
 
 The shared game is hosted on Vercel at [whitechapel-rho.vercel.app](https://whitechapel-rho.vercel.app) and opens without a website password. Each pair has its own two-player cloud case; **Play solo** creates a case for one detective. See [deployment](docs/deployment.md) for Vercel settings and plain `terse deploy`. `npm run dev:cloud` remains the development launcher.
 

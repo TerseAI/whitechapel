@@ -1,4 +1,4 @@
-# The Sixth Murder — playable dialogue
+# Mystery in Whitechapel — playable dialogue
 
 Generated from the current story. Gates describe when a question is available; recorded denials and admissions remain distinct.
 

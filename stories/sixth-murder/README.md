@@ -1,6 +1,6 @@
-# The Sixth Murder
+# Mystery in Whitechapel
 
-A complete story package for **Whitechapel**, based on the [active plot overview](../../docs/the-sixth-murder-plot-overview.md). Two investigators arrive at the Lantern on 16 November 1888. The following morning brings an enquiry into a woman they met there.
+A complete solo or co-op mystery, based on the [active plot overview](../../docs/the-sixth-murder-plot-overview.md). Two investigators arrive at the Lantern on 16 November 1888. The following morning brings an enquiry into a woman they met there.
 
 ## Play
 
@@ -10,11 +10,11 @@ From the repository root:
 npm run dev:sixth-murder
 ```
 
-Open **http://127.0.0.1:5388**. Create a case and share its invitation with the other player. Choose different inspectors, then both select **I’m ready**. On one computer, use separate browser profiles or an ordinary window and a private window. Cases persist in `.little-actors/sixth-murder/` when the server restarts.
+Open **http://127.0.0.1:5388**. Choose **Play solo** to investigate as one detective, or create a co-op case and share its invitation. In co-op, choose different inspectors, then both select **I’m ready**. On one computer, use separate browser profiles or an ordinary window and a private window. Cases persist in `.durable-actors/sixth-murder/` when the server restarts.
 
-Click the room to walk, or select a witness or object to approach it. Interviews belong to one investigator at a time; close the conversation to let your partner take over. Spoken exchanges reveal one subtitle turn at a time. Muting changes this to **Continue** for each turn. Papers open with readable transcriptions; **View original** shows the illustrated document.
+Click the room to walk, or select a witness or object to approach it. Interviews belong to one investigator at a time; close the conversation to let your partner take over. Spoken exchanges reveal one subtitle turn at a time. Muting silences speech while subtitles keep advancing. Unavailable recordings or **Read instead** use **Continue** per turn. Papers open with readable transcriptions; **View original** shows the illustrated document.
 
-Use the **Case map** to review questions and collected evidence. Drag between pinned papers to draw a connection. Scroll vertically to reach further papers; on small screens the questions have a separate panel above them. **Places to visit** and the district map provide travel. Both investigators must agree to finish a stage or submit a report. A disconnected partner must return before the agreement can complete.
+Use the **Case map** to review questions and collected evidence. Drag between pinned papers to draw a connection. The papers stay fixed in place. Open **Places to visit** to choose a destination. Both investigators must agree to finish a stage or submit a report. A disconnected partner must return before the agreement can complete.
 
 The five stages are arrival, an open enquiry, the search, Arthur’s account and the return to the Lantern. Earlier enquiry rooms remain available during the search. The final report can be supported without a confession. The script targets approximately an hour; actual duration depends on reading, discussion and optional questions and has not been measured with human players.
 
@@ -57,7 +57,7 @@ The artwork, prompts, production scripts and provenance stay with this package. 
 
 The voice catalogue contains 811 runtime cues sharing 809 recordings, all generated with `gemini-3.1-flash-tts-preview`, the established cast and character directions, and the approved shortened prompt. `authoring/voice-refresh.json` records exact script coverage. `authoring/voice-production.json` records the generation model and prompt variants. The generator’s `--quote-text` option surrounds supplied dialogue with quotation marks for rejected short replies and retakes, without changing spoken words. Cached recordings retain their original model metadata; use `--force-ids` to regenerate selected cues.
 
-Every recording has undergone automated transcription and sound checks, with flagged clips checked against the intended dialogue and confirmed faults retaken. `authoring/voice-quality-review.json` records those results and file hashes. Gemini 2.5 Pro is used only for audio review, never for voice generation. This automated review does not replace a human listening assessment. Background music is “Darkest Child” by Kevin MacLeod, licensed under CC BY 4.0; the original 72-second ambient loop remains available as an alternative.
+Every recording has undergone automated transcription and sound checks, with flagged clips checked against the intended dialogue and confirmed faults retaken. `authoring/voice-quality-review.json` records those results and file hashes. Gemini 2.5 Pro is used only for audio review, never for voice generation. This automated review does not replace a human listening assessment. Background music is “Darkest Child” by Kevin MacLeod, licensed under CC BY 4.0.
 
 The conversation and route tests check the current writing, including early visits, alternate marriage discoveries, recovered refusals and both denial and partial-admission endings. Illustrated-paper matching, exact voice coverage and the full two-player playtest with opening-interview audio playback pass. Human playtesting is still needed to assess pacing.
 
