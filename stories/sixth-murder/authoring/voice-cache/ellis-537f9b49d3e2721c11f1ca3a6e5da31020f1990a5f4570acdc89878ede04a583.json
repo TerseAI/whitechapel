@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-537f9b49d3e2721c11f1ca3a6e5da31020f1990a5f4570acdc89878ede04a583-reviewed.mp3",
+  "text": "Her sister was expecting her.",
+  "durationMs": 2256,
+  "sha256": "537f9b49d3e2721c11f1ca3a6e5da31020f1990a5f4570acdc89878ede04a583",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "60f03796f9dae16fc1693c87c962aad9ee54f6c393dab5b2980368b187f89dff"
+}

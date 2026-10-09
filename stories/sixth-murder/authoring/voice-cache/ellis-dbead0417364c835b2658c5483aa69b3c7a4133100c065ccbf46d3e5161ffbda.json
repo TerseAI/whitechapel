@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-dbead0417364c835b2658c5483aa69b3c7a4133100c065ccbf46d3e5161ffbda-reviewed.mp3",
+  "text": "We’ve recovered the candlestick Mrs Baines lent Nora.",
+  "durationMs": 3816,
+  "sha256": "dbead0417364c835b2658c5483aa69b3c7a4133100c065ccbf46d3e5161ffbda",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "f160038db4fa847093470ce9d222d02b8243e7c09057c72e31d8c6aa911953f7"
+}

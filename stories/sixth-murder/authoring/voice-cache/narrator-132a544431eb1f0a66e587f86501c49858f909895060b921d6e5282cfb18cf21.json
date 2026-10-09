@@ -1,0 +1,11 @@
+{
+  "src": "audio/narrator-132a544431eb1f0a66e587f86501c49858f909895060b921d6e5282cfb18cf21-reviewed.mp3",
+  "text": "The common room carries on around the place where Nora worked.",
+  "durationMs": 5304,
+  "sha256": "132a544431eb1f0a66e587f86501c49858f909895060b921d6e5282cfb18cf21",
+  "actor": "narrator",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Rasalgethi",
+  "direction": "A restrained British narrator for an intimate historical drama. Mature clear English voice, unhurried and humane, no trailer delivery. Even rounded baritone, fluid connected phrasing and gentle sentence endings. Observe events without sounding like a policeman giving evidence.",
+  "audioSha256": "d51050cf12b5450bc3f399323bd8f3d75e0a92223f9f0096f5b2a3a5e94787ad"
+}

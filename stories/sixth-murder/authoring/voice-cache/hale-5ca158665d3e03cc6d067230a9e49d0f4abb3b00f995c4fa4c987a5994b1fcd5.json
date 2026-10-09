@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-5ca158665d3e03cc6d067230a9e49d0f4abb3b00f995c4fa4c987a5994b1fcd5-reviewed.mp3",
+  "text": "Inspectors. The woman you met last night has been found dead. The doctor has attended; she has been taken to the mortuary.",
+  "durationMs": 8568,
+  "sha256": "5ca158665d3e03cc6d067230a9e49d0f4abb3b00f995c4fa4c987a5994b1fcd5",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "464bb30a89c66b125a61f41a31400aa516c348f66a34d86f1b1bdac180a55e28"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-376407b31e3b18a8cafc031eda4a0d066e4e451e087de949d9e051ab1b7424a4-reviewed.mp3",
+  "text": "Did those contribute to her death?",
+  "durationMs": 2856,
+  "sha256": "376407b31e3b18a8cafc031eda4a0d066e4e451e087de949d9e051ab1b7424a4",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "667d0c2725844d1884cdf5dd90c34a8ce84be12b094e414f6892ec4181d6347b"
+}

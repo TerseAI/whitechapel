@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-83743bc603418e332325a5e6df25294f4c433f6ef657ec6f6968168270a37e0d-reviewed.mp3",
+  "text": "Her things, her work, the ticket. She should have been in Bristol by now.",
+  "durationMs": 7488,
+  "sha256": "83743bc603418e332325a5e6df25294f4c433f6ef657ec6f6968168270a37e0d",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "ffd2af6654f78b37a47c801260ed8872646c369e24066f68b667afe0884b3c1f"
+}

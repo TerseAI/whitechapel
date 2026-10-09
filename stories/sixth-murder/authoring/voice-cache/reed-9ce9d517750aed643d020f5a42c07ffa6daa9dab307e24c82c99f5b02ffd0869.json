@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-9ce9d517750aed643d020f5a42c07ffa6daa9dab307e24c82c99f5b02ffd0869-reviewed.mp3",
+  "text": "You were there last night. Did you carry it down?",
+  "durationMs": 4224,
+  "sha256": "9ce9d517750aed643d020f5a42c07ffa6daa9dab307e24c82c99f5b02ffd0869",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "e5ff1beaa1a07aba5bcd1a2cbdfc600b858dbbed5c15859217aaff8ffba1f94c"
+}

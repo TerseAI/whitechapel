@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-001da537eee6dff7fccc1d8fc063177b9913070d7d8492f935d5f8b0630c5ee8-reviewed.mp3",
+  "text": "You burnt clothing and a newspaper when you got home.",
+  "durationMs": 4344,
+  "sha256": "001da537eee6dff7fccc1d8fc063177b9913070d7d8492f935d5f8b0630c5ee8",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "eb26e4c6308c6018a79faf1308a2e0d46462057fdd371bd5c51c0807a3f87649"
+}

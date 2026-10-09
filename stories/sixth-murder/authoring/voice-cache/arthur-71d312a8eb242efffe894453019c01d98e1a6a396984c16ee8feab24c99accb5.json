@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-71d312a8eb242efffe894453019c01d98e1a6a396984c16ee8feab24c99accb5-reviewed.mp3",
+  "text": "She told me to leave. I wanted to talk.",
+  "durationMs": 4104,
+  "sha256": "71d312a8eb242efffe894453019c01d98e1a6a396984c16ee8feab24c99accb5",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "8e7b042eb6140e804c93363f7206ddc7737b19552ba0fef4ad24e7dbb83164ca"
+}

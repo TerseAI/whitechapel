@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-2648df60be16b64516a0b69758d14a098a56192c9d37b28c923fdbaf661e8784-reviewed.mp3",
+  "text": "We’re still establishing that. When did you last see her?",
+  "durationMs": 3936,
+  "sha256": "2648df60be16b64516a0b69758d14a098a56192c9d37b28c923fdbaf661e8784",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "fe8fadf720a3fdee76daa5f1fc179dc67fad01158a7921634a533f36ea0149e4"
+}

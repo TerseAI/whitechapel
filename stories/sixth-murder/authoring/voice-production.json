@@ -1,0 +1,62 @@
+{
+  "provider": "Google Cloud Text-to-Speech",
+  "requestedModel": "gemini-3.1-flash-tts-preview",
+  "locale": "en-GB",
+  "requestedClips": 811,
+  "recordedClips": 811,
+  "registeredCues": 811,
+  "uniqueAudioFiles": 809,
+  "modelsByCueCount": {
+    "gemini-3.1-flash-tts-preview": 811
+  },
+  "failures": [],
+  "cast": {
+    "narrator": [
+      "Rasalgethi",
+      "A restrained British narrator for an intimate historical drama. Mature clear English voice, unhurried and humane, no trailer delivery. Even rounded baritone, fluid connected phrasing and gentle sentence endings. Observe events without sounding like a policeman giving evidence."
+    ],
+    "reed": [
+      "Charon",
+      "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark."
+    ],
+    "ellis": [
+      "Iapetus",
+      "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight."
+    ],
+    "baines": [
+      "Gacrux",
+      "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis."
+    ],
+    "nora": [
+      "Leda",
+      "Nora Vale, a 30-year-old English needleworker. Quiet clear and capable voice with a subtle working London accent; occasional dry humour and gentle uncertainty. Light clear mezzo, agile rhythm, soft precise consonants and a small dry lift on a witty observation. Speak with adult confidence, never breathy, childlike or portentous."
+    ],
+    "george": [
+      "Algenib",
+      "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance."
+    ],
+    "hale": [
+      "Orus",
+      "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding."
+    ],
+    "arthur": [
+      "Schedar",
+      "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning."
+    ],
+    "alden": [
+      "Sadaltager",
+      "Dr William Alden, an older English surgeon. Mature male calm low precise voice with an educated southern English accent. Unhurried and humane, factual rather than dramatic. Deep rounded older baritone with a softly resonant, finely articulated tone. Leave a small measured space between observations. Gentle descending conclusions; clinical precision without coldness or pomp."
+    ],
+    "maggie": [
+      "Sulafat",
+      "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful."
+    ]
+  },
+  "promptTemplates": [
+    "{character} Read the supplied dialogue exactly, in a natural British English voice, with clean studio audio.",
+    "{character} Read the supplied dialogue exactly, in a natural British English voice, with clean studio audio. Speech only; no music or sound effects.",
+    "{character} Read the supplied dialogue exactly once, in a natural British English voice, with clean studio audio. Speech only; no music or sound effects."
+  ],
+  "requestFormatting": "Rejected short replies and the final quality retakes use --quote-text; surrounding quotation marks are request formatting, not spoken dialogue.",
+  "qualityReview": "voice-quality-review.json"
+}

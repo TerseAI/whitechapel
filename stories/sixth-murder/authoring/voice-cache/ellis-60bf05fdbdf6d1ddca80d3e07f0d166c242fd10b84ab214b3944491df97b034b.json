@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-60bf05fdbdf6d1ddca80d3e07f0d166c242fd10b84ab214b3944491df97b034b-reviewed.mp3",
+  "text": "We’ll arrange for word to reach her.",
+  "durationMs": 2976,
+  "sha256": "60bf05fdbdf6d1ddca80d3e07f0d166c242fd10b84ab214b3944491df97b034b",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "1588e966d7fec00b5f15c53f9ceb34c6a006fc1d6c6f692eb493a7a041da001d"
+}

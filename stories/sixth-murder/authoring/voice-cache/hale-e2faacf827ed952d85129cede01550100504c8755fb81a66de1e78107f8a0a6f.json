@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-e2faacf827ed952d85129cede01550100504c8755fb81a66de1e78107f8a0a6f-reviewed.mp3",
+  "text": "Understood. The rear passage is shut. Speak to Moss in the yard and Mrs Baines in her own room. I won’t let anyone go between them and Arthur.",
+  "durationMs": 11016,
+  "sha256": "e2faacf827ed952d85129cede01550100504c8755fb81a66de1e78107f8a0a6f",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "ab79cdf2ba4337c1c76fe0d788e6aff1b7e84a2a70305d207c1af60e7591c1fd"
+}

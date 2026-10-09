@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-287e5775c2136c86842f2bd17509941e37c88aedef953a9ef13c7de39ab7ddad-reviewed.mp3",
+  "text": "The man who’s been killing those women. You haven’t caught him, have you?",
+  "durationMs": 4944,
+  "sha256": "287e5775c2136c86842f2bd17509941e37c88aedef953a9ef13c7de39ab7ddad",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "d2b91fa7debde56e22a20ab914f9000c7f4a66cacff8136722cd34d57fe3b292"
+}

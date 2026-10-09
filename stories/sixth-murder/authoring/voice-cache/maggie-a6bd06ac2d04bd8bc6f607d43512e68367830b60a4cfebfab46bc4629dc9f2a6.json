@@ -1,0 +1,13 @@
+{
+  "src": "audio/maggie-a6bd06ac2d04bd8bc6f607d43512e68367830b60a4cfebfab46bc4629dc9f2a6-reviewed.mp3",
+  "text": "Nora and her mother. Arthur on the right.",
+  "durationMs": 4608,
+  "sha256": "a6bd06ac2d04bd8bc6f607d43512e68367830b60a4cfebfab46bc4629dc9f2a6",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "35498c50203b8fdf0fd4059e95852542d33b05a8e393f7803e651f7d79a2e9f8",
+  "prompt": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful. Read the supplied dialogue exactly, in a natural British English voice, with clean studio audio. Speech only; no music or sound effects.",
+  "synthesisText": "\"Nora and her mother. Arthur on the right.\""
+}

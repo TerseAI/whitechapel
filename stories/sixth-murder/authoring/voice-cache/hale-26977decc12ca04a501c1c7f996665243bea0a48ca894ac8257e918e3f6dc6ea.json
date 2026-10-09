@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-26977decc12ca04a501c1c7f996665243bea0a48ca894ac8257e918e3f6dc6ea-reviewed.mp3",
+  "text": "The removal men left before he arrived. The yard constable and the officer checking his address kept away from him. He’s been with me throughout. Nobody else has spoken to him.",
+  "durationMs": 11304,
+  "sha256": "26977decc12ca04a501c1c7f996665243bea0a48ca894ac8257e918e3f6dc6ea",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "7dd0197f33ef84ff4326603a395a9e3f9d779c5501bee2eb8a30a56c12803c02"
+}

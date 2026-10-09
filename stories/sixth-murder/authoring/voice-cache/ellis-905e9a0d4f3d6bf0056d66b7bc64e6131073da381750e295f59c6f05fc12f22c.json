@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-905e9a0d4f3d6bf0056d66b7bc64e6131073da381750e295f59c6f05fc12f22c-reviewed.mp3",
+  "text": "Best stand there, then.",
+  "durationMs": 2136,
+  "sha256": "905e9a0d4f3d6bf0056d66b7bc64e6131073da381750e295f59c6f05fc12f22c",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "4b9cb8917ed507f81325eb45ccb7cbdf41062228b5c64e216960456d2ac71d22"
+}

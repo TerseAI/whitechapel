@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-72a7ff4f9927f8003ac7d97a5bf3289c7dcce519281c8c7a167f1f834a16e6f0-reviewed.mp3",
+  "text": "Then she can’t tell you who it was.",
+  "durationMs": 2208,
+  "sha256": "72a7ff4f9927f8003ac7d97a5bf3289c7dcce519281c8c7a167f1f834a16e6f0",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "5dc8a0d39616b5387c18784de7d61c468370b14f070a6f1de62af18bc13c079f"
+}

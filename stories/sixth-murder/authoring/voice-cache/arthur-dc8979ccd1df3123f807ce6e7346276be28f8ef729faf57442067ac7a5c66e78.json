@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-dc8979ccd1df3123f807ce6e7346276be28f8ef729faf57442067ac7a5c66e78-reviewed.mp3",
+  "text": "Her sister had been encouraging her. Nora wouldn’t have done this on her own.",
+  "durationMs": 4656,
+  "sha256": "dc8979ccd1df3123f807ce6e7346276be28f8ef729faf57442067ac7a5c66e78",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "54ecba04adcce5b8e6d8e345f7cf576b864bc4033b5efc281909ca8fba58af61"
+}

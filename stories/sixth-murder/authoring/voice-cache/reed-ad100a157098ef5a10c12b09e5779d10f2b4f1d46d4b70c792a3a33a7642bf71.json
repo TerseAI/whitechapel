@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-ad100a157098ef5a10c12b09e5779d10f2b4f1d46d4b70c792a3a33a7642bf71-reviewed.mp3",
+  "text": "The scarf?",
+  "durationMs": 1416,
+  "sha256": "ad100a157098ef5a10c12b09e5779d10f2b4f1d46d4b70c792a3a33a7642bf71",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "1a2e9d82061ecda1ba72acc95e4526a580853cc930d68c09c07737d50cb38abc"
+}

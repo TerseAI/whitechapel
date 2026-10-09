@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-840ce9e34b538806935495751d910f725fbf3de6de0376184c33c5dd3b02d7f8-reviewed.mp3",
+  "text": "No. Then a cry. A thud, straight after it.",
+  "durationMs": 5496,
+  "sha256": "840ce9e34b538806935495751d910f725fbf3de6de0376184c33c5dd3b02d7f8",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "cc4dd29ff1767160b6de56a610248d0ff5570f5ad72289d42b3d682db409da7b"
+}

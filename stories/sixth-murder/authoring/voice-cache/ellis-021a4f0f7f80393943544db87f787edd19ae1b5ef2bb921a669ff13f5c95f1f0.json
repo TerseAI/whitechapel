@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-021a4f0f7f80393943544db87f787edd19ae1b5ef2bb921a669ff13f5c95f1f0-reviewed.mp3",
+  "text": "Did you get anyone?",
+  "durationMs": 1704,
+  "sha256": "021a4f0f7f80393943544db87f787edd19ae1b5ef2bb921a669ff13f5c95f1f0",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "9053f3f978c32bd4dfab631cc2af2094b0a983ece5cbe963ece67a13fef5c39d"
+}

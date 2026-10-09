@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-79d1a602cb664f72d06f973e43677487992e6026abc2452b6bd5c5f5bb81bd75-reviewed.mp3",
+  "text": "Her bedding was inside the trunk, stained with blood. The packing was left in her room.",
+  "durationMs": 8304,
+  "sha256": "79d1a602cb664f72d06f973e43677487992e6026abc2452b6bd5c5f5bb81bd75",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "3db062374a36070ae59b9f7ed65ec2d42e852d242d78a2e3ea23d8796e9d0e09"
+}

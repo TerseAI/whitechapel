@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-6556c3c233c2df325cb1a67b601efed9ff66132ec701f89fa31c2bf58857b350-reviewed.mp3",
+  "text": "Was there something wrong with the clothes?",
+  "durationMs": 2664,
+  "sha256": "6556c3c233c2df325cb1a67b601efed9ff66132ec701f89fa31c2bf58857b350",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "b18715ecc21c80ec39145ea0e92a0dbb59798ba2f4806c673cbaaee196e687ea"
+}

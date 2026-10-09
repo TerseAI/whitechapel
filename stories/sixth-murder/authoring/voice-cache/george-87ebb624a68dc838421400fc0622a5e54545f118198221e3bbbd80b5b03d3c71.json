@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-87ebb624a68dc838421400fc0622a5e54545f118198221e3bbbd80b5b03d3c71-reviewed.mp3",
+  "text": "Hadn’t got that far. The horse was still outside. I’d only just come through.",
+  "durationMs": 6024,
+  "sha256": "87ebb624a68dc838421400fc0622a5e54545f118198221e3bbbd80b5b03d3c71",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "35009029f3826100532f6571706bc88fa8214dbe34690d5df9723f6ad28e1917"
+}

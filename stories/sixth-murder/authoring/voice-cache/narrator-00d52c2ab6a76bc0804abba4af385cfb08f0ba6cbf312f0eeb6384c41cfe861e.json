@@ -1,0 +1,11 @@
+{
+  "src": "audio/narrator-00d52c2ab6a76bc0804abba4af385cfb08f0ba6cbf312f0eeb6384c41cfe861e-reviewed.mp3",
+  "text": "Word has been sent to Bristol concerning Nora’s death. At Bell’s boot-repair shop, off Commercial Road, the landlord has admitted the officers to Arthur’s lodging.",
+  "durationMs": 12984,
+  "sha256": "00d52c2ab6a76bc0804abba4af385cfb08f0ba6cbf312f0eeb6384c41cfe861e",
+  "actor": "narrator",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Rasalgethi",
+  "direction": "A restrained British narrator for an intimate historical drama. Mature clear English voice, unhurried and humane, no trailer delivery. Even rounded baritone, fluid connected phrasing and gentle sentence endings. Observe events without sounding like a policeman giving evidence.",
+  "audioSha256": "c555626460a8921f8a1a631ff425b2190f491c02a9aa15703579cb74379b7d12"
+}

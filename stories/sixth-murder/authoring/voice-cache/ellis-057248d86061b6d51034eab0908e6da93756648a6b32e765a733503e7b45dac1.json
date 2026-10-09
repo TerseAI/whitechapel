@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-057248d86061b6d51034eab0908e6da93756648a6b32e765a733503e7b45dac1-reviewed.mp3",
+  "text": "Are you travelling tomorrow?",
+  "durationMs": 2328,
+  "sha256": "057248d86061b6d51034eab0908e6da93756648a6b32e765a733503e7b45dac1",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "ff7e3d436105b2977d9a4144a23f2aee49f252cb588a96b5e1a47db9c12befb3"
+}

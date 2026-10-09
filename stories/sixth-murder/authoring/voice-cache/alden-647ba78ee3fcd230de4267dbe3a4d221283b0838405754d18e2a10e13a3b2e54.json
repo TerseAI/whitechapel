@@ -1,0 +1,11 @@
+{
+  "src": "audio/alden-647ba78ee3fcd230de4267dbe3a4d221283b0838405754d18e2a10e13a3b2e54-reviewed.mp3",
+  "text": "Inspectors. Come in. We can speak here.",
+  "durationMs": 5304,
+  "sha256": "647ba78ee3fcd230de4267dbe3a4d221283b0838405754d18e2a10e13a3b2e54",
+  "actor": "alden",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sadaltager",
+  "direction": "Dr William Alden, an older English surgeon. Mature male calm low precise voice with an educated southern English accent. Unhurried and humane, factual rather than dramatic. Deep rounded older baritone with a softly resonant, finely articulated tone. Leave a small measured space between observations. Gentle descending conclusions; clinical precision without coldness or pomp.",
+  "audioSha256": "a767d34535eac089846d8188e37770c238977f1deea2abfc9f2b95d4da992d60"
+}

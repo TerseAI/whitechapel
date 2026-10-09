@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-2f6ca957d77653f8efee7e9e1830d2a64ed71476113a0cb69f92dc0a363d9d3f-reviewed.mp3",
+  "text": "No. He was turned away from me. I only had a glimpse.",
+  "durationMs": 4248,
+  "sha256": "2f6ca957d77653f8efee7e9e1830d2a64ed71476113a0cb69f92dc0a363d9d3f",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "fcefb7b81ac62279c6fb376b77471cf6ae0f220e05b6e160c74ab702c065a8e2"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-c0a3b44c8180d9e8f40dbc7c797722fff4c2dd7af9d32c830164acfd16e83756-reviewed.mp3",
+  "text": "She pulled back and fell against the washstand.",
+  "durationMs": 3888,
+  "sha256": "c0a3b44c8180d9e8f40dbc7c797722fff4c2dd7af9d32c830164acfd16e83756",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "cb84631164e006e8700a32bcccd458c01437c405af0641993f67dd479127853f"
+}

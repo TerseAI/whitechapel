@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-d559a40b21061bd4c325d4dcfe124329f695ec69071762f0afd023babc7af145-reviewed.mp3",
+  "text": "Of course. Everyone’s reading about the murders.",
+  "durationMs": 3408,
+  "sha256": "d559a40b21061bd4c325d4dcfe124329f695ec69071762f0afd023babc7af145",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "d7d32b5a3a47b7bf6469ca75e465771ed881d02ecb15f00719102e9deba6183c"
+}

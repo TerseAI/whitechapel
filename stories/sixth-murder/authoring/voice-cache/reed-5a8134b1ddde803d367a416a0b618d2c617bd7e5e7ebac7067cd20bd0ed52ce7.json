@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-5a8134b1ddde803d367a416a0b618d2c617bd7e5e7ebac7067cd20bd0ed52ce7-reviewed.mp3",
+  "text": "So you put her in the trunk?",
+  "durationMs": 2256,
+  "sha256": "5a8134b1ddde803d367a416a0b618d2c617bd7e5e7ebac7067cd20bd0ed52ce7",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "d859b81dd652aed61ad92562b8a38a9053d1dcb8ed9f601e8a8a4409df3c5c89"
+}

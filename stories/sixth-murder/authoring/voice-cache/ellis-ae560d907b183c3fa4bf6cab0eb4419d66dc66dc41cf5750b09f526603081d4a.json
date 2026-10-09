@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-ae560d907b183c3fa4bf6cab0eb4419d66dc66dc41cf5750b09f526603081d4a-reviewed.mp3",
+  "text": "We’ll speak to her. Does Abberline know?",
+  "durationMs": 3648,
+  "sha256": "ae560d907b183c3fa4bf6cab0eb4419d66dc66dc41cf5750b09f526603081d4a",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "9c46acfd3912980f22a2e53fa4b5e76a819834fe78894f9a4967b9da88b5c18a"
+}

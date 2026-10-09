@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-b8741ae1ee9dada1557e918e3d1cdaff07e3daa9104f2ba71e69f59cce28c6e7-reviewed.mp3",
+  "text": "Could he have watched it, or heard us questioning Moss and Mrs Baines?",
+  "durationMs": 5856,
+  "sha256": "b8741ae1ee9dada1557e918e3d1cdaff07e3daa9104f2ba71e69f59cce28c6e7",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "143a3d191f7513458efa8d56ed5f42165634c72e6702b78b0b6fae2f1d6d0052"
+}

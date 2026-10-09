@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-d8727e0fee547525aaf845bcc7f633240655fcac80d2d71ddcac0a572d686c2e-reviewed.mp3",
+  "text": "Could you shut the door, please?",
+  "durationMs": 2688,
+  "sha256": "d8727e0fee547525aaf845bcc7f633240655fcac80d2d71ddcac0a572d686c2e",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "557aab82bf0a3e73a0e807dfd232c5860d0119001f747ac7e44eb793e6fce54c"
+}

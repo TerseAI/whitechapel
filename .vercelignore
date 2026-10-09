@@ -1,0 +1,13 @@
+.env*
+.durable-actors
+.little-actors
+.terse
+.qa
+.codex
+.impeccable
+.git
+node_modules
+dist
+docs
+tests
+stories/*/authoring

@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-d6f6840cb4c112fe6713a7c2b3ac64f2f9465d5102ec0e86199a6ee22f5ef147-reviewed.mp3",
+  "text": "When I went to her room. She said she was leaving in the morning.",
+  "durationMs": 4128,
+  "sha256": "d6f6840cb4c112fe6713a7c2b3ac64f2f9465d5102ec0e86199a6ee22f5ef147",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "36a8c717fe16c31c68bbd7c961cb95013f8031045dab13b19c9c4a203d0ac651"
+}

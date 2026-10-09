@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-60cd8c92fb821f739c2d8e78db6c89bd7af9ceb10bf23e09f12391e84cc6ba8d-reviewed.mp3",
+  "text": "I will. I’m telling her Nora had everything ready, and that her sewing case is here.",
+  "durationMs": 6144,
+  "sha256": "60cd8c92fb821f739c2d8e78db6c89bd7af9ceb10bf23e09f12391e84cc6ba8d",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "b498c5d0e3c1b70a5ee51660ab93a58bbf568e271f50bdaf21808920c36f1639"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-1f24795de945138fd3ca9522f198667f81f7a2c9b9c6c02f441a9868306473bb-reviewed.mp3",
+  "text": "Can I help you?",
+  "durationMs": 1656,
+  "sha256": "1f24795de945138fd3ca9522f198667f81f7a2c9b9c6c02f441a9868306473bb",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "480c828ce1f88fe60b5524e9b4c516fbcf063a403371a33d9b01fcd05849783e"
+}

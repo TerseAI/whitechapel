@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-d582b50d42b7baf958ab38df66f3a4e98b425aa1e0c575e5ce7641b4bbac957f-reviewed.mp3",
+  "text": "Finch was her name before she married. She wanted to use it again.",
+  "durationMs": 4416,
+  "sha256": "d582b50d42b7baf958ab38df66f3a4e98b425aa1e0c575e5ce7641b4bbac957f",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "e749aabc92c2d5659a0c307d876921f2305e1747204eb10c40589a0097dac90b"
+}

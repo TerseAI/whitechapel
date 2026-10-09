@@ -1,0 +1,283 @@
+{
+  "verifiedAt": "2026-09-12T23:26:06.825810+00:00",
+  "story": "sixth-murder",
+  "version": "1",
+  "frameworkTests": {
+    "passed": 94,
+    "command": "npm test"
+  },
+  "storyTests": {
+    "passed": 21,
+    "command": "npm run test:sixth-murder:rules"
+  },
+  "productionBuild": {
+    "passed": true,
+    "command": "npm run build:sixth-murder"
+  },
+  "caseMapLayout": {
+    "passed": true,
+    "papers": 47,
+    "viewports": [
+      [
+        1440,
+        1000
+      ],
+      [
+        390,
+        844
+      ],
+      [
+        320,
+        568
+      ],
+      [
+        844,
+        390
+      ]
+    ],
+    "command": "FRAMEWORK_ORIGIN=http://127.0.0.1:5388 node scripts/case-map-layout-check.mjs"
+  },
+  "walkthroughs": {
+    "evidence": {
+      "story": "sixth-murder",
+      "version": "1",
+      "completed": true,
+      "stages": [
+        {
+          "index": 0,
+          "title": "Arrival",
+          "evidence": 9,
+          "deductions": []
+        },
+        {
+          "index": 1,
+          "title": "The enquiry",
+          "evidence": 47,
+          "deductions": [
+            "trunk-contradiction",
+            "room-to-yard",
+            "concealed-marriage",
+            "candlestick-origin",
+            "disturbance-sequence"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "The search",
+          "evidence": 52,
+          "deductions": [
+            "trunk-contradiction",
+            "room-to-yard",
+            "concealed-marriage",
+            "candlestick-origin",
+            "disturbance-sequence",
+            "fracture-match",
+            "report-edition",
+            "staged-resemblance"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Arthur’s account",
+          "evidence": 69,
+          "deductions": [
+            "trunk-contradiction",
+            "room-to-yard",
+            "concealed-marriage",
+            "candlestick-origin",
+            "disturbance-sequence",
+            "fracture-match",
+            "report-edition",
+            "staged-resemblance"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "The same table",
+          "evidence": 71,
+          "deductions": [
+            "trunk-contradiction",
+            "room-to-yard",
+            "concealed-marriage",
+            "candlestick-origin",
+            "disturbance-sequence",
+            "fracture-match",
+            "report-edition",
+            "staged-resemblance"
+          ]
+        }
+      ],
+      "scenes": [
+        "0-lantern-common",
+        "0-lantern-yard",
+        "1-lantern-yard",
+        "1-lantern-common",
+        "1-nora-room",
+        "1-baines-room",
+        "1-alden-workroom",
+        "1-shaw-workshop",
+        "2-vale-room",
+        "2-lantern-yard",
+        "2-lantern-common",
+        "2-nora-room",
+        "2-baines-room",
+        "2-alden-workroom",
+        "2-shaw-workshop",
+        "3-station-interview",
+        "4-lantern-common"
+      ],
+      "checks": [
+        "document modes",
+        "real MP3 playback, single subtitle turns and deferred response choices",
+        "muted recorded exchange advances one turn at a time",
+        "responsive object inspector",
+        "illustrated object opening-sewing",
+        "illustrated object opening-trunk",
+        "illustrated object opening-candlestick",
+        "illustrated object opening-cart",
+        "responsive chapter boards",
+        "joint stage completion",
+        "joint cutscene skip",
+        "illustrated object trunk",
+        "illustrated object cart-candlestick",
+        "illustrated object room-disturbance",
+        "illustrated object room-fragment",
+        "illustrated object sewing-case",
+        "illustrated object work-correspondence",
+        "illustrated object service-route",
+        "dragged a real evidence connection",
+        "rejected reconstruction",
+        "illustrated object unfinished-work",
+        "unsupported joint report rejected",
+        "illustrated object hearth-remains",
+        "exact station answers retained after closing and reload"
+      ],
+      "errors": []
+    },
+    "denial": {
+      "story": "sixth-murder",
+      "version": "1",
+      "completed": true,
+      "stages": [
+        {
+          "index": 0,
+          "title": "Arrival",
+          "evidence": 8,
+          "deductions": []
+        },
+        {
+          "index": 1,
+          "title": "The enquiry",
+          "evidence": 44,
+          "deductions": [
+            "trunk-contradiction",
+            "room-to-yard",
+            "concealed-marriage",
+            "candlestick-origin",
+            "disturbance-sequence"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "The search",
+          "evidence": 52,
+          "deductions": [
+            "trunk-contradiction",
+            "room-to-yard",
+            "concealed-marriage",
+            "candlestick-origin",
+            "disturbance-sequence",
+            "fracture-match",
+            "report-edition",
+            "staged-resemblance"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Arthur’s account",
+          "evidence": 58,
+          "deductions": [
+            "trunk-contradiction",
+            "room-to-yard",
+            "concealed-marriage",
+            "candlestick-origin",
+            "disturbance-sequence",
+            "fracture-match",
+            "report-edition",
+            "staged-resemblance"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "The same table",
+          "evidence": 60,
+          "deductions": [
+            "trunk-contradiction",
+            "room-to-yard",
+            "concealed-marriage",
+            "candlestick-origin",
+            "disturbance-sequence",
+            "fracture-match",
+            "report-edition",
+            "staged-resemblance"
+          ]
+        }
+      ],
+      "scenes": [
+        "0-lantern-common",
+        "0-lantern-yard",
+        "1-lantern-yard",
+        "1-lantern-common",
+        "1-nora-room",
+        "1-baines-room",
+        "1-alden-workroom",
+        "1-shaw-workshop",
+        "2-vale-room",
+        "2-lantern-yard",
+        "2-lantern-common",
+        "2-nora-room",
+        "2-baines-room",
+        "2-alden-workroom",
+        "2-shaw-workshop",
+        "3-station-interview",
+        "4-lantern-common"
+      ],
+      "checks": [
+        "document modes",
+        "responsive object inspector",
+        "illustrated object opening-sewing",
+        "illustrated object opening-trunk",
+        "illustrated object opening-candlestick",
+        "illustrated object opening-cart",
+        "responsive chapter boards",
+        "joint stage completion",
+        "joint cutscene skip",
+        "illustrated object trunk",
+        "illustrated object cart-candlestick",
+        "illustrated object room-disturbance",
+        "illustrated object work-correspondence",
+        "illustrated object service-route",
+        "illustrated object unfinished-work",
+        "rejected reconstruction",
+        "unsupported joint report rejected",
+        "illustrated object hearth-remains",
+        "illustrated object room-fragment",
+        "illustrated object sewing-case",
+        "exact station answers retained after closing and reload",
+        "completed without a confession"
+      ],
+      "errors": []
+    }
+  },
+  "scope": "Automated two-browser walkthroughs using lobby and selected interface interactions plus authoritative game actions. Human session duration is not measured.",
+  "walkthroughsVerifiedAt": "2026-09-12T22:01:01.858Z",
+  "presentationChecks": {
+    "lobby": "Updated copy, immediate readiness, request failure recovery, both-player loading and desktop/mobile portraits pass.",
+    "notebook": "Both clients show notes; live writing hand moves, reduced-motion hand stays still, mobile faces and notebook fit, props clear after interview.",
+    "subtitles": "Reed and Nora: 13 real clips and 189 positive-time audio/subtitle samples match. Delayed closed-interview replies and actual React Refresh tested separately.",
+    "constableCutscene": "All three actors retain facing positions. 165 real-voice mouth samples vary; desktop and portrait views show the constable face.",
+    "newspaper": "Tabletop original, desktop/mobile document dimensions, both reading modes and Case Map reopening checked.",
+    "atmosphere": "Outdoor depth fog and drifting haze restored; close-range visibility and distant fade verified.",
+    "music": "Original Darkest Child recording restored with attribution; local playback, loop, ducking and pause verified. Running API serves restored music after restart."
+  }
+}

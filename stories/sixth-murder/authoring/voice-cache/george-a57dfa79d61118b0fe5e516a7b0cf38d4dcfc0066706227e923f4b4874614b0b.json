@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-a57dfa79d61118b0fe5e516a7b0cf38d4dcfc0066706227e923f4b4874614b0b-reviewed.mp3",
+  "text": "I know. But I came here to do a job. Then I found that poor woman, and now you’re looking through my cart.",
+  "durationMs": 8256,
+  "sha256": "a57dfa79d61118b0fe5e516a7b0cf38d4dcfc0066706227e923f4b4874614b0b",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "d9611c71b235223a48464e5b6336e553a967fa2b85b4125b5249b5ea170d48b6"
+}

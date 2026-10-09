@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-403ebad74498e2f38f21bb9e71c7650d1424400691e0b0337daaded59686b4d4-reviewed.mp3",
+  "text": "Would you have a look at this?",
+  "durationMs": 2088,
+  "sha256": "403ebad74498e2f38f21bb9e71c7650d1424400691e0b0337daaded59686b4d4",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "28c3246cf58e061aae28605ffe58609076e64a84378e78565a2364e632023463"
+}

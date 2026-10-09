@@ -1,0 +1,13 @@
+{
+  "src": "audio/george-0a7646f1b300fa2799c7d32a9719c6afbd9623ca081e0b1ce50d21054a2cf98d-reviewed.mp3",
+  "text": "No. I wasn’t watching the door. I had the horse to see to.",
+  "durationMs": 4176,
+  "sha256": "0a7646f1b300fa2799c7d32a9719c6afbd9623ca081e0b1ce50d21054a2cf98d",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "1c78de415cf8c1cd0e823839010b0a261c3be711cbbb05777da884728661ecef",
+  "prompt": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance. Read the supplied dialogue exactly once, in a natural British English voice, with clean studio audio. Speech only; no music or sound effects.",
+  "synthesisText": "\"No. I wasn’t watching the door. I had the horse to see to.\""
+}

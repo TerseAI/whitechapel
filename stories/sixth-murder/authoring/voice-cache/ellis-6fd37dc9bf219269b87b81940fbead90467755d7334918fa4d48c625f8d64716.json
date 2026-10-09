@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-6fd37dc9bf219269b87b81940fbead90467755d7334918fa4d48c625f8d64716-reviewed.mp3",
+  "text": "This is how the paper shows it. You’d read it, and then you left Nora like this in the yard.",
+  "durationMs": 6504,
+  "sha256": "6fd37dc9bf219269b87b81940fbead90467755d7334918fa4d48c625f8d64716",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "cdd012bccba7ab641fe6e7f7e515c54bf2073e4693d318895ebe16e5f291b903"
+}

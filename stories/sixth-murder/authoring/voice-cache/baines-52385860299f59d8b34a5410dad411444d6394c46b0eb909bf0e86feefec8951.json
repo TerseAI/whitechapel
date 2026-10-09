@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-52385860299f59d8b34a5410dad411444d6394c46b0eb909bf0e86feefec8951-reviewed.mp3",
+  "text": "That is Nora’s bed blanket. I know the blue border and that repair. It wasn’t travelling linen.",
+  "durationMs": 8376,
+  "sha256": "52385860299f59d8b34a5410dad411444d6394c46b0eb909bf0e86feefec8951",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "ffd1f595407e915a57aa7cf64b7805a5749f68c32a37def205c2d8dd06474532"
+}

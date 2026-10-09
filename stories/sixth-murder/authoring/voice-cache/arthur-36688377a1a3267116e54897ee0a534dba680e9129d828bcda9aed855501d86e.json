@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-36688377a1a3267116e54897ee0a534dba680e9129d828bcda9aed855501d86e-reviewed.mp3",
+  "text": "If she’d stopped and thought about it, yes.",
+  "durationMs": 3336,
+  "sha256": "36688377a1a3267116e54897ee0a534dba680e9129d828bcda9aed855501d86e",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "b9388f12058b421a2f96b3818d0ccc6d573bb46b5c70697184dc590d21eabf0f"
+}

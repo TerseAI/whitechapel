@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-53c9dc85163acb9be70681505f42e6f3dedb6adf28b83a302b199be127b436b6-reviewed.mp3",
+  "text": "Best use the front. George is coming for Nora’s trunk in the morning. You’ll only be in each other’s way.",
+  "durationMs": 6408,
+  "sha256": "53c9dc85163acb9be70681505f42e6f3dedb6adf28b83a302b199be127b436b6",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "13ce9a3e769106ffb93915fdac57a8caff08cbc0a3ee047731a5016c53b9ab77"
+}

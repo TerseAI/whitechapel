@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-690196f81e259fe7a21214c232583840e5dda705476c7181a7efb7716a26459b-reviewed.mp3",
+  "text": "Drew back. Put the bolt across my door.",
+  "durationMs": 3768,
+  "sha256": "690196f81e259fe7a21214c232583840e5dda705476c7181a7efb7716a26459b",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "40615109bde1815ef56c2e97f4cb7d87a31317c8ceb7a338e3a51081c1d26d6e"
+}

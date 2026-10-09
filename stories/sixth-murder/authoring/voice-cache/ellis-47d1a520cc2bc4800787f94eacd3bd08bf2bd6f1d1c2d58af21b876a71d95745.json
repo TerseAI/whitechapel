@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-47d1a520cc2bc4800787f94eacd3bd08bf2bd6f1d1c2d58af21b876a71d95745-reviewed.mp3",
+  "text": "You must have heard something. Tell us.",
+  "durationMs": 3744,
+  "sha256": "47d1a520cc2bc4800787f94eacd3bd08bf2bd6f1d1c2d58af21b876a71d95745",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "b01d8632cb6d5b22961a2b1bb2910ca39a93022b8ddca9d45d80065ad42a138d"
+}

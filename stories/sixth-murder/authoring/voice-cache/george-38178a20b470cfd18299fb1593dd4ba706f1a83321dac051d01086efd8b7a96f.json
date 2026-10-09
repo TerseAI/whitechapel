@@ -1,0 +1,13 @@
+{
+  "src": "audio/george-38178a20b470cfd18299fb1593dd4ba706f1a83321dac051d01086efd8b7a96f-reviewed.mp3",
+  "text": "No.",
+  "durationMs": 1368,
+  "sha256": "38178a20b470cfd18299fb1593dd4ba706f1a83321dac051d01086efd8b7a96f",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "577c07bc8692398b77df02d3d416a622146bb1ce950c56c793d5ceac4d4f6016",
+  "prompt": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance. Read the supplied dialogue exactly, in a natural British English voice, with clean studio audio. Speech only; no music or sound effects.",
+  "synthesisText": "\"No.\""
+}

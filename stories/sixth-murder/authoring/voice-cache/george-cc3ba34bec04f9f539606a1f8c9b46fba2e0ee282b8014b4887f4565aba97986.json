@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-cc3ba34bec04f9f539606a1f8c9b46fba2e0ee282b8014b4887f4565aba97986-reviewed.mp3",
+  "text": "I brought him round to fetch the trunk. Left him outside and came in to see if they were ready.",
+  "durationMs": 6288,
+  "sha256": "cc3ba34bec04f9f539606a1f8c9b46fba2e0ee282b8014b4887f4565aba97986",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "39098b3122deaa808e24b0984c8ec0aaa43d7994d89a0cade20d232381636d62"
+}

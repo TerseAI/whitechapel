@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-02d76df508bfccfa8437b8efb9e25897ea8a46eb989d4d15b7050691c66ffb49-reviewed.mp3",
+  "text": "He hasn’t come with us. We can shut the door.",
+  "durationMs": 4008,
+  "sha256": "02d76df508bfccfa8437b8efb9e25897ea8a46eb989d4d15b7050691c66ffb49",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "09ab400f81ca998e82bf0366f2608f9a20b2df5f164f77d6eb964f3488bcdb97"
+}

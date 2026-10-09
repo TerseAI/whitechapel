@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-998af526cde481cff168a75ddc194c2944acce5bf9b848dae997f5a0e5b74ad7-reviewed.mp3",
+  "text": "Was Nora married?",
+  "durationMs": 2208,
+  "sha256": "998af526cde481cff168a75ddc194c2944acce5bf9b848dae997f5a0e5b74ad7",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "5dfa580989297942fe9525c2b9234706ecd741c8ac1475731e608ca061ccdbd4"
+}

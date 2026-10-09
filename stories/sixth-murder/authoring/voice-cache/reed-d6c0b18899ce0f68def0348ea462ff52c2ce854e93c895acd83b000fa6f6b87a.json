@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-d6c0b18899ce0f68def0348ea462ff52c2ce854e93c895acd83b000fa6f6b87a-reviewed.mp3",
+  "text": "The blood means we need to ask about last night again.",
+  "durationMs": 4488,
+  "sha256": "d6c0b18899ce0f68def0348ea462ff52c2ce854e93c895acd83b000fa6f6b87a",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "dbbda113296069cef3765fa865a84f79f2c3f31efceee9da12556131a937ae25"
+}

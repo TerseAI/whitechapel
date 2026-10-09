@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-3dcf047974dc6c330ec9e2bc7b8ff4329f2dd662dd9622bb5f403119ba56c0db-reviewed.mp3",
+  "text": "She asked me not to say anything until she was away.",
+  "durationMs": 3384,
+  "sha256": "3dcf047974dc6c330ec9e2bc7b8ff4329f2dd662dd9622bb5f403119ba56c0db",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "7bb7dc7808982e74524c0dff16e645f25e8a1f64e34123c123d6b121bcb8e29c"
+}

@@ -1,0 +1,13 @@
+{
+  "generator": "Built-in Codex image_gen",
+  "generated": "2026-09-12",
+  "style": "Dark painterly hand-tinted photographic head-and-shoulders, London November 1888",
+  "reference": {
+    "nora": "assets/art/wedding-photo.webp, bride in centre; four years later in work clothes",
+    "arthur": "assets/art/wedding-photo.webp, groom on right; four years later in ordinary clothes"
+  },
+  "postprocess": "Lossy WebP encoding, quality 91, no crop or visual edits.",
+  "review": "All seven outputs visually inspected. Clothing, age, hair, facial hair and expression checked against final appearance() definitions. Nora and Arthur preserve wedding-portrait identities. No labels or theatrical guilt signals.",
+  "prompts": "portrait-prompts.json"
+}
+

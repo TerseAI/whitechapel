@@ -1,0 +1,322 @@
+{
+  "fictionalProps": true,
+  "imageGeneration": "Built-in Codex image_gen; prompts retained in image-prompts*.json, portrait-prompts.json, paper-production.json and paper-refresh-prompts.json.",
+  "documents": "Illustrated manuscript and printed originals created with built-in image_gen, plus photographic composites. Current wording and registered files checked by paper-artwork.test.mjs. No archival facsimile claimed.",
+  "geometricEvidence": "Rendered from the authored scenes for the service route and window sightline.",
+  "voices": {
+    "provider": "Google Cloud Text-to-Speech",
+    "locale": "en-GB",
+    "registeredCues": 811,
+    "uniqueAudioFiles": 809,
+    "modelsByCueCount": {
+      "gemini-3.1-flash-tts-preview": 811
+    }
+  },
+  "sourceDocumentation": [
+    "https://docs.cloud.google.com/text-to-speech/docs/gemini-tts",
+    "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/samples/googlegenaisdk-textgen-transcript-with-gcs-audio"
+  ],
+  "assets": [
+    {
+      "id": "orders-original",
+      "src": "documents/orders-original.webp",
+      "sha256": "a28406a2c4007d9684718e5aec74e7b28950241f085099a2d65a4bb45f5bb1e8",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "id": "inn-newspaper-original",
+      "src": "documents/inn-newspaper-revised.webp",
+      "sha256": "5b0ea8110d01f7e099e2047f08636db785c7290cb756f18e5d4d69da8c501815",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "id": "travel-sleeve-original",
+      "src": "documents/travel-sleeve-original.webp",
+      "sha256": "d3cf77b6b26e82613cca1448a3980b260319eb322f6766b666d7f8020d196b77",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "id": "sister-letter-original",
+      "src": "documents/sister-letter-original.webp",
+      "sha256": "8be4cd20ea44cfd62ffe3b9e8e17f49c591540b9d80def3d26455110c60f365e",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "id": "work-correspondence-original",
+      "src": "documents/work-correspondence-original.webp",
+      "sha256": "100f481a44052a2babdda72fbdf66c4e3d443ccdcf349ff77720cefd2a2914a7",
+      "width": 1087,
+      "height": 1447
+    },
+    {
+      "id": "torn-wedding-front",
+      "src": "documents/torn-wedding-front.webp",
+      "sha256": "d342fdca46a521e5e7ffd09c79e335c6a614a69b537dd1c0d14f8d583f4b60b7",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "id": "torn-wedding-back",
+      "src": "documents/torn-wedding-back.webp",
+      "sha256": "7c2b837a66c3e7afb3b29e5b3d4dfe6b6ae21a3c507bbac1407be85ff6f980c4",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "id": "finch-work-card-original",
+      "src": "documents/finch-work-card-original.webp",
+      "sha256": "8f6acce7b6a4b43e20b28fe69c23911fadd707b26ed5a57f4cbfe3330cde2273",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "id": "complete-wedding-front",
+      "src": "documents/complete-wedding-front.webp",
+      "sha256": "01824157c602cdfbfccb1d4a76c8a01d4f2f3376f8e21fbac490f39b19fbc73e",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "id": "complete-wedding-back",
+      "src": "documents/complete-wedding-back.webp",
+      "sha256": "96c55034633f53ca5967bfba0c4f6b08180d393d5e3b72e8e403cc584af036b2",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "id": "medical-findings-original",
+      "src": "documents/medical-findings-blunt-v2.png",
+      "sha256": "bf3f52b1f7fc0dd98c7d7eda9b25a51edcd3311705c41cec94d846f7ff7919e8",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "id": "burned-report-original",
+      "src": "documents/burned-report-revised.webp",
+      "sha256": "07cfaa2262f3ac0189b17a4b132dd87e28c9148b89e13208fc3c74471f87fb8f",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "id": "closing-letter-original",
+      "src": "documents/closing-letter-revised.webp",
+      "sha256": "50c2a69ac0d8a76b6a0ea67055a3d71cde2472b02970ecc3d6f2a9660c15ba40",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "id": "lantern-cover",
+      "src": "art/lantern-cover.webp",
+      "sha256": "e7f7de40d61c2ceb89b324ed41b0709aa6ef73b2b0b10f8b9df70919919ddca7",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "trunk-closed",
+      "src": "art/trunk-closed.webp",
+      "sha256": "b30910542fb01a6035b7cc8cada38e93a6510268c41ce188378df817af4e08e0",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": "trunk-open",
+      "src": "art/trunk-open.webp",
+      "sha256": "e66069daafe9e72bab83031808bf7199c700e477b43fbe63a2d271579ab5356b",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": "trunk-bedding",
+      "src": "art/trunk-bedding.webp",
+      "sha256": "b055916abaac3891f628c1ba39ee67b8ec2af80c434858ea0a0a3416c227f149",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": "cart-sacks",
+      "src": "art/cart-sacks.webp",
+      "sha256": "52d78a84417facdae2e026227df260435f886c79521aff072b0d23683fcc619b",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": "candlestick-recovered",
+      "src": "art/candlestick-recovered.webp",
+      "sha256": "18b9c246553e70fc657d8c13b3a6a5f24b75bbeb9fb47ea65851f540fc63c754",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": "room-packing",
+      "src": "art/room-packing-v2.webp",
+      "sha256": "b6d043a198b0dda1f7a3bd0c02d0196fb4324a16c65ae3c7dbf4236814069bfb",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "id": "room-blood",
+      "src": "art/room-blood-v2.webp",
+      "sha256": "55c0bc456de9e415e9cb05e0f078d025190eaa1531b4c3183957b53ba10f75ca",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "id": "sewing-case",
+      "src": "art/sewing-case.webp",
+      "sha256": "90b433bee4faa3bf7268ebdf366e0c174fae9f247b7069211db3dc6868d12ece",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "service-route",
+      "src": "art/service-route.webp",
+      "sha256": "4621f12addc758523104f0156aa585fa7ab1c3e7b7d268462b0fc5da043b0544",
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "id": "window-view",
+      "src": "art/window-view.webp",
+      "sha256": "578c42adcef030c44e69aac91c0cb886de6c7136cd9a2bf775cec025a04df5f4",
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "id": "hearth-surface",
+      "src": "art/hearth-clothing-v3.png",
+      "sha256": "b8f041643b060d8c56bdc99bd98f21b930db8738a37031106cfe648c2448d4e8",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "id": "hearth-clothing",
+      "src": "art/hearth-clothing-v3.png",
+      "sha256": "b8f041643b060d8c56bdc99bd98f21b930db8738a37031106cfe648c2448d4e8",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "id": "unfinished-work",
+      "src": "art/unfinished-work.webp",
+      "sha256": "73d35c440d2768515449ed69f4f68f4ce19d6bfaeb9a493f87b02c27aff3d064",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "id": "opening-sewing",
+      "src": "art/opening-sewing.webp",
+      "sha256": "8182c634d99cd3070b980b9d11597ecbc332e236574f4f8b90a5dad1eff83379",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "id": "opening-trunk",
+      "src": "art/trunk-closed.webp",
+      "sha256": "b30910542fb01a6035b7cc8cada38e93a6510268c41ce188378df817af4e08e0",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": "opening-candlestick",
+      "src": "art/opening-candlestick.webp",
+      "sha256": "5b81fa94c2aff1392f4fc3c35fdbdcc11dc77bbcfebda1cf1ad2daf1445968d8",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": "yard-discovery",
+      "src": "art/yard-discovery.webp",
+      "sha256": "afcc5db10fcb260b7dffa4e41cb32b984c5f31f92570642fa423efee490b4f83",
+      "width": 1370,
+      "height": 1148
+    },
+    {
+      "id": "portrait-nora",
+      "src": "portraits/nora.webp",
+      "sha256": "87a16c660eb8af005f9f450ea929e733b10494f1738eb95f0fa9718aea84a449",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "portrait-arthur-inn",
+      "src": "portraits/arthur.webp",
+      "sha256": "10705329047de8d4eb5a0788e1860a7d8c7faf45feddb73145174cba65caeb86",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "portrait-arthur-station",
+      "src": "portraits/arthur.webp",
+      "sha256": "10705329047de8d4eb5a0788e1860a7d8c7faf45feddb73145174cba65caeb86",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "portrait-baines-arrival",
+      "src": "portraits/baines.webp",
+      "sha256": "bfff475b7bb3e23aba1e5fabd380816625a8616b229682bc03cd251f8850d9eb",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "portrait-baines",
+      "src": "portraits/baines.webp",
+      "sha256": "bfff475b7bb3e23aba1e5fabd380816625a8616b229682bc03cd251f8850d9eb",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "portrait-george-arrival",
+      "src": "portraits/george.webp",
+      "sha256": "e62a0059a2f480b5c5345fd3a815c90cf3793fb5257863d4f8bc60f423557d11",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "portrait-george",
+      "src": "portraits/george.webp",
+      "sha256": "e62a0059a2f480b5c5345fd3a815c90cf3793fb5257863d4f8bc60f423557d11",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "portrait-hale",
+      "src": "portraits/hale.webp",
+      "sha256": "f15ae3da35a5ad15d76696e5e1d4b2d89c4483bc5711d481ec78041422d13f6e",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "portrait-maggie",
+      "src": "portraits/maggie.webp",
+      "sha256": "0095a67c7989d0fb8b5447335ca5e33b60a358b300de1c3e26f20c1375419dd8",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "portrait-maggie-closing",
+      "src": "portraits/maggie.webp",
+      "sha256": "0095a67c7989d0fb8b5447335ca5e33b60a358b300de1c3e26f20c1375419dd8",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "portrait-alden",
+      "src": "portraits/alden.webp",
+      "sha256": "59114febdfd703a7495bd8cc6e65c95f107d2828ffde4bab590bbe0b64552c45",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "courtyard-knife",
+      "src": "art/courtyard-knife.png",
+      "sha256": "d53680c6d62b9c66370f428c964c97ad681db5fc4ceb3c345a5a333f978ba96f",
+      "width": 1448,
+      "height": 1086
+    }
+  ]
+}

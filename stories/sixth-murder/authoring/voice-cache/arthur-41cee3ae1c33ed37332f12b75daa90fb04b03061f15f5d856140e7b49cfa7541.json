@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-41cee3ae1c33ed37332f12b75daa90fb04b03061f15f5d856140e7b49cfa7541-reviewed.mp3",
+  "text": "Arthur Vale. Nora’s brother. The constable said I should speak to you.",
+  "durationMs": 6264,
+  "sha256": "41cee3ae1c33ed37332f12b75daa90fb04b03061f15f5d856140e7b49cfa7541",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "7d88c5b52a42899fa63100a5cdda46c0ca2316e5425c7ec55a8eb882e221b6d6"
+}

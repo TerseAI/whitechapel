@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-1d2c1ea0c29604e1b4f491105ced6027f513df6f96ca4776664c3738f6b29143-reviewed.mp3",
+  "text": "Because I left the cart here. Anyone could get at it after I went.",
+  "durationMs": 4584,
+  "sha256": "1d2c1ea0c29604e1b4f491105ced6027f513df6f96ca4776664c3738f6b29143",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "530cd9247fe823fee437a04cc2f830f368d113adb61c87affcfc4e05ff53c5a0"
+}

@@ -1,0 +1,15 @@
+.volume-controls { display:flex; }
+.volume-trigger { display:flex; align-items:center; gap:5px; min-height:44px; }
+.volume-panel { position:fixed; inset:76px 30px auto auto; margin:0; width:280px; max-width:calc(100vw - 24px); padding:22px; border:1px solid #53635f; border-radius:6px; background:#192930; color:#e7e5df; box-shadow:0 12px 35px #0006; }
+.volume-panel h2 { font:22px Bodoni,Georgia,serif; margin:0 0 22px; }
+.volume-slider + .volume-slider { margin-top:19px; }
+.volume-slider > div { display:flex; justify-content:space-between; gap:12px; font-size:12px; }
+.volume-slider output { color:var(--gold); font-variant-numeric:tabular-nums; }
+.volume-slider input { display:block; width:100%; height:28px; margin:8px 0 0; accent-color:var(--gold); cursor:pointer; }
+.music-credits { margin-top:20px; padding-top:14px; border-top:1px solid var(--line); font-size:11px; color:var(--muted); }
+.music-credits summary { cursor:pointer; min-height:24px; }
+.music-credits p { margin-top:8px; }
+.music-credits a { text-underline-offset:3px; }
+.volume-panel { max-height:calc(100svh - 95px); overflow:auto; }
+@media(max-width:800px) { .volume-panel { top:65px; right:16px; } }
+@media(max-width:580px) { .volume-panel { top:62px; right:12px; } }

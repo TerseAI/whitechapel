@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-e6f29fc562bab16fe83961aa0a9ee441a9f23e837aaf41d7e52e89a8b54c5919-reviewed.mp3",
+  "text": "When did you last handle those sacks?",
+  "durationMs": 3384,
+  "sha256": "e6f29fc562bab16fe83961aa0a9ee441a9f23e837aaf41d7e52e89a8b54c5919",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "50a2aeefa9c223318b1484eb573c28261177e02b7508967b4de3ca7c5bcac322"
+}

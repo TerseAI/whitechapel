@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-c20462644c00eda230ec1e985e8ca23c051aae69b9623fa82e1c5bd817bcbd3e-reviewed.mp3",
+  "text": "I didn’t carry it. I don’t know what else you want me to say.",
+  "durationMs": 3744,
+  "sha256": "c20462644c00eda230ec1e985e8ca23c051aae69b9623fa82e1c5bd817bcbd3e",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "3de0e0c90283868c29135de635cf021e4cea9ea8fd6f91e9862cc05e359af4f3"
+}

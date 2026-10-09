@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-fc94c5b5e846dd4f041a392cc425cd6494e3a553a0fd3f4ee346e30c3126083d-reviewed.mp3",
+  "text": "Hale was the only constable who spoke to you. He says he didn’t mention the candlestick.",
+  "durationMs": 6288,
+  "sha256": "fc94c5b5e846dd4f041a392cc425cd6494e3a553a0fd3f4ee346e30c3126083d",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "51645301278787759a4d4a8de4f48db66ae6d0ff72a29ab285bb08fe649c21a9"
+}

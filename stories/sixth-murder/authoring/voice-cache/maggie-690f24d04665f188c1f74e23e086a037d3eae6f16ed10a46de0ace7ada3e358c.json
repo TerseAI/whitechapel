@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-690f24d04665f188c1f74e23e086a037d3eae6f16ed10a46de0ace7ada3e358c-reviewed.mp3",
+  "text": "Her old work card. It’ll be with the accounts.",
+  "durationMs": 3696,
+  "sha256": "690f24d04665f188c1f74e23e086a037d3eae6f16ed10a46de0ace7ada3e358c",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "4930b9b12418f6151af89f4a0ac07df884f50657f7eed341fda5794ca87c46c5"
+}

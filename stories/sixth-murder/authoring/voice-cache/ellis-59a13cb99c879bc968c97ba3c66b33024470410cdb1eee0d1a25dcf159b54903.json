@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-59a13cb99c879bc968c97ba3c66b33024470410cdb1eee0d1a25dcf159b54903-reviewed.mp3",
+  "text": "He’ll stay. We can sit away from the passage. Take your time.",
+  "durationMs": 5376,
+  "sha256": "59a13cb99c879bc968c97ba3c66b33024470410cdb1eee0d1a25dcf159b54903",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "548209dbba9359e4ed340dcde926ef1365bf6a232f46bf807fe9e8421d5af789"
+}

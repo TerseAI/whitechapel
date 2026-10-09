@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-6f3834b37b7d6a35962ae34d560424ef1f961fdd051861c1605d00403cc5f337-reviewed.mp3",
+  "text": "That I helped her. She asked me to keep quiet until she was away.",
+  "durationMs": 5904,
+  "sha256": "6f3834b37b7d6a35962ae34d560424ef1f961fdd051861c1605d00403cc5f337",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "25d129e0b9743794b2d55346a9b50780f46ae306b9a4d122afd7b714ef385b2a"
+}

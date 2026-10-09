@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-e96295d60d621263c050602635d6f59126e03ecb6e48a17c4f78f63bd355b931-reviewed.mp3",
+  "text": "I’ll be here. What happens about her things?",
+  "durationMs": 3648,
+  "sha256": "e96295d60d621263c050602635d6f59126e03ecb6e48a17c4f78f63bd355b931",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "850c7ee29b60fe285c76ea7ccba3d9cd9a6552ccc6742263345b1be4b12ca027"
+}

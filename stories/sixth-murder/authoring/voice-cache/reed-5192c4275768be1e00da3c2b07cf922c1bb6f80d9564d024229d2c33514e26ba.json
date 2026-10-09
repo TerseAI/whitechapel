@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-5192c4275768be1e00da3c2b07cf922c1bb6f80d9564d024229d2c33514e26ba-reviewed.mp3",
+  "text": "You thought it was the man from the papers?",
+  "durationMs": 2808,
+  "sha256": "5192c4275768be1e00da3c2b07cf922c1bb6f80d9564d024229d2c33514e26ba",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "75f95484a8193536ee6d46057fe0b9987abf8a5c87564cddc56e0aca5d948b7f"
+}

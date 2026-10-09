@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-178ebaa995e80d01e99b57f94916276fa79a28a5ec1c9a55980a849885b09f46-reviewed.mp3",
+  "text": "No. I did not see what happened behind the washhouse.",
+  "durationMs": 4008,
+  "sha256": "178ebaa995e80d01e99b57f94916276fa79a28a5ec1c9a55980a849885b09f46",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "a966901fe551f1e8df540e543653ff8b2ea33a6fbb66b8c6f48a6630052877d8"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-b66241e137c361e1f8bd98ccdf8ca942e7bad3bd0505e78f26d3daecd1c007bc-reviewed.mp3",
+  "text": "You didn’t look inside?",
+  "durationMs": 2184,
+  "sha256": "b66241e137c361e1f8bd98ccdf8ca942e7bad3bd0505e78f26d3daecd1c007bc",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "bd38f9f8a28141797852abdfd41d9e723244b49b9c3462b43015b692f63fe097"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-6f01c27724697b839d9f0e94955cd0b8701939f1163426d0cbfb53052b4a240e-reviewed.mp3",
+  "text": "Of course, sir.",
+  "durationMs": 1656,
+  "sha256": "6f01c27724697b839d9f0e94955cd0b8701939f1163426d0cbfb53052b4a240e",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "6227f45aae2c3f8e1799f9aa4c1b446407d5192abbb06b9a4fc9528a9778590f"
+}

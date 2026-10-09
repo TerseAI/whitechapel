@@ -1,0 +1,11 @@
+{
+  "src": "audio/nora-4bde76d6d5d9697bb64203dfbc5c126bd28e5480c4ea06d5050c2920e7f00eee-reviewed.mp3",
+  "text": "I shall. She’ll never let me hear the end of it otherwise. There. Mrs Baines can have her arm back.",
+  "durationMs": 6864,
+  "sha256": "4bde76d6d5d9697bb64203dfbc5c126bd28e5480c4ea06d5050c2920e7f00eee",
+  "actor": "nora",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Leda",
+  "direction": "Nora Vale, a 30-year-old English needleworker. Quiet clear and capable voice with a subtle working London accent; occasional dry humour and gentle uncertainty. Light clear mezzo, agile rhythm, soft precise consonants and a small dry lift on a witty observation. Speak with adult confidence, never breathy, childlike or portentous.",
+  "audioSha256": "0f8cab5a51ba4d2630f40663b6148e736691ca352b5c87b4b77e0439227c82dc"
+}

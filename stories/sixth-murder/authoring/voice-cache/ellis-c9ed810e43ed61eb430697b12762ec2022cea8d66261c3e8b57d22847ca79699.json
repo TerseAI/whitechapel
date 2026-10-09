@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-c9ed810e43ed61eb430697b12762ec2022cea8d66261c3e8b57d22847ca79699-reviewed.mp3",
+  "text": "Why was George’s cart left in the yard?",
+  "durationMs": 3168,
+  "sha256": "c9ed810e43ed61eb430697b12762ec2022cea8d66261c3e8b57d22847ca79699",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "3881577b9749d5dd63ecbdef5b94510a237ab93a0edfb2d76d09830ac403bc64"
+}

@@ -1,0 +1,13 @@
+{
+  "src": "audio/nora-b90ff0c87f5c71aad510b53376899f89e7b1ec39aff354160ff3e36358c8bd15-reviewed.mp3",
+  "text": "Nearly done. Though I did tell her the nail wants seeing to as well.",
+  "durationMs": 5088,
+  "sha256": "b90ff0c87f5c71aad510b53376899f89e7b1ec39aff354160ff3e36358c8bd15",
+  "actor": "nora",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Leda",
+  "direction": "Nora Vale, a 30-year-old English needleworker. Quiet clear and capable voice with a subtle working London accent; occasional dry humour and gentle uncertainty. Light clear mezzo, agile rhythm, soft precise consonants and a small dry lift on a witty observation. Speak with adult confidence, never breathy, childlike or portentous.",
+  "audioSha256": "c853819e802af97904fb3fe342ce225610e85687c9e5f0cfc98bfba59c7e9192",
+  "prompt": "Nora Vale, a 30-year-old English needleworker. Quiet clear and capable voice with a subtle working London accent; occasional dry humour and gentle uncertainty. Light clear mezzo, agile rhythm, soft precise consonants and a small dry lift on a witty observation. Speak with adult confidence, never breathy, childlike or portentous. Read the supplied dialogue exactly once, in a natural British English voice, with clean studio audio. Speech only; no music or sound effects.",
+  "synthesisText": "\"Nearly done. Though I did tell her the nail wants seeing to as well.\""
+}

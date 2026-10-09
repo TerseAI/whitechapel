@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-4f94fbf925cc20f632e84e725902a0f7c30e0f32a3b771f7be0d42090c61194a-reviewed.mp3",
+  "text": "Had you read the newspaper you burnt?",
+  "durationMs": 2808,
+  "sha256": "4f94fbf925cc20f632e84e725902a0f7c30e0f32a3b771f7be0d42090c61194a",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "627495e1aca0ec5ddff943b67a65e1369b5e41bcf41b2562c1fa3777d0a18857"
+}

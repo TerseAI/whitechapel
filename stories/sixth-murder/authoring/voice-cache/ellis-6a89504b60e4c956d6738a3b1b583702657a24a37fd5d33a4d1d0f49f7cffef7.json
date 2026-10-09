@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-6a89504b60e4c956d6738a3b1b583702657a24a37fd5d33a4d1d0f49f7cffef7-reviewed.mp3",
+  "text": "Was she hurt when you were there?",
+  "durationMs": 2424,
+  "sha256": "6a89504b60e4c956d6738a3b1b583702657a24a37fd5d33a4d1d0f49f7cffef7",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "5ef1fe03bad992f9102005a407c2474d9f282df8c309400e61b1980e9c0f66d7"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-b36dddcf4bf9a0d4e0721d0fbb06045c645ac1b075d334ea65aa8cc379a42506-reviewed.mp3",
+  "text": "I didn’t kill her.",
+  "durationMs": 2256,
+  "sha256": "b36dddcf4bf9a0d4e0721d0fbb06045c645ac1b075d334ea65aa8cc379a42506",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "4c4cc3e25dacc7cbb23aab14f1356014af2598256169bef01530f1a6bc7a4569"
+}

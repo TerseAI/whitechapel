@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-72ecead3766d6942e02d5af87d681c9ded737d56decd470afc490102c48b2924-reviewed.mp3",
+  "text": "Yes. I’m not denying I lit a fire.",
+  "durationMs": 3744,
+  "sha256": "72ecead3766d6942e02d5af87d681c9ded737d56decd470afc490102c48b2924",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "6bd7adc77ecdc8e59c7edc3b8a4f30c34bc789ec3fc147374268c55d60a572b7"
+}

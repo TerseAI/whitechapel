@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-b108a926a3bd225c774bb8c994f9a54c8ecc8effe2768562383f2644ab2ff3f2-reviewed.mp3",
+  "text": "Then he’s forgotten.",
+  "durationMs": 1464,
+  "sha256": "b108a926a3bd225c774bb8c994f9a54c8ecc8effe2768562383f2644ab2ff3f2",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "f69605c22648fda106d856daef9dbdefc71a08a416ce045212ac96e6e12f599a"
+}

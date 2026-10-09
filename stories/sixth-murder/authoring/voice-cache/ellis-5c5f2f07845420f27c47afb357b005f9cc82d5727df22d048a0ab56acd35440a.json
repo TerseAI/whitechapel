@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-5c5f2f07845420f27c47afb357b005f9cc82d5727df22d048a0ab56acd35440a-reviewed.mp3",
+  "text": "What happened after that?",
+  "durationMs": 1944,
+  "sha256": "5c5f2f07845420f27c47afb357b005f9cc82d5727df22d048a0ab56acd35440a",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "6c6efe4f0c006edbe8901d501f94473b998350e41b221d97cc3fb8e8ba7d3874"
+}

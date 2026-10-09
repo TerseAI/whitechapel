@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-49dfb86ce03d7f8159588f5cd784891930f40877316b6eba28f8a9704b60bee8-reviewed.mp3",
+  "text": "I took her arm. Just to stop her for a moment.",
+  "durationMs": 5304,
+  "sha256": "49dfb86ce03d7f8159588f5cd784891930f40877316b6eba28f8a9704b60bee8",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "58ae1ba9ad854b9794ca8aaded308ce1e8bd739b8ce825a5d139f837a68f11e4"
+}

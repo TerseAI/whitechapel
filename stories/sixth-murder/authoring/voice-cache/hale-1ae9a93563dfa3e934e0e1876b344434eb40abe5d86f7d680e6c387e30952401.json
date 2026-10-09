@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-1ae9a93563dfa3e934e0e1876b344434eb40abe5d86f7d680e6c387e30952401-reviewed.mp3",
+  "text": "No, sir. The officer spoke to the landlord downstairs. Arthur still occupies the room.",
+  "durationMs": 6408,
+  "sha256": "1ae9a93563dfa3e934e0e1876b344434eb40abe5d86f7d680e6c387e30952401",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "68ae492e4d7988f6583cecf729ad5e5090e49f0667ba2b6316db09485c0818d9"
+}

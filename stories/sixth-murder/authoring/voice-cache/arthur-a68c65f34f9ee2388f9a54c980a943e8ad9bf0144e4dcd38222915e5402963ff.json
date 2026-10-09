@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-a68c65f34f9ee2388f9a54c980a943e8ad9bf0144e4dcd38222915e5402963ff-reviewed.mp3",
+  "text": "I didn’t put it there.",
+  "durationMs": 1776,
+  "sha256": "a68c65f34f9ee2388f9a54c980a943e8ad9bf0144e4dcd38222915e5402963ff",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "915cadc25b7ab89d4ae478919d70b3f0f850e72217aa0af1aa9c3f62d61f1e7e"
+}

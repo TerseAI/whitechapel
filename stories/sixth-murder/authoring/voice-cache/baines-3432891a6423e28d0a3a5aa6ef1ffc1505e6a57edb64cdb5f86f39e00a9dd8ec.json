@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-3432891a6423e28d0a3a5aa6ef1ffc1505e6a57edb64cdb5f86f39e00a9dd8ec-reviewed.mp3",
+  "text": "I arranged his paid job: carry Nora’s trunk in the morning. He left the cart after delivering coal and took the horse away.",
+  "durationMs": 8736,
+  "sha256": "3432891a6423e28d0a3a5aa6ef1ffc1505e6a57edb64cdb5f86f39e00a9dd8ec",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "e1ed9f7cd13b6877c4a4ebacf1f2c3a28395f9924486c4ff621c454973388dd4"
+}

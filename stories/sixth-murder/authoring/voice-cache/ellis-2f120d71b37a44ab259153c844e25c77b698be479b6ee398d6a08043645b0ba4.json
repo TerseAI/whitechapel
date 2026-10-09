@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-2f120d71b37a44ab259153c844e25c77b698be479b6ee398d6a08043645b0ba4-reviewed.mp3",
+  "text": "Why tell us she was your sister?",
+  "durationMs": 2928,
+  "sha256": "2f120d71b37a44ab259153c844e25c77b698be479b6ee398d6a08043645b0ba4",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "175ca5f1c2b1f363326cb17c0ae49dcd61a4f671b8ba32ad818fad74fdf37064"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-c4d7e7acba79f79cb061f01bf2b735d9e199abf599ae506880ff8fb155500540-reviewed.mp3",
+  "text": "I don’t want to go through it again.",
+  "durationMs": 2448,
+  "sha256": "c4d7e7acba79f79cb061f01bf2b735d9e199abf599ae506880ff8fb155500540",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "6f63b747010c970c7f7e6cebdd6bb439bf4f3aec9a335ac7f69737c9b655154e"
+}

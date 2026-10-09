@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-b0061fac2d0edd8f91f7063ed917f9f6fab2a6313cd961e6328f7ae268207716-reviewed.mp3",
+  "text": "Did you know them both?",
+  "durationMs": 2064,
+  "sha256": "b0061fac2d0edd8f91f7063ed917f9f6fab2a6313cd961e6328f7ae268207716",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "99e4968a318d2d53fd1190b3add8682d94f0c204f52dca5d6a8257abe57a9445"
+}

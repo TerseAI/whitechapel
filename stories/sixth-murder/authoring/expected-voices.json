@@ -1,0 +1,5679 @@
+[
+  {
+    "id": "alden-candle-claim",
+    "text": "Where did you find it?",
+    "speakerId": "alden",
+    "speakerName": "Dr William Alden",
+    "source": "alden/candle"
+  },
+  {
+    "id": "alden-candle-reassure",
+    "text": "Yes. Something of this weight and shape could have done it.",
+    "speakerId": "alden",
+    "speakerName": "Dr William Alden",
+    "source": "alden/candle"
+  },
+  {
+    "id": "alden-candle-reassure-turn-2",
+    "text": "No. I’d be going further than the injury suggests. Where it came from, and who handled it—that may help you more.",
+    "speakerId": "alden",
+    "speakerName": "Dr William Alden",
+    "source": "alden/candle"
+  },
+  {
+    "id": "alden-findings-reassure",
+    "text": "Yes. I’ve finished writing up my notes.",
+    "speakerId": "alden",
+    "speakerName": "Dr William Alden",
+    "source": "alden/findings"
+  },
+  {
+    "id": "alden-findings-reassure-turn-2",
+    "text": "The injury to her head. A hard, blunt blow. There were also knife wounds.",
+    "speakerId": "alden",
+    "speakerName": "Dr William Alden",
+    "source": "alden/findings"
+  },
+  {
+    "id": "alden-findings-reassure-turn-4",
+    "text": "No. Those were inflicted after death. They did not kill her.",
+    "speakerId": "alden",
+    "speakerName": "Dr William Alden",
+    "source": "alden/findings"
+  },
+  {
+    "id": "alden-findings-reassure-turn-6",
+    "text": "Yes. I can establish that sequence. I cannot give you a precise hour, or name the particular object used for the blow.",
+    "speakerId": "alden",
+    "speakerName": "Dr William Alden",
+    "source": "alden/findings"
+  },
+  {
+    "id": "alden-findings-reassure-turn-8",
+    "text": "I understand why. But the appearance of this case is misleading. Here are my findings.",
+    "speakerId": "alden",
+    "speakerName": "Dr William Alden",
+    "source": "alden/findings"
+  },
+  {
+    "id": "alden-greeting",
+    "text": "Inspectors. Come in. We can speak here.",
+    "speakerId": "alden",
+    "speakerName": "Dr William Alden",
+    "source": "alden/greeting"
+  },
+  {
+    "id": "alden-knife-reassure",
+    "text": "No. The knife wounds were made after death. The injury to her head killed her.",
+    "speakerId": "alden",
+    "speakerName": "Dr William Alden",
+    "source": "alden/knife"
+  },
+  {
+    "id": "alden-knife-reassure-turn-2",
+    "text": "I cannot identify a particular knife from those wounds.",
+    "speakerId": "alden",
+    "speakerName": "Dr William Alden",
+    "source": "alden/knife"
+  },
+  {
+    "id": "alden-room-claim",
+    "text": "Was there much where she was found?",
+    "speakerId": "alden",
+    "speakerName": "Dr William Alden",
+    "source": "alden/room"
+  },
+  {
+    "id": "alden-room-reassure",
+    "text": "Then I’d look closely at the room. What you describe would fit her being injured there and carried out afterwards.",
+    "speakerId": "alden",
+    "speakerName": "Dr William Alden",
+    "source": "alden/room"
+  },
+  {
+    "id": "alden-room-reassure-turn-2",
+    "text": "It’s possible. The blood on the bedding would fit that.",
+    "speakerId": "alden",
+    "speakerName": "Dr William Alden",
+    "source": "alden/room"
+  },
+  {
+    "id": "arthur-inn-greeting",
+    "text": "Arthur Vale. Nora’s brother. The constable said I should speak to you.",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/greeting"
+  },
+  {
+    "id": "arthur-inn-relationship-claim",
+    "text": "That she was found in the yard. He wouldn’t tell me much else. What happened to her?",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/relationship"
+  },
+  {
+    "id": "arthur-inn-relationship-reassure",
+    "text": "Last night. I came here to speak to her.",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/relationship"
+  },
+  {
+    "id": "arthur-inn-trunk-claim",
+    "text": "No. I didn’t touch the trunk.",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/trunk"
+  },
+  {
+    "id": "arthur-inn-trunk-followup-challenge",
+    "text": "I didn’t. She saw someone else.",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/trunk-followup"
+  },
+  {
+    "id": "arthur-inn-trunk-followup-challenge-turn-2",
+    "text": "No. I can only tell you it wasn’t me.",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/trunk-followup"
+  },
+  {
+    "id": "arthur-inn-trunk-followup-claim",
+    "text": "Then she can’t tell you who it was.",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/trunk-followup"
+  },
+  {
+    "id": "arthur-inn-trunk-followup-reassure",
+    "text": "I thought you meant this morning. Yes, I brought it down last night.",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/trunk-followup"
+  },
+  {
+    "id": "arthur-inn-trunk-followup-reassure-turn-2",
+    "text": "She was still packing. I was helping her with the luggage.",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/trunk-followup"
+  },
+  {
+    "id": "arthur-inn-trunk-followup-unsupported",
+    "text": "You’ve shown me nothing that says I carried it.",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/trunk-followup"
+  },
+  {
+    "id": "arthur-inn-trunk-reassure",
+    "text": "A carman. George, I think. She said it was arranged.",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/trunk"
+  },
+  {
+    "id": "arthur-inn-trunk-reassure-turn-2",
+    "text": "No. There was a cart in the yard. I took it to be his.",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/trunk"
+  },
+  {
+    "id": "arthur-inn-trunk-reassure-turn-4",
+    "text": "Nothing comes to mind. If it does, I’ll tell you.",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/trunk"
+  },
+  {
+    "id": "arthur-inn-trunk-reassure-turn-6",
+    "text": "I’ll be here. What happens about her things?",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/trunk"
+  },
+  {
+    "id": "arthur-inn-trunk-reassure-turn-8",
+    "text": "Of course. Just let me know when we can make the arrangements.",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/trunk"
+  },
+  {
+    "id": "arthur-inn-visit-claim",
+    "text": "We had words about Bristol.",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/visit"
+  },
+  {
+    "id": "arthur-inn-visit-reassure",
+    "text": "I thought she was rushing into it. She thought I ought to mind my own business.",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/visit"
+  },
+  {
+    "id": "arthur-inn-visit-reassure-turn-2",
+    "text": "More than I should have. You don’t think it’ll be the last time you speak to someone, do you?",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/visit"
+  },
+  {
+    "id": "arthur-inn-visit-reassure-turn-4",
+    "text": "She was packing. I wasn’t getting anywhere, so I left her to it.",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/visit"
+  },
+  {
+    "id": "arthur-inn-visit-reassure-turn-6",
+    "text": "I didn’t look at a clock. I’m sorry.",
+    "speakerId": "arthur-inn",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-inn/visit"
+  },
+  {
+    "id": "arthur-station-candlestick-claim",
+    "text": "Then why isn’t George sitting here?",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/candlestick"
+  },
+  {
+    "id": "arthur-station-candlestick-reassure",
+    "text": "It was under the sacks in his cart. You ought to be asking him.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/candlestick"
+  },
+  {
+    "id": "arthur-station-cause-challenge",
+    "text": "And you’re saying that was me?",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/cause"
+  },
+  {
+    "id": "arthur-station-cause-challenge-turn-2",
+    "text": "She didn’t see me hurt Nora. Nobody did.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/cause"
+  },
+  {
+    "id": "arthur-station-cause-challenge-turn-4",
+    "text": "No.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/cause"
+  },
+  {
+    "id": "arthur-station-cause-claim",
+    "text": "What did, then?",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/cause"
+  },
+  {
+    "id": "arthur-station-cause-unsupported",
+    "text": "That isn’t the doctor’s report.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/cause"
+  },
+  {
+    "id": "arthur-station-departure-challenge",
+    "text": "If she’d stopped and thought about it, yes.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "arthur-station-departure-challenge-turn-2",
+    "text": "Her sister had been encouraging her. Nora wouldn’t have done this on her own.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "arthur-station-departure-challenge-turn-4",
+    "text": "You spoke to her for a few minutes. She was my wife.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "arthur-station-departure-challenge-turn-6",
+    "text": "She told me to leave. I wanted to talk.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "arthur-station-departure-claim",
+    "text": "I didn’t think I needed an invitation to speak to my wife.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "arthur-station-departure-reassure",
+    "text": "That she could come home. We could sort it out between ourselves.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "arthur-station-departure-reassure-turn-2",
+    "text": "She’d made up her mind. Bristol, her sister, this job. She wouldn’t listen to reason.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "arthur-station-departure-reassure-turn-4",
+    "text": "There was work here. She was throwing our marriage away.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "arthur-station-departure-reassure-turn-6",
+    "text": "Yes. I wanted her to hear me out.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "arthur-station-departure-unsupported",
+    "text": "What has that got to do with her going to Bristol?",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "arthur-station-disguise-challenge",
+    "text": "They were going to blame me. You would have. Her husband, after an argument.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "arthur-station-disguise-challenge-turn-2",
+    "text": "I thought you might. If she was out there, like the woman in the paper.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "arthur-station-disguise-challenge-turn-4",
+    "text": "I’m not saying anything about that.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "arthur-station-disguise-challenge-turn-6",
+    "text": "She fell.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "arthur-station-disguise-challenge-turn-8",
+    "text": "I didn’t kill her.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "arthur-station-disguise-claim",
+    "text": "She was my wife. I didn’t want people staring at her.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "arthur-station-disguise-press",
+    "text": "That’s what you think. I’ve told you why I covered her.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "arthur-station-disguise-unsupported",
+    "text": "Show me the illustration you mean.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "arthur-station-finding-nora-reassure",
+    "text": "I waited outside the workshop. Followed her when she left.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/finding-nora"
+  },
+  {
+    "id": "arthur-station-finding-nora-reassure-turn-2",
+    "text": "She wouldn’t have spoken to me if she had.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/finding-nora"
+  },
+  {
+    "id": "arthur-station-finding-nora-reassure-turn-4",
+    "text": "When I went to her room. She said she was leaving in the morning.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/finding-nora"
+  },
+  {
+    "id": "arthur-station-fire-challenge",
+    "text": "I don’t remember which clothes I put in.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/fire"
+  },
+  {
+    "id": "arthur-station-fire-challenge-turn-2",
+    "text": "Yes. I’m not denying I lit a fire.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/fire"
+  },
+  {
+    "id": "arthur-station-fire-claim",
+    "text": "I was clearing some things out.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/fire"
+  },
+  {
+    "id": "arthur-station-fire-reassure",
+    "text": "I’d been meaning to do it.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/fire"
+  },
+  {
+    "id": "arthur-station-fire-reassure-turn-2",
+    "text": "They were worn out. That’s why I got rid of them.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/fire"
+  },
+  {
+    "id": "arthur-station-fire-unsupported",
+    "text": "That isn’t clothing from my fireplace.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/fire"
+  },
+  {
+    "id": "arthur-station-greeting",
+    "text": "How much longer are you keeping me here?",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/greeting"
+  },
+  {
+    "id": "arthur-station-purpose-challenge",
+    "text": "I couldn’t leave her on the floor.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/purpose"
+  },
+  {
+    "id": "arthur-station-purpose-challenge-turn-2",
+    "text": "I was frightened. I thought if I got her out of there, I’d have time to think.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/purpose"
+  },
+  {
+    "id": "arthur-station-purpose-challenge-turn-4",
+    "text": "Yes.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/purpose"
+  },
+  {
+    "id": "arthur-station-purpose-challenge-turn-6",
+    "text": "I covered her face. I couldn’t bear to look at her.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/purpose"
+  },
+  {
+    "id": "arthur-station-purpose-claim",
+    "text": "I don’t want to go through it again.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/purpose"
+  },
+  {
+    "id": "arthur-station-purpose-press",
+    "text": "You keep telling me what I did. Why bother asking?",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/purpose"
+  },
+  {
+    "id": "arthur-station-purpose-unsupported",
+    "text": "You said you had found something in the trunk. What was it?",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/purpose"
+  },
+  {
+    "id": "arthur-station-relationship-challenge",
+    "text": "Let me see it.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/relationship"
+  },
+  {
+    "id": "arthur-station-relationship-challenge-turn-2",
+    "text": "All right. We were married.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/relationship"
+  },
+  {
+    "id": "arthur-station-relationship-challenge-turn-4",
+    "text": "Because the moment I said husband, you’d stop looking for anyone else.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/relationship"
+  },
+  {
+    "id": "arthur-station-relationship-claim",
+    "text": "Who is Maggie Shaw?",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/relationship"
+  },
+  {
+    "id": "arthur-station-relationship-reassure",
+    "text": "And why would she say that?",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/relationship"
+  },
+  {
+    "id": "arthur-station-relationship-reassure-turn-2",
+    "text": "I don’t know what Nora’s been telling people.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/relationship"
+  },
+  {
+    "id": "arthur-station-relationship-unsupported",
+    "text": "Where’s the complete photograph she says she has?",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/relationship"
+  },
+  {
+    "id": "arthur-station-room-claim",
+    "text": "We argued. Then I went.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/room"
+  },
+  {
+    "id": "arthur-station-room-reassure",
+    "text": "No. She was packing.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/room"
+  },
+  {
+    "id": "arthur-station-room-reassure-turn-2",
+    "text": "When?",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/room"
+  },
+  {
+    "id": "arthur-station-room-reassure-turn-4",
+    "text": "Then it could have been after I’d gone.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/room"
+  },
+  {
+    "id": "arthur-station-room-revisit-challenge",
+    "text": "I took her arm. Just to stop her for a moment.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/room-revisit"
+  },
+  {
+    "id": "arthur-station-room-revisit-challenge-turn-2",
+    "text": "She pulled back and fell against the washstand.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/room-revisit"
+  },
+  {
+    "id": "arthur-station-room-revisit-challenge-turn-4",
+    "text": "I didn’t mean for her to fall. She pulled so hard.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/room-revisit"
+  },
+  {
+    "id": "arthur-station-room-revisit-challenge-turn-6",
+    "text": "I thought she was dead. I didn’t know what to do.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/room-revisit"
+  },
+  {
+    "id": "arthur-station-room-revisit-claim",
+    "text": "She wouldn’t stop to listen to me.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/room-revisit"
+  },
+  {
+    "id": "arthur-station-room-revisit-press",
+    "text": "No. How many times do I have to say it?",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/room-revisit"
+  },
+  {
+    "id": "arthur-station-room-revisit-unsupported",
+    "text": "You said you were asking about her room.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/room-revisit"
+  },
+  {
+    "id": "arthur-station-source-claim",
+    "text": "One of your men.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/source"
+  },
+  {
+    "id": "arthur-station-source-reassure",
+    "text": "I don’t remember. There were enough of you about.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/source"
+  },
+  {
+    "id": "arthur-station-source-reassure-turn-2",
+    "text": "Someone told me. I wasn’t taking names.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/source"
+  },
+  {
+    "id": "arthur-station-source-rebuttal-challenge",
+    "text": "I didn’t put it there.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/source-rebuttal"
+  },
+  {
+    "id": "arthur-station-source-rebuttal-challenge-turn-2",
+    "text": "I don’t have to remember every word everyone’s said to me today.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/source-rebuttal"
+  },
+  {
+    "id": "arthur-station-source-rebuttal-claim",
+    "text": "Then he’s forgotten.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/source-rebuttal"
+  },
+  {
+    "id": "arthur-station-source-rebuttal-press",
+    "text": "I’ve told you. Ask him again.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/source-rebuttal"
+  },
+  {
+    "id": "arthur-station-source-rebuttal-press-turn-2",
+    "text": "Then I must have heard it from someone else. I don’t remember.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/source-rebuttal"
+  },
+  {
+    "id": "arthur-station-source-rebuttal-unsupported",
+    "text": "You said you were asking about the candlestick.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/source-rebuttal"
+  },
+  {
+    "id": "arthur-station-trunk-disputing-challenge",
+    "text": "No. She was doing it herself.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/trunk-disputing"
+  },
+  {
+    "id": "arthur-station-trunk-disputing-challenge-turn-2",
+    "text": "We had an argument. That’s all.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/trunk-disputing"
+  },
+  {
+    "id": "arthur-station-trunk-disputing-claim",
+    "text": "And she didn’t see his face. You told me that.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/trunk-disputing"
+  },
+  {
+    "id": "arthur-station-trunk-disputing-reassure",
+    "text": "No. I went to see her, and then I left.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/trunk-disputing"
+  },
+  {
+    "id": "arthur-station-trunk-disputing-reassure-turn-2",
+    "text": "I didn’t carry it. I don’t know what else you want me to say.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/trunk-disputing"
+  },
+  {
+    "id": "arthur-station-trunk-disputing-unsupported",
+    "text": "What’s that got to do with the trunk?",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/trunk-disputing"
+  },
+  {
+    "id": "arthur-station-trunk-helping-challenge",
+    "text": "Her things. That’s what I thought.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/trunk-helping"
+  },
+  {
+    "id": "arthur-station-trunk-helping-challenge-turn-2",
+    "text": "No.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/trunk-helping"
+  },
+  {
+    "id": "arthur-station-trunk-helping-claim",
+    "text": "She was going away. I was helping.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/trunk-helping"
+  },
+  {
+    "id": "arthur-station-trunk-helping-reassure",
+    "text": "No. I didn’t open it.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/trunk-helping"
+  },
+  {
+    "id": "arthur-station-trunk-helping-reassure-turn-2",
+    "text": "In her room.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/trunk-helping"
+  },
+  {
+    "id": "arthur-station-trunk-helping-reassure-turn-4",
+    "text": "Yes. I wasn’t watching everything she did.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/trunk-helping"
+  },
+  {
+    "id": "arthur-station-trunk-helping-unsupported",
+    "text": "You said there was blood in the trunk. Show me what you mean.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/trunk-helping"
+  },
+  {
+    "id": "arthur-station-yard-challenge",
+    "text": "No.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "arthur-station-yard-challenge-turn-2",
+    "text": "I can’t answer for George.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "arthur-station-yard-challenge-turn-4",
+    "text": "I read the paper. I didn’t do what was in it.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "arthur-station-yard-claim",
+    "text": "Of course. Everyone’s reading about the murders.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "arthur-station-yard-reassure",
+    "text": "I’d finished with it.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "arthur-station-yard-reassure-turn-2",
+    "text": "Then perhaps you ought to be looking for the man in the papers.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "arthur-station-yard-reassure-turn-4",
+    "text": "I can’t tell you why.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "arthur-station-yard-unsupported",
+    "text": "That’s not the newspaper you’re talking about.",
+    "speakerId": "arthur-station",
+    "speakerName": "Arthur Vale",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "baines-arrival-candle-claim",
+    "text": "Nora’s room, out the back. She needs a candle.",
+    "speakerId": "baines-arrival",
+    "speakerName": "Mrs Baines",
+    "source": "baines-arrival/candle"
+  },
+  {
+    "id": "baines-arrival-candle-reassure",
+    "text": "Certainly not. It was knocked from a table years ago. The blue candles were cheap, so blue candles she shall have.",
+    "speakerId": "baines-arrival",
+    "speakerName": "Mrs Baines",
+    "source": "baines-arrival/candle"
+  },
+  {
+    "id": "baines-arrival-greeting",
+    "text": "Mr Reed and Mr Ellis? Come in out of the cold. Hale said to expect you.",
+    "speakerId": "baines-arrival",
+    "speakerName": "Mrs Baines",
+    "source": "baines-arrival/greeting"
+  },
+  {
+    "id": "baines-arrival-rooms-claim",
+    "text": "You’ve the two rooms at the front. Breakfast’s at seven. Will you be wanting it earlier?",
+    "speakerId": "baines-arrival",
+    "speakerName": "Mrs Baines",
+    "source": "baines-arrival/rooms"
+  },
+  {
+    "id": "baines-arrival-rooms-press",
+    "text": "You’ll be all right at the front. We sleep round the back. Just pull the door to gently when you go.",
+    "speakerId": "baines-arrival",
+    "speakerName": "Mrs Baines",
+    "source": "baines-arrival/rooms"
+  },
+  {
+    "id": "baines-arrival-rooms-press-turn-2",
+    "text": "Enough to get the beds made. He said there’d be two of you, and here you are.",
+    "speakerId": "baines-arrival",
+    "speakerName": "Mrs Baines",
+    "source": "baines-arrival/rooms"
+  },
+  {
+    "id": "baines-arrival-rooms-reassure",
+    "text": "Through there, then up the front stairs. If you need anything, my room’s down the back passage, beside Nora’s.",
+    "speakerId": "baines-arrival",
+    "speakerName": "Mrs Baines",
+    "source": "baines-arrival/rooms"
+  },
+  {
+    "id": "baines-arrival-rooms-reassure-turn-2",
+    "text": "Best use the front. George is coming for Nora’s trunk in the morning. You’ll only be in each other’s way.",
+    "speakerId": "baines-arrival",
+    "speakerName": "Mrs Baines",
+    "source": "baines-arrival/rooms"
+  },
+  {
+    "id": "baines-blanket-challenge",
+    "text": "That is Nora’s bed blanket. I know the blue border and that repair. It wasn’t travelling linen.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/blanket"
+  },
+  {
+    "id": "baines-blanket-claim",
+    "text": "Let me see the edge.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/blanket"
+  },
+  {
+    "id": "baines-blanket-reassure",
+    "text": "Yes. Blue edging, and a darn by that corner.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/blanket"
+  },
+  {
+    "id": "baines-blanket-reassure-turn-2",
+    "text": "On Nora’s bed. I made the bed myself.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/blanket"
+  },
+  {
+    "id": "baines-blanket-unsupported",
+    "text": "Show me the bedding you mean. I cannot identify a blanket from another person’s account.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/blanket"
+  },
+  {
+    "id": "baines-cart-reassure",
+    "text": "I arranged his paid job: carry Nora’s trunk in the morning. He left the cart after delivering coal and took the horse away.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/cart"
+  },
+  {
+    "id": "baines-cart-reassure-turn-2",
+    "text": "No. Anyone in the yard could reach the sacks. He had not moved it when he found Nora.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/cart"
+  },
+  {
+    "id": "baines-disturbance-challenge",
+    "text": "I can see that. But you’ll go away when you’ve finished here.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/disturbance"
+  },
+  {
+    "id": "baines-disturbance-challenge-turn-2",
+    "text": "Wouldn’t you be? With what’s happened to that girl?",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/disturbance"
+  },
+  {
+    "id": "baines-disturbance-claim",
+    "text": "I only lent her a candlestick. I don’t look inside lodgers’ trunks.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/disturbance"
+  },
+  {
+    "id": "baines-disturbance-press",
+    "text": "Please. I’ve said all I can.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/disturbance"
+  },
+  {
+    "id": "baines-disturbance-reassure",
+    "text": "What if he comes back?",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/disturbance"
+  },
+  {
+    "id": "baines-disturbance-reassure-turn-2",
+    "text": "The man who’s been killing those women. You haven’t caught him, have you?",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/disturbance"
+  },
+  {
+    "id": "baines-disturbance-unsupported",
+    "text": "I don’t know what you want me to say about that.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/disturbance"
+  },
+  {
+    "id": "baines-friend-reassure",
+    "text": "Maggie Shaw, at the workshop. They worked together. You could try there.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/friend"
+  },
+  {
+    "id": "baines-greeting",
+    "text": "She was all ready to go. I was expecting her down this morning.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/greeting"
+  },
+  {
+    "id": "baines-hiding-claim",
+    "text": "Drew back. Put the bolt across my door.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/hiding"
+  },
+  {
+    "id": "baines-hiding-reassure",
+    "text": "After that cry? I was terrified. And then this morning they found her.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/hiding"
+  },
+  {
+    "id": "baines-hiding-reassure-turn-2",
+    "text": "No. I kept away from the window. The washhouse hides that end of the yard anyway.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/hiding"
+  },
+  {
+    "id": "baines-identify-candle-challenge",
+    "text": "It was. I lent it to her last night. That bent handle is unmistakable to me.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/identify-candle"
+  },
+  {
+    "id": "baines-identify-candle-challenge-turn-2",
+    "text": "No. I did not see what happened behind the washhouse.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/identify-candle"
+  },
+  {
+    "id": "baines-identify-candle-claim",
+    "text": "Turn the handle towards me.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/identify-candle"
+  },
+  {
+    "id": "baines-identify-candle-reassure",
+    "text": "Yes. The bend in the loop, and the blue wax. That is mine, from beside her bed.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/identify-candle"
+  },
+  {
+    "id": "baines-identify-candle-reassure-turn-2",
+    "text": "No. I only know where I left it.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/identify-candle"
+  },
+  {
+    "id": "baines-identify-candle-unsupported",
+    "text": "That is not the candlestick. Show me the object with the bent handle.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/identify-candle"
+  },
+  {
+    "id": "baines-identify-man-claim",
+    "text": "I couldn’t say.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/identify-man"
+  },
+  {
+    "id": "baines-identify-man-press",
+    "text": "I didn’t see the man’s face. I can’t tell you whether it was Mr Vale.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/identify-man"
+  },
+  {
+    "id": "baines-identify-man-reassure",
+    "text": "I couldn’t recognise either voice. Please don’t put a name to him for me.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/identify-man"
+  },
+  {
+    "id": "baines-missing-candle-claim",
+    "text": "A heavy brass candlestick I lent her.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/missing-candle"
+  },
+  {
+    "id": "baines-missing-candle-reassure",
+    "text": "A bent loop handle and blue wax. I took it in last night.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/missing-candle"
+  },
+  {
+    "id": "baines-missing-candle-reassure-turn-2",
+    "text": "No. That empty ring on the little table is where it stood.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/missing-candle"
+  },
+  {
+    "id": "baines-safety-claim",
+    "text": "He won’t leave while we’re talking?",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/safety"
+  },
+  {
+    "id": "baines-safety-reassure",
+    "text": "Don’t let anyone come up behind me.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/safety"
+  },
+  {
+    "id": "baines-safety-reassure-turn-2",
+    "text": "All right. Shut that door, would you?",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/safety"
+  },
+  {
+    "id": "baines-sounds-claim",
+    "text": "Voices, from the back. I was in my room.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/sounds"
+  },
+  {
+    "id": "baines-sounds-reassure",
+    "text": "No. Then a cry. A thud, straight after it.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/sounds"
+  },
+  {
+    "id": "baines-sounds-reassure-turn-2",
+    "text": "No. I stayed where I was.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/sounds"
+  },
+  {
+    "id": "baines-trunk-claim",
+    "text": "Later I heard someone on the steps. I looked from my window.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/trunk"
+  },
+  {
+    "id": "baines-trunk-reassure",
+    "text": "A man, carrying Nora’s trunk down.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/trunk"
+  },
+  {
+    "id": "baines-trunk-reassure-turn-2",
+    "text": "No. He was turned away from me. I only had a glimpse.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/trunk"
+  },
+  {
+    "id": "baines-visitor-claim",
+    "text": "Last night. I took a candlestick through to her room.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/visitor"
+  },
+  {
+    "id": "baines-visitor-reassure",
+    "text": "Packing. There were clothes everywhere.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/visitor"
+  },
+  {
+    "id": "baines-visitor-reassure-turn-2",
+    "text": "Just the candle. George was coming for her trunk in the morning.",
+    "speakerId": "baines",
+    "speakerName": "Mrs Baines",
+    "source": "baines/visitor"
+  },
+  {
+    "id": "cutscene-morning-0",
+    "text": "Reed and Ellis leave through the front door and report to Commercial Street. Later, a message from Constable Hale brings them back to the Lantern.",
+    "speakerId": "narrator",
+    "speakerName": "Narrator",
+    "source": "cutscene/morning"
+  },
+  {
+    "id": "cutscene-morning-1",
+    "text": "Inspectors. The woman you met last night has been found dead. The doctor has attended; she has been taken to the mortuary.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "cutscene/morning"
+  },
+  {
+    "id": "cutscene-morning-2",
+    "text": "We will need everyone’s account, and the things left where they were found.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "cutscene/morning"
+  },
+  {
+    "id": "cutscene-return-lantern-0",
+    "text": "The report is complete. A police message has already been sent to Bristol. At the Lantern, Maggie has begun a personal letter to Nora’s sister.",
+    "speakerId": "narrator",
+    "speakerName": "Narrator",
+    "source": "cutscene/return-lantern"
+  },
+  {
+    "id": "cutscene-return-lantern-1",
+    "text": "We should speak to Maggie.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "cutscene/return-lantern"
+  },
+  {
+    "id": "cutscene-return-station-0",
+    "text": "The recovered objects are brought to the station. The questions belong to the investigators, and the answers to Arthur.",
+    "speakerId": "narrator",
+    "speakerName": "Narrator",
+    "source": "cutscene/return-station"
+  },
+  {
+    "id": "cutscene-return-station-1",
+    "text": "We have the case before us. Let him answer each part of it.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "cutscene/return-station"
+  },
+  {
+    "id": "cutscene-search-arranged-0",
+    "text": "The report is with the inspector. I’ll take Arthur to Commercial Street and keep him there while you search his lodging.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "cutscene/search-arranged"
+  },
+  {
+    "id": "cutscene-search-arranged-1",
+    "text": "Word has been sent to Bristol concerning Nora’s death. At Bell’s boot-repair shop, off Commercial Road, the landlord has admitted the officers to Arthur’s lodging.",
+    "speakerId": "narrator",
+    "speakerName": "Narrator",
+    "source": "cutscene/search-arranged"
+  },
+  {
+    "id": "cutscene-the-same-table-0",
+    "text": "The newspaper lies set aside. Maggie returns to the letter.",
+    "speakerId": "narrator",
+    "speakerName": "Narrator",
+    "source": "cutscene/the-same-table"
+  },
+  {
+    "id": "cutscene-the-same-table-1",
+    "text": "The common room carries on around the place where Nora worked.",
+    "speakerId": "narrator",
+    "speakerName": "Narrator",
+    "source": "cutscene/the-same-table"
+  },
+  {
+    "id": "detective-ellis-alden-candle-ask",
+    "text": "Would you have a look at this?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "alden/candle"
+  },
+  {
+    "id": "detective-ellis-alden-candle-reassure",
+    "text": "Under some sacks in the yard. Could it have caused the head injury?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "alden/candle"
+  },
+  {
+    "id": "detective-ellis-alden-candle-reassure-turn-1",
+    "text": "Can you say whether this was the object used?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "alden/candle"
+  },
+  {
+    "id": "detective-ellis-alden-candle-reassure-turn-3",
+    "text": "Understood.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "alden/candle"
+  },
+  {
+    "id": "detective-ellis-alden-findings-reassure",
+    "text": "You’ve examined Nora Vale?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "alden/findings"
+  },
+  {
+    "id": "detective-ellis-alden-findings-reassure-turn-1",
+    "text": "What killed her?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "alden/findings"
+  },
+  {
+    "id": "detective-ellis-alden-findings-reassure-turn-3",
+    "text": "Did those contribute to her death?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "alden/findings"
+  },
+  {
+    "id": "detective-ellis-alden-findings-reassure-turn-5",
+    "text": "You’re certain about that?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "alden/findings"
+  },
+  {
+    "id": "detective-ellis-alden-findings-reassure-turn-7",
+    "text": "People will think of the other murders.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "alden/findings"
+  },
+  {
+    "id": "detective-ellis-alden-knife-reassure",
+    "text": "Hale found a knife beside Nora. Does that change your findings?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "alden/knife"
+  },
+  {
+    "id": "detective-ellis-alden-knife-reassure-turn-1",
+    "text": "Can you identify that knife as the one used?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "alden/knife"
+  },
+  {
+    "id": "detective-ellis-alden-room-ask",
+    "text": "There’s blood beneath the rug in her room. We found more inside her trunk, on the bedding.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "alden/room"
+  },
+  {
+    "id": "detective-ellis-alden-room-reassure",
+    "text": "Very little.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "alden/room"
+  },
+  {
+    "id": "detective-ellis-alden-room-reassure-turn-1",
+    "text": "In the trunk?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "alden/room"
+  },
+  {
+    "id": "detective-ellis-alden-room-reassure-turn-3",
+    "text": "Thank you. We’re checking who handled it.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "alden/room"
+  },
+  {
+    "id": "detective-ellis-arthur-inn-relationship-ask",
+    "text": "What have you been told?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-inn/relationship"
+  },
+  {
+    "id": "detective-ellis-arthur-inn-relationship-reassure",
+    "text": "We’re still establishing that. When did you last see her?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-inn/relationship"
+  },
+  {
+    "id": "detective-ellis-arthur-inn-trunk-ask",
+    "text": "Did you help take her luggage down?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-inn/trunk"
+  },
+  {
+    "id": "detective-ellis-arthur-inn-trunk-followup-ask",
+    "text": "Mrs Baines saw a man carrying Nora’s trunk down last night. She couldn’t see his face.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-inn/trunk-followup"
+  },
+  {
+    "id": "detective-ellis-arthur-inn-trunk-followup-challenge",
+    "text": "You were there last night. Did you carry it down?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-inn/trunk-followup"
+  },
+  {
+    "id": "detective-ellis-arthur-inn-trunk-followup-challenge-turn-1",
+    "text": "Did you see another man?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-inn/trunk-followup"
+  },
+  {
+    "id": "detective-ellis-arthur-inn-trunk-followup-reassure",
+    "text": "Could you have misunderstood us earlier? We meant last night, not this morning.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-inn/trunk-followup"
+  },
+  {
+    "id": "detective-ellis-arthur-inn-trunk-followup-reassure-turn-1",
+    "text": "Was Nora with you?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-inn/trunk-followup"
+  },
+  {
+    "id": "detective-ellis-arthur-inn-trunk-reassure",
+    "text": "Was someone coming for it?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-inn/trunk"
+  },
+  {
+    "id": "detective-ellis-arthur-inn-trunk-reassure-turn-1",
+    "text": "Did you meet him?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-inn/trunk"
+  },
+  {
+    "id": "detective-ellis-arthur-inn-trunk-reassure-turn-3",
+    "text": "Is there anything else you can tell us about the evening?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-inn/trunk"
+  },
+  {
+    "id": "detective-ellis-arthur-inn-trunk-reassure-turn-5",
+    "text": "We may need to speak to you again.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-inn/trunk"
+  },
+  {
+    "id": "detective-ellis-arthur-inn-trunk-reassure-turn-7",
+    "text": "They’ll have to stay where they are for now.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-inn/trunk"
+  },
+  {
+    "id": "detective-ellis-arthur-inn-visit-ask",
+    "text": "How did the visit go?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-inn/visit"
+  },
+  {
+    "id": "detective-ellis-arthur-inn-visit-reassure",
+    "text": "What about it?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-inn/visit"
+  },
+  {
+    "id": "detective-ellis-arthur-inn-visit-reassure-turn-1",
+    "text": "What did you say to that?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-inn/visit"
+  },
+  {
+    "id": "detective-ellis-arthur-inn-visit-reassure-turn-3",
+    "text": "How were things when you left?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-inn/visit"
+  },
+  {
+    "id": "detective-ellis-arthur-inn-visit-reassure-turn-5",
+    "text": "Can you tell us when that was?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-inn/visit"
+  },
+  {
+    "id": "detective-ellis-arthur-station-candlestick-ask",
+    "text": "We’ve recovered the candlestick Mrs Baines lent Nora.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/candlestick"
+  },
+  {
+    "id": "detective-ellis-arthur-station-candlestick-reassure",
+    "text": "Why George?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/candlestick"
+  },
+  {
+    "id": "detective-ellis-arthur-station-cause-ask",
+    "text": "Hale recovered a knife beside Nora. Alden says it wasn’t what killed her.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/cause"
+  },
+  {
+    "id": "detective-ellis-arthur-station-cause-challenge",
+    "text": "The blow to her head. The knife wounds were made after she was dead.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/cause"
+  },
+  {
+    "id": "detective-ellis-arthur-station-cause-challenge-turn-1",
+    "text": "You argued with her. Baines heard a cry and a thud. You knew where the candlestick was hidden.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/cause"
+  },
+  {
+    "id": "detective-ellis-arthur-station-cause-challenge-turn-3",
+    "text": "Did you strike her?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/cause"
+  },
+  {
+    "id": "detective-ellis-arthur-station-departure-ask",
+    "text": "Had Nora asked you to come and see her?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "detective-ellis-arthur-station-departure-challenge",
+    "text": "She had her ticket and work arranged. Did you think she would stay?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "detective-ellis-arthur-station-departure-challenge-turn-1",
+    "text": "Her sister was expecting her.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "detective-ellis-arthur-station-departure-challenge-turn-3",
+    "text": "Nora told us herself that she wanted the job.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "detective-ellis-arthur-station-departure-challenge-turn-5",
+    "text": "And when you asked her to come home?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "detective-ellis-arthur-station-departure-reassure",
+    "text": "What did you want to say to her?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "detective-ellis-arthur-station-departure-reassure-turn-1",
+    "text": "What did she say?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "detective-ellis-arthur-station-departure-reassure-turn-3",
+    "text": "She told us she wanted the work.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "detective-ellis-arthur-station-departure-reassure-turn-5",
+    "text": "Did she ask you to leave?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "detective-ellis-arthur-station-disguise-ask",
+    "text": "You say you covered her face because you couldn’t bear to look at her.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "detective-ellis-arthur-station-disguise-challenge",
+    "text": "This is how the paper shows it. You’d read it, and then you left Nora like this in the yard.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "detective-ellis-arthur-station-disguise-challenge-turn-1",
+    "text": "So you wanted us to think it was him?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "detective-ellis-arthur-station-disguise-challenge-turn-3",
+    "text": "And the knife?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "detective-ellis-arthur-station-disguise-challenge-turn-5",
+    "text": "Alden says the blow killed her. Did you strike her with the candlestick?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "detective-ellis-arthur-station-disguise-challenge-turn-7",
+    "text": "You still haven’t explained how you knew where it was hidden.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "detective-ellis-arthur-station-disguise-press",
+    "text": "You were trying to make it look like one of the other murders.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "detective-ellis-arthur-station-finding-nora-reassure",
+    "text": "How did you know Nora was staying at the Lantern?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/finding-nora"
+  },
+  {
+    "id": "detective-ellis-arthur-station-finding-nora-reassure-turn-1",
+    "text": "Did she know you were following her?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/finding-nora"
+  },
+  {
+    "id": "detective-ellis-arthur-station-finding-nora-reassure-turn-3",
+    "text": "When did you learn about Bristol?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/finding-nora"
+  },
+  {
+    "id": "detective-ellis-arthur-station-fire-ask",
+    "text": "You burnt clothing and a newspaper when you got home.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/fire"
+  },
+  {
+    "id": "detective-ellis-arthur-station-fire-challenge",
+    "text": "We found these remains in your fireplace. Were they what you wore to see Nora?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/fire"
+  },
+  {
+    "id": "detective-ellis-arthur-station-fire-challenge-turn-1",
+    "text": "You remember burning them?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/fire"
+  },
+  {
+    "id": "detective-ellis-arthur-station-fire-reassure",
+    "text": "That night?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/fire"
+  },
+  {
+    "id": "detective-ellis-arthur-station-fire-reassure-turn-1",
+    "text": "Was there something wrong with the clothes?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/fire"
+  },
+  {
+    "id": "detective-ellis-arthur-station-purpose-ask",
+    "text": "You say Nora fell in her room. She was found outside. What happened in between?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/purpose"
+  },
+  {
+    "id": "detective-ellis-arthur-station-purpose-challenge",
+    "text": "Her bedding was inside the trunk, stained with blood. The packing was left in her room.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/purpose"
+  },
+  {
+    "id": "detective-ellis-arthur-station-purpose-challenge-turn-1",
+    "text": "So you put her in the trunk?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/purpose"
+  },
+  {
+    "id": "detective-ellis-arthur-station-purpose-challenge-turn-3",
+    "text": "You took her into the yard.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/purpose"
+  },
+  {
+    "id": "detective-ellis-arthur-station-purpose-challenge-turn-5",
+    "text": "And the scarf?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/purpose"
+  },
+  {
+    "id": "detective-ellis-arthur-station-purpose-press",
+    "text": "You put her in the trunk and carried her out, didn’t you?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/purpose"
+  },
+  {
+    "id": "detective-ellis-arthur-station-relationship-ask",
+    "text": "We’ve spoken to Maggie Shaw. She says you were Nora’s husband.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/relationship"
+  },
+  {
+    "id": "detective-ellis-arthur-station-relationship-challenge",
+    "text": "Maggie kept this photograph of your wedding. Is that you beside Nora?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/relationship"
+  },
+  {
+    "id": "detective-ellis-arthur-station-relationship-challenge-turn-1",
+    "text": "Nora and her mother. You’re on the right.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/relationship"
+  },
+  {
+    "id": "detective-ellis-arthur-station-relationship-challenge-turn-3",
+    "text": "Why tell us she was your sister?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/relationship"
+  },
+  {
+    "id": "detective-ellis-arthur-station-relationship-reassure",
+    "text": "She worked with Nora.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/relationship"
+  },
+  {
+    "id": "detective-ellis-arthur-station-relationship-reassure-turn-1",
+    "text": "She says she attended your wedding.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/relationship"
+  },
+  {
+    "id": "detective-ellis-arthur-station-room-ask",
+    "text": "What happened when Nora asked you to leave?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/room"
+  },
+  {
+    "id": "detective-ellis-arthur-station-room-reassure",
+    "text": "Was she hurt when you left?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/room"
+  },
+  {
+    "id": "detective-ellis-arthur-station-room-reassure-turn-1",
+    "text": "Mrs Baines heard a cry and a thud.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/room"
+  },
+  {
+    "id": "detective-ellis-arthur-station-room-reassure-turn-3",
+    "text": "During the night.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/room"
+  },
+  {
+    "id": "detective-ellis-arthur-station-room-revisit-ask",
+    "text": "You said Nora was still packing when you left.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/room-revisit"
+  },
+  {
+    "id": "detective-ellis-arthur-station-room-revisit-challenge",
+    "text": "There was blood beneath her rug. Baines heard the disturbance. Tell us what happened when Nora wouldn’t listen.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/room-revisit"
+  },
+  {
+    "id": "detective-ellis-arthur-station-room-revisit-challenge-turn-1",
+    "text": "Did she try to get away?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/room-revisit"
+  },
+  {
+    "id": "detective-ellis-arthur-station-room-revisit-challenge-turn-3",
+    "text": "You said she was packing when you left.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/room-revisit"
+  },
+  {
+    "id": "detective-ellis-arthur-station-room-revisit-challenge-turn-5",
+    "text": "Did you get anyone?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/room-revisit"
+  },
+  {
+    "id": "detective-ellis-arthur-station-room-revisit-press",
+    "text": "Did you hit her?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/room-revisit"
+  },
+  {
+    "id": "detective-ellis-arthur-station-source-ask",
+    "text": "Who told you where we found the candlestick?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/source"
+  },
+  {
+    "id": "detective-ellis-arthur-station-source-reassure",
+    "text": "Which man?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/source"
+  },
+  {
+    "id": "detective-ellis-arthur-station-source-reassure-turn-1",
+    "text": "Did someone speak to you, or did you overhear it?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/source"
+  },
+  {
+    "id": "detective-ellis-arthur-station-source-rebuttal-ask",
+    "text": "Hale was the only constable who spoke to you. He says he didn’t mention the candlestick.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/source-rebuttal"
+  },
+  {
+    "id": "detective-ellis-arthur-station-source-rebuttal-challenge",
+    "text": "This is where we found it. Hale kept you away from the search, and the recovery wasn’t discussed in front of you.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/source-rebuttal"
+  },
+  {
+    "id": "detective-ellis-arthur-station-source-rebuttal-challenge-turn-1",
+    "text": "You knew where it was before we told you.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/source-rebuttal"
+  },
+  {
+    "id": "detective-ellis-arthur-station-source-rebuttal-press",
+    "text": "You knew it was underneath the sacks. How?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/source-rebuttal"
+  },
+  {
+    "id": "detective-ellis-arthur-station-source-rebuttal-press-turn-1",
+    "text": "You were kept away from the yard while we searched. Nobody discussed the recovery in front of you.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/source-rebuttal"
+  },
+  {
+    "id": "detective-ellis-arthur-station-trunk-disputing-ask",
+    "text": "Mrs Baines saw a man carrying Nora’s trunk down the steps.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/trunk-disputing"
+  },
+  {
+    "id": "detective-ellis-arthur-station-trunk-disputing-challenge",
+    "text": "The trunk was stained inside. Were you helping Nora pack?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/trunk-disputing"
+  },
+  {
+    "id": "detective-ellis-arthur-station-trunk-disputing-challenge-turn-1",
+    "text": "Was she hurt when you were there?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/trunk-disputing"
+  },
+  {
+    "id": "detective-ellis-arthur-station-trunk-disputing-reassure",
+    "text": "Did you see anyone else near Nora’s room?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/trunk-disputing"
+  },
+  {
+    "id": "detective-ellis-arthur-station-trunk-disputing-reassure-turn-1",
+    "text": "There was blood inside the trunk.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/trunk-disputing"
+  },
+  {
+    "id": "detective-ellis-arthur-station-trunk-helping-ask",
+    "text": "You said you carried Nora’s trunk down for her.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/trunk-helping"
+  },
+  {
+    "id": "detective-ellis-arthur-station-trunk-helping-challenge",
+    "text": "There was blood beneath the clothes. What were you carrying?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/trunk-helping"
+  },
+  {
+    "id": "detective-ellis-arthur-station-trunk-helping-challenge-turn-1",
+    "text": "You didn’t look inside?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/trunk-helping"
+  },
+  {
+    "id": "detective-ellis-arthur-station-trunk-helping-reassure",
+    "text": "Did you know there was blood inside it?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/trunk-helping"
+  },
+  {
+    "id": "detective-ellis-arthur-station-trunk-helping-reassure-turn-1",
+    "text": "Where was Nora when you carried it down?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/trunk-helping"
+  },
+  {
+    "id": "detective-ellis-arthur-station-trunk-helping-reassure-turn-3",
+    "text": "Packing?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/trunk-helping"
+  },
+  {
+    "id": "detective-ellis-arthur-station-yard-ask",
+    "text": "Had you read the newspaper you burnt?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "detective-ellis-arthur-station-yard-challenge",
+    "text": "The scarf in this illustration is arranged like Nora’s. Did you put hers there?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "detective-ellis-arthur-station-yard-challenge-turn-1",
+    "text": "George says he didn’t touch it. Hale found it still covering her face.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "detective-ellis-arthur-station-yard-challenge-turn-3",
+    "text": "We’re asking about you.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "detective-ellis-arthur-station-yard-reassure",
+    "text": "Why burn it that night?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "detective-ellis-arthur-station-yard-reassure-turn-1",
+    "text": "The illustration shows a woman in a yard with a scarf over her face. Nora was found like that.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "detective-ellis-arthur-station-yard-reassure-turn-3",
+    "text": "The wounds were made after her death. Someone wanted them to be seen.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "detective-ellis-baines-arrival-candle-ask",
+    "text": "Where are you taking that candlestick?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines-arrival/candle"
+  },
+  {
+    "id": "detective-ellis-baines-arrival-candle-reassure",
+    "text": "Is the handle meant to bend like that?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines-arrival/candle"
+  },
+  {
+    "id": "detective-ellis-baines-arrival-rooms-ask",
+    "text": "That’s us. Thank you for putting us up.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines-arrival/rooms"
+  },
+  {
+    "id": "detective-ellis-baines-arrival-rooms-press",
+    "text": "Don’t trouble yourself if we’re off before then. We won’t disturb anyone leaving early, will we?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines-arrival/rooms"
+  },
+  {
+    "id": "detective-ellis-baines-arrival-rooms-press-turn-1",
+    "text": "We’ll mind the door. I hope Hale gave you enough notice?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines-arrival/rooms"
+  },
+  {
+    "id": "detective-ellis-baines-arrival-rooms-reassure",
+    "text": "Seven will suit us nicely, thank you. Which way’s upstairs?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines-arrival/rooms"
+  },
+  {
+    "id": "detective-ellis-baines-arrival-rooms-reassure-turn-1",
+    "text": "And if we’re out early, shall we go round the back?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines-arrival/rooms"
+  },
+  {
+    "id": "detective-ellis-baines-blanket-ask",
+    "text": "Can you identify the blanket from the trunk?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/blanket"
+  },
+  {
+    "id": "detective-ellis-baines-blanket-challenge",
+    "text": "This was under the loose clothes. Do you recognise it?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/blanket"
+  },
+  {
+    "id": "detective-ellis-baines-blanket-reassure",
+    "text": "Do you recognise the edging?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/blanket"
+  },
+  {
+    "id": "detective-ellis-baines-blanket-reassure-turn-1",
+    "text": "Where did you last leave it?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/blanket"
+  },
+  {
+    "id": "detective-ellis-baines-cart-reassure",
+    "text": "Why was George’s cart left in the yard?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/cart"
+  },
+  {
+    "id": "detective-ellis-baines-cart-reassure-turn-1",
+    "text": "Was it guarded overnight?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/cart"
+  },
+  {
+    "id": "detective-ellis-baines-disturbance-ask",
+    "text": "Mrs Baines, we found blood beneath Nora’s rug and inside her trunk.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/disturbance"
+  },
+  {
+    "id": "detective-ellis-baines-disturbance-challenge",
+    "text": "The blood means we need to ask about last night again.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/disturbance"
+  },
+  {
+    "id": "detective-ellis-baines-disturbance-challenge-turn-1",
+    "text": "Are you afraid someone will come back?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/disturbance"
+  },
+  {
+    "id": "detective-ellis-baines-disturbance-press",
+    "text": "You must have heard something. Tell us.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/disturbance"
+  },
+  {
+    "id": "detective-ellis-baines-disturbance-reassure",
+    "text": "Something’s worrying you. What is it?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/disturbance"
+  },
+  {
+    "id": "detective-ellis-baines-disturbance-reassure-turn-1",
+    "text": "Who do you mean?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/disturbance"
+  },
+  {
+    "id": "detective-ellis-baines-friend-reassure",
+    "text": "Who else knew Nora well?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/friend"
+  },
+  {
+    "id": "detective-ellis-baines-hiding-ask",
+    "text": "What did you do when you saw him?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/hiding"
+  },
+  {
+    "id": "detective-ellis-baines-hiding-reassure",
+    "text": "You thought it was the man from the papers?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/hiding"
+  },
+  {
+    "id": "detective-ellis-baines-hiding-reassure-turn-1",
+    "text": "Did you see what he did with the trunk?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/hiding"
+  },
+  {
+    "id": "detective-ellis-baines-identify-candle-ask",
+    "text": "Is this the candlestick you put in Nora’s room?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/identify-candle"
+  },
+  {
+    "id": "detective-ellis-baines-identify-candle-challenge",
+    "text": "We recovered this under the coal sacks. Was it Nora’s bedside light?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/identify-candle"
+  },
+  {
+    "id": "detective-ellis-baines-identify-candle-challenge-turn-1",
+    "text": "You did not see it carried into the yard?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/identify-candle"
+  },
+  {
+    "id": "detective-ellis-baines-identify-candle-reassure",
+    "text": "Do you recognise the damage?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/identify-candle"
+  },
+  {
+    "id": "detective-ellis-baines-identify-candle-reassure-turn-1",
+    "text": "Do you know who put it in the cart?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/identify-candle"
+  },
+  {
+    "id": "detective-ellis-baines-identify-man-ask",
+    "text": "Could the man you saw have been Arthur Vale?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/identify-man"
+  },
+  {
+    "id": "detective-ellis-baines-identify-man-press",
+    "text": "Are you certain you wouldn’t recognise him?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/identify-man"
+  },
+  {
+    "id": "detective-ellis-baines-identify-man-reassure",
+    "text": "Did you hear his voice?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/identify-man"
+  },
+  {
+    "id": "detective-ellis-baines-missing-candle-ask",
+    "text": "What stood beside Nora’s bed?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/missing-candle"
+  },
+  {
+    "id": "detective-ellis-baines-missing-candle-reassure",
+    "text": "How would we recognise it?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/missing-candle"
+  },
+  {
+    "id": "detective-ellis-baines-missing-candle-reassure-turn-1",
+    "text": "Is it still there?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/missing-candle"
+  },
+  {
+    "id": "detective-ellis-baines-safety-ask",
+    "text": "Hale has put a constable at the back steps. He’ll stay there while we finish our enquiries.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/safety"
+  },
+  {
+    "id": "detective-ellis-baines-safety-reassure",
+    "text": "He’ll stay. We can sit away from the passage. Take your time.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/safety"
+  },
+  {
+    "id": "detective-ellis-baines-safety-reassure-turn-1",
+    "text": "He won’t let anyone through.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/safety"
+  },
+  {
+    "id": "detective-ellis-baines-sounds-ask",
+    "text": "What did you hear last night?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/sounds"
+  },
+  {
+    "id": "detective-ellis-baines-sounds-reassure",
+    "text": "Could you make out what they were saying?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/sounds"
+  },
+  {
+    "id": "detective-ellis-baines-sounds-reassure-turn-1",
+    "text": "Did you open your door?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/sounds"
+  },
+  {
+    "id": "detective-ellis-baines-trunk-ask",
+    "text": "What happened after that?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/trunk"
+  },
+  {
+    "id": "detective-ellis-baines-trunk-reassure",
+    "text": "What could you see?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/trunk"
+  },
+  {
+    "id": "detective-ellis-baines-trunk-reassure-turn-1",
+    "text": "Did you see his face?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/trunk"
+  },
+  {
+    "id": "detective-ellis-baines-visitor-ask",
+    "text": "When did you last see Nora?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/visitor"
+  },
+  {
+    "id": "detective-ellis-baines-visitor-reassure",
+    "text": "How was she then?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/visitor"
+  },
+  {
+    "id": "detective-ellis-baines-visitor-reassure-turn-1",
+    "text": "Did she ask you for anything?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "baines/visitor"
+  },
+  {
+    "id": "detective-ellis-george-arrival-ask",
+    "text": "In a moment, Mr Moss. Tell us what happened this morning.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george/arrival"
+  },
+  {
+    "id": "detective-ellis-george-arrival-collection-ask",
+    "text": "Busy evening?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george-arrival/collection"
+  },
+  {
+    "id": "detective-ellis-george-arrival-collection-reassure",
+    "text": "Oh?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george-arrival/collection"
+  },
+  {
+    "id": "detective-ellis-george-arrival-collection-reassure-turn-1",
+    "text": "An early start, then?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george-arrival/collection"
+  },
+  {
+    "id": "detective-ellis-george-arrival-collection-reassure-turn-3",
+    "text": "Save yourself a journey?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george-arrival/collection"
+  },
+  {
+    "id": "detective-ellis-george-arrival-collection-reassure-turn-5",
+    "text": "We’d best keep out of your way.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george-arrival/collection"
+  },
+  {
+    "id": "detective-ellis-george-arrival-collection-reassure-turn-7",
+    "text": "Good night, then.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george-arrival/collection"
+  },
+  {
+    "id": "detective-ellis-george-arrival-reassure",
+    "text": "Who did you speak to?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george/arrival"
+  },
+  {
+    "id": "detective-ellis-george-arrival-reassure-turn-1",
+    "text": "Where did you find her?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george/arrival"
+  },
+  {
+    "id": "detective-ellis-george-arrival-reassure-turn-3",
+    "text": "What did you do?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george/arrival"
+  },
+  {
+    "id": "detective-ellis-george-arrival-reassure-turn-5",
+    "text": "Did you touch her before you went?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george/arrival"
+  },
+  {
+    "id": "detective-ellis-george-arrival-reassure-turn-7",
+    "text": "Had you moved the cart?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george/arrival"
+  },
+  {
+    "id": "detective-ellis-george-candlestick-ask",
+    "text": "Mr Moss. We found this under the coal sacks in your cart.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "detective-ellis-george-candlestick-press",
+    "text": "It was hidden beneath sacks you handled last night. Why shouldn’t we think you put it there?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "detective-ellis-george-candlestick-press-turn-1",
+    "text": "Had you touched the sacks this morning?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "detective-ellis-george-candlestick-reassure",
+    "text": "That’s what we’re asking you.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "detective-ellis-george-candlestick-reassure-turn-1",
+    "text": "When did you last handle those sacks?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "detective-ellis-george-candlestick-reassure-turn-3",
+    "text": "Could anyone get at it while you were away?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "detective-ellis-george-candlestick-reassure-turn-5",
+    "text": "And you hadn’t touched the sacks this morning?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "detective-ellis-george-candlestick-reassure-turn-7",
+    "text": "We still have to ask.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "detective-ellis-george-night-ask",
+    "text": "All right. What time did you leave here last night?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george/night"
+  },
+  {
+    "id": "detective-ellis-george-night-reassure",
+    "text": "Did you see anyone coming or going?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george/night"
+  },
+  {
+    "id": "detective-ellis-george-night-reassure-turn-1",
+    "text": "Did you hear anything from inside?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george/night"
+  },
+  {
+    "id": "detective-ellis-george-night-reassure-turn-3",
+    "text": "And you didn’t come back until this morning?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george/night"
+  },
+  {
+    "id": "detective-ellis-george-night-reassure-turn-5",
+    "text": "An officer will take you round to the horse. Come back to the yard afterwards—we may need another word.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "george/night"
+  },
+  {
+    "id": "detective-ellis-hale-address-reassure",
+    "text": "Have you checked where Arthur and Nora were living?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/address"
+  },
+  {
+    "id": "detective-ellis-hale-address-reassure-turn-1",
+    "text": "Has he given notice?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/address"
+  },
+  {
+    "id": "detective-ellis-hale-address-reassure-turn-3",
+    "text": "Has anyone been inside his room?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/address"
+  },
+  {
+    "id": "detective-ellis-hale-address-reassure-turn-5",
+    "text": "We’ll need to search it.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/address"
+  },
+  {
+    "id": "detective-ellis-hale-address-reassure-turn-7",
+    "text": "Please. Arrange access for us. You’ll keep Arthur at Commercial Street.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/address"
+  },
+  {
+    "id": "detective-ellis-hale-discovery-reassure",
+    "text": "Who found her?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-ellis-hale-discovery-reassure-turn-1",
+    "text": "Where exactly?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-ellis-hale-discovery-reassure-turn-11",
+    "text": "And her things?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-ellis-hale-discovery-reassure-turn-13",
+    "text": "The scarf?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-ellis-hale-discovery-reassure-turn-15",
+    "text": "Has anyone else told you they saw something?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-ellis-hale-discovery-reassure-turn-17",
+    "text": "We’ll speak to her. Does Abberline know?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-ellis-hale-discovery-reassure-turn-19",
+    "text": "Keep the yard clear while we have a look.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-ellis-hale-discovery-reassure-turn-3",
+    "text": "What did you find when you got here?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-ellis-hale-discovery-reassure-turn-5",
+    "text": "Did Moss put the scarf there?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-ellis-hale-discovery-reassure-turn-7",
+    "text": "Where is she now?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-ellis-hale-discovery-reassure-turn-9",
+    "text": "What did he say?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-ellis-hale-knife-reassure",
+    "text": "Was anything lying beside Nora?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/knife"
+  },
+  {
+    "id": "detective-ellis-hale-knife-reassure-turn-1",
+    "text": "May we see it?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/knife"
+  },
+  {
+    "id": "detective-ellis-hale-privacy-reassure",
+    "text": "Who has been allowed into the yard?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/privacy"
+  },
+  {
+    "id": "detective-ellis-hale-privacy-reassure-turn-1",
+    "text": "Keep him there while we search. No one is to discuss what we find within his hearing.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/privacy"
+  },
+  {
+    "id": "detective-ellis-hale-protection-reassure",
+    "text": "Mrs Baines is frightened whoever was here may come back. Will you arrange a watch at the steps while we speak to her?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/protection"
+  },
+  {
+    "id": "detective-ellis-hale-protection-reassure-turn-1",
+    "text": "Will he remain there while we finish our enquiries?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale/protection"
+  },
+  {
+    "id": "detective-ellis-hale-station-disclosure-reassure",
+    "text": "Arthur says one of our men told him where the candlestick was found. Who has spoken to him?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale-station/disclosure"
+  },
+  {
+    "id": "detective-ellis-hale-station-disclosure-reassure-turn-1",
+    "text": "Did you mention the candlestick?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale-station/disclosure"
+  },
+  {
+    "id": "detective-ellis-hale-station-disclosure-reassure-turn-3",
+    "text": "Could he have watched it, or heard us questioning Moss and Mrs Baines?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale-station/disclosure"
+  },
+  {
+    "id": "detective-ellis-hale-station-disclosure-reassure-turn-5",
+    "text": "And the other officers?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "hale-station/disclosure"
+  },
+  {
+    "id": "detective-ellis-maggie-brother-ask",
+    "text": "We’ve spoken to Arthur Vale. He says he’s her brother.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/brother"
+  },
+  {
+    "id": "detective-ellis-maggie-brother-reassure",
+    "text": "That’s what he told us.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/brother"
+  },
+  {
+    "id": "detective-ellis-maggie-brother-reassure-turn-1",
+    "text": "You’re certain we’re talking about the same man?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/brother"
+  },
+  {
+    "id": "detective-ellis-maggie-closing-letter-reassure",
+    "text": "May we read what you have written?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie-closing/letter"
+  },
+  {
+    "id": "detective-ellis-maggie-closing-letter-reassure-turn-1",
+    "text": "And the rest?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie-closing/letter"
+  },
+  {
+    "id": "detective-ellis-maggie-closing-sister-ask",
+    "text": "Will you write to her sister?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie-closing/sister"
+  },
+  {
+    "id": "detective-ellis-maggie-closing-sister-press",
+    "text": "Can you arrange the return of her belongings when they are released?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie-closing/sister"
+  },
+  {
+    "id": "detective-ellis-maggie-closing-sister-press-turn-1",
+    "text": "She will also hear from us.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie-closing/sister"
+  },
+  {
+    "id": "detective-ellis-maggie-closing-sister-reassure",
+    "text": "Tell her we will write about the enquiry, and that Nora’s things are safe.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie-closing/sister"
+  },
+  {
+    "id": "detective-ellis-maggie-closing-sister-reassure-turn-1",
+    "text": "We will help with the belongings when they may be released.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie-closing/sister"
+  },
+  {
+    "id": "detective-ellis-maggie-marriage-ask",
+    "text": "Was Nora married?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/marriage"
+  },
+  {
+    "id": "detective-ellis-maggie-marriage-reassure",
+    "text": "Did you know them both?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/marriage"
+  },
+  {
+    "id": "detective-ellis-maggie-name-reassure",
+    "text": "Her travelling papers are addressed to Nora Finch. Do you know why?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/name"
+  },
+  {
+    "id": "detective-ellis-maggie-name-reassure-turn-1",
+    "text": "Who did she marry?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/name"
+  },
+  {
+    "id": "detective-ellis-maggie-name-reassure-turn-3",
+    "text": "Do you have anything with her earlier name on it?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/name"
+  },
+  {
+    "id": "detective-ellis-maggie-photograph-reassure",
+    "text": "May we see a photograph of Nora?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/photograph"
+  },
+  {
+    "id": "detective-ellis-maggie-photograph-reassure-turn-1",
+    "text": "When was this taken?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/photograph"
+  },
+  {
+    "id": "detective-ellis-maggie-privacy-ask",
+    "text": "Maggie Shaw? We’re enquiring into Nora Vale’s death.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/privacy"
+  },
+  {
+    "id": "detective-ellis-maggie-privacy-challenge",
+    "text": "Were you helping Nora hide from someone?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/privacy"
+  },
+  {
+    "id": "detective-ellis-maggie-privacy-press",
+    "text": "What are you afraid he’ll hear?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/privacy"
+  },
+  {
+    "id": "detective-ellis-maggie-privacy-press-turn-1",
+    "text": "He hasn’t come with us. We can shut the door.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/privacy"
+  },
+  {
+    "id": "detective-ellis-maggie-privacy-reassure",
+    "text": "He hasn’t come with us. We can speak privately.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/privacy"
+  },
+  {
+    "id": "detective-ellis-maggie-privacy-reassure-turn-1",
+    "text": "Of course.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/privacy"
+  },
+  {
+    "id": "detective-ellis-maggie-separation-ask",
+    "text": "Why was Nora staying at the Lantern?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-ellis-maggie-separation-reassure",
+    "text": "Did she tell you why?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-ellis-maggie-separation-reassure-turn-1",
+    "text": "What was happening between them?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-ellis-maggie-separation-reassure-turn-11",
+    "text": "Is he still there?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-ellis-maggie-separation-reassure-turn-13",
+    "text": "We’ll check. Thank you for speaking to us.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-ellis-maggie-separation-reassure-turn-15",
+    "text": "We’ll arrange for word to reach her.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-ellis-maggie-separation-reassure-turn-3",
+    "text": "You saw that yourself?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-ellis-maggie-separation-reassure-turn-5",
+    "text": "What did she tell you?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-ellis-maggie-separation-reassure-turn-7",
+    "text": "Did Arthur know she was going to Bristol?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-ellis-maggie-separation-reassure-turn-9",
+    "text": "Where had they been living?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-ellis-maggie-work-ask",
+    "text": "You worked beside Nora?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/work"
+  },
+  {
+    "id": "detective-ellis-maggie-work-reassure",
+    "text": "Was she looking forward to Bristol?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/work"
+  },
+  {
+    "id": "detective-ellis-maggie-work-reassure-turn-1",
+    "text": "Would that have been a problem?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "maggie/work"
+  },
+  {
+    "id": "detective-ellis-nora-journey-ask",
+    "text": "Are you travelling tomorrow?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "nora/journey"
+  },
+  {
+    "id": "detective-ellis-nora-journey-reassure",
+    "text": "Have you bought your ticket?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "nora/journey"
+  },
+  {
+    "id": "detective-ellis-nora-journey-reassure-turn-1",
+    "text": "Not looking forward to it?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "nora/journey"
+  },
+  {
+    "id": "detective-ellis-nora-journey-reassure-turn-3",
+    "text": "Have you much to take?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "nora/journey"
+  },
+  {
+    "id": "detective-ellis-nora-paper-ask",
+    "text": "Something on your mind?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "nora/paper"
+  },
+  {
+    "id": "detective-ellis-nora-paper-reassure",
+    "text": "Some of it.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "nora/paper"
+  },
+  {
+    "id": "detective-ellis-nora-paper-reassure-turn-1",
+    "text": "Which part?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "nora/paper"
+  },
+  {
+    "id": "detective-ellis-nora-paper-reassure-turn-11",
+    "text": "Best stand there, then.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "nora/paper"
+  },
+  {
+    "id": "detective-ellis-nora-paper-reassure-turn-3",
+    "text": "I wouldn’t take every word in that paper for the truth.",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "nora/paper"
+  },
+  {
+    "id": "detective-ellis-nora-paper-reassure-turn-5",
+    "text": "Do you have far to walk after work?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "nora/paper"
+  },
+  {
+    "id": "detective-ellis-nora-paper-reassure-turn-7",
+    "text": "Could you walk together?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "nora/paper"
+  },
+  {
+    "id": "detective-ellis-nora-paper-reassure-turn-9",
+    "text": "Will your sister meet you?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "nora/paper"
+  },
+  {
+    "id": "detective-ellis-nora-work-ask",
+    "text": "We’re not keeping you from your work?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "nora/work"
+  },
+  {
+    "id": "detective-ellis-nora-work-reassure",
+    "text": "Can you mend it?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "nora/work"
+  },
+  {
+    "id": "detective-ellis-nora-work-reassure-turn-1",
+    "text": "Do you sew for a living?",
+    "speakerId": "ellis",
+    "speakerName": "Inspector Ellis",
+    "source": "nora/work"
+  },
+  {
+    "id": "detective-reed-alden-candle-ask",
+    "text": "Would you have a look at this?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "alden/candle"
+  },
+  {
+    "id": "detective-reed-alden-candle-reassure",
+    "text": "Under some sacks in the yard. Could it have caused the head injury?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "alden/candle"
+  },
+  {
+    "id": "detective-reed-alden-candle-reassure-turn-1",
+    "text": "Can you say whether this was the object used?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "alden/candle"
+  },
+  {
+    "id": "detective-reed-alden-candle-reassure-turn-3",
+    "text": "Understood.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "alden/candle"
+  },
+  {
+    "id": "detective-reed-alden-findings-reassure",
+    "text": "You’ve examined Nora Vale?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "alden/findings"
+  },
+  {
+    "id": "detective-reed-alden-findings-reassure-turn-1",
+    "text": "What killed her?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "alden/findings"
+  },
+  {
+    "id": "detective-reed-alden-findings-reassure-turn-3",
+    "text": "Did those contribute to her death?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "alden/findings"
+  },
+  {
+    "id": "detective-reed-alden-findings-reassure-turn-5",
+    "text": "You’re certain about that?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "alden/findings"
+  },
+  {
+    "id": "detective-reed-alden-findings-reassure-turn-7",
+    "text": "People will think of the other murders.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "alden/findings"
+  },
+  {
+    "id": "detective-reed-alden-knife-reassure",
+    "text": "Hale found a knife beside Nora. Does that change your findings?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "alden/knife"
+  },
+  {
+    "id": "detective-reed-alden-knife-reassure-turn-1",
+    "text": "Can you identify that knife as the one used?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "alden/knife"
+  },
+  {
+    "id": "detective-reed-alden-room-ask",
+    "text": "There’s blood beneath the rug in her room. We found more inside her trunk, on the bedding.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "alden/room"
+  },
+  {
+    "id": "detective-reed-alden-room-reassure",
+    "text": "Very little.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "alden/room"
+  },
+  {
+    "id": "detective-reed-alden-room-reassure-turn-1",
+    "text": "In the trunk?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "alden/room"
+  },
+  {
+    "id": "detective-reed-alden-room-reassure-turn-3",
+    "text": "Thank you. We’re checking who handled it.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "alden/room"
+  },
+  {
+    "id": "detective-reed-arthur-inn-relationship-ask",
+    "text": "What have you been told?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-inn/relationship"
+  },
+  {
+    "id": "detective-reed-arthur-inn-relationship-reassure",
+    "text": "We’re still establishing that. When did you last see her?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-inn/relationship"
+  },
+  {
+    "id": "detective-reed-arthur-inn-trunk-ask",
+    "text": "Did you help take her luggage down?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-inn/trunk"
+  },
+  {
+    "id": "detective-reed-arthur-inn-trunk-followup-ask",
+    "text": "Mrs Baines saw a man carrying Nora’s trunk down last night. She couldn’t see his face.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-inn/trunk-followup"
+  },
+  {
+    "id": "detective-reed-arthur-inn-trunk-followup-challenge",
+    "text": "You were there last night. Did you carry it down?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-inn/trunk-followup"
+  },
+  {
+    "id": "detective-reed-arthur-inn-trunk-followup-challenge-turn-1",
+    "text": "Did you see another man?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-inn/trunk-followup"
+  },
+  {
+    "id": "detective-reed-arthur-inn-trunk-followup-reassure",
+    "text": "Could you have misunderstood us earlier? We meant last night, not this morning.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-inn/trunk-followup"
+  },
+  {
+    "id": "detective-reed-arthur-inn-trunk-followup-reassure-turn-1",
+    "text": "Was Nora with you?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-inn/trunk-followup"
+  },
+  {
+    "id": "detective-reed-arthur-inn-trunk-reassure",
+    "text": "Was someone coming for it?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-inn/trunk"
+  },
+  {
+    "id": "detective-reed-arthur-inn-trunk-reassure-turn-1",
+    "text": "Did you meet him?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-inn/trunk"
+  },
+  {
+    "id": "detective-reed-arthur-inn-trunk-reassure-turn-3",
+    "text": "Is there anything else you can tell us about the evening?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-inn/trunk"
+  },
+  {
+    "id": "detective-reed-arthur-inn-trunk-reassure-turn-5",
+    "text": "We may need to speak to you again.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-inn/trunk"
+  },
+  {
+    "id": "detective-reed-arthur-inn-trunk-reassure-turn-7",
+    "text": "They’ll have to stay where they are for now.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-inn/trunk"
+  },
+  {
+    "id": "detective-reed-arthur-inn-visit-ask",
+    "text": "How did the visit go?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-inn/visit"
+  },
+  {
+    "id": "detective-reed-arthur-inn-visit-reassure",
+    "text": "What about it?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-inn/visit"
+  },
+  {
+    "id": "detective-reed-arthur-inn-visit-reassure-turn-1",
+    "text": "What did you say to that?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-inn/visit"
+  },
+  {
+    "id": "detective-reed-arthur-inn-visit-reassure-turn-3",
+    "text": "How were things when you left?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-inn/visit"
+  },
+  {
+    "id": "detective-reed-arthur-inn-visit-reassure-turn-5",
+    "text": "Can you tell us when that was?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-inn/visit"
+  },
+  {
+    "id": "detective-reed-arthur-station-candlestick-ask",
+    "text": "We’ve recovered the candlestick Mrs Baines lent Nora.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/candlestick"
+  },
+  {
+    "id": "detective-reed-arthur-station-candlestick-reassure",
+    "text": "Why George?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/candlestick"
+  },
+  {
+    "id": "detective-reed-arthur-station-cause-ask",
+    "text": "Hale recovered a knife beside Nora. Alden says it wasn’t what killed her.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/cause"
+  },
+  {
+    "id": "detective-reed-arthur-station-cause-challenge",
+    "text": "The blow to her head. The knife wounds were made after she was dead.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/cause"
+  },
+  {
+    "id": "detective-reed-arthur-station-cause-challenge-turn-1",
+    "text": "You argued with her. Baines heard a cry and a thud. You knew where the candlestick was hidden.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/cause"
+  },
+  {
+    "id": "detective-reed-arthur-station-cause-challenge-turn-3",
+    "text": "Did you strike her?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/cause"
+  },
+  {
+    "id": "detective-reed-arthur-station-departure-ask",
+    "text": "Had Nora asked you to come and see her?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "detective-reed-arthur-station-departure-challenge",
+    "text": "She had her ticket and work arranged. Did you think she would stay?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "detective-reed-arthur-station-departure-challenge-turn-1",
+    "text": "Her sister was expecting her.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "detective-reed-arthur-station-departure-challenge-turn-3",
+    "text": "Nora told us herself that she wanted the job.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "detective-reed-arthur-station-departure-challenge-turn-5",
+    "text": "And when you asked her to come home?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "detective-reed-arthur-station-departure-reassure",
+    "text": "What did you want to say to her?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "detective-reed-arthur-station-departure-reassure-turn-1",
+    "text": "What did she say?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "detective-reed-arthur-station-departure-reassure-turn-3",
+    "text": "She told us she wanted the work.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "detective-reed-arthur-station-departure-reassure-turn-5",
+    "text": "Did she ask you to leave?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/departure"
+  },
+  {
+    "id": "detective-reed-arthur-station-disguise-ask",
+    "text": "You say you covered her face because you couldn’t bear to look at her.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "detective-reed-arthur-station-disguise-challenge",
+    "text": "This is how the paper shows it. You’d read it, and then you left Nora like this in the yard.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "detective-reed-arthur-station-disguise-challenge-turn-1",
+    "text": "So you wanted us to think it was him?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "detective-reed-arthur-station-disguise-challenge-turn-3",
+    "text": "And the knife?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "detective-reed-arthur-station-disguise-challenge-turn-5",
+    "text": "Alden says the blow killed her. Did you strike her with the candlestick?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "detective-reed-arthur-station-disguise-challenge-turn-7",
+    "text": "You still haven’t explained how you knew where it was hidden.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "detective-reed-arthur-station-disguise-press",
+    "text": "You were trying to make it look like one of the other murders.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/disguise"
+  },
+  {
+    "id": "detective-reed-arthur-station-finding-nora-reassure",
+    "text": "How did you know Nora was staying at the Lantern?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/finding-nora"
+  },
+  {
+    "id": "detective-reed-arthur-station-finding-nora-reassure-turn-1",
+    "text": "Did she know you were following her?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/finding-nora"
+  },
+  {
+    "id": "detective-reed-arthur-station-finding-nora-reassure-turn-3",
+    "text": "When did you learn about Bristol?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/finding-nora"
+  },
+  {
+    "id": "detective-reed-arthur-station-fire-ask",
+    "text": "You burnt clothing and a newspaper when you got home.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/fire"
+  },
+  {
+    "id": "detective-reed-arthur-station-fire-challenge",
+    "text": "We found these remains in your fireplace. Were they what you wore to see Nora?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/fire"
+  },
+  {
+    "id": "detective-reed-arthur-station-fire-challenge-turn-1",
+    "text": "You remember burning them?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/fire"
+  },
+  {
+    "id": "detective-reed-arthur-station-fire-reassure",
+    "text": "That night?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/fire"
+  },
+  {
+    "id": "detective-reed-arthur-station-fire-reassure-turn-1",
+    "text": "Was there something wrong with the clothes?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/fire"
+  },
+  {
+    "id": "detective-reed-arthur-station-purpose-ask",
+    "text": "You say Nora fell in her room. She was found outside. What happened in between?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/purpose"
+  },
+  {
+    "id": "detective-reed-arthur-station-purpose-challenge",
+    "text": "Her bedding was inside the trunk, stained with blood. The packing was left in her room.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/purpose"
+  },
+  {
+    "id": "detective-reed-arthur-station-purpose-challenge-turn-1",
+    "text": "So you put her in the trunk?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/purpose"
+  },
+  {
+    "id": "detective-reed-arthur-station-purpose-challenge-turn-3",
+    "text": "You took her into the yard.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/purpose"
+  },
+  {
+    "id": "detective-reed-arthur-station-purpose-challenge-turn-5",
+    "text": "And the scarf?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/purpose"
+  },
+  {
+    "id": "detective-reed-arthur-station-purpose-press",
+    "text": "You put her in the trunk and carried her out, didn’t you?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/purpose"
+  },
+  {
+    "id": "detective-reed-arthur-station-relationship-ask",
+    "text": "We’ve spoken to Maggie Shaw. She says you were Nora’s husband.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/relationship"
+  },
+  {
+    "id": "detective-reed-arthur-station-relationship-challenge",
+    "text": "Maggie kept this photograph of your wedding. Is that you beside Nora?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/relationship"
+  },
+  {
+    "id": "detective-reed-arthur-station-relationship-challenge-turn-1",
+    "text": "Nora and her mother. You’re on the right.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/relationship"
+  },
+  {
+    "id": "detective-reed-arthur-station-relationship-challenge-turn-3",
+    "text": "Why tell us she was your sister?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/relationship"
+  },
+  {
+    "id": "detective-reed-arthur-station-relationship-reassure",
+    "text": "She worked with Nora.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/relationship"
+  },
+  {
+    "id": "detective-reed-arthur-station-relationship-reassure-turn-1",
+    "text": "She says she attended your wedding.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/relationship"
+  },
+  {
+    "id": "detective-reed-arthur-station-room-ask",
+    "text": "What happened when Nora asked you to leave?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/room"
+  },
+  {
+    "id": "detective-reed-arthur-station-room-reassure",
+    "text": "Was she hurt when you left?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/room"
+  },
+  {
+    "id": "detective-reed-arthur-station-room-reassure-turn-1",
+    "text": "Mrs Baines heard a cry and a thud.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/room"
+  },
+  {
+    "id": "detective-reed-arthur-station-room-reassure-turn-3",
+    "text": "During the night.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/room"
+  },
+  {
+    "id": "detective-reed-arthur-station-room-revisit-ask",
+    "text": "You said Nora was still packing when you left.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/room-revisit"
+  },
+  {
+    "id": "detective-reed-arthur-station-room-revisit-challenge",
+    "text": "There was blood beneath her rug. Baines heard the disturbance. Tell us what happened when Nora wouldn’t listen.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/room-revisit"
+  },
+  {
+    "id": "detective-reed-arthur-station-room-revisit-challenge-turn-1",
+    "text": "Did she try to get away?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/room-revisit"
+  },
+  {
+    "id": "detective-reed-arthur-station-room-revisit-challenge-turn-3",
+    "text": "You said she was packing when you left.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/room-revisit"
+  },
+  {
+    "id": "detective-reed-arthur-station-room-revisit-challenge-turn-5",
+    "text": "Did you get anyone?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/room-revisit"
+  },
+  {
+    "id": "detective-reed-arthur-station-room-revisit-press",
+    "text": "Did you hit her?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/room-revisit"
+  },
+  {
+    "id": "detective-reed-arthur-station-source-ask",
+    "text": "Who told you where we found the candlestick?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/source"
+  },
+  {
+    "id": "detective-reed-arthur-station-source-reassure",
+    "text": "Which man?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/source"
+  },
+  {
+    "id": "detective-reed-arthur-station-source-reassure-turn-1",
+    "text": "Did someone speak to you, or did you overhear it?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/source"
+  },
+  {
+    "id": "detective-reed-arthur-station-source-rebuttal-ask",
+    "text": "Hale was the only constable who spoke to you. He says he didn’t mention the candlestick.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/source-rebuttal"
+  },
+  {
+    "id": "detective-reed-arthur-station-source-rebuttal-challenge",
+    "text": "This is where we found it. Hale kept you away from the search, and the recovery wasn’t discussed in front of you.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/source-rebuttal"
+  },
+  {
+    "id": "detective-reed-arthur-station-source-rebuttal-challenge-turn-1",
+    "text": "You knew where it was before we told you.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/source-rebuttal"
+  },
+  {
+    "id": "detective-reed-arthur-station-source-rebuttal-press",
+    "text": "You knew it was underneath the sacks. How?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/source-rebuttal"
+  },
+  {
+    "id": "detective-reed-arthur-station-source-rebuttal-press-turn-1",
+    "text": "You were kept away from the yard while we searched. Nobody discussed the recovery in front of you.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/source-rebuttal"
+  },
+  {
+    "id": "detective-reed-arthur-station-trunk-disputing-ask",
+    "text": "Mrs Baines saw a man carrying Nora’s trunk down the steps.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/trunk-disputing"
+  },
+  {
+    "id": "detective-reed-arthur-station-trunk-disputing-challenge",
+    "text": "The trunk was stained inside. Were you helping Nora pack?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/trunk-disputing"
+  },
+  {
+    "id": "detective-reed-arthur-station-trunk-disputing-challenge-turn-1",
+    "text": "Was she hurt when you were there?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/trunk-disputing"
+  },
+  {
+    "id": "detective-reed-arthur-station-trunk-disputing-reassure",
+    "text": "Did you see anyone else near Nora’s room?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/trunk-disputing"
+  },
+  {
+    "id": "detective-reed-arthur-station-trunk-disputing-reassure-turn-1",
+    "text": "There was blood inside the trunk.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/trunk-disputing"
+  },
+  {
+    "id": "detective-reed-arthur-station-trunk-helping-ask",
+    "text": "You said you carried Nora’s trunk down for her.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/trunk-helping"
+  },
+  {
+    "id": "detective-reed-arthur-station-trunk-helping-challenge",
+    "text": "There was blood beneath the clothes. What were you carrying?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/trunk-helping"
+  },
+  {
+    "id": "detective-reed-arthur-station-trunk-helping-challenge-turn-1",
+    "text": "You didn’t look inside?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/trunk-helping"
+  },
+  {
+    "id": "detective-reed-arthur-station-trunk-helping-reassure",
+    "text": "Did you know there was blood inside it?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/trunk-helping"
+  },
+  {
+    "id": "detective-reed-arthur-station-trunk-helping-reassure-turn-1",
+    "text": "Where was Nora when you carried it down?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/trunk-helping"
+  },
+  {
+    "id": "detective-reed-arthur-station-trunk-helping-reassure-turn-3",
+    "text": "Packing?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/trunk-helping"
+  },
+  {
+    "id": "detective-reed-arthur-station-yard-ask",
+    "text": "Had you read the newspaper you burnt?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "detective-reed-arthur-station-yard-challenge",
+    "text": "The scarf in this illustration is arranged like Nora’s. Did you put hers there?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "detective-reed-arthur-station-yard-challenge-turn-1",
+    "text": "George says he didn’t touch it. Hale found it still covering her face.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "detective-reed-arthur-station-yard-challenge-turn-3",
+    "text": "We’re asking about you.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "detective-reed-arthur-station-yard-reassure",
+    "text": "Why burn it that night?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "detective-reed-arthur-station-yard-reassure-turn-1",
+    "text": "The illustration shows a woman in a yard with a scarf over her face. Nora was found like that.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "detective-reed-arthur-station-yard-reassure-turn-3",
+    "text": "The wounds were made after her death. Someone wanted them to be seen.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "arthur-station/yard"
+  },
+  {
+    "id": "detective-reed-baines-arrival-candle-ask",
+    "text": "Where are you taking that candlestick?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines-arrival/candle"
+  },
+  {
+    "id": "detective-reed-baines-arrival-candle-reassure",
+    "text": "Is the handle meant to bend like that?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines-arrival/candle"
+  },
+  {
+    "id": "detective-reed-baines-arrival-rooms-ask",
+    "text": "That’s us. Thank you for putting us up.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines-arrival/rooms"
+  },
+  {
+    "id": "detective-reed-baines-arrival-rooms-press",
+    "text": "Don’t trouble yourself if we’re off before then. We won’t disturb anyone leaving early, will we?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines-arrival/rooms"
+  },
+  {
+    "id": "detective-reed-baines-arrival-rooms-press-turn-1",
+    "text": "We’ll mind the door. I hope Hale gave you enough notice?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines-arrival/rooms"
+  },
+  {
+    "id": "detective-reed-baines-arrival-rooms-reassure",
+    "text": "Seven will suit us nicely, thank you. Which way’s upstairs?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines-arrival/rooms"
+  },
+  {
+    "id": "detective-reed-baines-arrival-rooms-reassure-turn-1",
+    "text": "And if we’re out early, shall we go round the back?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines-arrival/rooms"
+  },
+  {
+    "id": "detective-reed-baines-blanket-ask",
+    "text": "Can you identify the blanket from the trunk?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/blanket"
+  },
+  {
+    "id": "detective-reed-baines-blanket-challenge",
+    "text": "This was under the loose clothes. Do you recognise it?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/blanket"
+  },
+  {
+    "id": "detective-reed-baines-blanket-reassure",
+    "text": "Do you recognise the edging?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/blanket"
+  },
+  {
+    "id": "detective-reed-baines-blanket-reassure-turn-1",
+    "text": "Where did you last leave it?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/blanket"
+  },
+  {
+    "id": "detective-reed-baines-cart-reassure",
+    "text": "Why was George’s cart left in the yard?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/cart"
+  },
+  {
+    "id": "detective-reed-baines-cart-reassure-turn-1",
+    "text": "Was it guarded overnight?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/cart"
+  },
+  {
+    "id": "detective-reed-baines-disturbance-ask",
+    "text": "Mrs Baines, we found blood beneath Nora’s rug and inside her trunk.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/disturbance"
+  },
+  {
+    "id": "detective-reed-baines-disturbance-challenge",
+    "text": "The blood means we need to ask about last night again.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/disturbance"
+  },
+  {
+    "id": "detective-reed-baines-disturbance-challenge-turn-1",
+    "text": "Are you afraid someone will come back?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/disturbance"
+  },
+  {
+    "id": "detective-reed-baines-disturbance-press",
+    "text": "You must have heard something. Tell us.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/disturbance"
+  },
+  {
+    "id": "detective-reed-baines-disturbance-reassure",
+    "text": "Something’s worrying you. What is it?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/disturbance"
+  },
+  {
+    "id": "detective-reed-baines-disturbance-reassure-turn-1",
+    "text": "Who do you mean?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/disturbance"
+  },
+  {
+    "id": "detective-reed-baines-friend-reassure",
+    "text": "Who else knew Nora well?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/friend"
+  },
+  {
+    "id": "detective-reed-baines-hiding-ask",
+    "text": "What did you do when you saw him?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/hiding"
+  },
+  {
+    "id": "detective-reed-baines-hiding-reassure",
+    "text": "You thought it was the man from the papers?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/hiding"
+  },
+  {
+    "id": "detective-reed-baines-hiding-reassure-turn-1",
+    "text": "Did you see what he did with the trunk?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/hiding"
+  },
+  {
+    "id": "detective-reed-baines-identify-candle-ask",
+    "text": "Is this the candlestick you put in Nora’s room?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/identify-candle"
+  },
+  {
+    "id": "detective-reed-baines-identify-candle-challenge",
+    "text": "We recovered this under the coal sacks. Was it Nora’s bedside light?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/identify-candle"
+  },
+  {
+    "id": "detective-reed-baines-identify-candle-challenge-turn-1",
+    "text": "You did not see it carried into the yard?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/identify-candle"
+  },
+  {
+    "id": "detective-reed-baines-identify-candle-reassure",
+    "text": "Do you recognise the damage?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/identify-candle"
+  },
+  {
+    "id": "detective-reed-baines-identify-candle-reassure-turn-1",
+    "text": "Do you know who put it in the cart?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/identify-candle"
+  },
+  {
+    "id": "detective-reed-baines-identify-man-ask",
+    "text": "Could the man you saw have been Arthur Vale?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/identify-man"
+  },
+  {
+    "id": "detective-reed-baines-identify-man-press",
+    "text": "Are you certain you wouldn’t recognise him?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/identify-man"
+  },
+  {
+    "id": "detective-reed-baines-identify-man-reassure",
+    "text": "Did you hear his voice?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/identify-man"
+  },
+  {
+    "id": "detective-reed-baines-missing-candle-ask",
+    "text": "What stood beside Nora’s bed?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/missing-candle"
+  },
+  {
+    "id": "detective-reed-baines-missing-candle-reassure",
+    "text": "How would we recognise it?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/missing-candle"
+  },
+  {
+    "id": "detective-reed-baines-missing-candle-reassure-turn-1",
+    "text": "Is it still there?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/missing-candle"
+  },
+  {
+    "id": "detective-reed-baines-safety-ask",
+    "text": "Hale has put a constable at the back steps. He’ll stay there while we finish our enquiries.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/safety"
+  },
+  {
+    "id": "detective-reed-baines-safety-reassure",
+    "text": "He’ll stay. We can sit away from the passage. Take your time.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/safety"
+  },
+  {
+    "id": "detective-reed-baines-safety-reassure-turn-1",
+    "text": "He won’t let anyone through.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/safety"
+  },
+  {
+    "id": "detective-reed-baines-sounds-ask",
+    "text": "What did you hear last night?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/sounds"
+  },
+  {
+    "id": "detective-reed-baines-sounds-reassure",
+    "text": "Could you make out what they were saying?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/sounds"
+  },
+  {
+    "id": "detective-reed-baines-sounds-reassure-turn-1",
+    "text": "Did you open your door?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/sounds"
+  },
+  {
+    "id": "detective-reed-baines-trunk-ask",
+    "text": "What happened after that?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/trunk"
+  },
+  {
+    "id": "detective-reed-baines-trunk-reassure",
+    "text": "What could you see?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/trunk"
+  },
+  {
+    "id": "detective-reed-baines-trunk-reassure-turn-1",
+    "text": "Did you see his face?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/trunk"
+  },
+  {
+    "id": "detective-reed-baines-visitor-ask",
+    "text": "When did you last see Nora?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/visitor"
+  },
+  {
+    "id": "detective-reed-baines-visitor-reassure",
+    "text": "How was she then?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/visitor"
+  },
+  {
+    "id": "detective-reed-baines-visitor-reassure-turn-1",
+    "text": "Did she ask you for anything?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "baines/visitor"
+  },
+  {
+    "id": "detective-reed-george-arrival-ask",
+    "text": "In a moment, Mr Moss. Tell us what happened this morning.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george/arrival"
+  },
+  {
+    "id": "detective-reed-george-arrival-collection-ask",
+    "text": "Busy evening?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george-arrival/collection"
+  },
+  {
+    "id": "detective-reed-george-arrival-collection-reassure",
+    "text": "Oh?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george-arrival/collection"
+  },
+  {
+    "id": "detective-reed-george-arrival-collection-reassure-turn-1",
+    "text": "An early start, then?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george-arrival/collection"
+  },
+  {
+    "id": "detective-reed-george-arrival-collection-reassure-turn-3",
+    "text": "Save yourself a journey?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george-arrival/collection"
+  },
+  {
+    "id": "detective-reed-george-arrival-collection-reassure-turn-5",
+    "text": "We’d best keep out of your way.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george-arrival/collection"
+  },
+  {
+    "id": "detective-reed-george-arrival-collection-reassure-turn-7",
+    "text": "Good night, then.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george-arrival/collection"
+  },
+  {
+    "id": "detective-reed-george-arrival-reassure",
+    "text": "Who did you speak to?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george/arrival"
+  },
+  {
+    "id": "detective-reed-george-arrival-reassure-turn-1",
+    "text": "Where did you find her?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george/arrival"
+  },
+  {
+    "id": "detective-reed-george-arrival-reassure-turn-3",
+    "text": "What did you do?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george/arrival"
+  },
+  {
+    "id": "detective-reed-george-arrival-reassure-turn-5",
+    "text": "Did you touch her before you went?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george/arrival"
+  },
+  {
+    "id": "detective-reed-george-arrival-reassure-turn-7",
+    "text": "Had you moved the cart?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george/arrival"
+  },
+  {
+    "id": "detective-reed-george-candlestick-ask",
+    "text": "Mr Moss. We found this under the coal sacks in your cart.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "detective-reed-george-candlestick-press",
+    "text": "It was hidden beneath sacks you handled last night. Why shouldn’t we think you put it there?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "detective-reed-george-candlestick-press-turn-1",
+    "text": "Had you touched the sacks this morning?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "detective-reed-george-candlestick-reassure",
+    "text": "That’s what we’re asking you.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "detective-reed-george-candlestick-reassure-turn-1",
+    "text": "When did you last handle those sacks?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "detective-reed-george-candlestick-reassure-turn-3",
+    "text": "Could anyone get at it while you were away?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "detective-reed-george-candlestick-reassure-turn-5",
+    "text": "And you hadn’t touched the sacks this morning?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "detective-reed-george-candlestick-reassure-turn-7",
+    "text": "We still have to ask.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "detective-reed-george-night-ask",
+    "text": "All right. What time did you leave here last night?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george/night"
+  },
+  {
+    "id": "detective-reed-george-night-reassure",
+    "text": "Did you see anyone coming or going?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george/night"
+  },
+  {
+    "id": "detective-reed-george-night-reassure-turn-1",
+    "text": "Did you hear anything from inside?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george/night"
+  },
+  {
+    "id": "detective-reed-george-night-reassure-turn-3",
+    "text": "And you didn’t come back until this morning?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george/night"
+  },
+  {
+    "id": "detective-reed-george-night-reassure-turn-5",
+    "text": "An officer will take you round to the horse. Come back to the yard afterwards—we may need another word.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "george/night"
+  },
+  {
+    "id": "detective-reed-hale-address-reassure",
+    "text": "Have you checked where Arthur and Nora were living?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/address"
+  },
+  {
+    "id": "detective-reed-hale-address-reassure-turn-1",
+    "text": "Has he given notice?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/address"
+  },
+  {
+    "id": "detective-reed-hale-address-reassure-turn-3",
+    "text": "Has anyone been inside his room?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/address"
+  },
+  {
+    "id": "detective-reed-hale-address-reassure-turn-5",
+    "text": "We’ll need to search it.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/address"
+  },
+  {
+    "id": "detective-reed-hale-address-reassure-turn-7",
+    "text": "Please. Arrange access for us. You’ll keep Arthur at Commercial Street.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/address"
+  },
+  {
+    "id": "detective-reed-hale-discovery-reassure",
+    "text": "Who found her?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-reed-hale-discovery-reassure-turn-1",
+    "text": "Where exactly?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-reed-hale-discovery-reassure-turn-11",
+    "text": "And her things?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-reed-hale-discovery-reassure-turn-13",
+    "text": "The scarf?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-reed-hale-discovery-reassure-turn-15",
+    "text": "Has anyone else told you they saw something?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-reed-hale-discovery-reassure-turn-17",
+    "text": "We’ll speak to her. Does Abberline know?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-reed-hale-discovery-reassure-turn-19",
+    "text": "Keep the yard clear while we have a look.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-reed-hale-discovery-reassure-turn-3",
+    "text": "What did you find when you got here?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-reed-hale-discovery-reassure-turn-5",
+    "text": "Did Moss put the scarf there?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-reed-hale-discovery-reassure-turn-7",
+    "text": "Where is she now?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-reed-hale-discovery-reassure-turn-9",
+    "text": "What did he say?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "detective-reed-hale-knife-reassure",
+    "text": "Was anything lying beside Nora?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/knife"
+  },
+  {
+    "id": "detective-reed-hale-knife-reassure-turn-1",
+    "text": "May we see it?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/knife"
+  },
+  {
+    "id": "detective-reed-hale-privacy-reassure",
+    "text": "Who has been allowed into the yard?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/privacy"
+  },
+  {
+    "id": "detective-reed-hale-privacy-reassure-turn-1",
+    "text": "Keep him there while we search. No one is to discuss what we find within his hearing.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/privacy"
+  },
+  {
+    "id": "detective-reed-hale-protection-reassure",
+    "text": "Mrs Baines is frightened whoever was here may come back. Will you arrange a watch at the steps while we speak to her?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/protection"
+  },
+  {
+    "id": "detective-reed-hale-protection-reassure-turn-1",
+    "text": "Will he remain there while we finish our enquiries?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale/protection"
+  },
+  {
+    "id": "detective-reed-hale-station-disclosure-reassure",
+    "text": "Arthur says one of our men told him where the candlestick was found. Who has spoken to him?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale-station/disclosure"
+  },
+  {
+    "id": "detective-reed-hale-station-disclosure-reassure-turn-1",
+    "text": "Did you mention the candlestick?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale-station/disclosure"
+  },
+  {
+    "id": "detective-reed-hale-station-disclosure-reassure-turn-3",
+    "text": "Could he have watched it, or heard us questioning Moss and Mrs Baines?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale-station/disclosure"
+  },
+  {
+    "id": "detective-reed-hale-station-disclosure-reassure-turn-5",
+    "text": "And the other officers?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "hale-station/disclosure"
+  },
+  {
+    "id": "detective-reed-maggie-brother-ask",
+    "text": "We’ve spoken to Arthur Vale. He says he’s her brother.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/brother"
+  },
+  {
+    "id": "detective-reed-maggie-brother-reassure",
+    "text": "That’s what he told us.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/brother"
+  },
+  {
+    "id": "detective-reed-maggie-brother-reassure-turn-1",
+    "text": "You’re certain we’re talking about the same man?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/brother"
+  },
+  {
+    "id": "detective-reed-maggie-closing-letter-reassure",
+    "text": "May we read what you have written?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie-closing/letter"
+  },
+  {
+    "id": "detective-reed-maggie-closing-letter-reassure-turn-1",
+    "text": "And the rest?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie-closing/letter"
+  },
+  {
+    "id": "detective-reed-maggie-closing-sister-ask",
+    "text": "Will you write to her sister?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie-closing/sister"
+  },
+  {
+    "id": "detective-reed-maggie-closing-sister-press",
+    "text": "Can you arrange the return of her belongings when they are released?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie-closing/sister"
+  },
+  {
+    "id": "detective-reed-maggie-closing-sister-press-turn-1",
+    "text": "She will also hear from us.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie-closing/sister"
+  },
+  {
+    "id": "detective-reed-maggie-closing-sister-reassure",
+    "text": "Tell her we will write about the enquiry, and that Nora’s things are safe.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie-closing/sister"
+  },
+  {
+    "id": "detective-reed-maggie-closing-sister-reassure-turn-1",
+    "text": "We will help with the belongings when they may be released.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie-closing/sister"
+  },
+  {
+    "id": "detective-reed-maggie-marriage-ask",
+    "text": "Was Nora married?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/marriage"
+  },
+  {
+    "id": "detective-reed-maggie-marriage-reassure",
+    "text": "Did you know them both?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/marriage"
+  },
+  {
+    "id": "detective-reed-maggie-name-reassure",
+    "text": "Her travelling papers are addressed to Nora Finch. Do you know why?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/name"
+  },
+  {
+    "id": "detective-reed-maggie-name-reassure-turn-1",
+    "text": "Who did she marry?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/name"
+  },
+  {
+    "id": "detective-reed-maggie-name-reassure-turn-3",
+    "text": "Do you have anything with her earlier name on it?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/name"
+  },
+  {
+    "id": "detective-reed-maggie-photograph-reassure",
+    "text": "May we see a photograph of Nora?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/photograph"
+  },
+  {
+    "id": "detective-reed-maggie-photograph-reassure-turn-1",
+    "text": "When was this taken?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/photograph"
+  },
+  {
+    "id": "detective-reed-maggie-privacy-ask",
+    "text": "Maggie Shaw? We’re enquiring into Nora Vale’s death.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/privacy"
+  },
+  {
+    "id": "detective-reed-maggie-privacy-challenge",
+    "text": "Were you helping Nora hide from someone?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/privacy"
+  },
+  {
+    "id": "detective-reed-maggie-privacy-press",
+    "text": "What are you afraid he’ll hear?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/privacy"
+  },
+  {
+    "id": "detective-reed-maggie-privacy-press-turn-1",
+    "text": "He hasn’t come with us. We can shut the door.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/privacy"
+  },
+  {
+    "id": "detective-reed-maggie-privacy-reassure",
+    "text": "He hasn’t come with us. We can speak privately.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/privacy"
+  },
+  {
+    "id": "detective-reed-maggie-privacy-reassure-turn-1",
+    "text": "Of course.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/privacy"
+  },
+  {
+    "id": "detective-reed-maggie-separation-ask",
+    "text": "Why was Nora staying at the Lantern?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-reed-maggie-separation-reassure",
+    "text": "Did she tell you why?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-reed-maggie-separation-reassure-turn-1",
+    "text": "What was happening between them?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-reed-maggie-separation-reassure-turn-11",
+    "text": "Is he still there?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-reed-maggie-separation-reassure-turn-13",
+    "text": "We’ll check. Thank you for speaking to us.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-reed-maggie-separation-reassure-turn-15",
+    "text": "We’ll arrange for word to reach her.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-reed-maggie-separation-reassure-turn-3",
+    "text": "You saw that yourself?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-reed-maggie-separation-reassure-turn-5",
+    "text": "What did she tell you?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-reed-maggie-separation-reassure-turn-7",
+    "text": "Did Arthur know she was going to Bristol?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-reed-maggie-separation-reassure-turn-9",
+    "text": "Where had they been living?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "detective-reed-maggie-work-ask",
+    "text": "You worked beside Nora?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/work"
+  },
+  {
+    "id": "detective-reed-maggie-work-reassure",
+    "text": "Was she looking forward to Bristol?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/work"
+  },
+  {
+    "id": "detective-reed-maggie-work-reassure-turn-1",
+    "text": "Would that have been a problem?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "maggie/work"
+  },
+  {
+    "id": "detective-reed-nora-journey-ask",
+    "text": "Are you travelling tomorrow?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "nora/journey"
+  },
+  {
+    "id": "detective-reed-nora-journey-reassure",
+    "text": "Have you bought your ticket?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "nora/journey"
+  },
+  {
+    "id": "detective-reed-nora-journey-reassure-turn-1",
+    "text": "Not looking forward to it?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "nora/journey"
+  },
+  {
+    "id": "detective-reed-nora-journey-reassure-turn-3",
+    "text": "Have you much to take?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "nora/journey"
+  },
+  {
+    "id": "detective-reed-nora-paper-ask",
+    "text": "Something on your mind?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "nora/paper"
+  },
+  {
+    "id": "detective-reed-nora-paper-reassure",
+    "text": "Some of it.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "nora/paper"
+  },
+  {
+    "id": "detective-reed-nora-paper-reassure-turn-1",
+    "text": "Which part?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "nora/paper"
+  },
+  {
+    "id": "detective-reed-nora-paper-reassure-turn-11",
+    "text": "Best stand there, then.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "nora/paper"
+  },
+  {
+    "id": "detective-reed-nora-paper-reassure-turn-3",
+    "text": "I wouldn’t take every word in that paper for the truth.",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "nora/paper"
+  },
+  {
+    "id": "detective-reed-nora-paper-reassure-turn-5",
+    "text": "Do you have far to walk after work?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "nora/paper"
+  },
+  {
+    "id": "detective-reed-nora-paper-reassure-turn-7",
+    "text": "Could you walk together?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "nora/paper"
+  },
+  {
+    "id": "detective-reed-nora-paper-reassure-turn-9",
+    "text": "Will your sister meet you?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "nora/paper"
+  },
+  {
+    "id": "detective-reed-nora-work-ask",
+    "text": "We’re not keeping you from your work?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "nora/work"
+  },
+  {
+    "id": "detective-reed-nora-work-reassure",
+    "text": "Can you mend it?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "nora/work"
+  },
+  {
+    "id": "detective-reed-nora-work-reassure-turn-1",
+    "text": "Do you sew for a living?",
+    "speakerId": "reed",
+    "speakerName": "Inspector Reed",
+    "source": "nora/work"
+  },
+  {
+    "id": "george-arrival-claim",
+    "text": "I brought him round to fetch the trunk. Left him outside and came in to see if they were ready.",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/arrival"
+  },
+  {
+    "id": "george-arrival-collection-claim",
+    "text": "Just finishing. Mrs Baines wanted the coal brought in, and now she’s found me another job for the morning.",
+    "speakerId": "george-arrival",
+    "speakerName": "George Moss",
+    "source": "george-arrival/collection"
+  },
+  {
+    "id": "george-arrival-collection-reassure",
+    "text": "A trunk to the station. One of her lodgers is off to Bristol.",
+    "speakerId": "george-arrival",
+    "speakerName": "George Moss",
+    "source": "george-arrival/collection"
+  },
+  {
+    "id": "george-arrival-collection-reassure-turn-2",
+    "text": "Early enough. I’m leaving the cart here tonight. Just got to take the horse back to his stable.",
+    "speakerId": "george-arrival",
+    "speakerName": "George Moss",
+    "source": "george-arrival/collection"
+  },
+  {
+    "id": "george-arrival-collection-reassure-turn-4",
+    "text": "Save dragging the cart round again, anyway. I’ll bring the horse over in the morning and fetch the trunk down.",
+    "speakerId": "george-arrival",
+    "speakerName": "George Moss",
+    "source": "george-arrival/collection"
+  },
+  {
+    "id": "george-arrival-collection-reassure-turn-6",
+    "text": "You’ll hear me coming. Especially if it’s as heavy as Mrs Baines says.",
+    "speakerId": "george-arrival",
+    "speakerName": "George Moss",
+    "source": "george-arrival/collection"
+  },
+  {
+    "id": "george-arrival-collection-reassure-turn-8",
+    "text": "Good night, gentlemen.",
+    "speakerId": "george-arrival",
+    "speakerName": "George Moss",
+    "source": "george-arrival/collection"
+  },
+  {
+    "id": "george-arrival-greeting",
+    "text": "Mind the step. There’s coal all over it.",
+    "speakerId": "george-arrival",
+    "speakerName": "George Moss",
+    "source": "george-arrival/greeting"
+  },
+  {
+    "id": "george-arrival-reassure",
+    "text": "Mrs Baines. She said Nora hadn’t come down. Asked if I’d help see what was keeping her.",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/arrival"
+  },
+  {
+    "id": "george-arrival-reassure-turn-2",
+    "text": "Beyond the washhouse. I was going towards the steps when I saw her.",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/arrival"
+  },
+  {
+    "id": "george-arrival-reassure-turn-4",
+    "text": "Went for the constable.",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/arrival"
+  },
+  {
+    "id": "george-arrival-reassure-turn-6",
+    "text": "No. There was a scarf over her face. I left it where it was.",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/arrival"
+  },
+  {
+    "id": "george-arrival-reassure-turn-8",
+    "text": "Hadn’t got that far. The horse was still outside. I’d only just come through.",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/arrival"
+  },
+  {
+    "id": "george-candlestick-claim",
+    "text": "A candlestick? What’s that doing there?",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "george-candlestick-press",
+    "text": "Because I left the cart here. Anyone could get at it after I went.",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "george-candlestick-press-turn-2",
+    "text": "No. I found Nora and fetched Hale. I didn’t put that candlestick there.",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "george-candlestick-reassure",
+    "text": "Well, I didn’t put it there.",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "george-candlestick-reassure-turn-2",
+    "text": "Last night, finishing the delivery. I left the cart here afterwards.",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "george-candlestick-reassure-turn-4",
+    "text": "Anyone who came into the yard. There’s nothing to stop them.",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "george-candlestick-reassure-turn-6",
+    "text": "No. I found her and went for Hale. I’ve told you.",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "george-candlestick-reassure-turn-8",
+    "text": "I know. But I came here to do a job. Then I found that poor woman, and now you’re looking through my cart.",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/candlestick"
+  },
+  {
+    "id": "george-greeting",
+    "text": "Can I see to the horse? He’s still waiting outside.",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/greeting"
+  },
+  {
+    "id": "george-night-claim",
+    "text": "I couldn’t give you the hour. Finished the coal, settled about the trunk, then took the horse back to his stable.",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/night"
+  },
+  {
+    "id": "george-night-reassure",
+    "text": "No. I wasn’t watching the door. I had the horse to see to.",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/night"
+  },
+  {
+    "id": "george-night-reassure-turn-2",
+    "text": "Nothing. I was off down the street by then.",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/night"
+  },
+  {
+    "id": "george-night-reassure-turn-4",
+    "text": "No.",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/night"
+  },
+  {
+    "id": "george-night-reassure-turn-6",
+    "text": "Right. Thank you.",
+    "speakerId": "george",
+    "speakerName": "George Moss",
+    "source": "george/night"
+  },
+  {
+    "id": "hale-address-reassure",
+    "text": "Yes, sir. I sent an officer to Bell’s shop. The landlord confirms Arthur’s still in the upstairs room.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/address"
+  },
+  {
+    "id": "hale-address-reassure-turn-2",
+    "text": "No, sir.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/address"
+  },
+  {
+    "id": "hale-address-reassure-turn-4",
+    "text": "No, sir. The officer spoke to the landlord downstairs. Arthur still occupies the room.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/address"
+  },
+  {
+    "id": "hale-address-reassure-turn-6",
+    "text": "Shall I arrange that?",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/address"
+  },
+  {
+    "id": "hale-discovery-reassure",
+    "text": "George Moss, the carman. He came for her trunk this morning. Found her in the yard and came straight for me.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "hale-discovery-reassure-turn-10",
+    "text": "That she was dead. He wanted a proper examination before saying any more. He’s expecting you at his workroom.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "hale-discovery-reassure-turn-12",
+    "text": "The trunk’s still here. So’s the cart. We didn’t use either to move her.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "hale-discovery-reassure-turn-14",
+    "text": "Kept with her effects. I wrote down how it lay before she was moved.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "hale-discovery-reassure-turn-16",
+    "text": "You’ll want Mrs Baines’s account. I’ve kept people back, but I haven’t had a proper word with her yet.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "hale-discovery-reassure-turn-18",
+    "text": "Yes. He wants you on this enquiry. I’ll remain with Arthur. The constable at the back is keeping her belongings secure.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "hale-discovery-reassure-turn-2",
+    "text": "Beyond the washhouse. You can’t see the corner until you come into the yard.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "hale-discovery-reassure-turn-20",
+    "text": "Of course, sir.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "hale-discovery-reassure-turn-4",
+    "text": "She was lying there with her scarf across her face. I sent for Dr Alden.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "hale-discovery-reassure-turn-6",
+    "text": "He says it was already like that. Says he hadn’t touched it.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "hale-discovery-reassure-turn-8",
+    "text": "At the mortuary. Alden examined her in the yard first, then we brought a stretcher.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/discovery"
+  },
+  {
+    "id": "hale-greeting",
+    "text": "Inspectors. Arthur is waiting here with me. A constable is keeping the yard clear.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/greeting"
+  },
+  {
+    "id": "hale-knife-reassure",
+    "text": "A knife. It was out in the open beside her. I picked it up before they brought the stretcher. I’ve kept it wrapped here.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/knife"
+  },
+  {
+    "id": "hale-knife-reassure-turn-2",
+    "text": "Of course. I haven’t established who it belongs to.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/knife"
+  },
+  {
+    "id": "hale-privacy-reassure",
+    "text": "Moss, the doctor and the removal men. There’s a constable guarding the yard now. Arthur came after the removal; I’ve kept him here with me.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/privacy"
+  },
+  {
+    "id": "hale-privacy-reassure-turn-2",
+    "text": "Understood. The rear passage is shut. Speak to Moss in the yard and Mrs Baines in her own room. I won’t let anyone go between them and Arthur.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/privacy"
+  },
+  {
+    "id": "hale-protection-reassure",
+    "text": "I’ll put a constable at the back steps. Mrs Baines can see him from her window.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/protection"
+  },
+  {
+    "id": "hale-protection-reassure-turn-2",
+    "text": "Yes, sir. I’ll stay here with Arthur.",
+    "speakerId": "hale",
+    "speakerName": "Constable Hale",
+    "source": "hale/protection"
+  },
+  {
+    "id": "hale-station-disclosure-reassure",
+    "text": "Only me, apart from you. I spoke to him at the front and brought him here myself.",
+    "speakerId": "hale-station",
+    "speakerName": "Constable Hale",
+    "source": "hale-station/disclosure"
+  },
+  {
+    "id": "hale-station-disclosure-reassure-turn-2",
+    "text": "No, sir. I told him Nora had been found in the yard. Nothing about the cart search.",
+    "speakerId": "hale-station",
+    "speakerName": "Constable Hale",
+    "source": "hale-station/disclosure"
+  },
+  {
+    "id": "hale-station-disclosure-reassure-turn-4",
+    "text": "No. I kept the rear passage shut. Moss spoke in the yard; an officer took him round to his horse and back without passing through the front. Mrs Baines spoke in her own room. Neither has been in to see him.",
+    "speakerId": "hale-station",
+    "speakerName": "Constable Hale",
+    "source": "hale-station/disclosure"
+  },
+  {
+    "id": "hale-station-disclosure-reassure-turn-6",
+    "text": "The removal men left before he arrived. The yard constable and the officer checking his address kept away from him. He’s been with me throughout. Nobody else has spoken to him.",
+    "speakerId": "hale-station",
+    "speakerName": "Constable Hale",
+    "source": "hale-station/disclosure"
+  },
+  {
+    "id": "hale-station-greeting",
+    "text": "Inspectors. I’m here if you need me.",
+    "speakerId": "hale-station",
+    "speakerName": "Constable Hale",
+    "source": "hale-station/greeting"
+  },
+  {
+    "id": "maggie-brother-claim",
+    "text": "Her brother?",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/brother"
+  },
+  {
+    "id": "maggie-brother-reassure",
+    "text": "Arthur was her husband. I was at their wedding.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/brother"
+  },
+  {
+    "id": "maggie-brother-reassure-turn-2",
+    "text": "I’ve a photograph. You can see for yourselves.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/brother"
+  },
+  {
+    "id": "maggie-closing-greeting",
+    "text": "I’ve started three times. There is no decent first sentence for a letter like this.",
+    "speakerId": "maggie-closing",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie-closing/greeting"
+  },
+  {
+    "id": "maggie-closing-letter-reassure",
+    "text": "You may. I have said the enquiry is complete, and that you will write to her.",
+    "speakerId": "maggie-closing",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie-closing/letter"
+  },
+  {
+    "id": "maggie-closing-letter-reassure-turn-2",
+    "text": "Her things, her work, the ticket. She should have been in Bristol by now.",
+    "speakerId": "maggie-closing",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie-closing/letter"
+  },
+  {
+    "id": "maggie-closing-sister-claim",
+    "text": "You’ve sent word. But she’ll want to hear from someone who knew Nora here.",
+    "speakerId": "maggie-closing",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie-closing/sister"
+  },
+  {
+    "id": "maggie-closing-sister-press",
+    "text": "Yes. I know where to send them. I’ll tell her the police are keeping them safe for now.",
+    "speakerId": "maggie-closing",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie-closing/sister"
+  },
+  {
+    "id": "maggie-closing-sister-press-turn-2",
+    "text": "Then I can write about Nora, instead of trying to explain every part of the enquiry.",
+    "speakerId": "maggie-closing",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie-closing/sister"
+  },
+  {
+    "id": "maggie-closing-sister-reassure",
+    "text": "I will. I’m telling her Nora had everything ready, and that her sewing case is here.",
+    "speakerId": "maggie-closing",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie-closing/sister"
+  },
+  {
+    "id": "maggie-closing-sister-reassure-turn-2",
+    "text": "She should have arrived with them herself.",
+    "speakerId": "maggie-closing",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie-closing/sister"
+  },
+  {
+    "id": "maggie-greeting",
+    "text": "Can I help you?",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/greeting"
+  },
+  {
+    "id": "maggie-marriage-claim",
+    "text": "To Arthur Vale.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/marriage"
+  },
+  {
+    "id": "maggie-marriage-reassure",
+    "text": "Yes. I was at their wedding. I’ve a photograph. You can see for yourselves.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/marriage"
+  },
+  {
+    "id": "maggie-name-reassure",
+    "text": "Finch was her name before she married. She wanted to use it again.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/name"
+  },
+  {
+    "id": "maggie-name-reassure-turn-2",
+    "text": "Arthur Vale.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/name"
+  },
+  {
+    "id": "maggie-name-reassure-turn-4",
+    "text": "Her old work card. It’ll be with the accounts.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/name"
+  },
+  {
+    "id": "maggie-photograph-reassure",
+    "text": "Nora and her mother. Arthur on the right.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/photograph"
+  },
+  {
+    "id": "maggie-photograph-reassure-turn-2",
+    "text": "Their wedding day. Eighth of June, four years ago. It’s written on the back.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/photograph"
+  },
+  {
+    "id": "maggie-privacy-challenge",
+    "text": "Is Arthur outside? I need to know before I say anything else.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/privacy"
+  },
+  {
+    "id": "maggie-privacy-claim",
+    "text": "Then it’s true. They said a woman had been found at the Lantern. Before I say anything—is Arthur with you?",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/privacy"
+  },
+  {
+    "id": "maggie-privacy-press",
+    "text": "That I helped her. She asked me to keep quiet until she was away.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/privacy"
+  },
+  {
+    "id": "maggie-privacy-press-turn-2",
+    "text": "Please. Then I’ll tell you what I can.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/privacy"
+  },
+  {
+    "id": "maggie-privacy-reassure",
+    "text": "Could you shut the door, please?",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/privacy"
+  },
+  {
+    "id": "maggie-privacy-reassure-turn-2",
+    "text": "Nora asked me to keep quiet until she was away. I helped her with a few things.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/privacy"
+  },
+  {
+    "id": "maggie-separation-claim",
+    "text": "She’d left him.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "maggie-separation-reassure",
+    "text": "She asked me not to say anything until she was away.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "maggie-separation-reassure-turn-10",
+    "text": "Above Bell’s boot-repair shop, off Commercial Road. The upstairs room.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "maggie-separation-reassure-turn-12",
+    "text": "As far as I know.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "maggie-separation-reassure-turn-14",
+    "text": "Will someone tell her sister? She’ll be waiting at the station.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "maggie-separation-reassure-turn-2",
+    "text": "He’d come here for her wages. Wait outside when we finished. If she stopped to speak to someone, he wanted to know who.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "maggie-separation-reassure-turn-4",
+    "text": "Yes. The money, the waiting. What happened at home, I only know what she told me.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "maggie-separation-reassure-turn-6",
+    "text": "That she couldn’t go anywhere without having to explain herself afterwards. She wanted to leave, so I helped her take a few things to the Lantern.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "maggie-separation-reassure-turn-8",
+    "text": "I didn’t tell him. I don’t know what she said to him.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/separation"
+  },
+  {
+    "id": "maggie-work-claim",
+    "text": "At this table. That’s her work there. I haven’t moved it.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/work"
+  },
+  {
+    "id": "maggie-work-reassure",
+    "text": "Yes. Worried about making a start somewhere new, of course. She kept asking whether they’d expect her to work faster.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/work"
+  },
+  {
+    "id": "maggie-work-reassure-turn-2",
+    "text": "Not once she knew their ways. She was good.",
+    "speakerId": "maggie",
+    "speakerName": "Maggie Shaw",
+    "source": "maggie/work"
+  },
+  {
+    "id": "nora-greeting",
+    "text": "There’s room here. Mind the pins.",
+    "speakerId": "nora",
+    "speakerName": "Nora Vale",
+    "source": "nora/greeting"
+  },
+  {
+    "id": "nora-journey-claim",
+    "text": "Yes. Bristol. My sister’s found me work and a room near hers. The work’s a trial, anyway.",
+    "speakerId": "nora",
+    "speakerName": "Nora Vale",
+    "source": "nora/journey"
+  },
+  {
+    "id": "nora-journey-reassure",
+    "text": "Yes. There’s no putting it off now.",
+    "speakerId": "nora",
+    "speakerName": "Nora Vale",
+    "source": "nora/journey"
+  },
+  {
+    "id": "nora-journey-reassure-turn-2",
+    "text": "Seeing my sister, yes. Walking into a room full of women who’ve worked together for years… I’ll be glad when the first day’s over.",
+    "speakerId": "nora",
+    "speakerName": "Nora Vale",
+    "source": "nora/journey"
+  },
+  {
+    "id": "nora-journey-reassure-turn-4",
+    "text": "One trunk. George is taking it to the station. My sewing things will come with me. I’d rather keep hold of those.",
+    "speakerId": "nora",
+    "speakerName": "Nora Vale",
+    "source": "nora/journey"
+  },
+  {
+    "id": "nora-paper-claim",
+    "text": "Have you read this?",
+    "speakerId": "nora",
+    "speakerName": "Nora Vale",
+    "source": "nora/paper"
+  },
+  {
+    "id": "nora-paper-reassure",
+    "text": "Is there any truth in this? About the murders?",
+    "speakerId": "nora",
+    "speakerName": "Nora Vale",
+    "source": "nora/paper"
+  },
+  {
+    "id": "nora-paper-reassure-turn-10",
+    "text": "She’s already said she will. I’ve had two letters telling me where to stand.",
+    "speakerId": "nora",
+    "speakerName": "Nora Vale",
+    "source": "nora/paper"
+  },
+  {
+    "id": "nora-paper-reassure-turn-12",
+    "text": "I shall. She’ll never let me hear the end of it otherwise. There. Mrs Baines can have her arm back.",
+    "speakerId": "nora",
+    "speakerName": "Nora Vale",
+    "source": "nora/paper"
+  },
+  {
+    "id": "nora-paper-reassure-turn-2",
+    "text": "They make it sound as though he could walk into any street, kill another woman, then simply walk away.",
+    "speakerId": "nora",
+    "speakerName": "Nora Vale",
+    "source": "nora/paper"
+  },
+  {
+    "id": "nora-paper-reassure-turn-4",
+    "text": "Mrs Baines reads every word. Then she tells me I shouldn’t worry.",
+    "speakerId": "nora",
+    "speakerName": "Nora Vale",
+    "source": "nora/paper"
+  },
+  {
+    "id": "nora-paper-reassure-turn-6",
+    "text": "Not far. Far enough when there’s nobody about. Last night I heard someone behind me and crossed the road. It was a woman from the workshop.",
+    "speakerId": "nora",
+    "speakerName": "Nora Vale",
+    "source": "nora/paper"
+  },
+  {
+    "id": "nora-paper-reassure-turn-8",
+    "text": "We did, after that. She’d been trying to catch me up. Neither of us fancied walking alone.",
+    "speakerId": "nora",
+    "speakerName": "Nora Vale",
+    "source": "nora/paper"
+  },
+  {
+    "id": "nora-work-claim",
+    "text": "It’s Mrs Baines’s sleeve. She caught it on a nail and made it worse trying to get free.",
+    "speakerId": "nora",
+    "speakerName": "Nora Vale",
+    "source": "nora/work"
+  },
+  {
+    "id": "nora-work-reassure",
+    "text": "Nearly done. Though I did tell her the nail wants seeing to as well.",
+    "speakerId": "nora",
+    "speakerName": "Nora Vale",
+    "source": "nora/work"
+  },
+  {
+    "id": "nora-work-reassure-turn-2",
+    "text": "Yes. Mostly alterations. I’m starting at another place on Monday.",
+    "speakerId": "nora",
+    "speakerName": "Nora Vale",
+    "source": "nora/work"
+  }
+]

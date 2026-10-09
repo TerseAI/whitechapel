@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-91b3eb4c60cb7e937436c34ed0666ce48c7d394ab158a2d4b97fd3e326f2a3a9-reviewed.mp3",
+  "text": "Did you know there was blood inside it?",
+  "durationMs": 2808,
+  "sha256": "91b3eb4c60cb7e937436c34ed0666ce48c7d394ab158a2d4b97fd3e326f2a3a9",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "bb1c93b0fc95bced9a736273dfcd657e64e835c1c64056c57cf4866abb00e320"
+}

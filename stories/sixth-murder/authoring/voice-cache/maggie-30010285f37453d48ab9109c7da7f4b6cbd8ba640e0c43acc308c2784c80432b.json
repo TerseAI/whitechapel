@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-30010285f37453d48ab9109c7da7f4b6cbd8ba640e0c43acc308c2784c80432b-reviewed.mp3",
+  "text": "She’d left him.",
+  "durationMs": 1608,
+  "sha256": "30010285f37453d48ab9109c7da7f4b6cbd8ba640e0c43acc308c2784c80432b",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "b7380272d273feb37480f4ad0f2dd465a28675f299d3f4cccdf219ec570f5733"
+}

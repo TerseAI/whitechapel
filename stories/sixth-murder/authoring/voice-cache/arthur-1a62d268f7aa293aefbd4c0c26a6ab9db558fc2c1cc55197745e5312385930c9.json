@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-1a62d268f7aa293aefbd4c0c26a6ab9db558fc2c1cc55197745e5312385930c9-reviewed.mp3",
+  "text": "Then perhaps you ought to be looking for the man in the papers.",
+  "durationMs": 3864,
+  "sha256": "1a62d268f7aa293aefbd4c0c26a6ab9db558fc2c1cc55197745e5312385930c9",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "2d3f4b9cfc1b07a04d73d220786d355e79fa13ee56ee187045b4bd30a5429280"
+}

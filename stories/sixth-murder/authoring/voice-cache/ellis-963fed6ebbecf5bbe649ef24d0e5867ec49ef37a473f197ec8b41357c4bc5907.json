@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-963fed6ebbecf5bbe649ef24d0e5867ec49ef37a473f197ec8b41357c4bc5907-reviewed.mp3",
+  "text": "Did you see what he did with the trunk?",
+  "durationMs": 2544,
+  "sha256": "963fed6ebbecf5bbe649ef24d0e5867ec49ef37a473f197ec8b41357c4bc5907",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "d3c62bea9316847f0bebe532e1c0f9556af418f4c566435a12107e6d787b1d2c"
+}

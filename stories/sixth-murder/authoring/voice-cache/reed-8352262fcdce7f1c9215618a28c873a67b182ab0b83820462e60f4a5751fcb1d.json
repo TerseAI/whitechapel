@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-8352262fcdce7f1c9215618a28c873a67b182ab0b83820462e60f4a5751fcb1d-reviewed.mp3",
+  "text": "We’ve spoken to Arthur Vale. He says he’s her brother.",
+  "durationMs": 5016,
+  "sha256": "8352262fcdce7f1c9215618a28c873a67b182ab0b83820462e60f4a5751fcb1d",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "466306aa58f083445340e7c0c96843098de17683fa1f9a9a3c5b04fb61315890"
+}

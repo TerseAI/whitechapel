@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-a63bab056c1f945a0a08ffdf206b95a033626af4fe0b4f054a9a9a7428f3db50-reviewed.mp3",
+  "text": "You’ll hear me coming. Especially if it’s as heavy as Mrs Baines says.",
+  "durationMs": 5016,
+  "sha256": "a63bab056c1f945a0a08ffdf206b95a033626af4fe0b4f054a9a9a7428f3db50",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "fcf60f84090066a1420869924fe05f87e199aaa3fd74624ac4a1535a90e206d1"
+}

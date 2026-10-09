@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-f3782a0ab16e62b95d3808923b3876786fed1ca8ae3895ae7ffa339d8407a21a-reviewed.mp3",
+  "text": "Had Nora asked you to come and see her?",
+  "durationMs": 3144,
+  "sha256": "f3782a0ab16e62b95d3808923b3876786fed1ca8ae3895ae7ffa339d8407a21a",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "d732f3d3740a1a1d8564d7543a25190f05e61638ffb2b4f7f90b6149a2254ecf"
+}

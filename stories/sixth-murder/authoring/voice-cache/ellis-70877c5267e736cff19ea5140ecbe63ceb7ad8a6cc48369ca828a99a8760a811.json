@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-70877c5267e736cff19ea5140ecbe63ceb7ad8a6cc48369ca828a99a8760a811-reviewed.mp3",
+  "text": "Don’t trouble yourself if we’re off before then. We won’t disturb anyone leaving early, will we?",
+  "durationMs": 5904,
+  "sha256": "70877c5267e736cff19ea5140ecbe63ceb7ad8a6cc48369ca828a99a8760a811",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "3e35e00e09cb02bf3aeb67a7e16ca9ba82fb1d5b87ebf872964152f8b7726aa4"
+}

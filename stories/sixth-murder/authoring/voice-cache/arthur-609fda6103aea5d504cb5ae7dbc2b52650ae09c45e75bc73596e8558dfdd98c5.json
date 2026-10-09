@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-609fda6103aea5d504cb5ae7dbc2b52650ae09c45e75bc73596e8558dfdd98c5-reviewed.mp3",
+  "text": "Of course. Just let me know when we can make the arrangements.",
+  "durationMs": 4656,
+  "sha256": "609fda6103aea5d504cb5ae7dbc2b52650ae09c45e75bc73596e8558dfdd98c5",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "8b0d5cc01672dcecf6f4c2f64582090d581dc60f5c245e05bcca9a5a1b81ac54"
+}

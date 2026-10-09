@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-46c9acbf720b9a28b953e841aaee7b125d814abf629f17abb4f99f1aa342203d-reviewed.mp3",
+  "text": "Why George?",
+  "durationMs": 2256,
+  "sha256": "46c9acbf720b9a28b953e841aaee7b125d814abf629f17abb4f99f1aa342203d",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "3a47f8493205d906c6688791fbd2a3605fa0778a01bad69cb8f63c27292efc59"
+}

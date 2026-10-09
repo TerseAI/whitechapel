@@ -1,0 +1,13 @@
+{
+  "src": "audio/maggie-da990d469cc9f32f80156e41372d55a87f4724959a0c6fdf5977f2646bc65863-reviewed.mp3",
+  "text": "Arthur Vale.",
+  "durationMs": 1728,
+  "sha256": "da990d469cc9f32f80156e41372d55a87f4724959a0c6fdf5977f2646bc65863",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "93c3671ec8e65d7df52dd56e486a4946cd09f37e28549eff8ce7c81066a6af17",
+  "prompt": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful. Read the supplied dialogue exactly, in a natural British English voice, with clean studio audio. Speech only; no music or sound effects.",
+  "synthesisText": "\"Arthur Vale.\""
+}

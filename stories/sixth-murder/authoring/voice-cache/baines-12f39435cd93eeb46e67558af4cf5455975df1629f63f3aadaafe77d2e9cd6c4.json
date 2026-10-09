@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-12f39435cd93eeb46e67558af4cf5455975df1629f63f3aadaafe77d2e9cd6c4-reviewed.mp3",
+  "text": "I didn’t see the man’s face. I can’t tell you whether it was Mr Vale.",
+  "durationMs": 5736,
+  "sha256": "12f39435cd93eeb46e67558af4cf5455975df1629f63f3aadaafe77d2e9cd6c4",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "743479de58188c3059837ecc8e1782584672743ce645e0a203d0617e9d4845c6"
+}

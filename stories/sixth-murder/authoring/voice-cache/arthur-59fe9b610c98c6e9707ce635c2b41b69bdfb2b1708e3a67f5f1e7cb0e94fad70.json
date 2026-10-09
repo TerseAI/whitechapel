@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-59fe9b610c98c6e9707ce635c2b41b69bdfb2b1708e3a67f5f1e7cb0e94fad70-reviewed.mp3",
+  "text": "She was still packing. I was helping her with the luggage.",
+  "durationMs": 4104,
+  "sha256": "59fe9b610c98c6e9707ce635c2b41b69bdfb2b1708e3a67f5f1e7cb0e94fad70",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "3795d24d7ef15cb1932896037bc6acccd267eadc4d15faa3af8351996bd92352"
+}

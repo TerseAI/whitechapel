@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-d82821352f7578bda2360e5c49927cf8507dd66a6ff6706855952a725b18dfc4-reviewed.mp3",
+  "text": "Where’s the complete photograph she says she has?",
+  "durationMs": 3768,
+  "sha256": "d82821352f7578bda2360e5c49927cf8507dd66a6ff6706855952a725b18dfc4",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "466c0af47c734c4c3bc595e071490b12270a7a7c717f034618ead3615aff91ff"
+}

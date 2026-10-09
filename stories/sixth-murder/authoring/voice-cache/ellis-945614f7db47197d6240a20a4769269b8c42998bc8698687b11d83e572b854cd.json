@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-945614f7db47197d6240a20a4769269b8c42998bc8698687b11d83e572b854cd-reviewed.mp3",
+  "text": "In the trunk?",
+  "durationMs": 1464,
+  "sha256": "945614f7db47197d6240a20a4769269b8c42998bc8698687b11d83e572b854cd",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "750e5c816d0896ed55e9491ed4cb8409919ec01e97d572c861257ae77ee05328"
+}

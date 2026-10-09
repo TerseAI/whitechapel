@@ -1,0 +1,11 @@
+{
+  "src": "audio/nora-b06c9bfaddc04fa38f1f74916d8efce767ef861b7a33d962659cb0f815f78924-reviewed.mp3",
+  "text": "Seeing my sister, yes. Walking into a room full of women who’ve worked together for years… I’ll be glad when the first day’s over.",
+  "durationMs": 9288,
+  "sha256": "b06c9bfaddc04fa38f1f74916d8efce767ef861b7a33d962659cb0f815f78924",
+  "actor": "nora",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Leda",
+  "direction": "Nora Vale, a 30-year-old English needleworker. Quiet clear and capable voice with a subtle working London accent; occasional dry humour and gentle uncertainty. Light clear mezzo, agile rhythm, soft precise consonants and a small dry lift on a witty observation. Speak with adult confidence, never breathy, childlike or portentous.",
+  "audioSha256": "6067360b2c2d42c7d8c1fd68ad958ed7da7879e9ff16f4169e994deff119c30c"
+}

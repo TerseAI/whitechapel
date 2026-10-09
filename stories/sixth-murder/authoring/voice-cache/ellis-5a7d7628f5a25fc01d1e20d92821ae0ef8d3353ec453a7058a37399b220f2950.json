@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-5a7d7628f5a25fc01d1e20d92821ae0ef8d3353ec453a7058a37399b220f2950-reviewed.mp3",
+  "text": "You remember burning them?",
+  "durationMs": 2808,
+  "sha256": "5a7d7628f5a25fc01d1e20d92821ae0ef8d3353ec453a7058a37399b220f2950",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "229d71149c8536a40e38402ee536a3549fb2a7e1c9b43cca85271d6646457afc"
+}

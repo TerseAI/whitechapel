@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-ba015d8f8c99dc7219ddf4a21b7e2eb53bb41aadd37958d5794467a808799c69-reviewed.mp3",
+  "text": "No. I kept away from the window. The washhouse hides that end of the yard anyway.",
+  "durationMs": 6528,
+  "sha256": "ba015d8f8c99dc7219ddf4a21b7e2eb53bb41aadd37958d5794467a808799c69",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "eb1a2727fc2e64c4f49adbc2218c05214eb53dee71ea0300315818088a71bdce"
+}

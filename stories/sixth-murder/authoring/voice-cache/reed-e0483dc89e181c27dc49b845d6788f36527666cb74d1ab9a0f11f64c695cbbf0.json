@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-e0483dc89e181c27dc49b845d6788f36527666cb74d1ab9a0f11f64c695cbbf0-reviewed.mp3",
+  "text": "Did you mention the candlestick?",
+  "durationMs": 2976,
+  "sha256": "e0483dc89e181c27dc49b845d6788f36527666cb74d1ab9a0f11f64c695cbbf0",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "c3b05e457854677adea4e1806480be7e1e7c4d7c8e21b786b9b9060359a56faa"
+}

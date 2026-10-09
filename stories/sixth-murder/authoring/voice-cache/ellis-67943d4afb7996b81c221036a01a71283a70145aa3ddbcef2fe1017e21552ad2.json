@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-67943d4afb7996b81c221036a01a71283a70145aa3ddbcef2fe1017e21552ad2-reviewed.mp3",
+  "text": "Please. Arrange access for us. You’ll keep Arthur at Commercial Street.",
+  "durationMs": 5256,
+  "sha256": "67943d4afb7996b81c221036a01a71283a70145aa3ddbcef2fe1017e21552ad2",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "d8a9ffa9c1f26a683cd5924e5c32c3e9f69a211b501164dc4a3fdf779b67987a"
+}

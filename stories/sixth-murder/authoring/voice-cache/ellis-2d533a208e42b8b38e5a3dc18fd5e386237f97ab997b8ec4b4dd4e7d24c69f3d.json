@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-2d533a208e42b8b38e5a3dc18fd5e386237f97ab997b8ec4b4dd4e7d24c69f3d-reviewed.mp3",
+  "text": "We’re not keeping you from your work?",
+  "durationMs": 2544,
+  "sha256": "2d533a208e42b8b38e5a3dc18fd5e386237f97ab997b8ec4b4dd4e7d24c69f3d",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "ccb253c255033b6a6fe0c553af3c793401748bbea3aa80f0a650288c92f731b6"
+}

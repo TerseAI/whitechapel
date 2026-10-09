@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-6e0e6434b5bd07911c1b73787c95ea3422496e946ffbbf926c4e373f70558777-reviewed.mp3",
+  "text": "You knew where it was before we told you.",
+  "durationMs": 3048,
+  "sha256": "6e0e6434b5bd07911c1b73787c95ea3422496e946ffbbf926c4e373f70558777",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "8e6c735e99dc3ab70f847ec6c3473147179f33cce502bd9736b6f476c9f3e977"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-9c49ea59ce952484952876e794f59fb8c62f7272e673b815e89104adfafd4be4-reviewed.mp3",
+  "text": "And she didn’t see his face. You told me that.",
+  "durationMs": 3816,
+  "sha256": "9c49ea59ce952484952876e794f59fb8c62f7272e673b815e89104adfafd4be4",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "35f94e3103e5c5dd151158e094b99638f08f7c1652266d7abbf63db35b64907e"
+}

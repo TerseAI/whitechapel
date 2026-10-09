@@ -1,0 +1,11 @@
+{
+  "src": "audio/nora-685b07e83f6c1b4f308188fc8cc012f2f8196eec31a8a073fdb7cebd002bff77-reviewed.mp3",
+  "text": "Not far. Far enough when there’s nobody about. Last night I heard someone behind me and crossed the road. It was a woman from the workshop.",
+  "durationMs": 10248,
+  "sha256": "685b07e83f6c1b4f308188fc8cc012f2f8196eec31a8a073fdb7cebd002bff77",
+  "actor": "nora",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Leda",
+  "direction": "Nora Vale, a 30-year-old English needleworker. Quiet clear and capable voice with a subtle working London accent; occasional dry humour and gentle uncertainty. Light clear mezzo, agile rhythm, soft precise consonants and a small dry lift on a witty observation. Speak with adult confidence, never breathy, childlike or portentous.",
+  "audioSha256": "de6b3e81b57162ba5c5cbc01c908d751b2e5a56518f18ce28d56e81477c1710e"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-daaea77b83e211a0fbc604f270d1bde07440b2f2eb5b6a58967dc9a90beb30c6-reviewed.mp3",
+  "text": "We’d best keep out of your way.",
+  "durationMs": 2496,
+  "sha256": "daaea77b83e211a0fbc604f270d1bde07440b2f2eb5b6a58967dc9a90beb30c6",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "4a68f0f793f8848c02685712fcabcd82a7306225559f874c9bdb5f229a5c3e14"
+}

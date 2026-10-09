@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-b1e16849fd2136dcdc2812620ce66f9d4c083a29b62d04bf9e9f6729786f853b-reviewed.mp3",
+  "text": "Mrs Baines, we found blood beneath Nora’s rug and inside her trunk.",
+  "durationMs": 7488,
+  "sha256": "b1e16849fd2136dcdc2812620ce66f9d4c083a29b62d04bf9e9f6729786f853b",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "68a34b83f50e2a0f0b7323ff4dd9701f633f581ab83b6abef783ccc974a852ed"
+}

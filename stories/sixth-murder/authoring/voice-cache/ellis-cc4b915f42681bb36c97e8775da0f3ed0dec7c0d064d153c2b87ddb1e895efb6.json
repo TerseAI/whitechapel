@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-cc4b915f42681bb36c97e8775da0f3ed0dec7c0d064d153c2b87ddb1e895efb6-reviewed.mp3",
+  "text": "How did you know Nora was staying at the Lantern?",
+  "durationMs": 3456,
+  "sha256": "cc4b915f42681bb36c97e8775da0f3ed0dec7c0d064d153c2b87ddb1e895efb6",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "d787b4e4691cfabc733ed71550b536b4f9f8b64f0e69bdda60782ebf8c3f9e0b"
+}

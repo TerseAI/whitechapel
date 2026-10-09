@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-16cbebb49dcc64c5b4f57bd6c19b7052ccf69c2b83170cf5a7d69f1e571773c1-reviewed.mp3",
+  "text": "Could the man you saw have been Arthur Vale?",
+  "durationMs": 3384,
+  "sha256": "16cbebb49dcc64c5b4f57bd6c19b7052ccf69c2b83170cf5a7d69f1e571773c1",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "e01252e11630138aec4693824ebae35ef93581503116b4e443d3d09167c0b53e"
+}

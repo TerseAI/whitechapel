@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-46f01cbb1527b6542bf40dfa9e6ad43f31a801d69caca4efd8c260469277975a-reviewed.mp3",
+  "text": "Mr Reed and Mr Ellis? Come in out of the cold. Hale said to expect you.",
+  "durationMs": 6624,
+  "sha256": "46f01cbb1527b6542bf40dfa9e6ad43f31a801d69caca4efd8c260469277975a",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "77586e54a1fa8245a42429ba2d25158f550fdb29d41a0a4ccaa8dce78bb8faf3"
+}

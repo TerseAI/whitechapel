@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-347dff8697598a2042796749b8f97622d07c99563e7084abfe0433e51a0ddd36-reviewed.mp3",
+  "text": "Did you hear anything from inside?",
+  "durationMs": 2448,
+  "sha256": "347dff8697598a2042796749b8f97622d07c99563e7084abfe0433e51a0ddd36",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "fe02e3c2107e50313b087a8621b019d10689be985b97d74d964a03700d5d59c9"
+}

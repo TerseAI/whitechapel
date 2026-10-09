@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-8fe2f70123cf721e24edb898553c639735ef169ae9508f2aaf8672b6f4bb6ec1-reviewed.mp3",
+  "text": "Yes. Blue edging, and a darn by that corner.",
+  "durationMs": 4488,
+  "sha256": "8fe2f70123cf721e24edb898553c639735ef169ae9508f2aaf8672b6f4bb6ec1",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "c1cdce37248e7487d619a2074af1f082595d6b5972e09da4c26e10985c35e9f4"
+}

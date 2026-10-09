@@ -1,0 +1,11 @@
+{
+  "src": "audio/narrator-c5f3e46cf7c3245142022419863b1cbf7f61fba12f7cf6ee508a979a12c5194a-reviewed.mp3",
+  "text": "The newspaper lies set aside. Maggie returns to the letter.",
+  "durationMs": 5376,
+  "sha256": "c5f3e46cf7c3245142022419863b1cbf7f61fba12f7cf6ee508a979a12c5194a",
+  "actor": "narrator",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Rasalgethi",
+  "direction": "A restrained British narrator for an intimate historical drama. Mature clear English voice, unhurried and humane, no trailer delivery. Even rounded baritone, fluid connected phrasing and gentle sentence endings. Observe events without sounding like a policeman giving evidence.",
+  "audioSha256": "f9087a026b5d1bdd73273cbc38e1f2c7af42481c32f4e2fc418d974c5d2b972e"
+}

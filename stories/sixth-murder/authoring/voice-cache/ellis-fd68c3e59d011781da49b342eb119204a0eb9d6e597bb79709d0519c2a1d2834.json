@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-fd68c3e59d011781da49b342eb119204a0eb9d6e597bb79709d0519c2a1d2834-reviewed.mp3",
+  "text": "The blow to her head. The knife wounds were made after she was dead.",
+  "durationMs": 4968,
+  "sha256": "fd68c3e59d011781da49b342eb119204a0eb9d6e597bb79709d0519c2a1d2834",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "a400fe384cdc9f1bfb375d4882680ca63f306a6da57c6b7f54925cdc313175ce"
+}

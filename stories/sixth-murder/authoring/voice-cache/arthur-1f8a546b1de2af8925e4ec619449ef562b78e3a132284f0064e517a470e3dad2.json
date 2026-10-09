@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-1f8a546b1de2af8925e4ec619449ef562b78e3a132284f0064e517a470e3dad2-reviewed.mp3",
+  "text": "All right. We were married.",
+  "durationMs": 3096,
+  "sha256": "1f8a546b1de2af8925e4ec619449ef562b78e3a132284f0064e517a470e3dad2",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "faf7c219b64493194216ff26d9cc37a7b3996d63bb2f7af45f1706d37bd03583"
+}

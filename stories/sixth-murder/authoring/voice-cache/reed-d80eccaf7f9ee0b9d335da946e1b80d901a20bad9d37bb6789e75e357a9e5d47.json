@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-d80eccaf7f9ee0b9d335da946e1b80d901a20bad9d37bb6789e75e357a9e5d47-reviewed.mp3",
+  "text": "May we see it?",
+  "durationMs": 1536,
+  "sha256": "d80eccaf7f9ee0b9d335da946e1b80d901a20bad9d37bb6789e75e357a9e5d47",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "384a4f4e052bb8eaa41ac211625d78a33b2be603237c570acdc387ae9ddcc607"
+}

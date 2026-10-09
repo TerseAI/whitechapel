@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-49fed9a3aa035b202e3bcc1217097902453415a13c78a4f1168c73ca1b9d07d4-reviewed.mp3",
+  "text": "The wounds were made after her death. Someone wanted them to be seen.",
+  "durationMs": 5328,
+  "sha256": "49fed9a3aa035b202e3bcc1217097902453415a13c78a4f1168c73ca1b9d07d4",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "4345d2ee2bf1dfbfe17668925a3dee5c7bd0fa1eba6afc8f2480433325324835"
+}

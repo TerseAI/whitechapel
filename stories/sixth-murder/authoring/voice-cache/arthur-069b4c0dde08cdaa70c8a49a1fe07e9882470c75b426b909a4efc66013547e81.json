@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-069b4c0dde08cdaa70c8a49a1fe07e9882470c75b426b909a4efc66013547e81-reviewed.mp3",
+  "text": "No. How many times do I have to say it?",
+  "durationMs": 3936,
+  "sha256": "069b4c0dde08cdaa70c8a49a1fe07e9882470c75b426b909a4efc66013547e81",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "545baed3b0532af1eef36ff69037f759c4aa3e110726cf9dd8012439ec275e9a"
+}

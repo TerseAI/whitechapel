@@ -1,0 +1,9 @@
+[
+  {
+    "id": "room-blood-v2",
+    "prompt": "Edit only the rag rug in this exact corrected Victorian bedroom inspection image. Fold back its near-right corner enough to reveal one small irregular dark dried blood stain on floorboards directly beneath. Keep the black iron bed, women's cream blouse, grey skirt, dark shawl and small boots EXACTLY unchanged. Preserve washstand on right, empty circular ring on bedside table, morning window light and all architecture. No male possessions, no new objects, no body, no gore, no extra blood stains. This is the second inspection view after the player lifts the rug. No text or UI.",
+    "refs": [
+      "room-packing-v2"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-df49f94037c518779fcacabca156669ba6c2e0b9417d4e141bbe2c0fdbd47bd3-reviewed.mp3",
+  "text": "The report is with the inspector. I’ll take Arthur to Commercial Street and keep him there while you search his lodging.",
+  "durationMs": 6936,
+  "sha256": "df49f94037c518779fcacabca156669ba6c2e0b9417d4e141bbe2c0fdbd47bd3",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "fe8b95a30f6c92ebb30dce876a94dbc0956f0383ac97adbcea4ea0564c7659ca"
+}

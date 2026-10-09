@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-0dcf0cc5221f435cc1db533e47c2952d95282bf95072aea29052d094c63bb02b-reviewed.mp3",
+  "text": "I can’t tell you why.",
+  "durationMs": 2016,
+  "sha256": "0dcf0cc5221f435cc1db533e47c2952d95282bf95072aea29052d094c63bb02b",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "9bffbb0b890713b065e869b6f730ae171505805086b16c86c0e30d0106e14aa4"
+}

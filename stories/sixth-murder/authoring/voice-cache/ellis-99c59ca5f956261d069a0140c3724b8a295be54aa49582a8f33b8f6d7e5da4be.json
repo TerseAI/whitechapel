@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-99c59ca5f956261d069a0140c3724b8a295be54aa49582a8f33b8f6d7e5da4be-reviewed.mp3",
+  "text": "The trunk was stained inside. Were you helping Nora pack?",
+  "durationMs": 4416,
+  "sha256": "99c59ca5f956261d069a0140c3724b8a295be54aa49582a8f33b8f6d7e5da4be",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "f9921d742fed01caaf5f652a9d0be88d596f983dbbac347e7598c1540dbe2a98"
+}

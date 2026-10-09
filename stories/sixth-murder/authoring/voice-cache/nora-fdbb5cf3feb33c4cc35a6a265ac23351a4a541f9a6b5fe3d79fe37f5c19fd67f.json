@@ -1,0 +1,11 @@
+{
+  "src": "audio/nora-fdbb5cf3feb33c4cc35a6a265ac23351a4a541f9a6b5fe3d79fe37f5c19fd67f-reviewed.mp3",
+  "text": "They make it sound as though he could walk into any street, kill another woman, then simply walk away.",
+  "durationMs": 6984,
+  "sha256": "fdbb5cf3feb33c4cc35a6a265ac23351a4a541f9a6b5fe3d79fe37f5c19fd67f",
+  "actor": "nora",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Leda",
+  "direction": "Nora Vale, a 30-year-old English needleworker. Quiet clear and capable voice with a subtle working London accent; occasional dry humour and gentle uncertainty. Light clear mezzo, agile rhythm, soft precise consonants and a small dry lift on a witty observation. Speak with adult confidence, never breathy, childlike or portentous.",
+  "audioSha256": "2ba7b7cb666729fc033013a69acf624e3e1375f3ab2e6d08eb2a931480e7cc74"
+}

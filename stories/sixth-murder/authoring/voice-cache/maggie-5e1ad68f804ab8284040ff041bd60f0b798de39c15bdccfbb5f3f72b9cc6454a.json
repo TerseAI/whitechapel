@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-5e1ad68f804ab8284040ff041bd60f0b798de39c15bdccfbb5f3f72b9cc6454a-reviewed.mp3",
+  "text": "Is Arthur outside? I need to know before I say anything else.",
+  "durationMs": 4608,
+  "sha256": "5e1ad68f804ab8284040ff041bd60f0b798de39c15bdccfbb5f3f72b9cc6454a",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "bda47627b4f667d6b089052db9d1ba49bd19521773a8af951f62fdb9ab0aa094"
+}

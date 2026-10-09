@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-4435a2d5026e0d3a007d6fa545abf60e9b6879e08437c07dd00f15f10054e2ee-reviewed.mp3",
+  "text": "George says he didn’t touch it. Hale found it still covering her face.",
+  "durationMs": 5616,
+  "sha256": "4435a2d5026e0d3a007d6fa545abf60e9b6879e08437c07dd00f15f10054e2ee",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "6cef1e33909e88070c500e25e59dd0c625dc91b5188b56face692912740dc9e5"
+}

@@ -1,0 +1,68 @@
+{
+  "portrait-nora": {
+    "src": "portraits/nora.webp",
+    "width": 1254,
+    "height": 1254,
+    "description": "Nora, November 1888. Fictional painterly photographic character portrait."
+  },
+  "portrait-arthur-inn": {
+    "src": "portraits/arthur.webp",
+    "width": 1254,
+    "height": 1254,
+    "description": "Arthur, November 1888. Fictional painterly photographic character portrait."
+  },
+  "portrait-arthur-station": {
+    "src": "portraits/arthur.webp",
+    "width": 1254,
+    "height": 1254,
+    "description": "Arthur, November 1888. Fictional painterly photographic character portrait."
+  },
+  "portrait-baines-arrival": {
+    "src": "portraits/baines.webp",
+    "width": 1254,
+    "height": 1254,
+    "description": "Baines, November 1888. Fictional painterly photographic character portrait."
+  },
+  "portrait-baines": {
+    "src": "portraits/baines.webp",
+    "width": 1254,
+    "height": 1254,
+    "description": "Baines, November 1888. Fictional painterly photographic character portrait."
+  },
+  "portrait-george-arrival": {
+    "src": "portraits/george.webp",
+    "width": 1254,
+    "height": 1254,
+    "description": "George, November 1888. Fictional painterly photographic character portrait."
+  },
+  "portrait-george": {
+    "src": "portraits/george.webp",
+    "width": 1254,
+    "height": 1254,
+    "description": "George, November 1888. Fictional painterly photographic character portrait."
+  },
+  "portrait-hale": {
+    "src": "portraits/hale.webp",
+    "width": 1254,
+    "height": 1254,
+    "description": "Hale, November 1888. Fictional painterly photographic character portrait."
+  },
+  "portrait-maggie": {
+    "src": "portraits/maggie.webp",
+    "width": 1254,
+    "height": 1254,
+    "description": "Maggie, November 1888. Fictional painterly photographic character portrait."
+  },
+  "portrait-maggie-closing": {
+    "src": "portraits/maggie.webp",
+    "width": 1254,
+    "height": 1254,
+    "description": "Maggie, November 1888. Fictional painterly photographic character portrait."
+  },
+  "portrait-alden": {
+    "src": "portraits/alden.webp",
+    "width": 1254,
+    "height": 1254,
+    "description": "Alden, November 1888. Fictional painterly photographic character portrait."
+  }
+}

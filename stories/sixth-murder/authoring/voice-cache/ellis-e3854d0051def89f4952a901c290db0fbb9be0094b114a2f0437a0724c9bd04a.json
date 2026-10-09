@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-e3854d0051def89f4952a901c290db0fbb9be0094b114a2f0437a0724c9bd04a-reviewed.mp3",
+  "text": "Did you hit her?",
+  "durationMs": 1368,
+  "sha256": "e3854d0051def89f4952a901c290db0fbb9be0094b114a2f0437a0724c9bd04a",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "b791d33fe255ecf4944897dfc5faa6a214ba4799954c31927d5cb39ae2c221e9"
+}

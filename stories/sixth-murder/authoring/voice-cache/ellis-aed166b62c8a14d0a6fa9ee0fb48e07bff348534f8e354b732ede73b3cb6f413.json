@@ -1,0 +1,13 @@
+{
+  "src": "audio/ellis-aed166b62c8a14d0a6fa9ee0fb48e07bff348534f8e354b732ede73b3cb6f413-reviewed.mp3",
+  "text": "During the night.",
+  "durationMs": 1704,
+  "sha256": "aed166b62c8a14d0a6fa9ee0fb48e07bff348534f8e354b732ede73b3cb6f413",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "b98695406508b2c41b1c36144ec53d0f152512b11d9e9cd987e75d2e461ae4e7",
+  "prompt": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight. Read the supplied dialogue exactly, in a natural British English voice, with clean studio audio. Speech only; no music or sound effects.",
+  "synthesisText": "\"During the night.\""
+}

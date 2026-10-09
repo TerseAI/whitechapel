@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-0235d6b8dd50f72bb4c6bc51d4393fbff8ad015b10fbf1705aff72c27cbc6db8-reviewed.mp3",
+  "text": "Yes. I know where to send them. I’ll tell her the police are keeping them safe for now.",
+  "durationMs": 6864,
+  "sha256": "0235d6b8dd50f72bb4c6bc51d4393fbff8ad015b10fbf1705aff72c27cbc6db8",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "4d0aaa7c74d50aaccf35f5c90e44fef392790de463d6fa89bc00b7b327edc7e0"
+}

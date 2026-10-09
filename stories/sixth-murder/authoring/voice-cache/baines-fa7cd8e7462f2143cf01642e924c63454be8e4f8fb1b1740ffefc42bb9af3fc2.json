@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-fa7cd8e7462f2143cf01642e924c63454be8e4f8fb1b1740ffefc42bb9af3fc2-reviewed.mp3",
+  "text": "Maggie Shaw, at the workshop. They worked together. You could try there.",
+  "durationMs": 5928,
+  "sha256": "fa7cd8e7462f2143cf01642e924c63454be8e4f8fb1b1740ffefc42bb9af3fc2",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "c4a663d662a3e577fb3247581b547545c05163442ecd92ba8b605dfe7ffa02ca"
+}

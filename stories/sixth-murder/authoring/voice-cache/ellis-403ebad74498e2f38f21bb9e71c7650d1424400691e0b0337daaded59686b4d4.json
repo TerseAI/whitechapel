@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-403ebad74498e2f38f21bb9e71c7650d1424400691e0b0337daaded59686b4d4-reviewed.mp3",
+  "text": "Would you have a look at this?",
+  "durationMs": 2016,
+  "sha256": "403ebad74498e2f38f21bb9e71c7650d1424400691e0b0337daaded59686b4d4",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "067c3666e15282eee7df4b5c74965b1f4ac9683d1b049f260aa5a6298bae2adc"
+}

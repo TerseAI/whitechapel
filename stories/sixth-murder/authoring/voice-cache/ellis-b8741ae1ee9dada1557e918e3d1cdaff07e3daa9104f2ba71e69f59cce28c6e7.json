@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-b8741ae1ee9dada1557e918e3d1cdaff07e3daa9104f2ba71e69f59cce28c6e7-reviewed.mp3",
+  "text": "Could he have watched it, or heard us questioning Moss and Mrs Baines?",
+  "durationMs": 5688,
+  "sha256": "b8741ae1ee9dada1557e918e3d1cdaff07e3daa9104f2ba71e69f59cce28c6e7",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "74bc25659cc4f581088655f36480973d0b421a2f49623e77c3530177cfc2dfcd"
+}

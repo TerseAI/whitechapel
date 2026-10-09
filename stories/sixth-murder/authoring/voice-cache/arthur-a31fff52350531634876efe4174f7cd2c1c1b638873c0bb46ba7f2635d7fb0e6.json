@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-a31fff52350531634876efe4174f7cd2c1c1b638873c0bb46ba7f2635d7fb0e6-reviewed.mp3",
+  "text": "No. She was doing it herself.",
+  "durationMs": 3768,
+  "sha256": "a31fff52350531634876efe4174f7cd2c1c1b638873c0bb46ba7f2635d7fb0e6",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "fc2ecf03a9b011b60882f2038da063bb10606e6cf8fd5b3c0efc60f7f55e6af0"
+}

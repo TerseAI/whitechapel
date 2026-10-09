@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-e5d2524902b78a2d3d41ff84b51fb313405a8f96569a2736670ca7d0d044971b-reviewed.mp3",
+  "text": "When?",
+  "durationMs": 1008,
+  "sha256": "e5d2524902b78a2d3d41ff84b51fb313405a8f96569a2736670ca7d0d044971b",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "5bf1e193fc7df1c94a8bcd21063dc5bc25e790fe57e20b375b3b0c382a4e6fe5"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-82dcb0672374648020ada39a61e5eae71196784c877cef2b742857eae9dfdedd-reviewed.mp3",
+  "text": "Is there anything else you can tell us about the evening?",
+  "durationMs": 3144,
+  "sha256": "82dcb0672374648020ada39a61e5eae71196784c877cef2b742857eae9dfdedd",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "2e296b466ad231a0e8e63dde8fbb2eb5c1e777ab125607ea0561cd0e9e3c4d7a"
+}

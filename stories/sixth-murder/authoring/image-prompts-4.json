@@ -1,0 +1,21 @@
+[
+  {
+    "id": "sewing-case",
+    "refs": [
+      "wedding-photo"
+    ],
+    "prompt": "Create a close top-down view of Nora’s modest 1888 wooden sewing case on a worn inn table. Thread spools, needles tucked safely into a scrap of felt, small scissors, cloth scraps; an open wooden lid contains the SAME wedding print from the reference but TORN VERTICALLY JUST RIGHT OF THE BRIDE so ONLY the bride and older woman remain. The groom from reference must be completely absent, removed by torn edge, not merely obscured. Do not redraw the older woman or bride identities. Their small photograph sits naturally inside lid and does not occupy full frame. Sewing case material is ordinary working wood, no fancy jewelry box decoration. Low soft daylight, quiet tactile painterly realism, grey ivory and umber palette. No extra people, no blood, no weapons, no letters, no text or watermark."
+  },
+  {
+    "id": "opening-sewing",
+    "prompt": "Use case: historical-scene. Close inspection image of an ordinary working moment at a fictional London inn, 1888. A modest dark muted burgundy-brown woman's dress sleeve lies flat on a worn wooden common-room table. It has a very small neatly repaired tear by the cuff, fine careful matching stitches; the sleeve is fully finished, no pins in it. Beside it a small plain open wooden sewing box, reels of cream and grey thread, fabric scraps, slender scissors. Gentle amber oil/gas lamplight and soft blue evening from an unseen window. No newspaper, no paper letter, no photograph, no people, no gore or murder clues, no modern objects. Painterly photorealism, tactile cloth weave, restrained intimate atmosphere. No text, labels, or watermark."
+  },
+  {
+    "id": "unfinished-work",
+    "prompt": "Use case: historical-scene. Close object-inspection illustration, Maggie Shaw's modest garment workshop in London 1888. Long worn wooden table beside a multi-pane window in overcast November daylight, unfinished white cotton shirt seams laid flat, detached cuffs, thread, hand-sewing needles and heavy period iron sewing scissors. Several pieces cut to pattern, skilled work interrupted, no machine necessary. No fancy fashion studio: practical everyday garment piecework, wool remnants, humble room. Muted slate and ivory light, soft umber wood, tactile realistic painterly style. No people, bodies, letters, photographs, newspaper, knives, labels, text, modern objects or watermark."
+  },
+  {
+    "id": "yard-discovery",
+    "prompt": "Use case: historical-scene. Empty screened corner of the fictional Lantern inn's rear brick yard in Whitechapel on grey morning, 17 November 1888. This is after official removal; no person or body, no scarf or clothing or chalk outline remains. Very small insignificant dark stain on damp cobbles, nothing graphic. Projecting brick washhouse wall in foreground edge blocks the view back toward the main inn. Ordinary dark wet paving, soot brick, wooden washhouse door, some moss at wall foot, subtle haze and cold diffused sky light. Clear close environmental inspection view, grounded realistic period set, cinematic muted grey and umber. No police tape, modern drain fixtures, electric lights, weapon, handprints, text or watermark."
+  }
+]

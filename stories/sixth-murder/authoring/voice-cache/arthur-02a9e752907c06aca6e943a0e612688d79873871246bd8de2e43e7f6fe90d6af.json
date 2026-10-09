@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-02a9e752907c06aca6e943a0e612688d79873871246bd8de2e43e7f6fe90d6af-reviewed.mp3",
+  "text": "Last night. I came here to speak to her.",
+  "durationMs": 4104,
+  "sha256": "02a9e752907c06aca6e943a0e612688d79873871246bd8de2e43e7f6fe90d6af",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "596d5341e9319429eb528d65363171888bd213889880ea65dc4a3ad09b3d44be"
+}

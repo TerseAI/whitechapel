@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-77cc09cc24dcb95018f97dac06e8f3b99b8386ae9e038c0613edd9e3dc41544e-reviewed.mp3",
+  "text": "She was lying there with her scarf across her face. I sent for Dr Alden.",
+  "durationMs": 5664,
+  "sha256": "77cc09cc24dcb95018f97dac06e8f3b99b8386ae9e038c0613edd9e3dc41544e",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "9d12f0f372528b98d3d4a739b91921de467b607e4a7c36733c7c3cd1cb2561da"
+}

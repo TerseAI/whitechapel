@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-7c1112ea181c44beb06802fa39d9a70eebaed0954c818f3f6676618791cd0f76-reviewed.mp3",
+  "text": "We recovered this under the coal sacks. Was it Nora’s bedside light?",
+  "durationMs": 5784,
+  "sha256": "7c1112ea181c44beb06802fa39d9a70eebaed0954c818f3f6676618791cd0f76",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "81eee2a3641a213408a1ca6f7dce90752f8cba5c34616bd1377fb3381bf7bc64"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-288caa979df1306d71944d14c35886c2da60cc53534c24a0d5245d83ced92b6c-reviewed.mp3",
+  "text": "She should have arrived with them herself.",
+  "durationMs": 2928,
+  "sha256": "288caa979df1306d71944d14c35886c2da60cc53534c24a0d5245d83ced92b6c",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "ded65f4e1769de693efb1685556590562a0e7bb06de1e678c21e5a4226899593"
+}

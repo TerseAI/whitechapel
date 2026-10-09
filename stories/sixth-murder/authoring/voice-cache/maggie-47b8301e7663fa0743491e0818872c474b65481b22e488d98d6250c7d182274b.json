@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-47b8301e7663fa0743491e0818872c474b65481b22e488d98d6250c7d182274b-reviewed.mp3",
+  "text": "Then I can write about Nora, instead of trying to explain every part of the enquiry.",
+  "durationMs": 5448,
+  "sha256": "47b8301e7663fa0743491e0818872c474b65481b22e488d98d6250c7d182274b",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "a315ef6a40dc9435270f64d430fbfef91199d8a333eccd8e4bdd1a291976099a"
+}

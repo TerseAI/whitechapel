@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-15322adce2cedefe9e1b828f6c9f21aa723351e0c646aa6fa703f65466276205-reviewed.mp3",
+  "text": "When was this taken?",
+  "durationMs": 1896,
+  "sha256": "15322adce2cedefe9e1b828f6c9f21aa723351e0c646aa6fa703f65466276205",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "9e1bffa8965939a8450bc094c2469ff676186711343a66358d4c643f937d0ce5"
+}

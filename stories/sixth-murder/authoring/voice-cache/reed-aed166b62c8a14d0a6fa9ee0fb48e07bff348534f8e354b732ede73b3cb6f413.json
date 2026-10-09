@@ -1,0 +1,13 @@
+{
+  "src": "audio/reed-aed166b62c8a14d0a6fa9ee0fb48e07bff348534f8e354b732ede73b3cb6f413-reviewed.mp3",
+  "text": "During the night.",
+  "durationMs": 1824,
+  "sha256": "aed166b62c8a14d0a6fa9ee0fb48e07bff348534f8e354b732ede73b3cb6f413",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "5e5b26ad989fe5d437fb554f1df1ce49969568cca297f21f2847ed3d068b637b",
+  "prompt": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark. Read the supplied dialogue exactly, in a natural British English voice, with clean studio audio. Speech only; no music or sound effects.",
+  "synthesisText": "\"During the night.\""
+}

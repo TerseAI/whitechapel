@@ -1,0 +1,11 @@
+{
+  "src": "audio/nora-cfa0a7ae2184f1289e4e14f2a4b139b1708b172ee570f03d7901c7a19b4f2eb4-reviewed.mp3",
+  "text": "Yes. Bristol. My sister’s found me work and a room near hers. The work’s a trial, anyway.",
+  "durationMs": 9048,
+  "sha256": "cfa0a7ae2184f1289e4e14f2a4b139b1708b172ee570f03d7901c7a19b4f2eb4",
+  "actor": "nora",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Leda",
+  "direction": "Nora Vale, a 30-year-old English needleworker. Quiet clear and capable voice with a subtle working London accent; occasional dry humour and gentle uncertainty. Light clear mezzo, agile rhythm, soft precise consonants and a small dry lift on a witty observation. Speak with adult confidence, never breathy, childlike or portentous.",
+  "audioSha256": "c0b7f4d40b9a7415fb97563ddddb758a3a318ae59328b950979f43e23d68b055"
+}

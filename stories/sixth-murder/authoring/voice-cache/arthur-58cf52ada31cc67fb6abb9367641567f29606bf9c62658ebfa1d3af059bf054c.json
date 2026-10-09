@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-58cf52ada31cc67fb6abb9367641567f29606bf9c62658ebfa1d3af059bf054c-reviewed.mp3",
+  "text": "They were going to blame me. You would have. Her husband, after an argument.",
+  "durationMs": 6384,
+  "sha256": "58cf52ada31cc67fb6abb9367641567f29606bf9c62658ebfa1d3af059bf054c",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "a7e7adf214db3ac882ba5651591a9b879f5edfd144642d3c0197c5654b5f2209"
+}

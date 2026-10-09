@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-57e300fba3c4381dcdcb807177a518ef9d25781dfdb76c115fdb764714d20b98-reviewed.mp3",
+  "text": "Save yourself a journey?",
+  "durationMs": 1944,
+  "sha256": "57e300fba3c4381dcdcb807177a518ef9d25781dfdb76c115fdb764714d20b98",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "001abf16c1990e85611a49edf4cb25967c204b9536d7fd1d99aa3926e267f1a2"
+}

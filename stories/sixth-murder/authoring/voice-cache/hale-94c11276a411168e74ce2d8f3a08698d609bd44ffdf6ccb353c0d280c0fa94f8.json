@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-94c11276a411168e74ce2d8f3a08698d609bd44ffdf6ccb353c0d280c0fa94f8-reviewed.mp3",
+  "text": "Of course. I haven’t established who it belongs to.",
+  "durationMs": 3984,
+  "sha256": "94c11276a411168e74ce2d8f3a08698d609bd44ffdf6ccb353c0d280c0fa94f8",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "e9780d4d6eac008b15c973bd4ee815ce8d2fb732fcf76d8b04c9222ef1f0c8f7"
+}

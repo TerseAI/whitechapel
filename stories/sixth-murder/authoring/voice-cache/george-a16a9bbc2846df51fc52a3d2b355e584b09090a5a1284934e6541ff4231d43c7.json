@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-a16a9bbc2846df51fc52a3d2b355e584b09090a5a1284934e6541ff4231d43c7-reviewed.mp3",
+  "text": "Mind the step. There’s coal all over it.",
+  "durationMs": 3768,
+  "sha256": "a16a9bbc2846df51fc52a3d2b355e584b09090a5a1284934e6541ff4231d43c7",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "1e30653f3bf6e4d80b5dd94b319c4bc869662cab7e5cfb5928c070a31ee6a2b2"
+}

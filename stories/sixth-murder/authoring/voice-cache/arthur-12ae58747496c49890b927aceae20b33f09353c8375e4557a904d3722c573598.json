@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-12ae58747496c49890b927aceae20b33f09353c8375e4557a904d3722c573598-reviewed.mp3",
+  "text": "I’d finished with it.",
+  "durationMs": 1776,
+  "sha256": "12ae58747496c49890b927aceae20b33f09353c8375e4557a904d3722c573598",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "494532e1b4d39aef114dcaf66800dce9c1ede9a788fda58975ca32cf84e585df"
+}

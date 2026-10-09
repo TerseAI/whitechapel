@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-f63704073bf935c0dfa8c283a4abc0aae3d34383ccd9ca888bf1b0c64a621943-reviewed.mp3",
+  "text": "She wouldn’t have spoken to me if she had.",
+  "durationMs": 2736,
+  "sha256": "f63704073bf935c0dfa8c283a4abc0aae3d34383ccd9ca888bf1b0c64a621943",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "0eaf59eef1edb890b2cf5a4b7441951714f0e8d60cdfee45ca3059158d8f21e0"
+}

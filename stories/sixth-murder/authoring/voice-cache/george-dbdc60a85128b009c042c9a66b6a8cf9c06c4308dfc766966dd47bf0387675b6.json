@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-dbdc60a85128b009c042c9a66b6a8cf9c06c4308dfc766966dd47bf0387675b6-reviewed.mp3",
+  "text": "Well, I didn’t put it there.",
+  "durationMs": 1944,
+  "sha256": "dbdc60a85128b009c042c9a66b6a8cf9c06c4308dfc766966dd47bf0387675b6",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "0015c0b305711825a4a59c8959cc2291877ec719ea2ea94ac3a8581f835aba1f"
+}

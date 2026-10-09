@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-a316f9bfddc8e72f98f5b4081d07eb1555dd91e126fc185957bfa065acb7d81f-reviewed.mp3",
+  "text": "Is it still there?",
+  "durationMs": 1704,
+  "sha256": "a316f9bfddc8e72f98f5b4081d07eb1555dd91e126fc185957bfa065acb7d81f",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "f19e6fb314cffa2299b54ffe2bf267399743d682dd05fb3da8c774e1f9c6fcb1"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-9e8448926dfb0403cf6967d3f4e1287cbb7502895c41fb2265bb50dc71cfbd13-reviewed.mp3",
+  "text": "Did she tell you why?",
+  "durationMs": 1944,
+  "sha256": "9e8448926dfb0403cf6967d3f4e1287cbb7502895c41fb2265bb50dc71cfbd13",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "1b005d4f4e7fcdda59d1b5b1e5ade351d6f56dad0d10c410a2153bebdc471374"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-a9800bf0e23b76fbb2b7e383ba538c5526ba8da3303fe6c586b3d2aa77f5e474-reviewed.mp3",
+  "text": "What did you hear last night?",
+  "durationMs": 2496,
+  "sha256": "a9800bf0e23b76fbb2b7e383ba538c5526ba8da3303fe6c586b3d2aa77f5e474",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "64c65151caa29fe2ef4a9eccc3eb58d30ca60a0aec5eb1b96ad66d1fcb9c12f5"
+}

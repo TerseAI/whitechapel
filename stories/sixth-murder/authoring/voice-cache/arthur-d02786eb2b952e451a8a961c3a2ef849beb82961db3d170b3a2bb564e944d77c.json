@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-d02786eb2b952e451a8a961c3a2ef849beb82961db3d170b3a2bb564e944d77c-reviewed.mp3",
+  "text": "More than I should have. You don’t think it’ll be the last time you speak to someone, do you?",
+  "durationMs": 5568,
+  "sha256": "d02786eb2b952e451a8a961c3a2ef849beb82961db3d170b3a2bb564e944d77c",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "bd0a25055e4284d5d48bd248d7adfa0a0bd289236d7c6d1592c75e68fd2a8429"
+}

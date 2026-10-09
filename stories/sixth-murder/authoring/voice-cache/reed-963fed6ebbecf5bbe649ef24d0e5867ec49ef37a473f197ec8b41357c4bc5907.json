@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-963fed6ebbecf5bbe649ef24d0e5867ec49ef37a473f197ec8b41357c4bc5907-reviewed.mp3",
+  "text": "Did you see what he did with the trunk?",
+  "durationMs": 3144,
+  "sha256": "963fed6ebbecf5bbe649ef24d0e5867ec49ef37a473f197ec8b41357c4bc5907",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "7317dfb78158920ff683e258e2ec86bb98093686ed793f2b004916aa49675167"
+}

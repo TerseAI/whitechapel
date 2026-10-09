@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-9151589e2efe2d781103880abdcd563e80093b038624ef4e6b228200ee6f77c2-reviewed.mp3",
+  "text": "Because the moment I said husband, you’d stop looking for anyone else.",
+  "durationMs": 5016,
+  "sha256": "9151589e2efe2d781103880abdcd563e80093b038624ef4e6b228200ee6f77c2",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "4f3cdfe965ee204361d3698f3497ffc4f4a05b81b30dbf1abb1da25e8c4e9a37"
+}

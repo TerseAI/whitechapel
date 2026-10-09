@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-166bcbde5a9391923f191395fce900248911b20e8901ae9ebf55fc959e51d343-reviewed.mp3",
+  "text": "Seven will suit us nicely, thank you. Which way’s upstairs?",
+  "durationMs": 5136,
+  "sha256": "166bcbde5a9391923f191395fce900248911b20e8901ae9ebf55fc959e51d343",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "a9e19e62e09bf3aad81aa2fb204910780f8e7965c1c5db31ee5f585057f7cbf6"
+}

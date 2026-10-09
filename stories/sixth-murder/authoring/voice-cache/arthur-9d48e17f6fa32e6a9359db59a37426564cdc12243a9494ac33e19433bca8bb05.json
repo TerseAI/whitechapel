@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-9d48e17f6fa32e6a9359db59a37426564cdc12243a9494ac33e19433bca8bb05-reviewed.mp3",
+  "text": "I covered her face. I couldn’t bear to look at her.",
+  "durationMs": 4104,
+  "sha256": "9d48e17f6fa32e6a9359db59a37426564cdc12243a9494ac33e19433bca8bb05",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "0f9270ceb66e4d66abcf38da1ec57a9331d5f2b7a4cffa36ba93a08f7399ec88"
+}

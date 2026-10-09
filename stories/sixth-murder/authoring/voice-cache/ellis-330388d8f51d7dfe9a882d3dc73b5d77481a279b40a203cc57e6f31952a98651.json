@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-330388d8f51d7dfe9a882d3dc73b5d77481a279b40a203cc57e6f31952a98651-reviewed.mp3",
+  "text": "And the scarf?",
+  "durationMs": 1728,
+  "sha256": "330388d8f51d7dfe9a882d3dc73b5d77481a279b40a203cc57e6f31952a98651",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "917ad9b98974884033d241160519df3b66de42776f0ad612be3782af2708c1e3"
+}

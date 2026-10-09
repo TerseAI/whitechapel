@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-d88d0e5b4db522778fd591b7a39ac89f22a59410f43be8e9baa91ab20c6cd416-reviewed.mp3",
+  "text": "It was under the sacks in his cart. You ought to be asking him.",
+  "durationMs": 4248,
+  "sha256": "d88d0e5b4db522778fd591b7a39ac89f22a59410f43be8e9baa91ab20c6cd416",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "fbf8ea635408279dee211b9a34d4ff36ecc5dc680158b87ad6582310a921fd70"
+}

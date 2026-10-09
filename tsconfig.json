@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "module": "ESNext",
+    "lib": ["ES2022", "DOM", "DOM.Iterable", "DOM.AsyncIterable"],
+    "jsx": "react-jsx",
+    "types": ["node"]
+  },
+  "include": ["scripts", "tests", "vite.config.ts", "api"]
+}

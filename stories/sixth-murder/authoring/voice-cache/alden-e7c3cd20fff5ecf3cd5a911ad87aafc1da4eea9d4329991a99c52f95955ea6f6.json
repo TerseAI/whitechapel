@@ -1,0 +1,11 @@
+{
+  "src": "audio/alden-e7c3cd20fff5ecf3cd5a911ad87aafc1da4eea9d4329991a99c52f95955ea6f6-reviewed.mp3",
+  "text": "Was there much where she was found?",
+  "durationMs": 3648,
+  "sha256": "e7c3cd20fff5ecf3cd5a911ad87aafc1da4eea9d4329991a99c52f95955ea6f6",
+  "actor": "alden",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sadaltager",
+  "direction": "Dr William Alden, an older English surgeon. Mature male calm low precise voice with an educated southern English accent. Unhurried and humane, factual rather than dramatic. Deep rounded older baritone with a softly resonant, finely articulated tone. Leave a small measured space between observations. Gentle descending conclusions; clinical precision without coldness or pomp.",
+  "audioSha256": "b70f813bc238d6766d0bd371e775c06c81b7b912bb177cd6f0848ee855927644"
+}

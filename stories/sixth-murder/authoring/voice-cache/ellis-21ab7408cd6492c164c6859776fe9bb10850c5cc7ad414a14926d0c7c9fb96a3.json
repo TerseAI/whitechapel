@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-21ab7408cd6492c164c6859776fe9bb10850c5cc7ad414a14926d0c7c9fb96a3-reviewed.mp3",
+  "text": "You said she was packing when you left.",
+  "durationMs": 2736,
+  "sha256": "21ab7408cd6492c164c6859776fe9bb10850c5cc7ad414a14926d0c7c9fb96a3",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "a5e45938d35919d1eb1978e2cbe22cb405dee956e49e81f80947a10086feceb8"
+}

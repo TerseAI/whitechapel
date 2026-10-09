@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-184e582e25b1aa8249ff2ca01aedfba5bbaab812cbdac9ad2501b21ea8758e69-reviewed.mp3",
+  "text": "George Moss, the carman. He came for her trunk this morning. Found her in the yard and came straight for me.",
+  "durationMs": 7656,
+  "sha256": "184e582e25b1aa8249ff2ca01aedfba5bbaab812cbdac9ad2501b21ea8758e69",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "2da6e1b519db4844dfb875175a0e8f20d0b07b716a0791acb2e39d01770115c7"
+}

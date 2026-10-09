@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-fbb871fe383252a8c92bf177b7af3bd27386bf0745cc6554d4c8b3b674d7a08b-reviewed.mp3",
+  "text": "Please. Then I’ll tell you what I can.",
+  "durationMs": 3288,
+  "sha256": "fbb871fe383252a8c92bf177b7af3bd27386bf0745cc6554d4c8b3b674d7a08b",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "b73a21c166ecb4464c8bddb3f1d5d5023a8d26a7da7b93e3b95561ed6da27fbc"
+}

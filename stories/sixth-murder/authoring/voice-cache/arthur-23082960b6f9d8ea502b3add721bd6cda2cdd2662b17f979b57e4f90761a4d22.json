@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-23082960b6f9d8ea502b3add721bd6cda2cdd2662b17f979b57e4f90761a4d22-reviewed.mp3",
+  "text": "And why would she say that?",
+  "durationMs": 2088,
+  "sha256": "23082960b6f9d8ea502b3add721bd6cda2cdd2662b17f979b57e4f90761a4d22",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "1847cfa07d9c603b7e8e11f938e66174d3aa63f9b2a0fca5f59ba0778dafcb1e"
+}

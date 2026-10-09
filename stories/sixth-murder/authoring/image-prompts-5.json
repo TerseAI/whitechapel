@@ -1,0 +1,16 @@
+[
+  {
+    "id": "opening-candlestick",
+    "refs": [
+      "candlestick-recovered"
+    ],
+    "prompt": "Keep exactly the brass chamberstick from this image: the same squat round dish, short holder, BENT LOOP HANDLE bent toward side, dull BLUE WAX pooled in base and blue candle stub. Move it to a plain wooden side table in a modest 1888 inn common room, at evening; remove cart, sacks and all coal. The blue candle is lit gently, making this an ordinary bedside light before it was taken to Nora's room. Do not change shape or condition of recognizable bent handle or blue wax. No hands, people, blood, text, extra candlesticks, modern objects or watermark. Close realistic inspection art, soft warm light."
+  },
+  {
+    "id": "room-packing-v2",
+    "refs": [
+      "room-packing"
+    ],
+    "prompt": "Make these two precise corrections to this bedroom evidence image: replace ALL male-coded travelling possessions (bowler hat, large male shoes, man's dark coat) with ordinary women's 1888 clothes: a plain folded grey-brown skirt, modest dark shawl, cream blouse and a pair of small simple women's ankle boots. No men's hat or coat should remain. Replace the wooden bed frame with a modest BLACK IRON bed frame in the same position and dimensions, keeping rumpled sheet and missing blanket. Preserve EXACT room layout, washstand on right, window, bedside table empty circular ring, displaced rug still flat covering stain, camera and lighting. No visible blood, no people, no new clues, no text."
+  }
+]

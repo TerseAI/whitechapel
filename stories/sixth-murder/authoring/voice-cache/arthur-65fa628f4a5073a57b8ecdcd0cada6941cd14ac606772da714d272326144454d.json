@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-65fa628f4a5073a57b8ecdcd0cada6941cd14ac606772da714d272326144454d-reviewed.mp3",
+  "text": "You said you were asking about her room.",
+  "durationMs": 2688,
+  "sha256": "65fa628f4a5073a57b8ecdcd0cada6941cd14ac606772da714d272326144454d",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "f34274ac47ecdd9c8d3d39e893612bb8909b797901222006a483d8a4b89c08b8"
+}

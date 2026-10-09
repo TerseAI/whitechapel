@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-b1e16849fd2136dcdc2812620ce66f9d4c083a29b62d04bf9e9f6729786f853b-reviewed.mp3",
+  "text": "Mrs Baines, we found blood beneath Nora’s rug and inside her trunk.",
+  "durationMs": 6456,
+  "sha256": "b1e16849fd2136dcdc2812620ce66f9d4c083a29b62d04bf9e9f6729786f853b",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "125e2f78f8099aad1bf2980a57396db7a99496838b762ce8836f537ec4d70ac9"
+}

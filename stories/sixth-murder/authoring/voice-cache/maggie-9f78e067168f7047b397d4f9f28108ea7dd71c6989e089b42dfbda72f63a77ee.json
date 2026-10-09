@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-9f78e067168f7047b397d4f9f28108ea7dd71c6989e089b42dfbda72f63a77ee-reviewed.mp3",
+  "text": "I’ve a photograph. You can see for yourselves.",
+  "durationMs": 4224,
+  "sha256": "9f78e067168f7047b397d4f9f28108ea7dd71c6989e089b42dfbda72f63a77ee",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "66c34d1752a5b84f9ebafdecde7cb2ccb81ceb40a315750c591bda5dbd5dfd62"
+}

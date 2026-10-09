@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-8e69598a57b91e53bbbdf7b7948892005c08f8da5a02f7431330ed4a5ee05fe6-reviewed.mp3",
+  "text": "Is this the candlestick you put in Nora’s room?",
+  "durationMs": 3288,
+  "sha256": "8e69598a57b91e53bbbdf7b7948892005c08f8da5a02f7431330ed4a5ee05fe6",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "e9f4ba9981c66d6c90735f26b3609a350d1fb97e8db43abef094e0cf0c2245f3"
+}

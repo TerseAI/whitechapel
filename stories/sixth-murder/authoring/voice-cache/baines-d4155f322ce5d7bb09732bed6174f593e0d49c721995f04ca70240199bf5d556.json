@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-d4155f322ce5d7bb09732bed6174f593e0d49c721995f04ca70240199bf5d556-reviewed.mp3",
+  "text": "Packing. There were clothes everywhere.",
+  "durationMs": 3576,
+  "sha256": "d4155f322ce5d7bb09732bed6174f593e0d49c721995f04ca70240199bf5d556",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "aa16706dbc131c122bd83db727c35654b62c28199ad2c4717a15b9164a54b16b"
+}

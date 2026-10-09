@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-0781a7643e086adabba129586146ec3d1734dd6e6c6356e1e9cfac8e8f2a568f-reviewed.mp3",
+  "text": "Could you have misunderstood us earlier? We meant last night, not this morning.",
+  "durationMs": 5328,
+  "sha256": "0781a7643e086adabba129586146ec3d1734dd6e6c6356e1e9cfac8e8f2a568f",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "277b8213a095acf82551c45d41853fb6614516313b4150efe3f087f9fe658841"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-451b14962945bd4e6bcd9df0d9a8b51737695c93a04d21f797a44c88520019b0-reviewed.mp3",
+  "text": "When did you learn about Bristol?",
+  "durationMs": 2304,
+  "sha256": "451b14962945bd4e6bcd9df0d9a8b51737695c93a04d21f797a44c88520019b0",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "7ad7614217f7d778e3454ae22690201c3643afa86f1d68c30231022a821fa424"
+}

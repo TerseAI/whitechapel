@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-f6f6597d48a29f209a41ce054ed434e4f25237545606c628d31ecc07df1309e1-reviewed.mp3",
+  "text": "That she was found in the yard. He wouldn’t tell me much else. What happened to her?",
+  "durationMs": 6864,
+  "sha256": "f6f6597d48a29f209a41ce054ed434e4f25237545606c628d31ecc07df1309e1",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "5d4e43e2f9ecd0db188d0394d56e119de974675d968403a1f85b1076594feaa6"
+}

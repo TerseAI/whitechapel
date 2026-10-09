@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-d1b6d7265a8153d204dd044d2bce8d4eb011ac7d19df7d6537638de529b30da5-reviewed.mp3",
+  "text": "I don’t have to remember every word everyone’s said to me today.",
+  "durationMs": 4344,
+  "sha256": "d1b6d7265a8153d204dd044d2bce8d4eb011ac7d19df7d6537638de529b30da5",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "73226a1be8b241b5b809e5e0f94817236952f57d0923c64c5f6f8b52f2b6d000"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-fa316b012a331bbb820b7643e45438b7b66aed979d0d4f6f3f4b44ab30ff50ba-reviewed.mp3",
+  "text": "Voices, from the back. I was in my room.",
+  "durationMs": 4608,
+  "sha256": "fa316b012a331bbb820b7643e45438b7b66aed979d0d4f6f3f4b44ab30ff50ba",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "eeea090958ac292b38fa099429e0d7b9a6fb3d6e1d76e2669697965e280ba358"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/nora-fd42eeaed75146bfe2145774468688192853c2392afa38840b79d40c74aa2c73-reviewed.mp3",
+  "text": "Yes. There’s no putting it off now.",
+  "durationMs": 3384,
+  "sha256": "fd42eeaed75146bfe2145774468688192853c2392afa38840b79d40c74aa2c73",
+  "actor": "nora",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Leda",
+  "direction": "Nora Vale, a 30-year-old English needleworker. Quiet clear and capable voice with a subtle working London accent; occasional dry humour and gentle uncertainty. Light clear mezzo, agile rhythm, soft precise consonants and a small dry lift on a witty observation. Speak with adult confidence, never breathy, childlike or portentous.",
+  "audioSha256": "329f604fe6c4106f4079e167156c89e4c4325861b738836b00a00d4bb4f8d38c"
+}

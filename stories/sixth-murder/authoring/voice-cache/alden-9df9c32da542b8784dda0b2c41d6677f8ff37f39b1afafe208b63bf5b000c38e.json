@@ -1,0 +1,11 @@
+{
+  "src": "audio/alden-9df9c32da542b8784dda0b2c41d6677f8ff37f39b1afafe208b63bf5b000c38e-reviewed.mp3",
+  "text": "Where did you find it?",
+  "durationMs": 2208,
+  "sha256": "9df9c32da542b8784dda0b2c41d6677f8ff37f39b1afafe208b63bf5b000c38e",
+  "actor": "alden",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sadaltager",
+  "direction": "Dr William Alden, an older English surgeon. Mature male calm low precise voice with an educated southern English accent. Unhurried and humane, factual rather than dramatic. Deep rounded older baritone with a softly resonant, finely articulated tone. Leave a small measured space between observations. Gentle descending conclusions; clinical precision without coldness or pomp.",
+  "audioSha256": "f58c30bfb769a0959da0f14d0ed66527ce6b0bde913f400de9747b646e09a635"
+}

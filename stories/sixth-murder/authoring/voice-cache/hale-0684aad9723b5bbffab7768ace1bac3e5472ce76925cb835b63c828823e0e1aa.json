@@ -1,0 +1,13 @@
+{
+  "src": "audio/hale-0684aad9723b5bbffab7768ace1bac3e5472ce76925cb835b63c828823e0e1aa-reviewed.mp3",
+  "text": "Yes. He wants you on this enquiry. I’ll remain with Arthur. The constable at the back is keeping her belongings secure.",
+  "durationMs": 8184,
+  "sha256": "0684aad9723b5bbffab7768ace1bac3e5472ce76925cb835b63c828823e0e1aa",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "3b44b9b086dfd66d1ea509e50d731f2aa2b392441b1516e345448720a5b89dc3",
+  "prompt": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding. Read the supplied dialogue exactly once, in a natural British English voice, with clean studio audio. Speech only; no music or sound effects.",
+  "synthesisText": "\"Yes. He wants you on this enquiry. I’ll remain with Arthur. The constable at the back is keeping her belongings secure.\""
+}

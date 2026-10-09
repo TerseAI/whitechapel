@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-320e317b0045a95f0c579abdd000e8e259b4af82ab68248143157b51fcdbebd8-reviewed.mp3",
+  "text": "You did not see it carried into the yard?",
+  "durationMs": 3384,
+  "sha256": "320e317b0045a95f0c579abdd000e8e259b4af82ab68248143157b51fcdbebd8",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "f2a3345252f3ae4196e781e05b2d050e14ed4002063f2b1e3426c7dffa05ae8b"
+}

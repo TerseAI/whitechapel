@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-e6f29fc562bab16fe83961aa0a9ee441a9f23e837aaf41d7e52e89a8b54c5919-reviewed.mp3",
+  "text": "When did you last handle those sacks?",
+  "durationMs": 2904,
+  "sha256": "e6f29fc562bab16fe83961aa0a9ee441a9f23e837aaf41d7e52e89a8b54c5919",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "a228c377ffd974a0f28be77cef5a3030a414c474f23f603772b9deaeb36e3e7d"
+}

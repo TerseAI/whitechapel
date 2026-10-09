@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-1f6e0356f13a0b1c26f914aa18a34138117fe2319be0070eb2ada456862d0318-reviewed.mp3",
+  "text": "What did, then?",
+  "durationMs": 1224,
+  "sha256": "1f6e0356f13a0b1c26f914aa18a34138117fe2319be0070eb2ada456862d0318",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "ec1161875fb8427edd32d34af703938a27da6956d84144390adcf372d9ab1ed0"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-ade8976322ac85135988f4bbf71946845899c66f65f36b6fe9a6f7db29d8916a-reviewed.mp3",
+  "text": "Do you sew for a living?",
+  "durationMs": 1824,
+  "sha256": "ade8976322ac85135988f4bbf71946845899c66f65f36b6fe9a6f7db29d8916a",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "01053081477a9c86b3b36c2cdf2a39678ecc862fa3e26b4f64c7a977587376ca"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-a1b441661ae231b0a1c0cfd781c8467f78d2c1dd03c6dbf27e73008efe499fcc-reviewed.mp3",
+  "text": "Is he still there?",
+  "durationMs": 1824,
+  "sha256": "a1b441661ae231b0a1c0cfd781c8467f78d2c1dd03c6dbf27e73008efe499fcc",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "7992194eac05b9f2f69150d1c8c4c3a4c834e2eccda06730bc645c673de00639"
+}

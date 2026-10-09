@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-b6a73eab7fe12a0d6cd2db1153df745ac8bd41c694482152d66ac683e5059d2c-reviewed.mp3",
+  "text": "Yes. The bend in the loop, and the blue wax. That is mine, from beside her bed.",
+  "durationMs": 7344,
+  "sha256": "b6a73eab7fe12a0d6cd2db1153df745ac8bd41c694482152d66ac683e5059d2c",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "c163dc52c0f6495b7837423f0fb05ab31206fb8643eb1673301af46a192c7e43"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-dddf114478eab3ba5bce2e3672e811fe813a06ebdeff0f02f131a994d9029adf-reviewed.mp3",
+  "text": "I read the paper. I didn’t do what was in it.",
+  "durationMs": 4944,
+  "sha256": "dddf114478eab3ba5bce2e3672e811fe813a06ebdeff0f02f131a994d9029adf",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "631e4f6a49d248450408ff4755e9327bf19af7c0975293944d74df4952c9805e"
+}

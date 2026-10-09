@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-7cb6fb4c8992248263a6d9033ec9a058f49521506b5046f9a2cc278c43879ca6-reviewed.mp3",
+  "text": "Nothing. I was off down the street by then.",
+  "durationMs": 3528,
+  "sha256": "7cb6fb4c8992248263a6d9033ec9a058f49521506b5046f9a2cc278c43879ca6",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "87a5063ebd355c6d5d22b629e4fe849bc9fccffacd10d9165f9990daf414b064"
+}

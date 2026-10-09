@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-8d0236b32d035129a37ec04e5c205ad0ae784d840b64ef1256eafca5b19d7a81-reviewed.mp3",
+  "text": "I couldn’t recognise either voice. Please don’t put a name to him for me.",
+  "durationMs": 5664,
+  "sha256": "8d0236b32d035129a37ec04e5c205ad0ae784d840b64ef1256eafca5b19d7a81",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "f3d80505f99ce2f48f2c2f31d4afbdf3118b17ccb7f636f5d9ee266cff1d6e05"
+}

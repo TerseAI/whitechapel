@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-c4afc690d9d1b834bccaf89be82cc34a9c5e36bd7fc2528f3466cfaecd107490-reviewed.mp3",
+  "text": "What have you been told?",
+  "durationMs": 2256,
+  "sha256": "c4afc690d9d1b834bccaf89be82cc34a9c5e36bd7fc2528f3466cfaecd107490",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "f2ebe7f9beaa54a6c7faf0f553e5a20407b7e85710fcb37d051dde14d39bf5e4"
+}

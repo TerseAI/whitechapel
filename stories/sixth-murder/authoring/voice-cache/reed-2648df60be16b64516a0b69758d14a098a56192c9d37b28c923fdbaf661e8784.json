@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-2648df60be16b64516a0b69758d14a098a56192c9d37b28c923fdbaf661e8784-reviewed.mp3",
+  "text": "We’re still establishing that. When did you last see her?",
+  "durationMs": 4824,
+  "sha256": "2648df60be16b64516a0b69758d14a098a56192c9d37b28c923fdbaf661e8784",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "f2e4ac9c13eeccf76d55f049d80cd637b4d8621e781be47424410c30fb1b6e7f"
+}

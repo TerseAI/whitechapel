@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-f38ea70c5cf22895b30e1056abde2aee351e381e7904730aaae2e258248fd43a-reviewed.mp3",
+  "text": "This was under the loose clothes. Do you recognise it?",
+  "durationMs": 4824,
+  "sha256": "f38ea70c5cf22895b30e1056abde2aee351e381e7904730aaae2e258248fd43a",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "f05d1f8fb3c3fdbbb50b86e096eb4af194340903d0fccb1a39e9a4126c125d58"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-b32a87070b5b25bbe79ca53dc8b3dcdd4113b2bb1f50ebd1ea1ac94333e99974-reviewed.mp3",
+  "text": "Was it guarded overnight?",
+  "durationMs": 2664,
+  "sha256": "b32a87070b5b25bbe79ca53dc8b3dcdd4113b2bb1f50ebd1ea1ac94333e99974",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "f1e0c3aefc2ef72d36179de8edb32d3b816b07dd6aa9442e2d9c9a8860645985"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-30b8dc8d34f15208cd0013a3c793ec95ade9c3439a4feef244cc1f1a95ccfa21-reviewed.mp3",
+  "text": "No. There was a scarf over her face. I left it where it was.",
+  "durationMs": 6048,
+  "sha256": "30b8dc8d34f15208cd0013a3c793ec95ade9c3439a4feef244cc1f1a95ccfa21",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "e3b97438ac4f36fb48291157f1f04b8a5d12c9dbb257f52e56b6d3359f6d3782"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-66848c5fa3898a6a48956a88e019954f24a9753225f137ba1cdb9b697c1c6e03-reviewed.mp3",
+  "text": "You still haven’t explained how you knew where it was hidden.",
+  "durationMs": 4056,
+  "sha256": "66848c5fa3898a6a48956a88e019954f24a9753225f137ba1cdb9b697c1c6e03",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "c427a33fe41d7a14eeddabde19267c09b76e4cfcdc6b0913bec76f1684c147ea"
+}

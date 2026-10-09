@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-f3bdc941abbd36e2a527857e73dca046a956948c12b366019a33b2604142f5ed-reviewed.mp3",
+  "text": "What did you find when you got here?",
+  "durationMs": 2328,
+  "sha256": "f3bdc941abbd36e2a527857e73dca046a956948c12b366019a33b2604142f5ed",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "330d805c40ebbc9bd8c1e85163131358d18e364a6eff80678c0475916bf385cf"
+}

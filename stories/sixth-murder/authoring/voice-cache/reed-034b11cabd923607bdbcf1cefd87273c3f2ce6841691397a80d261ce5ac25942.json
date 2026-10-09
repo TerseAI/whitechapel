@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-034b11cabd923607bdbcf1cefd87273c3f2ce6841691397a80d261ce5ac25942-reviewed.mp3",
+  "text": "Who has been allowed into the yard?",
+  "durationMs": 2664,
+  "sha256": "034b11cabd923607bdbcf1cefd87273c3f2ce6841691397a80d261ce5ac25942",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "759ae51651764dcf0b8312d7277fb40d2127c90e5f7d4e7c5f1c7ab4f9c38095"
+}

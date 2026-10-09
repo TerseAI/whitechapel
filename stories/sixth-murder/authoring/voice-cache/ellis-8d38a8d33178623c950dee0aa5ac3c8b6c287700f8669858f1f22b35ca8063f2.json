@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-8d38a8d33178623c950dee0aa5ac3c8b6c287700f8669858f1f22b35ca8063f2-reviewed.mp3",
+  "text": "What stood beside Nora’s bed?",
+  "durationMs": 2784,
+  "sha256": "8d38a8d33178623c950dee0aa5ac3c8b6c287700f8669858f1f22b35ca8063f2",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "2962347e8dbc2f52e8b17585b18878fbc3e867b3121a7920016befec1d5b3762"
+}

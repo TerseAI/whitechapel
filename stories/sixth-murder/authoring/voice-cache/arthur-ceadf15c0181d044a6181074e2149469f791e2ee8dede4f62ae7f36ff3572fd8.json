@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-ceadf15c0181d044a6181074e2149469f791e2ee8dede4f62ae7f36ff3572fd8-reviewed.mp3",
+  "text": "How much longer are you keeping me here?",
+  "durationMs": 3024,
+  "sha256": "ceadf15c0181d044a6181074e2149469f791e2ee8dede4f62ae7f36ff3572fd8",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "eca1007c7af3f134308de677f857ed635bd292ea67bd8678ccfe89cefeacbe87"
+}

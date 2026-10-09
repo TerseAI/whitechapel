@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-e58f3f4beb730a74c5047a3be9bdae951c76a25f1113c34c7c12ed7ac4ba693f-reviewed.mp3",
+  "text": "I couldn’t leave her on the floor.",
+  "durationMs": 2448,
+  "sha256": "e58f3f4beb730a74c5047a3be9bdae951c76a25f1113c34c7c12ed7ac4ba693f",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "875d2e5c204ce302b3f7a9c7efa2abc331932f83ecefea5c0054eed720418a27"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-f8bafb171039b89d0ff7fac4d114345ab9d51ae993bad34fba21950a6622fdcb-reviewed.mp3",
+  "text": "We still have to ask.",
+  "durationMs": 2136,
+  "sha256": "f8bafb171039b89d0ff7fac4d114345ab9d51ae993bad34fba21950a6622fdcb",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "d71401c8af1d27e1b7fecde189cedbf1b9d33579feb02ad01b8a989915ee5730"
+}

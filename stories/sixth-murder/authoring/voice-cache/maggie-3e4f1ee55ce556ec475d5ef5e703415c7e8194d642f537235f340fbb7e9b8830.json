@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-3e4f1ee55ce556ec475d5ef5e703415c7e8194d642f537235f340fbb7e9b8830-reviewed.mp3",
+  "text": "Their wedding day. Eighth of June, four years ago. It’s written on the back.",
+  "durationMs": 9288,
+  "sha256": "3e4f1ee55ce556ec475d5ef5e703415c7e8194d642f537235f340fbb7e9b8830",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "b49b23907737303fead8f68be5f31f4a2906505a0b3db3c02241e5c63b7de6c8"
+}

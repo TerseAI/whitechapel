@@ -1,0 +1,13 @@
+{
+  "src": "audio/reed-b3827e262c82cc7f4d71432c8dcbd0e6d3390e394d7531747d0533716e6a8a83-reviewed.mp3",
+  "text": "How would we recognise it?",
+  "durationMs": 2208,
+  "sha256": "b3827e262c82cc7f4d71432c8dcbd0e6d3390e394d7531747d0533716e6a8a83",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "687ec317955ac40c36e8e6f3f59590c8c7d26b0805cf58c3638b62c7ea94b70d",
+  "prompt": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark. Read the supplied dialogue exactly once, in a natural British English voice, with clean studio audio. Speech only; no music or sound effects.",
+  "synthesisText": "\"How would we recognise it?\""
+}

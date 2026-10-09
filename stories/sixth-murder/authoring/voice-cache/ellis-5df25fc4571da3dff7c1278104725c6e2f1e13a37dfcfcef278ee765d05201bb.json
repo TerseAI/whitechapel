@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-5df25fc4571da3dff7c1278104725c6e2f1e13a37dfcfcef278ee765d05201bb-reviewed.mp3",
+  "text": "Could you make out what they were saying?",
+  "durationMs": 2544,
+  "sha256": "5df25fc4571da3dff7c1278104725c6e2f1e13a37dfcfcef278ee765d05201bb",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "9aad4e765d2a59721e4ba11d2fb3ecb283f9bd4393558e47cf16d9248726b129"
+}

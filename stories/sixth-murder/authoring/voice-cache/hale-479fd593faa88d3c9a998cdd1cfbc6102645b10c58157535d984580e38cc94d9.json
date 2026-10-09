@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-479fd593faa88d3c9a998cdd1cfbc6102645b10c58157535d984580e38cc94d9-reviewed.mp3",
+  "text": "Yes, sir. I sent an officer to Bell’s shop. The landlord confirms Arthur’s still in the upstairs room.",
+  "durationMs": 6984,
+  "sha256": "479fd593faa88d3c9a998cdd1cfbc6102645b10c58157535d984580e38cc94d9",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "2076eee85cfdaa8c905b5cae6d0a284d09b2e788e8b82523499b840997e94971"
+}

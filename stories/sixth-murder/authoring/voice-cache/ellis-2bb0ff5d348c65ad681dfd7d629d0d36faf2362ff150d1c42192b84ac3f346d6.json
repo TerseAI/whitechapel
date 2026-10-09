@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-2bb0ff5d348c65ad681dfd7d629d0d36faf2362ff150d1c42192b84ac3f346d6-reviewed.mp3",
+  "text": "Would that have been a problem?",
+  "durationMs": 2136,
+  "sha256": "2bb0ff5d348c65ad681dfd7d629d0d36faf2362ff150d1c42192b84ac3f346d6",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "d742fd8f6d18b233cc2e1bb92a392016dae7e5a4cf8d72f59c172ce8fb49cb6a"
+}

@@ -1,0 +1,13 @@
+{
+  "src": "audio/arthur-7297448840304718d9756f5806c5d061edc6ada022be60367a06f6327826d1fc-reviewed.mp3",
+  "text": "I was frightened. I thought if I got her out of there, I’d have time to think.",
+  "durationMs": 6096,
+  "sha256": "7297448840304718d9756f5806c5d061edc6ada022be60367a06f6327826d1fc",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "82884ba639310557dcf7f21b4973ec473e0336aa495a177ae8fe2124b54f7b65",
+  "prompt": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning. Read the supplied dialogue exactly once, in a natural British English voice, with clean studio audio. Speech only; no music or sound effects.",
+  "synthesisText": "\"I was frightened. I thought if I got her out of there, I’d have time to think.\""
+}

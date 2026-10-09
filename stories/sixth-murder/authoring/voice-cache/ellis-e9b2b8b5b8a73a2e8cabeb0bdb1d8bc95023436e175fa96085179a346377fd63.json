@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-e9b2b8b5b8a73a2e8cabeb0bdb1d8bc95023436e175fa96085179a346377fd63-reviewed.mp3",
+  "text": "Have you bought your ticket?",
+  "durationMs": 1944,
+  "sha256": "e9b2b8b5b8a73a2e8cabeb0bdb1d8bc95023436e175fa96085179a346377fd63",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "953df6802b08f7952ba9c7c0f51922a12f06cd78c2daf48f203a709f277d23f8"
+}

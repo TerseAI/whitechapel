@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-8a889dafe156025cb5384a05d9c8d617462025fc80660264469720bd46a84779-reviewed.mp3",
+  "text": "No. I went to see her, and then I left.",
+  "durationMs": 3816,
+  "sha256": "8a889dafe156025cb5384a05d9c8d617462025fc80660264469720bd46a84779",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "eb553ac0661910443ea771ffd0842ec3fcecf51da9b60af5b3cc1fb3b4e68193"
+}

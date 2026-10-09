@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-350032cce12eb162dda9f9c14ccc17134d62afc8e6fde9ec4ae905ae1d4889cf-reviewed.mp3",
+  "text": "Beyond the washhouse. You can’t see the corner until you come into the yard.",
+  "durationMs": 4824,
+  "sha256": "350032cce12eb162dda9f9c14ccc17134d62afc8e6fde9ec4ae905ae1d4889cf",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "b4ab29aa6a3bb832c09dd1dc178a9d209fa4e76bbb2d465c6ec49749bd102899"
+}

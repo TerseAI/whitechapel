@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-33861b26cd1066049b46da9f5235363b09001bd32b3cfe2afa284df43f8bc1aa-reviewed.mp3",
+  "text": "You said you had found something in the trunk. What was it?",
+  "durationMs": 5016,
+  "sha256": "33861b26cd1066049b46da9f5235363b09001bd32b3cfe2afa284df43f8bc1aa",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "ae9b44080ae1e8e3b2bcae613fae4d2dacd18d80b14f90f0b65e0c185ba12db8"
+}

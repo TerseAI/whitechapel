@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-bb866cbd707014123d73f0e089ae26e2ef66758bfe1fc9f7823f3467c9014603-reviewed.mp3",
+  "text": "Was someone coming for it?",
+  "durationMs": 2256,
+  "sha256": "bb866cbd707014123d73f0e089ae26e2ef66758bfe1fc9f7823f3467c9014603",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "9c9179196f55b0c253a0d4a3687be35e7a085db5bff9834da2e1062fa978698c"
+}

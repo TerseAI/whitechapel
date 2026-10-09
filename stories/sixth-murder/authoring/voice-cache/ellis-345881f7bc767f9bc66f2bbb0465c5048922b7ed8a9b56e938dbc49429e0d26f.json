@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-345881f7bc767f9bc66f2bbb0465c5048922b7ed8a9b56e938dbc49429e0d26f-reviewed.mp3",
+  "text": "And if we’re out early, shall we go round the back?",
+  "durationMs": 3528,
+  "sha256": "345881f7bc767f9bc66f2bbb0465c5048922b7ed8a9b56e938dbc49429e0d26f",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "a2944685964f76fdcbc40105b60383abe7640d8c330ce717d1851fd3b6344083"
+}

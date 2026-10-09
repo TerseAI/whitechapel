@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-c95cecc6be165009c1bd0b79768b03eef89f1370118130da496016c65b47741d-reviewed.mp3",
+  "text": "We had words about Bristol.",
+  "durationMs": 2136,
+  "sha256": "c95cecc6be165009c1bd0b79768b03eef89f1370118130da496016c65b47741d",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "ed7defc1d96d1fd5547327042b88f9823119683e1229cc30a6ed0ecd3253a63f"
+}

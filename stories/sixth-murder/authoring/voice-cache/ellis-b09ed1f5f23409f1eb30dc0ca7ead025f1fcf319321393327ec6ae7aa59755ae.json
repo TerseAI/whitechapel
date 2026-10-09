@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-b09ed1f5f23409f1eb30dc0ca7ead025f1fcf319321393327ec6ae7aa59755ae-reviewed.mp3",
+  "text": "Can you mend it?",
+  "durationMs": 1656,
+  "sha256": "b09ed1f5f23409f1eb30dc0ca7ead025f1fcf319321393327ec6ae7aa59755ae",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "6b7ff4450cc0214d4169be3bb2113eaff1541ed2b2464cd7f5b6722efae48a1d"
+}

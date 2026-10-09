@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-d70b0f30c35a0996937fadc8fc08b0c1d649f55f2e3f2db90cc39746aa5acb11-reviewed.mp3",
+  "text": "He hasn’t come with us. We can speak privately.",
+  "durationMs": 4008,
+  "sha256": "d70b0f30c35a0996937fadc8fc08b0c1d649f55f2e3f2db90cc39746aa5acb11",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "9d1ad40e3b5e393545f1aedec834316ff946a805499ee661cb1cf3158e7be7db"
+}

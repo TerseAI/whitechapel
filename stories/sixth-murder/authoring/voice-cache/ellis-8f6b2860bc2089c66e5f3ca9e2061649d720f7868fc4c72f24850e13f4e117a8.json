@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-8f6b2860bc2089c66e5f3ca9e2061649d720f7868fc4c72f24850e13f4e117a8-reviewed.mp3",
+  "text": "All right. What time did you leave here last night?",
+  "durationMs": 3936,
+  "sha256": "8f6b2860bc2089c66e5f3ca9e2061649d720f7868fc4c72f24850e13f4e117a8",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "4bee922d20bf6a71142137f4a013a2b2424887515b1499b3953c21d99463d438"
+}

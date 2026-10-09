@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-65024a2b01c3e6b85a398252341f8d19bc56aacd36e6c030e971076927c87a0d-reviewed.mp3",
+  "text": "I don’t know what Nora’s been telling people.",
+  "durationMs": 2616,
+  "sha256": "65024a2b01c3e6b85a398252341f8d19bc56aacd36e6c030e971076927c87a0d",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "2d51c90a133b40845c3ef231d5096296f3e7640a5ab03cbd232895054e2b03f1"
+}

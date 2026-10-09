@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-7b3099d47ad1e0b5d640d964bc2eb0739820956a4331fb88e5735311ee9857b8-reviewed.mp3",
+  "text": "Mr Moss. We found this under the coal sacks in your cart.",
+  "durationMs": 5208,
+  "sha256": "7b3099d47ad1e0b5d640d964bc2eb0739820956a4331fb88e5735311ee9857b8",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "d46ef01d33f8e78a9f29c889492fcd7ce2070ec5f1c20052a7c9f5acff138c62"
+}

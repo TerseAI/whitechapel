@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-3d27db918be6e155109ceb29e3d07f19b32ce684dfc020d3956c6889581204f0-reviewed.mp3",
+  "text": "Then it’s true. They said a woman had been found at the Lantern. Before I say anything—is Arthur with you?",
+  "durationMs": 8664,
+  "sha256": "3d27db918be6e155109ceb29e3d07f19b32ce684dfc020d3956c6889581204f0",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "b9cc0289e6ef9d3c2022e02bf7ed476ce45410885a805a6dec77c88576d872e9"
+}

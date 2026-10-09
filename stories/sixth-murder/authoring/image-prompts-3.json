@@ -1,0 +1,12 @@
+[
+  {
+    "id": "trunk-bedding",
+    "ref": "trunk-open",
+    "prompt": "Edit this exact open trunk image, preserving trunk/camera/yard. Remove the loose travelling clothes from the interior and set them just out of frame to reveal a folded dull grey wool bed blanket with a BLUE EDGING BORDER and a visible neat darn near one corner. The blanket and pale inner lining have several dark dried blood stains from use after an injury, without excessive blood. Blanket blue edging and repaired corner must be plainly visible. No body, gore, people, weapon, text or labels. Do not change the large old trunk's size, lid or straps."
+  },
+  {
+    "id": "candlestick-recovered",
+    "ref": "cart-sacks",
+    "prompt": "Edit this exact 1888 coal cart image to a closer inspection of its bed: one of the sacks has been lifted aside, uncovering a heavy brass CHAMBERSTICK (short squat candle holder with wide round shallow dish base and one loop finger handle), a badly BENT LOOP HANDLE leaning to one side, dull BLUE WAX pooled in its dish and a short blue candle stub. Clearly show the recognizable bent handle and blue wax. Keep cart boards, coarse coal sacks, ash and yard consistent. Brass chamberstick must be of realistic Victorian everyday form, not a tall candelabra. No visible blood, no body, no hands, no text. Focus close on candlestick beneath lifted sack."
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-c8010d79cfdcc7ea129cc6d2ad226211d188dc64bf79e61ae46d4fa87b05944e-reviewed.mp3",
+  "text": "Turn the handle towards me.",
+  "durationMs": 2688,
+  "sha256": "c8010d79cfdcc7ea129cc6d2ad226211d188dc64bf79e61ae46d4fa87b05944e",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "637f8c4336e321b5322b0db3e56bc697dc86e27b8cf61f258978e05453491336"
+}

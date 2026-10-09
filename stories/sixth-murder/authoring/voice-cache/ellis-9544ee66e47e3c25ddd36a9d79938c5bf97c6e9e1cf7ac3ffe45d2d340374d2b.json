@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-9544ee66e47e3c25ddd36a9d79938c5bf97c6e9e1cf7ac3ffe45d2d340374d2b-reviewed.mp3",
+  "text": "In a moment, Mr Moss. Tell us what happened this morning.",
+  "durationMs": 4056,
+  "sha256": "9544ee66e47e3c25ddd36a9d79938c5bf97c6e9e1cf7ac3ffe45d2d340374d2b",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "59a02317c1c908b1e8ff323db62a15bc5437f6b7d83a3bfce770fb0cde872c36"
+}

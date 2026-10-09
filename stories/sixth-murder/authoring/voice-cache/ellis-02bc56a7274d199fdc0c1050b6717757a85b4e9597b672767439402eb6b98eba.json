@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-02bc56a7274d199fdc0c1050b6717757a85b4e9597b672767439402eb6b98eba-reviewed.mp3",
+  "text": "Keep him there while we search. No one is to discuss what we find within his hearing.",
+  "durationMs": 6504,
+  "sha256": "02bc56a7274d199fdc0c1050b6717757a85b4e9597b672767439402eb6b98eba",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "a7a71dc6d7cc3145d107e3e88b85e72b429615a1bc8601535be3b53d20e4146f"
+}

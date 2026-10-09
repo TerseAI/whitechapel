@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-90e45ec4b046b7d3cc7c04bc53014839bd97a3f188375f6bf15e8eb3b0985710-reviewed.mp3",
+  "text": "We should speak to Maggie.",
+  "durationMs": 2664,
+  "sha256": "90e45ec4b046b7d3cc7c04bc53014839bd97a3f188375f6bf15e8eb3b0985710",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "424a3f1b4b70cc4fc997c3b85fe627de4bc2e6163b7a82e0f935f8f1a196c0ba"
+}

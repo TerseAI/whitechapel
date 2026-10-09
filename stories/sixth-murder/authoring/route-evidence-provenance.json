@@ -1,0 +1,40 @@
+{
+  "method": "Rendered directly from the authored GLB sets with Three.js; no generated or retouched geometry.",
+  "renderer": "environment-preview.html",
+  "script": "review-environments.mjs",
+  "dimensions": [
+    1600,
+    1000
+  ],
+  "views": {
+    "service-route": {
+      "scene": "lantern-yard",
+      "eye": [
+        -3.7,
+        2.3,
+        -1.1
+      ],
+      "target": [
+        -1.05,
+        1.05,
+        -5.9
+      ],
+      "verticalFov": 56
+    },
+    "window-view": {
+      "scene": "baines-room",
+      "eye": [
+        -0.1,
+        1.7,
+        0.6
+      ],
+      "target": [
+        1.05,
+        0.6,
+        -3.7
+      ],
+      "verticalFov": 80
+    }
+  },
+  "review": "Three shallow steps and broad landing visible in service view. In the Baines window view, the washhouse blocks the discovery corner; the service landing remains visible. No labels or UI. Encoded as WebP at quality 94."
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/nora-eff8393a35481f181449a519713637b949107bf6e914b786cb0fb347f3cb659a-reviewed.mp3",
+  "text": "Yes. Mostly alterations. I’m starting at another place on Monday.",
+  "durationMs": 6576,
+  "sha256": "eff8393a35481f181449a519713637b949107bf6e914b786cb0fb347f3cb659a",
+  "actor": "nora",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Leda",
+  "direction": "Nora Vale, a 30-year-old English needleworker. Quiet clear and capable voice with a subtle working London accent; occasional dry humour and gentle uncertainty. Light clear mezzo, agile rhythm, soft precise consonants and a small dry lift on a witty observation. Speak with adult confidence, never breathy, childlike or portentous.",
+  "audioSha256": "5b359f3ffb8a1ad889e3e699373d28d4bf8df09fc63d349fe51ebec141748ece"
+}

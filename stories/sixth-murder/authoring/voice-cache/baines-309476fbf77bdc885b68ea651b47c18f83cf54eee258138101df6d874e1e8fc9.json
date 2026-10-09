@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-309476fbf77bdc885b68ea651b47c18f83cf54eee258138101df6d874e1e8fc9-reviewed.mp3",
+  "text": "I couldn’t say.",
+  "durationMs": 1896,
+  "sha256": "309476fbf77bdc885b68ea651b47c18f83cf54eee258138101df6d874e1e8fc9",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "5d072b4a86e2f71dfc5390cc6830e8dffa961915bf0fd5eeda4096622ca3040f"
+}

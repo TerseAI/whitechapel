@@ -1,0 +1,11 @@
+{
+  "src": "audio/nora-21cdcd3eae66cccfa106c71bed883b7b5fe7fd1a2200b6b09f8538d27fd49bc0-reviewed.mp3",
+  "text": "One trunk. George is taking it to the station. My sewing things will come with me. I’d rather keep hold of those.",
+  "durationMs": 7728,
+  "sha256": "21cdcd3eae66cccfa106c71bed883b7b5fe7fd1a2200b6b09f8538d27fd49bc0",
+  "actor": "nora",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Leda",
+  "direction": "Nora Vale, a 30-year-old English needleworker. Quiet clear and capable voice with a subtle working London accent; occasional dry humour and gentle uncertainty. Light clear mezzo, agile rhythm, soft precise consonants and a small dry lift on a witty observation. Speak with adult confidence, never breathy, childlike or portentous.",
+  "audioSha256": "0eaaccb938ebb6e94e0222d256715b914f64e3bcfdbb41d65d09e2b8f37f19d1"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-2aae22393a150b481f19845eb8aea8b2ef3ebadf5bd1bbc09cc7f68aaad8bbaa-reviewed.mp3",
+  "text": "We will help with the belongings when they may be released.",
+  "durationMs": 4296,
+  "sha256": "2aae22393a150b481f19845eb8aea8b2ef3ebadf5bd1bbc09cc7f68aaad8bbaa",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "1b15d95bda5b9b262022df221abf6ab55b78164b188d7f94841c81ac0337aaa7"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-abbe1177ea96c8a8421219742bcdc95304d8d27b562f6bfb3a5f26c5abd64c9c-reviewed.mp3",
+  "text": "A candlestick? What’s that doing there?",
+  "durationMs": 3288,
+  "sha256": "abbe1177ea96c8a8421219742bcdc95304d8d27b562f6bfb3a5f26c5abd64c9c",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "6aad5328596be0e0fa1ac510ed38a1851148d5edf10a3103e23ccf780b01a320"
+}

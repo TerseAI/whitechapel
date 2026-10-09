@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-1527091c10b9138635fbae68115556201bd8e6a739892859e1d24afa13cde55e-reviewed.mp3",
+  "text": "There’s blood beneath the rug in her room. We found more inside her trunk, on the bedding.",
+  "durationMs": 6624,
+  "sha256": "1527091c10b9138635fbae68115556201bd8e6a739892859e1d24afa13cde55e",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "5f0c4ecc3a329c80cea075bce67cc0ace65bf00d700e97752da5afc2b20531de"
+}

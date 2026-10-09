@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-bf5afb132ed1d8d705874c65aeea3944c5acc4747cd98956843e1149e88061dd-reviewed.mp3",
+  "text": "At the mortuary. Alden examined her in the yard first, then we brought a stretcher.",
+  "durationMs": 6288,
+  "sha256": "bf5afb132ed1d8d705874c65aeea3944c5acc4747cd98956843e1149e88061dd",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "9a22adbe4ae119b6136594e67c68236b3f50cee53ab3f92b75a38ef42b5b821f"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-ebff793e340f6355e44a1a2695113fe61fcd83310775c39ce5aab5943651067b-reviewed.mp3",
+  "text": "A heavy brass candlestick I lent her.",
+  "durationMs": 3384,
+  "sha256": "ebff793e340f6355e44a1a2695113fe61fcd83310775c39ce5aab5943651067b",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "a71d083f5415c6e5437ab65e9ef659a5e9efd198a5b87a0c1106eb53a4822f43"
+}

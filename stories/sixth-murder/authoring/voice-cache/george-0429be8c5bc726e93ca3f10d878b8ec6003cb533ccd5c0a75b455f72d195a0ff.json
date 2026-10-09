@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-0429be8c5bc726e93ca3f10d878b8ec6003cb533ccd5c0a75b455f72d195a0ff-reviewed.mp3",
+  "text": "A trunk to the station. One of her lodgers is off to Bristol.",
+  "durationMs": 4728,
+  "sha256": "0429be8c5bc726e93ca3f10d878b8ec6003cb533ccd5c0a75b455f72d195a0ff",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "eaa321d1192c98f67c236d8042491b57bbbb8ee58ff5c1605b6c64a9728aedb8"
+}

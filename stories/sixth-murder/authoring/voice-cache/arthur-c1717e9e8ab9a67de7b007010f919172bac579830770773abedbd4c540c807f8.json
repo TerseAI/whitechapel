@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-c1717e9e8ab9a67de7b007010f919172bac579830770773abedbd4c540c807f8-reviewed.mp3",
+  "text": "No. She was packing.",
+  "durationMs": 2616,
+  "sha256": "c1717e9e8ab9a67de7b007010f919172bac579830770773abedbd4c540c807f8",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "495a892cdf713345880cc52d3215002c3379420d0afb41d4bf7a110f8f3023f3"
+}

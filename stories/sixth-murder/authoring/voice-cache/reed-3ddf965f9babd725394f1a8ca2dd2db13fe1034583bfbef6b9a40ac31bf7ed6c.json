@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-3ddf965f9babd725394f1a8ca2dd2db13fe1034583bfbef6b9a40ac31bf7ed6c-reviewed.mp3",
+  "text": "Is the handle meant to bend like that?",
+  "durationMs": 2448,
+  "sha256": "3ddf965f9babd725394f1a8ca2dd2db13fe1034583bfbef6b9a40ac31bf7ed6c",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "ad9fe40dd8bfd0226dbd63381e39a72979838c5a62fe136aec9eb2e4f9d890d7"
+}

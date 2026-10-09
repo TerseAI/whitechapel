@@ -1,0 +1,11 @@
+{
+  "src": "audio/nora-a5bae03069cd4811fc224fd8a8d8853d9686b910349599c720b5012d536b80b5-reviewed.mp3",
+  "text": "We did, after that. She’d been trying to catch me up. Neither of us fancied walking alone.",
+  "durationMs": 6456,
+  "sha256": "a5bae03069cd4811fc224fd8a8d8853d9686b910349599c720b5012d536b80b5",
+  "actor": "nora",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Leda",
+  "direction": "Nora Vale, a 30-year-old English needleworker. Quiet clear and capable voice with a subtle working London accent; occasional dry humour and gentle uncertainty. Light clear mezzo, agile rhythm, soft precise consonants and a small dry lift on a witty observation. Speak with adult confidence, never breathy, childlike or portentous.",
+  "audioSha256": "e9c6b1300ffd04bf3a5afd91a1ce56afd6f64e033b90dcfb461880a683fa42ba"
+}

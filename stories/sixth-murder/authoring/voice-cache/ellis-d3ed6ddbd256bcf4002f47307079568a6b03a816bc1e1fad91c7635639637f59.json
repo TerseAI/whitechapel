@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-d3ed6ddbd256bcf4002f47307079568a6b03a816bc1e1fad91c7635639637f59-reviewed.mp3",
+  "text": "Do you recognise the edging?",
+  "durationMs": 2424,
+  "sha256": "d3ed6ddbd256bcf4002f47307079568a6b03a816bc1e1fad91c7635639637f59",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "81852e68d70aeaf0fc21bd165575587c6910af54562ac5dbf22b679dd02a8984"
+}

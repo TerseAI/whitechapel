@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-cc0ea2c0d01156a3aecf6459c9e0f0df3c2f71f39319c205b13b0a49a69816cc-reviewed.mp3",
+  "text": "No. Anyone in the yard could reach the sacks. He had not moved it when he found Nora.",
+  "durationMs": 7104,
+  "sha256": "cc0ea2c0d01156a3aecf6459c9e0f0df3c2f71f39319c205b13b0a49a69816cc",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "1c8d6bea45fbeab6c5b40f3616eb0dc953cb477c563a3e9b6b9bba2567969ca2"
+}

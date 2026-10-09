@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-842573e03df91e97fd565d3849c5758bc605c75d65d282ee69ca1389dcd07223-reviewed.mp3",
+  "text": "I’m not saying anything about that.",
+  "durationMs": 2448,
+  "sha256": "842573e03df91e97fd565d3849c5758bc605c75d65d282ee69ca1389dcd07223",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "22b01fcbe190763c58abf1f5c895397af65842ff16a315287fa6923537c089e5"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-654294e0fd650cc6cacdde35b111cf4a81c13abf4d7ac15e52a13511c1577eae-reviewed.mp3",
+  "text": "Did you see his face?",
+  "durationMs": 1776,
+  "sha256": "654294e0fd650cc6cacdde35b111cf4a81c13abf4d7ac15e52a13511c1577eae",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "d4900b53f12a344b3c298fae46f79ed19e2365c6bfe2635bcc353915ef95446a"
+}

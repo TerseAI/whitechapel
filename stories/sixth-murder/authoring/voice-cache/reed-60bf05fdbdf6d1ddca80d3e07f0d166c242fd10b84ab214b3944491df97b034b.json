@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-60bf05fdbdf6d1ddca80d3e07f0d166c242fd10b84ab214b3944491df97b034b-reviewed.mp3",
+  "text": "We’ll arrange for word to reach her.",
+  "durationMs": 2784,
+  "sha256": "60bf05fdbdf6d1ddca80d3e07f0d166c242fd10b84ab214b3944491df97b034b",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "4d9a3864e7b4e91383558586fd88007d1003e7dd7c8058a43158c0011c7a0727"
+}

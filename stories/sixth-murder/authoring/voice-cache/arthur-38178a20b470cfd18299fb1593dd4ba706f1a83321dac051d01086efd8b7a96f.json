@@ -1,0 +1,12 @@
+{
+  "src": "audio/arthur-38178a20b470cfd18299fb1593dd4ba706f1a83321dac051d01086efd8b7a96f-reviewed.mp3",
+  "text": "No.",
+  "durationMs": 984,
+  "sha256": "38178a20b470cfd18299fb1593dd4ba706f1a83321dac051d01086efd8b7a96f",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "f15728904fc7e1f8b88e789fb50c272b915256c076542dbd2f740adf86d0786e",
+  "prompt": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning. Read the supplied dialogue exactly, in a natural British English voice, with clean studio audio. Speech only; no music or sound effects."
+}

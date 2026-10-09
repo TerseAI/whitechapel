@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-efe77364b9099063b693d826d7aad34222794ee2b0b472a1e63cbf8b58cc0130-reviewed.mp3",
+  "text": "I waited outside the workshop. Followed her when she left.",
+  "durationMs": 4344,
+  "sha256": "efe77364b9099063b693d826d7aad34222794ee2b0b472a1e63cbf8b58cc0130",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "52eec3dae0433e9048d5c516ff707b3f72dc009b47b684ded9c2992d168d5d91"
+}

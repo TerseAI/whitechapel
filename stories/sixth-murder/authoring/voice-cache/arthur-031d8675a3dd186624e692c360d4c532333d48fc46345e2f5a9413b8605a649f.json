@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-031d8675a3dd186624e692c360d4c532333d48fc46345e2f5a9413b8605a649f-reviewed.mp3",
+  "text": "That’s not the newspaper you’re talking about.",
+  "durationMs": 3384,
+  "sha256": "031d8675a3dd186624e692c360d4c532333d48fc46345e2f5a9413b8605a649f",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "ff465c3fe35bb880e16c59fa0442f4400fa36aa55a2434c00325adec4bb19bae"
+}

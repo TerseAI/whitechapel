@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-cd0afd4dea535244ea2559eb8d762876bce1621d1658a913f0898d757b3d1b03-reviewed.mp3",
+  "text": "I wouldn’t take every word in that paper for the truth.",
+  "durationMs": 3696,
+  "sha256": "cd0afd4dea535244ea2559eb8d762876bce1621d1658a913f0898d757b3d1b03",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "3283d963c282770a47daec422bfccd2013379fd0c42df0fadd476642b0d20ebf"
+}

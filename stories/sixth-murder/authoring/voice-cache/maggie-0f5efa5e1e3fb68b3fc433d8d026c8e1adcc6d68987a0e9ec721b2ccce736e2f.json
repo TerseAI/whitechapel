@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-0f5efa5e1e3fb68b3fc433d8d026c8e1adcc6d68987a0e9ec721b2ccce736e2f-reviewed.mp3",
+  "text": "At this table. That’s her work there. I haven’t moved it.",
+  "durationMs": 4968,
+  "sha256": "0f5efa5e1e3fb68b3fc433d8d026c8e1adcc6d68987a0e9ec721b2ccce736e2f",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "5d7506eb9981df83b7edf8f04596a98a8ce64358fe6f2187a748ff7653cd0e05"
+}

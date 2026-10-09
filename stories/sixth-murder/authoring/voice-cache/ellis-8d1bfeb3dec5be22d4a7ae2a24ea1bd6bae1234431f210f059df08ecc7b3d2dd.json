@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-8d1bfeb3dec5be22d4a7ae2a24ea1bd6bae1234431f210f059df08ecc7b3d2dd-reviewed.mp3",
+  "text": "They’ll have to stay where they are for now.",
+  "durationMs": 2568,
+  "sha256": "8d1bfeb3dec5be22d4a7ae2a24ea1bd6bae1234431f210f059df08ecc7b3d2dd",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "1f1d084f4de6ba11b724b74859043ff2b1cc102c33683348de66bb28d758b140"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-85a37cd21122accc364be8cd103c4a16197512177afa871fae5bdf3fb18d6bf0-reviewed.mp3",
+  "text": "May we see a photograph of Nora?",
+  "durationMs": 2688,
+  "sha256": "85a37cd21122accc364be8cd103c4a16197512177afa871fae5bdf3fb18d6bf0",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "ce6aa1ee2193f3cc87b2de42cdf52d3c4542242333967f5370df475991f6fee1"
+}

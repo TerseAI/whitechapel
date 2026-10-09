@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-3eb5c3b270e8a4ed76d3b45899ac03758b080a2c73a53476caf30df8bb9e3f0a-reviewed.mp3",
+  "text": "Can you tell us when that was?",
+  "durationMs": 2208,
+  "sha256": "3eb5c3b270e8a4ed76d3b45899ac03758b080a2c73a53476caf30df8bb9e3f0a",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "aa5d91e4674684d3842de1e18e58a89be9a00454de932411a79297cbfab3d395"
+}

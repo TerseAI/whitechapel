@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-481d7a77d9d8de3a87fade56631cc429c830d77901c835ff0735aed983d253d7-reviewed.mp3",
+  "text": "I’d been meaning to do it.",
+  "durationMs": 2568,
+  "sha256": "481d7a77d9d8de3a87fade56631cc429c830d77901c835ff0735aed983d253d7",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "3d39bbb3f5c6c850c333c90fafa6eb9fd70823fc14638204f6bc8acf6124774b"
+}

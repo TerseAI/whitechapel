@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-fd1f5dc181e0302026a7a0e25ea934d6fbc24ed31cc5f451198b3e484504f83d-reviewed.mp3",
+  "text": "I was clearing some things out.",
+  "durationMs": 2184,
+  "sha256": "fd1f5dc181e0302026a7a0e25ea934d6fbc24ed31cc5f451198b3e484504f83d",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "e95ed46d6a844bea3c13298421cbf2bb6a87c5a12f4bd11ae787d4f89923ac94"
+}

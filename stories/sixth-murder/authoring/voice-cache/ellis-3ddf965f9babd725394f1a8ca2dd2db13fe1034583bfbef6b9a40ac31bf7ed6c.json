@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-3ddf965f9babd725394f1a8ca2dd2db13fe1034583bfbef6b9a40ac31bf7ed6c-reviewed.mp3",
+  "text": "Is the handle meant to bend like that?",
+  "durationMs": 3264,
+  "sha256": "3ddf965f9babd725394f1a8ca2dd2db13fe1034583bfbef6b9a40ac31bf7ed6c",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "48d92e841a2583d23765b96aef76d0c46048706fea6b4f3aecb8d4e968583c5c"
+}

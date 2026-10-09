@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-07bb76bfbb564a184c9dfe6dc86d4b3d938c14bf4a0345ab5e3ce93519b3848f-reviewed.mp3",
+  "text": "What if he comes back?",
+  "durationMs": 2424,
+  "sha256": "07bb76bfbb564a184c9dfe6dc86d4b3d938c14bf4a0345ab5e3ce93519b3848f",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "8d4d6cdc31c9870a54718f51f79fc91e39d8190d10f942e5dafbac74b5d75099"
+}

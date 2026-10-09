@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-b1686bef1cfa2552ad7ccd69e1f38a79bb9e734ff5127426730d8a0b001207e7-reviewed.mp3",
+  "text": "How did the visit go?",
+  "durationMs": 1968,
+  "sha256": "b1686bef1cfa2552ad7ccd69e1f38a79bb9e734ff5127426730d8a0b001207e7",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "086dfa1484f817e36c170cd44657faa8950a0c2b77b6cbfabce33b5aecf1c300"
+}

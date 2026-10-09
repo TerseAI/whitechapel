@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-a67bcd86ddc7b010881533219bcc388d8f01f0db543f27a5636a01c36f1d96d3-reviewed.mp3",
+  "text": "What has that got to do with her going to Bristol?",
+  "durationMs": 3288,
+  "sha256": "a67bcd86ddc7b010881533219bcc388d8f01f0db543f27a5636a01c36f1d96d3",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "7f3ba1a63cbabad7efc5f4f475e5d9a08c415988f06067ae7a7a7aad2d2b50e9"
+}

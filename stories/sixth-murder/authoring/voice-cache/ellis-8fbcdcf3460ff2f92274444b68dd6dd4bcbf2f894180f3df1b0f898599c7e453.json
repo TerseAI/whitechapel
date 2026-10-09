@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-8fbcdcf3460ff2f92274444b68dd6dd4bcbf2f894180f3df1b0f898599c7e453-reviewed.mp3",
+  "text": "Good night, then.",
+  "durationMs": 1248,
+  "sha256": "8fbcdcf3460ff2f92274444b68dd6dd4bcbf2f894180f3df1b0f898599c7e453",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "587a85373f049db31e96b7e82613640b42bf4b39155b7a02d5df12b21f1219ef"
+}

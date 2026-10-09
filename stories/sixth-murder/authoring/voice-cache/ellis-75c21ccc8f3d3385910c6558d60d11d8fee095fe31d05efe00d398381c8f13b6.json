@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-75c21ccc8f3d3385910c6558d60d11d8fee095fe31d05efe00d398381c8f13b6-reviewed.mp3",
+  "text": "Something on your mind?",
+  "durationMs": 2064,
+  "sha256": "75c21ccc8f3d3385910c6558d60d11d8fee095fe31d05efe00d398381c8f13b6",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "2b5005d5eacd7e87e3002965a4678ebd3cb297be9462789cf77f3e208e886db4"
+}

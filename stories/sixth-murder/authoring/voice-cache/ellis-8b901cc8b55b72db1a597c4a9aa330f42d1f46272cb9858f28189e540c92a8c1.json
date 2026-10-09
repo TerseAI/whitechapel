@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-8b901cc8b55b72db1a597c4a9aa330f42d1f46272cb9858f28189e540c92a8c1-reviewed.mp3",
+  "text": "We found these remains in your fireplace. Were they what you wore to see Nora?",
+  "durationMs": 5904,
+  "sha256": "8b901cc8b55b72db1a597c4a9aa330f42d1f46272cb9858f28189e540c92a8c1",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "afd16184185d9bb3b88067f55a676442bdd9671d9002da71cda223ded0d8541d"
+}

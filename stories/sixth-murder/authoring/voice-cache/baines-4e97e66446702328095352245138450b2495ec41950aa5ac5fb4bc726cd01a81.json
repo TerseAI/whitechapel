@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-4e97e66446702328095352245138450b2495ec41950aa5ac5fb4bc726cd01a81-reviewed.mp3",
+  "text": "Last night. I took a candlestick through to her room.",
+  "durationMs": 4368,
+  "sha256": "4e97e66446702328095352245138450b2495ec41950aa5ac5fb4bc726cd01a81",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "6a81d67c9f03bcdbd0b8b4707e61ddf3e74d39faa38f4b06f929ab5dd9248d98"
+}

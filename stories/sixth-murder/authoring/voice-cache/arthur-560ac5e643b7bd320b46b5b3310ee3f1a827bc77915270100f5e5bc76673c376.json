@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-560ac5e643b7bd320b46b5b3310ee3f1a827bc77915270100f5e5bc76673c376-reviewed.mp3",
+  "text": "And you’re saying that was me?",
+  "durationMs": 2688,
+  "sha256": "560ac5e643b7bd320b46b5b3310ee3f1a827bc77915270100f5e5bc76673c376",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "d80ca16c9249091e472f3ee6ced12541fcf396ffd43f4084c9ff52cc003aac22"
+}

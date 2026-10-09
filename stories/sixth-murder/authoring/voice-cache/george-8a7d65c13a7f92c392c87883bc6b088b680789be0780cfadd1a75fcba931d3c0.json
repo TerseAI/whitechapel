@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-8a7d65c13a7f92c392c87883bc6b088b680789be0780cfadd1a75fcba931d3c0-reviewed.mp3",
+  "text": "Good night, gentlemen.",
+  "durationMs": 1704,
+  "sha256": "8a7d65c13a7f92c392c87883bc6b088b680789be0780cfadd1a75fcba931d3c0",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "9bfaaf27255bd92a4130ef910572227f3816de85019b0a830f63a2082586986d"
+}

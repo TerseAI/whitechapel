@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-06c935857e769af38f43af09bee9573712255a40397ff4b22da3448591fcabec-reviewed.mp3",
+  "text": "That’s what we’re asking you.",
+  "durationMs": 2376,
+  "sha256": "06c935857e769af38f43af09bee9573712255a40397ff4b22da3448591fcabec",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "56fc4bb8433ecdb6ce346ad85b78f018f11f95e36768e9c355526bb2ea32b72a"
+}

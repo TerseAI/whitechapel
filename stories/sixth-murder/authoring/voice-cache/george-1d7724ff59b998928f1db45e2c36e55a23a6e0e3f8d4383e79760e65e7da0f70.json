@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-1d7724ff59b998928f1db45e2c36e55a23a6e0e3f8d4383e79760e65e7da0f70-reviewed.mp3",
+  "text": "No. I found Nora and fetched Hale. I didn’t put that candlestick there.",
+  "durationMs": 6264,
+  "sha256": "1d7724ff59b998928f1db45e2c36e55a23a6e0e3f8d4383e79760e65e7da0f70",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "ea7f0580b39579365f48479a353f8ec7e349c932d3c80a73f698e66901083a08"
+}

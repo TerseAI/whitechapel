@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-57137ea692aa3e4d0af84315d293b0546dd0204a8d8eaf5fdcd157c480d75f12-reviewed.mp3",
+  "text": "The scarf in this illustration is arranged like Nora’s. Did you put hers there?",
+  "durationMs": 6048,
+  "sha256": "57137ea692aa3e4d0af84315d293b0546dd0204a8d8eaf5fdcd157c480d75f12",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "6857c2f43c517436fb80b88df9c502d80acd0f65c97952bd9121fec1ce664a76"
+}

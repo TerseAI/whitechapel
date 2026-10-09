@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-56704bfc0fada9e537094550fef001fdaedc46bdd7e51c44e638ef0d8a09c99e-reviewed.mp3",
+  "text": "Yes. I was at their wedding. I’ve a photograph. You can see for yourselves.",
+  "durationMs": 5976,
+  "sha256": "56704bfc0fada9e537094550fef001fdaedc46bdd7e51c44e638ef0d8a09c99e",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "78c78b48bd20b883947a791e0f10cd83d6c32bd9e9364480923692e29ea136f8"
+}

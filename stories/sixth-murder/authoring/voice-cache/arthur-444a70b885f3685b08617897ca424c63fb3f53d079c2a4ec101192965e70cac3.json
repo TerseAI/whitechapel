@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-444a70b885f3685b08617897ca424c63fb3f53d079c2a4ec101192965e70cac3-reviewed.mp3",
+  "text": "I can’t answer for George.",
+  "durationMs": 2208,
+  "sha256": "444a70b885f3685b08617897ca424c63fb3f53d079c2a4ec101192965e70cac3",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "a5d95b5902d299ec442241000d0742755bd628aad148dc64f67fb59aa20fc996"
+}

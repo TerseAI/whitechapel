@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-c9db05ebae104b2d82bd926d886c7499ee38a7ce1c28b6bc2e375f69a6e445e8-reviewed.mp3",
+  "text": "And you hadn’t touched the sacks this morning?",
+  "durationMs": 2784,
+  "sha256": "c9db05ebae104b2d82bd926d886c7499ee38a7ce1c28b6bc2e375f69a6e445e8",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "6298749bd089407577a2aa6ed3bf29875656458c5f3f0bad3fa348087865bf31"
+}

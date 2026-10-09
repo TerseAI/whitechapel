@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-26861ba7c74ac130ab748bea79610a9c1e5969a504ff5b65351cf63ac8fd17e4-reviewed.mp3",
+  "text": "She worked with Nora.",
+  "durationMs": 2376,
+  "sha256": "26861ba7c74ac130ab748bea79610a9c1e5969a504ff5b65351cf63ac8fd17e4",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "cb3b1228421ab663a1eaee0d317861ea8c60848901cb202d7e4bfdd2fbd40c5f"
+}

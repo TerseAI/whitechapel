@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-cc6825dd2d61038d60142f172c0b75c055aa39dbb166bd487786d2ab583ebd4c-reviewed.mp3",
+  "text": "Someone told me. I wasn’t taking names.",
+  "durationMs": 3648,
+  "sha256": "cc6825dd2d61038d60142f172c0b75c055aa39dbb166bd487786d2ab583ebd4c",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "c5bd8c3c076b85049751655f26ad62c6690ec184306075e3ea711998666a4be1"
+}

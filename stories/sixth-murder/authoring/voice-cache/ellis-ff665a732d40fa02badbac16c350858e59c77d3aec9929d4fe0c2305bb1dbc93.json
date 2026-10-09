@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-ff665a732d40fa02badbac16c350858e59c77d3aec9929d4fe0c2305bb1dbc93-reviewed.mp3",
+  "text": "And the other officers?",
+  "durationMs": 1968,
+  "sha256": "ff665a732d40fa02badbac16c350858e59c77d3aec9929d4fe0c2305bb1dbc93",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "d313c302a932efd010a717d7c14f3a98166efd6b4edafa04b621638533e18eb9"
+}

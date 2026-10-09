@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-b208ac73af89aff8758e79f1723de2ea6c12d46aa68d90e208c19f0c8cbccbba-reviewed.mp3",
+  "text": "I couldn’t give you the hour. Finished the coal, settled about the trunk, then took the horse back to his stable.",
+  "durationMs": 7728,
+  "sha256": "b208ac73af89aff8758e79f1723de2ea6c12d46aa68d90e208c19f0c8cbccbba",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "105f07993431be7da4673f88d60be132eba060e40e69288c9cf2959274d7347a"
+}

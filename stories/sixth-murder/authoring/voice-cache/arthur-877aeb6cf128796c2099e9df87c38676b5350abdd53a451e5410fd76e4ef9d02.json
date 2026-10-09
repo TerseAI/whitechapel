@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-877aeb6cf128796c2099e9df87c38676b5350abdd53a451e5410fd76e4ef9d02-reviewed.mp3",
+  "text": "She didn’t see me hurt Nora. Nobody did.",
+  "durationMs": 4896,
+  "sha256": "877aeb6cf128796c2099e9df87c38676b5350abdd53a451e5410fd76e4ef9d02",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "b5817828884e41aa72e5726f8f7a6fd7359682c56be2dce0dc02212f14367020"
+}

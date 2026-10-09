@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-f669afd432fc5e1390836f38c4e265beeb4448bb9fc870a813845f37fd49f321-reviewed.mp3",
+  "text": "Show me the bedding you mean. I cannot identify a blanket from another person’s account.",
+  "durationMs": 6384,
+  "sha256": "f669afd432fc5e1390836f38c4e265beeb4448bb9fc870a813845f37fd49f321",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "df3daa43036c40f23c0192e340ca53ab922d9839a3ef522a3be189d8ff2a92ad"
+}

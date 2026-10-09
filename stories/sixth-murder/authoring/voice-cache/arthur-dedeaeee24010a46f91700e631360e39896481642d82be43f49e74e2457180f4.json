@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-dedeaeee24010a46f91700e631360e39896481642d82be43f49e74e2457180f4-reviewed.mp3",
+  "text": "You spoke to her for a few minutes. She was my wife.",
+  "durationMs": 4608,
+  "sha256": "dedeaeee24010a46f91700e631360e39896481642d82be43f49e74e2457180f4",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "dfaa3952c82b16b36c3071787fc6c0878d8eb1e278777098910878c05140c336"
+}

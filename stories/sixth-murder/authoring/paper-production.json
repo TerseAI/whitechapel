@@ -1,0 +1,206 @@
+{
+  "generator": "built-in image_gen",
+  "research": "paper-research.md",
+  "artworks": {
+    "orders-original": {
+      "generator": "built-in image_gen",
+      "prompt": "Use case: historical-scene. Create a complete fictional 1888 Metropolitan Police handwritten letter prop for a detective game. Flat overhead documentary photograph of one whole foolscap-like sheet, portrait 3:4, thin charcoal background margin. Historically informed by surviving 1888 Metropolitan Police letter books: practical fluent English late-Victorian steel-pen cursive, narrow slanted connected letters, variable pressure, small irregularities and ink density, human line spacing and ragged right margin. NOT a calligraphy font or wedding invitation. Cool pale ivory rag/wove paper, subtle fibres, one softly worn folded crease and small handling wrinkles, recently written in 1888, not centuries-old orange parchment. Wide left margin, address/date modest at upper right, understated handwritten subject underlined once. No crest, stamps, wax seal, ornamental border, fountain pen, fake archival numbers or added text. All text must be exact and legible with no missing/repeated phrases.\nText:\nMetropolitan Police\nCommercial Street\n16 November 1888\n\nTemporary assignment\n\nInspectors Reed and Ellis,\nYou are temporarily assigned to the Whitechapel murder enquiry. We need additional officers to follow up the witness accounts received since the murder in Miller’s Court.\nConstable Hale has arranged rooms for you at the Lantern. Mrs Baines is expecting Mr Reed and Mr Ellis this evening. She has not been told your occupation. Wear plain clothes and keep your assignment private while lodging there, so that your arrival does not become common talk.\nReport to me at Commercial Street tomorrow morning for your assignments.\n\nF. Abberline\nInspector\n\nDistinctive quick personal signature at lower right, same ink as text. The result should look like an actual mundane 1888 manuscript photographed, not HTML typography over texture.",
+      "references": [],
+      "generatedFile": "exec-f92b535b-f6c0-493b-9f49-405a8550a226.png",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "pageSha256": "fca0c5150d3b77863517c772ed389154bfafb9c782c69657a275889d1ba5e234",
+      "pngSha256": "b75b79fd1697428ca5a12f2eab79566add2a26aeb4131f414d04e3e381f0bd51",
+      "webpSha256": "a28406a2c4007d9684718e5aec74e7b28950241f085099a2d65a4bb45f5bb1e8",
+      "reviewed": true,
+      "review": "Visually compared all supplied words, date and signature/entries against documents.mjs; no missing or changed evidence wording. Whole prop visible with material and writing appropriate to its author.",
+      "readerReview": "Compared with the illustrated original: transcription contains source wording only. Removed editorial headings, duplicated headlines and interpretive descriptions from the sheet; original artwork and its wording are unchanged."
+    },
+    "sister-letter-original": {
+      "generator": "built-in image_gen",
+      "prompt": "Use case: historical-scene. Complete fictional Victorian document prop for a detective game, 1888 England. Flat overhead realistic photograph of the whole paper, portrait 3:4 frame with a narrow charcoal surround, soft even light, all edges visible. Pale ivory-grey wove paper with fine fibres, restrained handling wear and natural creases, recently used in 1888, NOT artificially orange or antique parchment. Real steel dip-pen writing with connected letters, human spacing and varying pressure/ink, never a digital font, no quill, wax seal, ornament, props or invented text. Preserve EVERY word of the supplied text exactly, no omitted, repeated or added sentences. Personal letter from Nora's sister in Bristol. Modest small notepaper, neat but unpractised English roundhand, close and a little upright, small restrained loops, blue-black ink. Short indented paragraphs, date upper right. Light envelope folds, no letterhead. Practical affectionate writing, NOT ornate calligraphy.\nText verbatim:\nBristol · 14 November 1888\n\nMy dear Nora,\n\nI have spoken for you at the sewing room. They will try you on alterations on Monday, and I know they will keep you when they see your work.\n\nCome on Saturday if you can. There is a room near mine, and you can stay with me until it is ready. Bring your sewing things. I have put Finch on the sleeve as you asked.\n\nWrite if the journey must wait. You need not explain everything on paper. I shall be glad to have you here.\n\nYour loving sister",
+      "references": [],
+      "generatedFile": "exec-5fd81702-9368-49af-9d71-f9857f5bc4f8.png",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "pageSha256": "8255e0f1a37cd768eb3d38afbd62462812e555197a14258d293adc0ffd398534",
+      "pngSha256": "12a8d94af345275342c67c9ce1aaa8cf52f31447ea1e1cf57781cdd2161d40ba",
+      "webpSha256": "8be4cd20ea44cfd62ffe3b9e8e17f49c591540b9d80def3d26455110c60f365e",
+      "reviewed": true,
+      "review": "Visually compared all supplied words, date and signature/entries against documents.mjs; no missing or changed evidence wording. Whole prop visible with material and writing appropriate to its author.",
+      "readerReview": "Compared with the illustrated original: transcription contains source wording only. Removed editorial headings, duplicated headlines and interpretive descriptions from the sheet; original artwork and its wording are unchanged."
+    },
+    "work-correspondence-original": {
+      "generator": "built-in image_gen",
+      "prompt": "Use case: historical-scene. Complete fictional Victorian document prop for a detective game, 1888 England. Flat overhead realistic photograph of the whole paper, portrait 3:4 frame with a narrow charcoal surround, soft even light, all edges visible. Pale ivory-grey wove paper with fine fibres, restrained handling wear and natural creases, recently used in 1888, NOT artificially orange or antique parchment. Real steel dip-pen writing with connected letters, human spacing and varying pressure/ink, never a digital font, no quill, wax seal, ornament, props or invented text. Preserve EVERY word of the supplied text exactly, no omitted, repeated or added sentences. Brief working woman's note from Maggie Shaw, written quickly on a small irregularly cut half-sheet of plain cheap writing paper, NOT a full office letter. Angular right-sloping everyday cursive with open capitals, tall narrow ascenders, unlooped lower-case t, short crossbars, confident but uneven baselines, muted blue-black ink. Folded once for a pocket, slight handling at corners. Date at upper right, no heading. Leave ample unwritten space below the short note; natural modest handwriting size.\nText verbatim:\n15 November\n\nNora,\n\nI have kept the unfinished seams at Shaw’s garment workshop. Do not turn back for them. Bring only what you need for the journey.\n\nIf you want me before you go, you know where to find me. I shall be at the long table by the window.\n\nMaggie Shaw",
+      "references": [],
+      "generatedFile": "exec-901368e1-1029-4e42-b589-bac94a578992.png",
+      "dimensions": [
+        1087,
+        1447
+      ],
+      "pageSha256": "638bded00efedf4810b91b8a021ce237ea0d1660799a3a52d1325230feb4dd1c",
+      "pngSha256": "4e2908c4d245c6832243fe9dd075c9f4342ef792010b0b609b1581b216764ece",
+      "webpSha256": "100f481a44052a2babdda72fbdf66c4e3d443ccdcf349ff77720cefd2a2914a7",
+      "reviewed": true,
+      "review": "Visually compared all supplied words, date and signature/entries against documents.mjs; no missing or changed evidence wording. Whole prop visible with material and writing appropriate to its author.",
+      "readerReview": "Compared with the illustrated original: transcription contains source wording only. Removed editorial headings, duplicated headlines and interpretive descriptions from the sheet; original artwork and its wording are unchanged."
+    },
+    "medical-findings-original": {
+      "generator": "built-in image_gen",
+      "prompt": "Edit the attached fictional 1888 surgeon's report. Preserve the ivory folded paper, narrow charcoal border, blue-black cursive handwriting and overall composition. Replace the entire text with exactly the following, with four clearly separated body paragraphs and generous readable spacing. No extra text.\n17 November 1888\nExamination of Nora Vale\nAt Constable Hale’s request I attended the rear yard of the Lantern, where I confirmed that Nora Vale was dead. She was subsequently removed for examination.\nThe injury to the head, caused by a hard, blunt blow, was the cause of death. The wounds to the throat and abdomen were inflicted after death.\nThese findings establish the order of the injuries, but not an exact hour of death. They do not identify a particular weapon or offender.\nThe knife wounds did not kill this woman. Resemblance to the reported Whitechapel murders does not establish that the same person was responsible.\nWilliam Alden\nSurgeon",
+      "references": [
+        "documents/medical-findings-original.webp"
+      ],
+      "generatedFile": "exec-a5390eaa-976b-4167-85cd-c91838f01be0.png",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "files": {
+        "png": "documents/medical-findings-blunt-v2.png"
+      },
+      "pageSha256": "2577aa8f2e6e87be536ee61811c264d3c63df2d1120bded06b1370b7459dec82",
+      "pngSha256": "bf3f52b1f7fc0dd98c7d7eda9b25a51edcd3311705c41cec94d846f7ff7919e8",
+      "reviewed": true,
+      "review": "Visually verified the complete generated report against all four canonical paragraphs, heading, date and signature. Fatal blunt injury and knife wounds after death are explicit and legible.",
+      "readerReview": "The transcription uses exactly the wording in the corrected original. Both use the existing DocumentReader."
+    },
+    "closing-letter-original": {
+      "generator": "built-in image_gen",
+      "prompt": "Use case: historical-scene. New fictional 1888 private letter. Reference image shows Maggie Shaw's earlier note: match her angular right-sloping everyday steel-pen hand, open capitals, tall narrow ascenders and short t crossbars, blue-black ink. This is a NEW longer letter from same author on a full sheet. Exact full text below, no omissions. Whole sheet overhead on narrow charcoal surround, 3:4 portrait. Pale ivory-grey wove paper, small fibres, slight edge handling, still unfolded because being written tonight. Human baselines and variable pen pressure; no printed typography, decorative lettering, parchment, heavy staining, invented addressees or extra lines.\nText:\n17 November 1888\n\nMy dear friend,\n\nI cannot leave you waiting at the station for Nora. She died here last night. The police have completed their enquiry into her death and will write to you themselves.\n\nI shall help with her things when they may be released. Her sewing case is safe. She had your letter with the ticket and had made everything ready.\n\nMrs Baines is wearing the sleeve Nora mended yesterday. I thought you should know that she was working to the last, and speaking of the work you had found for her.\n\nI am so sorry. I shall write again when I can tell you about the arrangements.\n\nMaggie",
+      "references": [
+        "assets/documents/closing-letter-original.png (earlier version)"
+      ],
+      "generatedFile": "closing-letter-revised.png (retained story asset)",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "pageSha256": "93089b72fd528f5b817d65f50ed5d110441fca0d13a3ad6b5e6fec223e9bb641",
+      "pngSha256": "30d49eb5ca734c2e380cb1595d93fe25862024e05d3c4c995703b33e2bfcbe52",
+      "webpSha256": "50c2a69ac0d8a76b6a0ea67055a3d71cde2472b02970ecc3d6f2a9660c15ba40",
+      "reviewed": true,
+      "review": "Compared every word, date, punctuation and picture clue against current documents.mjs. Newspaper copies retain the same edition and scarf composition; burned copy loses only the final paragraph. Closing letter matches the revised opening and all subsequent paragraphs.",
+      "promptProvenance": "Original generation prompt retained below; the exact edit prompt for the previously generated closing-letter-revised.png was not retained. Revised output visually verified against current canonical text before registration.",
+      "files": {
+        "png": "documents/closing-letter-revised.png",
+        "webp": "documents/closing-letter-revised.webp"
+      }
+    },
+    "finch-work-card-original": {
+      "generator": "built-in image_gen",
+      "prompt": "Use case: historical-scene. Fictional small 1884 English garment workshop work card, photographed overhead on charcoal. Tall 3:4 image containing entire modest landscape-ish buff-grey stiff paper slip at centre, not a large elegant letter. Practical hand-ruled account: fine slightly irregular faded blue horizontal lines and one red vertical margin, two short rows with hand-ruled columns, blue-black handwritten entries in compact unadorned clerk's cursive. Slight thumb wear from four years stored among accounts, no torn evidence, no stains over words. Heading in restrained small slab serif letterpress, no ornate logo or seal. Nothing modern, not Excel, not a UI form. Do not add rates, money, company names or other records. ALL text exact:\nGarment work\nWork issued\nName    Nora Finch\nDate    March 1884\n\nWork | Quantity | Returned\nShirt cuffs | 12 pairs | Complete\nCollars | 6 | Complete",
+      "references": [],
+      "generatedFile": "exec-34ec422f-ae7f-4fe2-86e6-1f8f6931fb94.png",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "pageSha256": "4b6e8171ee5e6f100afa228e6b81ad3acfe8ebf49fbe99ad39871d38ec667308",
+      "pngSha256": "a49d6e7874d88ea8445076127ac762b49b13c3c49c27c58918aa95d46ce6cda8",
+      "webpSha256": "8f6acce7b6a4b43e20b28fe69c23911fadd707b26ed5a57f4cbfe3330cde2273",
+      "reviewed": true,
+      "review": "Visually compared all supplied words, date and signature/entries against documents.mjs; no missing or changed evidence wording. Whole prop visible with material and writing appropriate to its author.",
+      "readerReview": "Compared with the illustrated original: transcription contains source wording only. Removed editorial headings, duplicated headlines and interpretive descriptions from the sheet; original artwork and its wording are unchanged."
+    },
+    "inn-newspaper-original": {
+      "generator": "built-in image_gen",
+      "prompt": "Use case: text-localization. Edit target: the supplied fictional 1888 newspaper leaf. Replace its article, picture caption, and final paragraph with the exact approved copy below. Keep the wood engraving IDENTICAL: the same clothed woman lying in a brick yard with a scarf covering her face, same policeman at upper left, same viewpoint, pose, objects and composition. This picture is a visual matching clue that must be preserved. Preserve the masthead THE EVENING LONDON ILLUSTRATED, edition Friday, 16 November 1888, price One penny, headline THE WHITECHAPEL MURDERS. Preserve authentic blackletter masthead, compact letterpress serif typesetting, thin column rule, cool pale-grey cheap newsprint, fold and whole sheet on narrow charcoal surround. Adjust type size and article area to accommodate longer copy; reduce picture height only if necessary without cropping it. No new content. Exact text, correct spelling and punctuation, no repeated or missing words. Article above picture, split across two columns in normal reading order: A week has passed since the murder in Miller’s Court, and the murderer is still at large. At the inquests, the surgeons have described throats cut and terrible injuries to the abdomen. Yet after all the questioning of witnesses and examination of suspected men, the police have brought no one to justice.\nCaption immediately below picture: THE WHITECHAPEL HORRORS.—FROM AN IMAGINARY SKETCH.\nFinal paragraph BELOW a horizontal rule beneath the caption, separated from caption by enough blank margin that it can be burned away in a second copy without losing the caption: The women of the district cannot stay indoors until Scotland Yard solves the case. Work must be found and rent paid. More constables are wanted in the courts and passages after dark; assurances from the authorities will not suffice.\nReturn only the finished complete single newspaper sheet, portrait 3:4 framing. No blood or visible wounds.",
+      "references": [
+        "assets/documents/inn-newspaper-original.png"
+      ],
+      "generatedFile": "exec-dbc31dd1-d071-4a5d-a07b-5b0d75b41bbc.png",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "pageSha256": "6ed9006df6854e0d018358e201035825f812ea169469e75ec13b4b94acc583e1",
+      "pngSha256": "bb217268476271327019ba48debf86e66f8981016331af4e1db8356a437bd3d8",
+      "webpSha256": "5b0ea8110d01f7e099e2047f08636db785c7290cb756f18e5d4d69da8c501815",
+      "reviewed": true,
+      "review": "Compared every word, date, punctuation and picture clue against current documents.mjs. Newspaper copies retain the same edition and scarf composition; burned copy loses only the final paragraph. Closing letter matches the revised opening and all subsequent paragraphs.",
+      "files": {
+        "png": "documents/inn-newspaper-revised.png",
+        "webp": "documents/inn-newspaper-revised.webp"
+      }
+    },
+    "travel-sleeve-original": {
+      "generator": "built-in image_gen",
+      "prompt": "Use case: historical-scene. Fictional 1888 English railway travel papers. Flat overhead photograph on charcoal surround in portrait 3:4 frame. Show two separate physical objects: small folded ivory paper ticket sleeve at upper centre, and BELOW it a much smaller stiff rectangular Edmondson-style railway ticket of approximately 57:30 aspect ratio, about HALF the sleeve's width. The sleeve has a simple tucked paper flap, no wax, postage stamp or official company branding. Its handwriting is modest close roundhand in blue-black steel-pen ink matching a practical family letter, not a font. Sleeve exact handwritten words:\nMiss Nora Finch\nThe Lantern\nSaturday, 17 November\n\nTicket is pale muted buff-grey cardboard with fine cut edges and visible thickness, small condensed black letterpress serif capitals, a single thin rectangular rule, slight uneven ink impression. All exact printed ticket text:\nG.W.R.\nPADDINGTON TO BRISTOL\nTHIRD CLASS\nSINGLE\n\nNo passenger name on ticket, no barcode, modern font, ornament, punch hole, issued date, invented serial number or fare. A restrained fictional simplification informed by Victorian Edmondson card tickets, not a boarding pass. All words readable. Light realistic handling, not aged orange parchment or theatrical distress. Neither object overlaps or covers the other.",
+      "references": [],
+      "generatedFile": "exec-ce9a62c3-ca65-480b-bb48-1413a608a025.png",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "pageSha256": "5b1823886274eefb38e9042fb93404229d0ed826e08faf696ca07675a7afcfc2",
+      "pngSha256": "4984c9ceff9246c872f7522cfabdcffa0024992400e82a581fdcdcdda5f8911c",
+      "webpSha256": "d3cf77b6b26e82613cca1448a3980b260319eb322f6766b666d7f8020d196b77",
+      "reviewed": true,
+      "review": "Visually compared all supplied words, date and signature/entries against documents.mjs; no missing or changed evidence wording. Whole prop visible with material and writing appropriate to its author.",
+      "readerReview": "Compared with the illustrated original: transcription contains source wording only. Removed editorial headings, duplicated headlines and interpretive descriptions from the sheet; original artwork and its wording are unchanged."
+    },
+    "complete-wedding-back": {
+      "generator": "built-in image_gen",
+      "prompt": "Use case: style-transfer. Edit the provided image of the REVERSE of a fictional 1884 mounted wedding photograph. Preserve its full rectangle, proportions, framing, dark charcoal background and exact two-line inscription and position. Replace flat texture and digital calligraphy with convincing pale ivory-grey laminated photographic mounting card: matte subtle fibres, faint discolouration near edges, realistic four years of mild handling, no folded letter creases. Real small English steel-pen handwriting with connected letters, irregular rhythm and variable blue-black ink, no font. Exact inscription:\nNora Finch and Arthur Vale · 8 June 1884\nFor Maggie\nNo other names, photographer imprint, invented address, stamps, picture, logo or ornaments. Whole card portrait 3:4 photograph, gentle top-down light. Do NOT turn it into a wedding invitation or add decorations.",
+      "references": [
+        "Pre-revision complete-wedding-back.png (outline and inscription)"
+      ],
+      "generatedFile": "exec-69ccbc7f-b659-4db6-b377-d5fac5d331a6.png",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "pageSha256": "76e8654ce72dac55a4cf007a4cb989e71b313118dca85cf01de7970c599ff922",
+      "pngSha256": "d0d8192cf436e45c72778157bd52ff475870a65ebd545aa46d4f14d7b88b176d",
+      "webpSha256": "96c55034633f53ca5967bfba0c4f6b08180d393d5e3b72e8e403cc584af036b2",
+      "reviewed": true,
+      "review": "Full mounting card retains 'Nora Finch and Arthur Vale · 8 June 1884' and 'For Maggie'; all names and date checked.",
+      "readerReview": "Compared with the illustrated original: transcription contains source wording only. Removed editorial headings, duplicated headlines and interpretive descriptions from the sheet; original artwork and its wording are unchanged."
+    },
+    "torn-wedding-back": {
+      "generator": "built-in image_gen",
+      "prompt": "Use case: style-transfer. Edit the provided REVERSE of the fictional torn wedding photograph. Preserve the existing geometry and relative placement precisely: left approximately two thirds of a tall mounting card survives with irregular torn edge down RIGHT side, the rest is charcoal background. Preserve exact text, entirely on surviving section: 'Our wedding · 8 June 1884'. Replace flat texture and font with realistic pale ivory-grey photographic mounting card, slight age of four years, modest edge wear, exposed fine layered paper fibres on torn edge. No fold crease. Handwrite inscription in modest English 1884 steel-pen cursive, connected irregular letters, blue-black ink, not decorative calligraphy. All words and the date readable, no groom name or any extra writing, do not reveal hidden identity. Whole surviving sheet flat overhead, portrait 3:4 framing, same silhouette as reference.",
+      "references": [
+        "Pre-revision torn-wedding-back.png (outline and inscription)"
+      ],
+      "generatedFile": "exec-c8002d97-e43e-42df-b060-eac844dc647b.png",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "pageSha256": "1a71c24f3362c9afb81291876fa76b49ae54e83f4b82c2d42e49f782372ff889",
+      "pngSha256": "8f1ba83e17fbd54f7afb633cc691d783096a47a4b10b04ac8ea70c5c9d0027c1",
+      "webpSha256": "7c2b837a66c3e7afb3b29e5b3d4dfe6b6ae21a3c507bbac1407be85ff6f980c4",
+      "reviewed": true,
+      "review": "Surviving left portion and irregular right torn edge retained. 'Our wedding · 8 June 1884' readable; no groom's name or added identity.",
+      "readerReview": "Compared with the illustrated original: transcription contains source wording only. Removed editorial headings, duplicated headlines and interpretive descriptions from the sheet; original artwork and its wording are unchanged."
+    },
+    "burned-report-original": {
+      "generator": "built-in image_gen",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied revised fictional 1888 newspaper. Make a partly burned SECOND COPY of this exact same issue. Preserve all surviving printed pixels and wood engraving faithfully: masthead THE EVENING LONDON ILLUSTRATED, date Friday, 16 November 1888, price One penny, headline THE WHITECHAPEL MURDERS, both columns of the article, the identical woman and scarf picture, and entire caption THE WHITECHAPEL HORRORS.—FROM AN IMAGINARY SKETCH. All remain intact and readable in the same positions. Change only paper damage. Burn away the bottom section BELOW THE CAPTION AND HORIZONTAL RULE: remove every word of the final paragraph starting 'The women of the district'. Irregular fragile black char and brown ash edges below the intact caption, restrained scorching at outer blank margins. Charcoal backdrop visible where bottom paper burned away. No remaining fragments of the final paragraph. No fire, smoke, embers, props, or added ink. Keep full image framing and canvas aspect ratio. Do not redraw the woodcut, rearrange type, reword or introduce misspellings. Article must remain exactly: A week has passed since the murder in Miller’s Court, and the murderer is still at large. At the inquests, the surgeons have described throats cut and terrible injuries to the abdomen. Yet after all the questioning of witnesses and examination of suspected men, the police have brought no one to justice.",
+      "references": [
+        "assets/documents/inn-newspaper-revised.png"
+      ],
+      "generatedFile": "exec-722e76ef-81b5-41fa-bd10-83fde89d3eb4.png",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "pageSha256": "c8d4b235ac07afce50d99fe6a6ba5fc10fe8be6381d67726b4aba2c4c5140f7c",
+      "pngSha256": "5d76d42b0ae3d2cfc415fe4ee31cacac0a1a093488a251f2ccf0b7486aa50055",
+      "webpSha256": "07cfaa2262f3ac0189b17a4b132dd87e28c9148b89e13208fc3c74471f87fb8f",
+      "reviewed": true,
+      "review": "Compared every word, date, punctuation and picture clue against current documents.mjs. Newspaper copies retain the same edition and scarf composition; burned copy loses only the final paragraph. Closing letter matches the revised opening and all subsequent paragraphs.",
+      "files": {
+        "png": "documents/burned-report-revised.png",
+        "webp": "documents/burned-report-revised.webp"
+      }
+    }
+  }
+}

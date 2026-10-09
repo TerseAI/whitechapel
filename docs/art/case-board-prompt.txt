@@ -1,0 +1,12 @@
+Created with built-in Codex image generation on 11 September 2026.
+Asset: frontend/public/art/case-board.webp (cwebp -q 88)
+Master: docs/art/masters/case-board.png
+
+Material references: National Trust Collections, “Desks for a clerk and an artist” (mahogany and surviving green baize), https://www.nationaltrustcollections.org.uk/exhibition/desks-for-a-clerk-and-an-artist
+Document reference: National Archives, 1888 police correspondence, https://cdn.nationalarchives.gov.uk/documents/education/jacktheripper.pdf
+The board and red-thread arrangement are an authored cinematic interpretation, not a reconstruction of a documented police investigation board.
+
+Use case: historical-scene.
+Asset type: photorealistic empty background plate for an interactive evidence board in a game set in London in 1888.
+Create one landscape image, 1536x1024 or larger, straight-on orthographic view of an entire Victorian notice board. The board fills the image. Narrow dark mahogany wooden frame on all four edges, about 3 percent of image width, modest bevel and real hand-worked grain, corners neatly mitred. The large empty central surface is very dark, desaturated olive-green wool baize stretched flat over timber. Convincing fine wool nap, slight irregular wear and a few tiny old pin holes, with no pattern or dramatic damage. Cinematic restrained gaslight from above and to the left: gentle warm light across the upper centre, darker corners, narrow real shadows from the timber frame. The central surface remains uniformly usable and legible for compositing papers; texture does not distract. Camera perpendicular to the board, no perspective tilt, no lens blur, crisp material detail. This is a modest working police office object, not an ornate antique display.
+Absolutely NO papers, notes, writing, letters, numbers, labels, maps, photographs, red threads, strings, pins, tools, lamps, furniture, people, badges, decorative ornaments, UI, logos or watermarks. Only the empty cloth and its wood frame. No orange parchment, cork granules, modern aluminium, plastic, bright green billiard-table colour, glossy leather or excessive grunge.

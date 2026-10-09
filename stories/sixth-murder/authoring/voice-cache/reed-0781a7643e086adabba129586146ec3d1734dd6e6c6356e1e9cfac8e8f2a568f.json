@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-0781a7643e086adabba129586146ec3d1734dd6e6c6356e1e9cfac8e8f2a568f-reviewed.mp3",
+  "text": "Could you have misunderstood us earlier? We meant last night, not this morning.",
+  "durationMs": 7368,
+  "sha256": "0781a7643e086adabba129586146ec3d1734dd6e6c6356e1e9cfac8e8f2a568f",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "08c3f75a2842e31d78d09f101012ce706bc987bea5aa53e95eba2e8a9921700c"
+}

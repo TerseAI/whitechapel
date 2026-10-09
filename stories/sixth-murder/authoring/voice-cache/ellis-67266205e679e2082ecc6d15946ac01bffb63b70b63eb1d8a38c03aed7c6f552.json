@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-67266205e679e2082ecc6d15946ac01bffb63b70b63eb1d8a38c03aed7c6f552-reviewed.mp3",
+  "text": "Did you see anyone else near Nora’s room?",
+  "durationMs": 3288,
+  "sha256": "67266205e679e2082ecc6d15946ac01bffb63b70b63eb1d8a38c03aed7c6f552",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "0550a56852106d106de080b938fec2950b659c138e7e2f332aa8e26a319fe03f"
+}

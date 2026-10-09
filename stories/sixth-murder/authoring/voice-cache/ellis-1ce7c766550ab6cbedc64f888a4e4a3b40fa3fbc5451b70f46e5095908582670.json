@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-1ce7c766550ab6cbedc64f888a4e4a3b40fa3fbc5451b70f46e5095908582670-reviewed.mp3",
+  "text": "Can you arrange the return of her belongings when they are released?",
+  "durationMs": 3624,
+  "sha256": "1ce7c766550ab6cbedc64f888a4e4a3b40fa3fbc5451b70f46e5095908582670",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "4f70148f867bde261814b3fc81e0685527f83c5853637f01647d57b630c01bf3"
+}

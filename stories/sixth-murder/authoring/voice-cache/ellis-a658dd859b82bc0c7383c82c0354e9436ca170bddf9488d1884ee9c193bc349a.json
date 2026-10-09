@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-a658dd859b82bc0c7383c82c0354e9436ca170bddf9488d1884ee9c193bc349a-reviewed.mp3",
+  "text": "What was happening between them?",
+  "durationMs": 2976,
+  "sha256": "a658dd859b82bc0c7383c82c0354e9436ca170bddf9488d1884ee9c193bc349a",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "0140888fce3806cd51b415e07f66a46ed3c3c1002f045a33616e68c3a3837461"
+}

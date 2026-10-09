@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-debefd58d5c1ef31704047701c1650895ed9acbb9aa25c4fede4d009bd0d3228-reviewed.mp3",
+  "text": "Which man?",
+  "durationMs": 1416,
+  "sha256": "debefd58d5c1ef31704047701c1650895ed9acbb9aa25c4fede4d009bd0d3228",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "156d6a51621660486e8ee23fd16c1ca1e9801abb3c9c97b92a28b1c81ee30ee1"
+}

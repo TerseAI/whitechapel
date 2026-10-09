@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-93688080e2f082bb1fe3f84b9b1168233bb6cde986757d08fafbe8436ecde088-reviewed.mp3",
+  "text": "Only me, apart from you. I spoke to him at the front and brought him here myself.",
+  "durationMs": 5328,
+  "sha256": "93688080e2f082bb1fe3f84b9b1168233bb6cde986757d08fafbe8436ecde088",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "e52c53f1d1ea700afc06f8791829994d5d906d00b3369b7737d1d96e98af0668"
+}

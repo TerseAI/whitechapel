@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-d6c0b18899ce0f68def0348ea462ff52c2ce854e93c895acd83b000fa6f6b87a-reviewed.mp3",
+  "text": "The blood means we need to ask about last night again.",
+  "durationMs": 3696,
+  "sha256": "d6c0b18899ce0f68def0348ea462ff52c2ce854e93c895acd83b000fa6f6b87a",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "24e40fbfe261629d7e6d753f26e8ce1d104300e5bbf463b74efd9901b13b58d1"
+}

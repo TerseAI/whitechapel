@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-54df7b64f568fa2a42f0f872672aeae9457808aedb67cb2d8cfe9e6f5fc92a7a-reviewed.mp3",
+  "text": "Did you see another man?",
+  "durationMs": 2064,
+  "sha256": "54df7b64f568fa2a42f0f872672aeae9457808aedb67cb2d8cfe9e6f5fc92a7a",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "94a30c0e2150754ba184dcf9d01eedcfbd03177b26146a392360c739bab30f24"
+}

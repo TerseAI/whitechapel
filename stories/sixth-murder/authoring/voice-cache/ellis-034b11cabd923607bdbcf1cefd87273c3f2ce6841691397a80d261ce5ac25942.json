@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-034b11cabd923607bdbcf1cefd87273c3f2ce6841691397a80d261ce5ac25942-reviewed.mp3",
+  "text": "Who has been allowed into the yard?",
+  "durationMs": 2616,
+  "sha256": "034b11cabd923607bdbcf1cefd87273c3f2ce6841691397a80d261ce5ac25942",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "ff45c84161c361a049958b95eff3223b96894dc8bf7d0d747b9f097643874751"
+}

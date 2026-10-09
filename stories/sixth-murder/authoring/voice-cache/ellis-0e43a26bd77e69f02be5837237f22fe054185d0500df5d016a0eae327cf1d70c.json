@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-0e43a26bd77e69f02be5837237f22fe054185d0500df5d016a0eae327cf1d70c-reviewed.mp3",
+  "text": "There was blood inside the trunk.",
+  "durationMs": 2784,
+  "sha256": "0e43a26bd77e69f02be5837237f22fe054185d0500df5d016a0eae327cf1d70c",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "c3d1770b79fc247f766b4be6feb2e7dde4eff4e54a656f574f9b9c6fcc3f44a6"
+}

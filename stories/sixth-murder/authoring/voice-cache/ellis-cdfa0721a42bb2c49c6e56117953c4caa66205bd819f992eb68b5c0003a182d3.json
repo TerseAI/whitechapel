@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-cdfa0721a42bb2c49c6e56117953c4caa66205bd819f992eb68b5c0003a182d3-reviewed.mp3",
+  "text": "Did Moss put the scarf there?",
+  "durationMs": 2424,
+  "sha256": "cdfa0721a42bb2c49c6e56117953c4caa66205bd819f992eb68b5c0003a182d3",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "55aa9c3c748dc2d554be8405bfd84fbd223b4b6fd5d5b37d2be8af1473bb059a"
+}

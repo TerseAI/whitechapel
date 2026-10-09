@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-fbaf56949077ea1e3e3de9e1ffeec5c4b606c42b7175aae6cc28272049818e0d-reviewed.mp3",
+  "text": "Don’t let anyone come up behind me.",
+  "durationMs": 2448,
+  "sha256": "fbaf56949077ea1e3e3de9e1ffeec5c4b606c42b7175aae6cc28272049818e0d",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "68ed6e38fcd7cb75b7487429a0ad29b2c7798cd5dae3457497d1a961fe5d379b"
+}

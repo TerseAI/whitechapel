@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-9b15bf644f6523316c6d1272fe5737e72e7f0702aafb0de26a292e32a2076432-reviewed.mp3",
+  "text": "We have the case before us. Let him answer each part of it.",
+  "durationMs": 4656,
+  "sha256": "9b15bf644f6523316c6d1272fe5737e72e7f0702aafb0de26a292e32a2076432",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "b97bec8d7e6379c400aafbb7544e6956b4ee2d3fdb38d66b84b68848636f5725"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-0e05fc5c71be3aad6734c309e35c7475934a3a81ea417fdef766fb3aa1e11afd-reviewed.mp3",
+  "text": "Please. I’ve said all I can.",
+  "durationMs": 3384,
+  "sha256": "0e05fc5c71be3aad6734c309e35c7475934a3a81ea417fdef766fb3aa1e11afd",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "1a0fc534ff0952d4a7a2619f0e092da18c2a71201425564b32c0e7bc5d8b1014"
+}

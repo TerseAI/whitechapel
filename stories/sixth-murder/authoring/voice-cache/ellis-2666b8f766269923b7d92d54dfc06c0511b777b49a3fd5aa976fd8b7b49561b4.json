@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-2666b8f766269923b7d92d54dfc06c0511b777b49a3fd5aa976fd8b7b49561b4-reviewed.mp3",
+  "text": "Who else knew Nora well?",
+  "durationMs": 2304,
+  "sha256": "2666b8f766269923b7d92d54dfc06c0511b777b49a3fd5aa976fd8b7b49561b4",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "2dd084f0a136ee579354e6616e2f525b71339e18a2a72149c2793a7c05fe173a"
+}

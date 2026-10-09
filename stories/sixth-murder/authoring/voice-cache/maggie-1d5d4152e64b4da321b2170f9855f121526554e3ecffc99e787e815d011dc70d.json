@@ -1,0 +1,13 @@
+{
+  "src": "audio/maggie-1d5d4152e64b4da321b2170f9855f121526554e3ecffc99e787e815d011dc70d-reviewed.mp3",
+  "text": "To Arthur Vale.",
+  "durationMs": 1896,
+  "sha256": "1d5d4152e64b4da321b2170f9855f121526554e3ecffc99e787e815d011dc70d",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "333ac9587112bdd5442750c891d74cd7fa3d3f3792634e2d485c1bc5e677fb59",
+  "prompt": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful. Read the supplied dialogue exactly, in a natural British English voice, with clean studio audio. Speech only; no music or sound effects.",
+  "synthesisText": "\"To Arthur Vale.\""
+}

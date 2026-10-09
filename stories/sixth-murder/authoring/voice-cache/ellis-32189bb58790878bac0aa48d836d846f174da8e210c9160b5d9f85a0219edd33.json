@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-32189bb58790878bac0aa48d836d846f174da8e210c9160b5d9f85a0219edd33-reviewed.mp3",
+  "text": "What did you do?",
+  "durationMs": 1584,
+  "sha256": "32189bb58790878bac0aa48d836d846f174da8e210c9160b5d9f85a0219edd33",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "db3f0bc49e3bd1aeb0e6aeddb3332bdae1a5010c359c10b8433af91787a6060a"
+}

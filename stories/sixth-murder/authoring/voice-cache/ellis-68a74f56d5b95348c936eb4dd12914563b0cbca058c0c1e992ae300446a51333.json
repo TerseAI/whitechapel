@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-68a74f56d5b95348c936eb4dd12914563b0cbca058c0c1e992ae300446a51333-reviewed.mp3",
+  "text": "Arthur says one of our men told him where the candlestick was found. Who has spoken to him?",
+  "durationMs": 6504,
+  "sha256": "68a74f56d5b95348c936eb4dd12914563b0cbca058c0c1e992ae300446a51333",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "387798700309b4976fcb37e6b861519c160aca8781472272b418c2a0d80a2cae"
+}

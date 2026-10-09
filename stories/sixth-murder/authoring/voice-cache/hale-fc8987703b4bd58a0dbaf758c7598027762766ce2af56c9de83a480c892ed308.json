@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-fc8987703b4bd58a0dbaf758c7598027762766ce2af56c9de83a480c892ed308-reviewed.mp3",
+  "text": "Inspectors. Arthur is waiting here with me. A constable is keeping the yard clear.",
+  "durationMs": 5976,
+  "sha256": "fc8987703b4bd58a0dbaf758c7598027762766ce2af56c9de83a480c892ed308",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "37b6b70c63a5d7d6799bfb41f1119a44f5c2c43757b2a14ba81d4f1e5a33722d"
+}

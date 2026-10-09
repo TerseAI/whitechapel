@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-f8bafb171039b89d0ff7fac4d114345ab9d51ae993bad34fba21950a6622fdcb-reviewed.mp3",
+  "text": "We still have to ask.",
+  "durationMs": 2184,
+  "sha256": "f8bafb171039b89d0ff7fac4d114345ab9d51ae993bad34fba21950a6622fdcb",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "d20038005deb6adcd10ab1a371b65b7b74f20b4b23570bf436baba4d05ca48e8"
+}

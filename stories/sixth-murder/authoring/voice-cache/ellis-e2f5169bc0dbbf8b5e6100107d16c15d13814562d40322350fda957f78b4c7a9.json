@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-e2f5169bc0dbbf8b5e6100107d16c15d13814562d40322350fda957f78b4c7a9-reviewed.mp3",
+  "text": "Keep the yard clear while we have a look.",
+  "durationMs": 2664,
+  "sha256": "e2f5169bc0dbbf8b5e6100107d16c15d13814562d40322350fda957f78b4c7a9",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "2681687f5433cf8bbb2efe2bf654532fa65617d31ebe75b247181a84ad22c5c9"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-7d8b978cba854dcd70e45e0a13f5f18b7d2a1e5e821f2d1e7dd7f7b849a2c8a8-reviewed.mp3",
+  "text": "You’ll want Mrs Baines’s account. I’ve kept people back, but I haven’t had a proper word with her yet.",
+  "durationMs": 6624,
+  "sha256": "7d8b978cba854dcd70e45e0a13f5f18b7d2a1e5e821f2d1e7dd7f7b849a2c8a8",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "5997770b81b1de64dc7db75cc5c008759b465dad6c99eef1a401d2c68fc30f7b"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-c012d56f1bff056fc5431b2820d68d1c6fdcb6f141919bb41afb27b2645300cc-reviewed.mp3",
+  "text": "You’ll be all right at the front. We sleep round the back. Just pull the door to gently when you go.",
+  "durationMs": 7176,
+  "sha256": "c012d56f1bff056fc5431b2820d68d1c6fdcb6f141919bb41afb27b2645300cc",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "4d8aff4a41b3959e2af5e81371640de45466af97573fe14a4ac66c76322b38ed"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-b251ee1fb211ed37e7d6deb02b8400786b8ce6d249c196a6ce1e0df9a20a6994-reviewed.mp3",
+  "text": "I thought you meant this morning. Yes, I brought it down last night.",
+  "durationMs": 7368,
+  "sha256": "b251ee1fb211ed37e7d6deb02b8400786b8ce6d249c196a6ce1e0df9a20a6994",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "ac7fc1666a011fea349bc6faac8f3defdf5a8cd9fb57ca7084e39cbc0a36111e"
+}

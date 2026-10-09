@@ -1,0 +1,11 @@
+{
+  "src": "audio/narrator-38b63c52dc2025867f8491f663ca68752618dadef967019f4630b46d0553b8a6-reviewed.mp3",
+  "text": "Reed and Ellis leave through the front door and report to Commercial Street. Later, a message from Constable Hale brings them back to the Lantern.",
+  "durationMs": 10656,
+  "sha256": "38b63c52dc2025867f8491f663ca68752618dadef967019f4630b46d0553b8a6",
+  "actor": "narrator",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Rasalgethi",
+  "direction": "A restrained British narrator for an intimate historical drama. Mature clear English voice, unhurried and humane, no trailer delivery. Even rounded baritone, fluid connected phrasing and gentle sentence endings. Observe events without sounding like a policeman giving evidence.",
+  "audioSha256": "18a05637231c5a350016f8427457b31450e879f85ceeb0da864fcf16bc818795"
+}

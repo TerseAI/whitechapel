@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-8f75c6b0cb60e1d8000a3a1473a4f43aebfaf730be13b3a60b28963ce3f26d11-reviewed.mp3",
+  "text": "Nora and her mother. You’re on the right.",
+  "durationMs": 3456,
+  "sha256": "8f75c6b0cb60e1d8000a3a1473a4f43aebfaf730be13b3a60b28963ce3f26d11",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "b0bcb10218e7a2217f30e0354e5a099ca405f6c9256fe352fe48a60e0226c68f"
+}

@@ -1,0 +1,89 @@
+{
+  "name": "whitechapel",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "build:vercel": "vite build && node --import tsx scripts/copy-story-assets.ts",
+    "dev": "node scripts/watch-dev.mjs",
+    "dev:sixth-murder": "STORY_PATH=stories/sixth-murder/story.json FRAMEWORK_PORT=5388 FRAMEWORK_DATA_DIR=.durable-actors/sixth-murder node scripts/watch-dev.mjs --framework",
+    "build:sixth-murder": "STORY_PATH=stories/sixth-murder/story.json npm run build",
+    "test:sixth-murder": "node --import tsx stories/sixth-murder/authoring/playtest.mjs",
+    "test:sixth-murder:rules": "node --import tsx --test stories/sixth-murder/authoring/*.test.ts stories/sixth-murder/authoring/*.test.mjs",
+    "dev:web": "vite --host 127.0.0.1",
+    "dev:server": "tsx watch --clear-screen=false backend/src/index.ts",
+    "actors": "node scripts/actors-dev.mjs",
+    "typecheck": "tsc -p frontend/tsconfig.json && tsc -p backend/tsconfig.json && tsc -p shared/tsconfig.json && tsc -p tsconfig.json",
+    "start": "NODE_ENV=production tsx backend/src/index.ts",
+    "test": "tsx --test tests/*.test.ts",
+    "dev:framework": "node scripts/watch-dev.mjs --framework",
+    "test:framework": "node scripts/framework-check.mjs",
+    "test:lobby": "node scripts/lobby-check.mjs",
+    "build": "npm run story:check && npm run typecheck && vite build",
+    "story:new": "node --import tsx scripts/story.ts new",
+    "story:check": "node --import tsx scripts/story.ts check",
+    "story:schema": "node --import tsx scripts/story.ts schema",
+    "test:map": "node scripts/framework-check.mjs",
+    "test:documents": "node scripts/framework-check.mjs",
+    "test:objects": "node scripts/framework-check.mjs",
+    "test:case-map": "node scripts/framework-check.mjs",
+    "test:ai": "node scripts/intelligence-check.mjs",
+    "test:microphone": "node --env-file=.env.local --import tsx scripts/microphone-check.mjs",
+    "test:persistence": "node --import tsx scripts/intelligence-persistence-check.ts",
+    "actors:generate": "node scripts/generate-actors.mjs",
+    "cloud:prepare": "node --import tsx scripts/prepare-cloud.ts",
+    "dev:cloud": "STORY_PATH=stories/sixth-murder/story.json FRAMEWORK_PORT=5488 FRAMEWORK_DATA_DIR=.durable-actors/cloud node scripts/watch-dev.mjs --framework --cloud",
+    "test:cloud": "node --import tsx scripts/check-cloud.ts",
+    "test:cloud:hosted": "node --env-file-if-exists=.env.local --import tsx scripts/check-cloud.ts --hosted",
+    "host:cloud": "node --import tsx scripts/host-cloud.mjs",
+    "test:solo": "node --import tsx scripts/solo-check.mjs",
+    "test:reset": "node scripts/reset-game-check.mjs"
+  },
+  "dependencies": {
+    "@fal-ai/client": "1.10.1",
+    "@react-three/drei": "^10.7.8",
+    "@react-three/fiber": "^9.7.0",
+    "@ricky0123/vad-web": "^0.0.31",
+    "@typesafe-ai/sdk": "0.6.0",
+    "@xyflow/react": "^12.11.6",
+    "durable-actors": "0.7.16",
+    "express": "^5.1.0",
+    "lucide-react": "^0.468.0",
+    "music-metadata": "11.16.1",
+    "openai": "7.19.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "terse-sdk": "0.9.15",
+    "terse-types": "0.9.15",
+    "three": "^0.186.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.18.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@types/three": "^0.185.4",
+    "@vitejs/plugin-react": "^4.7.0",
+    "terse-cli": "0.9.15",
+    "three-stdlib": "^2.36.1",
+    "tsx": "^4.20.0",
+    "typescript": "~5.9.3",
+    "vite": "^6.3.6",
+    "vite-plugin-static-copy": "^4.1.1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TerseAI/whitechapel.git"
+  },
+  "overrides": {
+    "vite-plugin-static-copy": {
+      "chokidar": "4.0.3"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-1191874166029e62dbcb8f528a4e39b28e29d0b19418894f034d333a47ef0c09-reviewed.mp3",
+  "text": "She will also hear from us.",
+  "durationMs": 2616,
+  "sha256": "1191874166029e62dbcb8f528a4e39b28e29d0b19418894f034d333a47ef0c09",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "3fd0227f8548e214b11b9e95b4767b897e79798644f64612d280f4b8bef4e495"
+}

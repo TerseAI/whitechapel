@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-35679dd63b0dc08159cdb377df177623096f45ebb0a97775728a7aca36f9de23-reviewed.mp3",
+  "text": "Certainly not. It was knocked from a table years ago. The blue candles were cheap, so blue candles she shall have.",
+  "durationMs": 9408,
+  "sha256": "35679dd63b0dc08159cdb377df177623096f45ebb0a97775728a7aca36f9de23",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "273bc05655e309695e7ff0e9eedc81fa774ef07ce86e20ba92b70148a501977d"
+}

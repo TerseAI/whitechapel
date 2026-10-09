@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-1d683a33ca33e7473d5ce2b55497a1f52c3d4054b90cdc2878a78459d69a3f1c-reviewed.mp3",
+  "text": "She’d made up her mind. Bristol, her sister, this job. She wouldn’t listen to reason.",
+  "durationMs": 7584,
+  "sha256": "1d683a33ca33e7473d5ce2b55497a1f52c3d4054b90cdc2878a78459d69a3f1c",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "f9a73e76185fecef2b073379b2c9e4729e621bac1b248f08f9d8deba040aaac4"
+}

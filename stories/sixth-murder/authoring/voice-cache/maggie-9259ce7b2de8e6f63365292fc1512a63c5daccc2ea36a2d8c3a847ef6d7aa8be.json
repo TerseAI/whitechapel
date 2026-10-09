@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-9259ce7b2de8e6f63365292fc1512a63c5daccc2ea36a2d8c3a847ef6d7aa8be-reviewed.mp3",
+  "text": "You’ve sent word. But she’ll want to hear from someone who knew Nora here.",
+  "durationMs": 5568,
+  "sha256": "9259ce7b2de8e6f63365292fc1512a63c5daccc2ea36a2d8c3a847ef6d7aa8be",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "89ee610cee971412af6c5041ffed0189614b49dd4b37a253c7649deab7e6b891"
+}

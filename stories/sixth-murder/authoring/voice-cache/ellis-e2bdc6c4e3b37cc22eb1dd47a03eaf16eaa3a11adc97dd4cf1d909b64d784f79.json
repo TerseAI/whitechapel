@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-e2bdc6c4e3b37cc22eb1dd47a03eaf16eaa3a11adc97dd4cf1d909b64d784f79-reviewed.mp3",
+  "text": "Her travelling papers are addressed to Nora Finch. Do you know why?",
+  "durationMs": 5016,
+  "sha256": "e2bdc6c4e3b37cc22eb1dd47a03eaf16eaa3a11adc97dd4cf1d909b64d784f79",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "3ad6ad7daa47716db683de77bf2d9cb9101c03a8973d1be62f46254301e8f465"
+}

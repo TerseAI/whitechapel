@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-8e17300b31a9a16883784411b3c80f2d429c4a8af46ff55e264f30731e998a74-reviewed.mp3",
+  "text": "Could anyone get at it while you were away?",
+  "durationMs": 2808,
+  "sha256": "8e17300b31a9a16883784411b3c80f2d429c4a8af46ff55e264f30731e998a74",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "9fb553c567ff5d496f785c937fb5b2dff5f98e286cb8787f1a567fa77e8b4907"
+}

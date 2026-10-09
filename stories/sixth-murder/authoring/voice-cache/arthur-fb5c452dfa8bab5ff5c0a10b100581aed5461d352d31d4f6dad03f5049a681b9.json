@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-fb5c452dfa8bab5ff5c0a10b100581aed5461d352d31d4f6dad03f5049a681b9-reviewed.mp3",
+  "text": "I’ve told you. Ask him again.",
+  "durationMs": 2976,
+  "sha256": "fb5c452dfa8bab5ff5c0a10b100581aed5461d352d31d4f6dad03f5049a681b9",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "f153b2cd83a4a4fdd9f9955852d3dc9e54c057da666aa6cbdd057954ce3f4215"
+}

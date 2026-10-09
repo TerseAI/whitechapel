@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-6b1b28df6d1679b835412d2c6cde7253c2577e546826a588c651e15a3cdb5b59-reviewed.mp3",
+  "text": "No. I stayed where I was.",
+  "durationMs": 3144,
+  "sha256": "6b1b28df6d1679b835412d2c6cde7253c2577e546826a588c651e15a3cdb5b59",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "c2407e814bb7ef967d9e7144140db7d4ac14cf7b4c1556791128d0dc0e955063"
+}

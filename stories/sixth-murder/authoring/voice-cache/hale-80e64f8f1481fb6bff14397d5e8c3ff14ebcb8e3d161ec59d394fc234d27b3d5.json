@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-80e64f8f1481fb6bff14397d5e8c3ff14ebcb8e3d161ec59d394fc234d27b3d5-reviewed.mp3",
+  "text": "I’ll put a constable at the back steps. Mrs Baines can see him from her window.",
+  "durationMs": 5328,
+  "sha256": "80e64f8f1481fb6bff14397d5e8c3ff14ebcb8e3d161ec59d394fc234d27b3d5",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "fe8496367fdccb1197a263b29d7e693f5807c1a4e839950fba2d417f669fc484"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-296ed9240bcdd18c5770b342a304aee9c676a42e3c6649999af052b3f3668bb5-reviewed.mp3",
+  "text": "I didn’t tell him. I don’t know what she said to him.",
+  "durationMs": 4176,
+  "sha256": "296ed9240bcdd18c5770b342a304aee9c676a42e3c6649999af052b3f3668bb5",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "1f29f0cabd29b7e7f8836e0ac0d46bb64487e8e185a6dd29c1910bf9820e18ec"
+}

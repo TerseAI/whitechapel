@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-910bce7f0e858f0ca560f285a50e7eae0c45dc1932bac923519f2082c8f7f1d6-reviewed.mp3",
+  "text": "You say you covered her face because you couldn’t bear to look at her.",
+  "durationMs": 4488,
+  "sha256": "910bce7f0e858f0ca560f285a50e7eae0c45dc1932bac923519f2082c8f7f1d6",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "6343f21b570ab52f9b4c4788b01f7208213baa010005854ca6e69511f2e8fb1e"
+}

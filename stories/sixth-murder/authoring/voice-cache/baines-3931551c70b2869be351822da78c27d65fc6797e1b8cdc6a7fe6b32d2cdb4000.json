@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-3931551c70b2869be351822da78c27d65fc6797e1b8cdc6a7fe6b32d2cdb4000-reviewed.mp3",
+  "text": "On Nora’s bed. I made the bed myself.",
+  "durationMs": 3984,
+  "sha256": "3931551c70b2869be351822da78c27d65fc6797e1b8cdc6a7fe6b32d2cdb4000",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "e78f48161a8a2aa440d67a3fc6e7be3f5d2922bc66a3411d68c0327061115bc2"
+}

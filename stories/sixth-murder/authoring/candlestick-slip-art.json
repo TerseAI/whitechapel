@@ -1,0 +1,24 @@
+{
+  "generator": "Built-in image_gen",
+  "purpose": "Current medical report, hearth remains and courtyard knife for the candlestick-slip version",
+  "assets": [
+    {
+      "key": "medicalImage",
+      "prompt": "Edit the attached fictional 1888 surgeon's report. Preserve the ivory folded paper, narrow charcoal border, blue-black cursive handwriting and overall composition. Replace the entire text with exactly the following, with four clearly separated body paragraphs and generous readable spacing. No extra text.\n17 November 1888\nExamination of Nora Vale\nAt Constable Hale’s request I attended the rear yard of the Lantern, where I confirmed that Nora Vale was dead. She was subsequently removed for examination.\nThe injury to the head, caused by a hard, blunt blow, was the cause of death. The wounds to the throat and abdomen were inflicted after death.\nThese findings establish the order of the injuries, but not an exact hour of death. They do not identify a particular weapon or offender.\nThe knife wounds did not kill this woman. Resemblance to the reported Whitechapel murders does not establish that the same person was responsible.\nWilliam Alden\nSurgeon",
+      "destination": "documents/medical-findings-blunt-v2.png",
+      "source": "codex-generation:01a09842-2ff4-7d32-aa39-6234ee0b30f3/exec-a5390eaa-976b-4167-85cd-c91838f01be0.png"
+    },
+    {
+      "key": "hearthImage",
+      "prompt": "Edit this game evidence illustration. Preserve the cold fireplace, camera angle, lighting and worn Victorian room exactly. The only remains among the ashes must be burned woollen clothing and the partly burned newspaper already present. Remove the curled leather sheath and its metal fitting from the lower right, replacing them with shapeless charred wool cloth and ash. No knife, no sheath, no clasp, no identifiable metal fragments anywhere. Keep the newspaper as existing partial print, no added labels or text.",
+      "destination": "art/hearth-clothing-v3.png",
+      "source": "codex-generation:01a09842-2ff4-7d32-aa39-6234ee0b30f3/exec-1efd1b2c-0079-4ec7-b306-e687b92dd7cc.png"
+    },
+    {
+      "key": "knifeImage",
+      "prompt": "Create a realistic painted game evidence illustration for Whitechapel, an invented 1888 murder enquiry. Close overhead view of one ordinary household kitchen knife, unburned dull steel blade and plain worn wooden handle, lying on an unfolded clean off-white cloth on a dark wooden police table. This is the knife Constable Hale recovered beside a body in a courtyard, now in his possession for inspection. No sheath, no belt, no decorative clasp, no modern knife features, no body, no gore, no hands, no written labels. Restrained natural light, tactile worn materials, subdued grey-brown palette, enough contrast to inspect the complete knife, 4:3 landscape composition.",
+      "destination": "art/courtyard-knife.png",
+      "source": "codex-generation:01a09842-2ff4-7d32-aa39-6234ee0b30f3/exec-1fcc44e0-db99-4930-bcf1-5aa5c2c4b832.png"
+    }
+  ]
+}

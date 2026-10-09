@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-c010d86262307c32d3dc6bf0e9667e26a3f16d1ff4e91e8b28cd50197faee6f7-reviewed.mp3",
+  "text": "Right. Thank you.",
+  "durationMs": 2016,
+  "sha256": "c010d86262307c32d3dc6bf0e9667e26a3f16d1ff4e91e8b28cd50197faee6f7",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "33964eba0dc3011faabf50114ddfbcce71e95230118162e5e3d4cdb294be2e00"
+}

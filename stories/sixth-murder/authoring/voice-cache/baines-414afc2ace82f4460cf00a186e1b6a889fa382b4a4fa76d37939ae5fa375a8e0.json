@@ -1,0 +1,13 @@
+{
+  "src": "audio/baines-414afc2ace82f4460cf00a186e1b6a889fa382b4a4fa76d37939ae5fa375a8e0-reviewed.mp3",
+  "text": "Just the candle. George was coming for her trunk in the morning.",
+  "durationMs": 4704,
+  "sha256": "414afc2ace82f4460cf00a186e1b6a889fa382b4a4fa76d37939ae5fa375a8e0",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "343c8d17242fa606e0f9d1c56329932004f47872b7b8a42c98832af68e925260",
+  "prompt": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis. Read the supplied dialogue exactly once, in a natural British English voice, with clean studio audio. Speech only; no music or sound effects.",
+  "synthesisText": "\"Just the candle. George was coming for her trunk in the morning.\""
+}

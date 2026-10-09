@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-38e0a456fa43e50dda149f7494d05d42381b78dee7f8e1fef28a7ec9378c672d-reviewed.mp3",
+  "text": "I thought you might. If she was out there, like the woman in the paper.",
+  "durationMs": 5928,
+  "sha256": "38e0a456fa43e50dda149f7494d05d42381b78dee7f8e1fef28a7ec9378c672d",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "be555b50360e7d506e0e37acc4ff6d88418a8392460da33cccdea13d2ba71d4b"
+}

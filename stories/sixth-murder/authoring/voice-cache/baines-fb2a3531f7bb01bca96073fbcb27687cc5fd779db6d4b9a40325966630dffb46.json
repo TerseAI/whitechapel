@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-fb2a3531f7bb01bca96073fbcb27687cc5fd779db6d4b9a40325966630dffb46-reviewed.mp3",
+  "text": "Enough to get the beds made. He said there’d be two of you, and here you are.",
+  "durationMs": 4944,
+  "sha256": "fb2a3531f7bb01bca96073fbcb27687cc5fd779db6d4b9a40325966630dffb46",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "f1a0e89ac7b0fce14e5ead52bd6dbb42efa5c3e08e58c6283c7da41edfe3006a"
+}

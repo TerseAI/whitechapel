@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-ab09a4c38a1e323e467a45ce2fd5dc5f45ba3627f557f86912edcb00557c8095-reviewed.mp3",
+  "text": "Can you identify the blanket from the trunk?",
+  "durationMs": 3288,
+  "sha256": "ab09a4c38a1e323e467a45ce2fd5dc5f45ba3627f557f86912edcb00557c8095",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "55d29e8f5aadb735c9d15c911efdb8feae81852ba3a086ac5bdaa9a06809eafe"
+}

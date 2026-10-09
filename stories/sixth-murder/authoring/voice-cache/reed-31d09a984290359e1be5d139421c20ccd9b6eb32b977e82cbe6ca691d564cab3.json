@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-31d09a984290359e1be5d139421c20ccd9b6eb32b977e82cbe6ca691d564cab3-reviewed.mp3",
+  "text": "What did you do when you saw him?",
+  "durationMs": 2664,
+  "sha256": "31d09a984290359e1be5d139421c20ccd9b6eb32b977e82cbe6ca691d564cab3",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "cfe3b12a8f44c4cdb587442ed26a2ec8bffba870bf4a47c6036dc97a6a5ed8ca"
+}

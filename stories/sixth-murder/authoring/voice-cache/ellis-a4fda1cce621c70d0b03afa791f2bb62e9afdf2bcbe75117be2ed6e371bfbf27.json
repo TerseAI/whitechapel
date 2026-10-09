@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-a4fda1cce621c70d0b03afa791f2bb62e9afdf2bcbe75117be2ed6e371bfbf27-reviewed.mp3",
+  "text": "You took her into the yard.",
+  "durationMs": 2376,
+  "sha256": "a4fda1cce621c70d0b03afa791f2bb62e9afdf2bcbe75117be2ed6e371bfbf27",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "3f84da7ec071903e4070afe57419dce3b13d6400a94c59d47fa37bc5bd33f010"
+}

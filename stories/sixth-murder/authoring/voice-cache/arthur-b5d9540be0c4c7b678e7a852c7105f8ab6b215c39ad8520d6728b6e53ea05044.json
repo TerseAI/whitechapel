@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-b5d9540be0c4c7b678e7a852c7105f8ab6b215c39ad8520d6728b6e53ea05044-reviewed.mp3",
+  "text": "Then why isn’t George sitting here?",
+  "durationMs": 2688,
+  "sha256": "b5d9540be0c4c7b678e7a852c7105f8ab6b215c39ad8520d6728b6e53ea05044",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "df2dd2f9a0274cfb737d3968723fbac8d6b746bb6392dc4b163834fc40275c20"
+}

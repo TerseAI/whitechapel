@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-88e270b12d108b776f55c40e9c566e244f97c4d07d3d073c1a1339c3b9e016fa-reviewed.mp3",
+  "text": "How were things when you left?",
+  "durationMs": 2184,
+  "sha256": "88e270b12d108b776f55c40e9c566e244f97c4d07d3d073c1a1339c3b9e016fa",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "295e9f1013e956cc8b6e9ea88c90937fcd00029f5f3bd99eea5181e062e39003"
+}

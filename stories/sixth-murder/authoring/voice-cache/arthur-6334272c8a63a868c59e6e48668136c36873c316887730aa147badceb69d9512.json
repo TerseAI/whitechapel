@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-6334272c8a63a868c59e6e48668136c36873c316887730aa147badceb69d9512-reviewed.mp3",
+  "text": "I didn’t mean for her to fall. She pulled so hard.",
+  "durationMs": 5304,
+  "sha256": "6334272c8a63a868c59e6e48668136c36873c316887730aa147badceb69d9512",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "b301464d9bb784b7c202f5e7b8e55a77e4313b6d6e70a2afefad8ae1a562ac58"
+}

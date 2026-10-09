@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-83c922abd82857ff0100bdbd17872de82df765331dd9aa2bad030b72f60458f0-reviewed.mp3",
+  "text": "Did she try to get away?",
+  "durationMs": 1944,
+  "sha256": "83c922abd82857ff0100bdbd17872de82df765331dd9aa2bad030b72f60458f0",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "6a0eaa5af1dbf5ce6ea598998f903936cf230ec5fb9c180774e92afa9e7e8f3c"
+}

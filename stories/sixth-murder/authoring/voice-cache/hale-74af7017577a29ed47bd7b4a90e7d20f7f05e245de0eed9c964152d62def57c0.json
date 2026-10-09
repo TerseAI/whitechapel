@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-74af7017577a29ed47bd7b4a90e7d20f7f05e245de0eed9c964152d62def57c0-reviewed.mp3",
+  "text": "Inspectors. I’m here if you need me.",
+  "durationMs": 3048,
+  "sha256": "74af7017577a29ed47bd7b4a90e7d20f7f05e245de0eed9c964152d62def57c0",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "66711565e1879893f3c9c889f98278e5dbe3e6fc836eb8345733d339d546e0b7"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-15d9dee3e832682fdd1f6b068a2236515a725672e87d69cd632c4736801cf45c-reviewed.mp3",
+  "text": "No. I can only tell you it wasn’t me.",
+  "durationMs": 4176,
+  "sha256": "15d9dee3e832682fdd1f6b068a2236515a725672e87d69cd632c4736801cf45c",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "c71e8fb5cd3cea03afd3c68179aa9febb2e332eac1ec64de4f6b7f039abd20f3"
+}

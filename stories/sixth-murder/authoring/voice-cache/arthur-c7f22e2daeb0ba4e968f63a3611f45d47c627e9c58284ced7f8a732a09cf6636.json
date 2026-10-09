@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-c7f22e2daeb0ba4e968f63a3611f45d47c627e9c58284ced7f8a732a09cf6636-reviewed.mp3",
+  "text": "Then it could have been after I’d gone.",
+  "durationMs": 2616,
+  "sha256": "c7f22e2daeb0ba4e968f63a3611f45d47c627e9c58284ced7f8a732a09cf6636",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "840b1056866f440e44e8dfa1730edb7c29c55b82e73d772d83012aabd45f0839"
+}

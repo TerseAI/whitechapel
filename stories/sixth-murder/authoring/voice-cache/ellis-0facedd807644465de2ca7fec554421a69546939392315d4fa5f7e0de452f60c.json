@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-0facedd807644465de2ca7fec554421a69546939392315d4fa5f7e0de452f60c-reviewed.mp3",
+  "text": "Hale found a knife beside Nora. Does that change your findings?",
+  "durationMs": 4704,
+  "sha256": "0facedd807644465de2ca7fec554421a69546939392315d4fa5f7e0de452f60c",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "3b23e59603ecc24eb326828d222e61ea09c239667f84b0140beda54c344137a2"
+}

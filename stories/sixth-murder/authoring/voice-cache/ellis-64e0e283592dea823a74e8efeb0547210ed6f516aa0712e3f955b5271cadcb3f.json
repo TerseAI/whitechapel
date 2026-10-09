@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-64e0e283592dea823a74e8efeb0547210ed6f516aa0712e3f955b5271cadcb3f-reviewed.mp3",
+  "text": "Do you have far to walk after work?",
+  "durationMs": 2904,
+  "sha256": "64e0e283592dea823a74e8efeb0547210ed6f516aa0712e3f955b5271cadcb3f",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "2c74760f0de4ef142ddf524bbe145850593f9fa19565dc79c51684d157edef5c"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/nora-32e8c0796f736fcb3584b336e052d56afb3498b654055ce3da526a87d97b2233-reviewed.mp3",
+  "text": "It’s Mrs Baines’s sleeve. She caught it on a nail and made it worse trying to get free.",
+  "durationMs": 6336,
+  "sha256": "32e8c0796f736fcb3584b336e052d56afb3498b654055ce3da526a87d97b2233",
+  "actor": "nora",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Leda",
+  "direction": "Nora Vale, a 30-year-old English needleworker. Quiet clear and capable voice with a subtle working London accent; occasional dry humour and gentle uncertainty. Light clear mezzo, agile rhythm, soft precise consonants and a small dry lift on a witty observation. Speak with adult confidence, never breathy, childlike or portentous.",
+  "audioSha256": "0cdf1517bffbbd69801afc68a807388022cb42542beab7aea7c1418bef6197b8"
+}

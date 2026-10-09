@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-6731b8e86f2f7fb7bc933fb88e3b47b463b2879487a2c567f91d3e5054ae2ab4-reviewed.mp3",
+  "text": "Did you see anyone coming or going?",
+  "durationMs": 3144,
+  "sha256": "6731b8e86f2f7fb7bc933fb88e3b47b463b2879487a2c567f91d3e5054ae2ab4",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "63b79113cab1eac1ea0b55fc16778d08afab96107d634de116d9917c6ec627ee"
+}

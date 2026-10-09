@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-a859bf9c112b264592575dcafb862150342e93fc4b7a6cb3f46f7300dcb60e5f-reviewed.mp3",
+  "text": "That she could come home. We could sort it out between ourselves.",
+  "durationMs": 6048,
+  "sha256": "a859bf9c112b264592575dcafb862150342e93fc4b7a6cb3f46f7300dcb60e5f",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "c8ac7f254b571107d231114830b8d6323f1efb3f137119e4fad718081b42bccd"
+}

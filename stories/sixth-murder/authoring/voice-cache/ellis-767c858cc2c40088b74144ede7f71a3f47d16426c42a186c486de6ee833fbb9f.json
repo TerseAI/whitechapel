@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-767c858cc2c40088b74144ede7f71a3f47d16426c42a186c486de6ee833fbb9f-reviewed.mp3",
+  "text": "Did you strike her?",
+  "durationMs": 1704,
+  "sha256": "767c858cc2c40088b74144ede7f71a3f47d16426c42a186c486de6ee833fbb9f",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "2f0026ae9714389d4d64682b5228eb50d1502c73cd7a11df5a04e6002b37b116"
+}

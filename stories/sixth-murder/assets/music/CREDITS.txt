@@ -1,0 +1,10 @@
+"Darkest Child" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+
+Source: https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100783
+Download: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Darkest%20Child.mp3
+Retrieved: 2026-09-12
+ISRC: USUAN1100783
+Recording unmodified. Looped in-game, with playback volume reduced during dialogue.
+SHA-256: 7591bd67ba227c2a3ffd97a6751c66e0b56d543ba91a6a2699a765191c880518

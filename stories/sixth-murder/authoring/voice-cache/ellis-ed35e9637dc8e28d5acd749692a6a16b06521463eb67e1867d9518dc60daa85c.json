@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-ed35e9637dc8e28d5acd749692a6a16b06521463eb67e1867d9518dc60daa85c-reviewed.mp3",
+  "text": "You say Nora fell in her room. She was found outside. What happened in between?",
+  "durationMs": 7176,
+  "sha256": "ed35e9637dc8e28d5acd749692a6a16b06521463eb67e1867d9518dc60daa85c",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "f6797059238eafd6058bcb60aab89d24e03f63f6a978142fc56055cff84a178e"
+}

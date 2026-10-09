@@ -1,0 +1,14 @@
+Use case: text-localization. Edit target: the provided fictional private letter dated 17 November 1888, written by Maggie Shaw. Preserve the full-sheet overhead composition, narrow charcoal surround, pale ivory-grey wove paper, angular right-sloping everyday connected steel-pen handwriting, open capitals, tall narrow ascenders, short t crossbars and blue-black ink. Replace only the first body paragraph with the new paragraph supplied below. Retain the date, salutation, other paragraphs and signature exactly. Adjust line wrapping if needed, leaving every word fully legible. No extra text, headings, props or decorations. Whole sheet visible. Exact complete text:
+17 November 1888
+
+My dear friend,
+
+The police have sent word of Nora’s death. I wanted you to hear from someone who knew her here as well. Their enquiry is complete, and they will write to you about it.
+
+I shall help with her things when they may be released. Her sewing case is safe. She had your letter with the ticket and had made everything ready.
+
+Mrs Baines is wearing the sleeve Nora mended yesterday. I thought you should know that she was working to the last, and speaking of the work you had found for her.
+
+I am so sorry. I shall write again when I can tell you about the arrangements.
+
+Maggie

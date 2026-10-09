@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-e27de25880d42310a625a6637a56b03121f8e7e15b25ae1019e5b925e1cd8fcf-reviewed.mp3",
+  "text": "She was my wife. I didn’t want people staring at her.",
+  "durationMs": 4776,
+  "sha256": "e27de25880d42310a625a6637a56b03121f8e7e15b25ae1019e5b925e1cd8fcf",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "52c62df2343d94728ee817e217cd64096ce623ba8b1437d526737924d5a3d967"
+}

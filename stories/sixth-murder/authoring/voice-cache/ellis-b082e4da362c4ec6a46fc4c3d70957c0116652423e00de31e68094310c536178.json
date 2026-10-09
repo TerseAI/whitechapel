@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-b082e4da362c4ec6a46fc4c3d70957c0116652423e00de31e68094310c536178-reviewed.mp3",
+  "text": "You put her in the trunk and carried her out, didn’t you?",
+  "durationMs": 3864,
+  "sha256": "b082e4da362c4ec6a46fc4c3d70957c0116652423e00de31e68094310c536178",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "feb9ae781861fb99568666c045ba5a0abcc90dab274a6f69d3d0b6baeec3a1c3"
+}

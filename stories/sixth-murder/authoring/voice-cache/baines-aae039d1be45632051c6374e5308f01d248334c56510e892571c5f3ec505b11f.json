@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-aae039d1be45632051c6374e5308f01d248334c56510e892571c5f3ec505b11f-reviewed.mp3",
+  "text": "No. I only know where I left it.",
+  "durationMs": 3456,
+  "sha256": "aae039d1be45632051c6374e5308f01d248334c56510e892571c5f3ec505b11f",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "78c351b494185e86ba3328ef893436b4562bad642eec473e02d5b636ea5eec32"
+}

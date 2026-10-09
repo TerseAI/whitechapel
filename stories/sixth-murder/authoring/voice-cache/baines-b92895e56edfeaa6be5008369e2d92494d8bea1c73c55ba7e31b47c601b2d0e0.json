@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-b92895e56edfeaa6be5008369e2d92494d8bea1c73c55ba7e31b47c601b2d0e0-reviewed.mp3",
+  "text": "A man, carrying Nora’s trunk down.",
+  "durationMs": 3408,
+  "sha256": "b92895e56edfeaa6be5008369e2d92494d8bea1c73c55ba7e31b47c601b2d0e0",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "a435ef740697a36e946492f1bd0f3da117d87c742e8fb0c307a97753ffa35d99"
+}

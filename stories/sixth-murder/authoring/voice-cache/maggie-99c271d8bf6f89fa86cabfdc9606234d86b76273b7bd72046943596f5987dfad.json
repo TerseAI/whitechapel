@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-99c271d8bf6f89fa86cabfdc9606234d86b76273b7bd72046943596f5987dfad-reviewed.mp3",
+  "text": "Her brother?",
+  "durationMs": 1536,
+  "sha256": "99c271d8bf6f89fa86cabfdc9606234d86b76273b7bd72046943596f5987dfad",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "6bb5260c6a631dc47a9ef70e9a4124badeb213cd854697e2eecd18fa1785aa29"
+}

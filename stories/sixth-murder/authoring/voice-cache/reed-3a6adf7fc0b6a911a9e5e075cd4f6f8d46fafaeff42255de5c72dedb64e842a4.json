@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-3a6adf7fc0b6a911a9e5e075cd4f6f8d46fafaeff42255de5c72dedb64e842a4-reviewed.mp3",
+  "text": "An early start, then?",
+  "durationMs": 1896,
+  "sha256": "3a6adf7fc0b6a911a9e5e075cd4f6f8d46fafaeff42255de5c72dedb64e842a4",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "5b302534e90029f1d739e6c147c61dce98c096c425480f7c14022e3ef554117b"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-aa7ecb7d4d4f935de5caa36aba5e81583bb68e6a4e1144a9e904cffe2183d92c-reviewed.mp3",
+  "text": "There was blood beneath the clothes. What were you carrying?",
+  "durationMs": 4704,
+  "sha256": "aa7ecb7d4d4f935de5caa36aba5e81583bb68e6a4e1144a9e904cffe2183d92c",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "095a84644f20e31341ac54e6071284b92be891e081639ff69ff4baac925f0ec5"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-56d15cb0275b0ac470353994d09aec9b301be28fad31582e77588a549c55cd46-reviewed.mp3",
+  "text": "Maggie kept this photograph of your wedding. Is that you beside Nora?",
+  "durationMs": 5184,
+  "sha256": "56d15cb0275b0ac470353994d09aec9b301be28fad31582e77588a549c55cd46",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "78e16ba77d99bc1373b8303b36f30ec14df57f0e23e72866e94576753ce8da77"
+}

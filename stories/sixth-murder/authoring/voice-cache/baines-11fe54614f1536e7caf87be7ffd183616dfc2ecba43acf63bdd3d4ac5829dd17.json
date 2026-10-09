@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-11fe54614f1536e7caf87be7ffd183616dfc2ecba43acf63bdd3d4ac5829dd17-reviewed.mp3",
+  "text": "All right. Shut that door, would you?",
+  "durationMs": 3216,
+  "sha256": "11fe54614f1536e7caf87be7ffd183616dfc2ecba43acf63bdd3d4ac5829dd17",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "dd56482b7b5cb3f4541fb96f9040dea704940267eba028e1322f62c16fab8208"
+}

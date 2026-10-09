@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-992a0ef4f2661e57535e404f1b287500abbbec17d061cb598ad6965fef1e24f6-reviewed.mp3",
+  "text": "You argued with her. Baines heard a cry and a thud. You knew where the candlestick was hidden.",
+  "durationMs": 7776,
+  "sha256": "992a0ef4f2661e57535e404f1b287500abbbec17d061cb598ad6965fef1e24f6",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "6bb3f0973ac15dc9e00719fdec83532c42919ab4eb2292e09f47b1cb29b1a275"
+}

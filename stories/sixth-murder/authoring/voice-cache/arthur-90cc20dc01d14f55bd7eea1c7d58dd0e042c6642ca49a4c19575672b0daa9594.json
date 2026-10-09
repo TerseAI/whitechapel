@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-90cc20dc01d14f55bd7eea1c7d58dd0e042c6642ca49a4c19575672b0daa9594-reviewed.mp3",
+  "text": "Yes. I wanted her to hear me out.",
+  "durationMs": 3456,
+  "sha256": "90cc20dc01d14f55bd7eea1c7d58dd0e042c6642ca49a4c19575672b0daa9594",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "c43dd32bf01eabd78beca01746cc76b50eaa85dc592298dbbea26cbbc5a17181"
+}

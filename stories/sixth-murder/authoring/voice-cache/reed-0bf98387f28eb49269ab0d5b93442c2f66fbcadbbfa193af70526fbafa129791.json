@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-0bf98387f28eb49269ab0d5b93442c2f66fbcadbbfa193af70526fbafa129791-reviewed.mp3",
+  "text": "You knew it was underneath the sacks. How?",
+  "durationMs": 4296,
+  "sha256": "0bf98387f28eb49269ab0d5b93442c2f66fbcadbbfa193af70526fbafa129791",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "722d46b618fd136d99670a92bdd86024fedcc923fb70e588cd288b26855d2033"
+}

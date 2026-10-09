@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-ce44ef494734e31f2feefb0c4c980c4ff43c7f689b38e377a54e6d3e0ad2fb0d-reviewed.mp3",
+  "text": "He’d come here for her wages. Wait outside when we finished. If she stopped to speak to someone, he wanted to know who.",
+  "durationMs": 8304,
+  "sha256": "ce44ef494734e31f2feefb0c4c980c4ff43c7f689b38e377a54e6d3e0ad2fb0d",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "e95dc57d9972736273efa6ee4dee082aeeccc1a64bea6cdd5f3121f5183af18d"
+}

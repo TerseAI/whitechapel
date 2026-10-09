@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-e659ad2f5b7e1ebab4ce43a51b9fa7b396994666326c0dd97f295ed337eda16d-reviewed.mp3",
+  "text": "Did Arthur know she was going to Bristol?",
+  "durationMs": 2856,
+  "sha256": "e659ad2f5b7e1ebab4ce43a51b9fa7b396994666326c0dd97f295ed337eda16d",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "ec3241c45c678c4707e4108ac6536773250b609546e60f3f4e911f00b996bcb1"
+}

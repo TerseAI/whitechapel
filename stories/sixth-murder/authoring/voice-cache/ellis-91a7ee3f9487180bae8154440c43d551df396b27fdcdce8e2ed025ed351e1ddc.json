@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-91a7ee3f9487180bae8154440c43d551df396b27fdcdce8e2ed025ed351e1ddc-reviewed.mp3",
+  "text": "Not looking forward to it?",
+  "durationMs": 2016,
+  "sha256": "91a7ee3f9487180bae8154440c43d551df396b27fdcdce8e2ed025ed351e1ddc",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "c59365425d20af2e64b3a0dbddd5386c1cecc929cc703ac975e5e3fee7ccd0af"
+}

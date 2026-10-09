@@ -1,0 +1,49 @@
+.object-dialog { width: min(1160px, calc(100vw - 32px)); height: min(860px, calc(100dvh - 32px)); max-width: none; max-height: none; padding: 0; border: 1px solid #515953; background: #182123; color: #ece5d7; box-shadow: 0 28px 100px #000b; }
+.object-dialog::backdrop { background: #0b1215c9; }
+.object-inspector { height: 100%; display: flex; flex-direction: column; overflow: hidden; }
+.object-heading { flex: 0 0 auto; display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 16px 24px; }
+.object-heading h2 { margin: 0; font: 25px/1.2 Georgia, serif; color: #ece7d5; }
+.object-heading > button, .object-view-tools button { display: grid; place-items: center; color: #e3dfcb; border: 1px solid #8f947855; background: #28312c; min-height: 44px; min-width: 44px; cursor: pointer; }
+.object-inspector :is(button, summary, select):focus-visible { outline: 2px solid #e3c389; outline-offset: 3px; }
+.object-body { display: flex; flex: 1; min-height: 160px; }
+.object-view { flex: 1; min-width: 0; display: flex; flex-direction: column; background: #111917; overflow: hidden; }
+.object-art-scroll { display: grid; align-items: safe center; flex: 1; min-height: 0; overflow: auto; container-type: size; padding: 8px; scrollbar-color: #77755e #171d1b; }
+.object-art-frame { position: relative; margin: 0 auto; width: calc(min(100cqw, 100cqh * var(--object-aspect)) * var(--object-zoom)); aspect-ratio: var(--object-aspect); }
+.object-art-frame img { display: block; width: 100%; height: auto; }
+.object-art-hotspot { position: absolute; transform: translate(-50%, -50%); display: grid; place-items: center; width: 44px; height: 44px; border: 1px solid #e5cd93; border-radius: 50%; color: #fff1d0; background: #142321e8; cursor: pointer; box-shadow: 0 2px 9px #0009; }
+.object-art-hotspot > span { position: absolute; bottom: calc(100% + 6px); width: max-content; max-width: 170px; padding: 6px 9px; background: #142321; color: #fff1d0; font-size: 12px; line-height: 1.35; pointer-events: none; opacity: 0; }
+.object-art-hotspot:is(:hover, :focus-visible) > span { opacity: 1; }
+.object-art-hotspot:hover:not(:disabled) { background: #554e34; }
+.object-inspector button:disabled { opacity: .5; cursor: default; }
+.object-view-tools { display: flex; justify-content: center; gap: 6px; padding: 8px; flex-shrink: 0; }
+.object-action-notes { padding: 0 20px 10px; max-height: 90px; overflow: auto; color: #d1d2be; font-size: 13px; }
+.object-action-notes p { margin: 4px 0; }
+.object-action-notes button { min-height: 44px; color: #fff1d0; padding: 8px 12px; text-decoration: underline; }
+.object-view-fallback { padding: 24px; color: #cfccb5; }
+.object-controls { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 20px; padding: 8px 24px; max-height: 30%; overflow: auto; flex-shrink: 0; scrollbar-color: #77755e #182123; }
+.object-detail-select { display: flex; align-items: center; gap: 10px; color: #c0c2b6; font-size: 12px; max-width: 100%; }
+.object-detail-select select { min-width: 0; max-width: 100%; min-height: 44px; padding: 6px; background: #182123; color: #ece5d7; border: 1px solid #515953; font: inherit; }
+.object-status, .object-review-note { color: #c0c2b6; font-size: 12px; }
+.object-status:empty { display: none; }
+.object-descriptions { margin-left: auto; font-size: 13px; }
+.object-descriptions[open] { flex-basis: 100%; }
+.object-descriptions summary { cursor: pointer; padding: 12px 0; color: #c0c2b6; }
+.object-descriptions p { max-width: 70ch; font: 16px/1.5 Georgia, serif; margin: 8px 0 16px; }
+.object-error { color: #f1b5a2; font-size: 13px; }
+.object-recovered { min-height: 44px; }
+.object-footer { padding: 10px 24px; flex-shrink: 0; display: flex; align-items: center; justify-content: space-between; gap: 12px; border-top: 1px solid #515953; }
+@media (pointer: coarse) { .object-art-hotspot > span { opacity: 1; max-width: 115px; } }
+@media (max-width: 700px) {
+  .object-dialog { width: calc(100vw - 12px); height: calc(100dvh - 12px); }
+  .object-heading { padding: 10px 14px; }
+  .object-heading h2 { font-size: 21px; }
+  .object-controls { padding: 6px 14px; gap: 4px 12px; }
+  .object-footer { padding: 8px 14px; }
+}
+@media (max-height: 500px) {
+  .object-heading { padding: 5px 14px; }
+  .object-heading h2 { font-size: 20px; }
+  .object-controls { max-height: 25%; padding: 0 14px; }
+  .object-body { min-height: 80px; }
+  .object-footer { padding: 4px 14px; }
+}

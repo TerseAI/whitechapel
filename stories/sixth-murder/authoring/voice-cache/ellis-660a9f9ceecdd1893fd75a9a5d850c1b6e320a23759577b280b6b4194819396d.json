@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-660a9f9ceecdd1893fd75a9a5d850c1b6e320a23759577b280b6b4194819396d-reviewed.mp3",
+  "text": "Where did you last leave it?",
+  "durationMs": 2088,
+  "sha256": "660a9f9ceecdd1893fd75a9a5d850c1b6e320a23759577b280b6b4194819396d",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "bf1cea27154c1acb5cfd1c1c5a3b34ff5df373b84cd9405336b1e736a68ac505"
+}

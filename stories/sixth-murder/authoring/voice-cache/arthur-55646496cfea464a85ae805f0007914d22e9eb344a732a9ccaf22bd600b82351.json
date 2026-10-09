@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-55646496cfea464a85ae805f0007914d22e9eb344a732a9ccaf22bd600b82351-reviewed.mp3",
+  "text": "I didn’t. She saw someone else.",
+  "durationMs": 3576,
+  "sha256": "55646496cfea464a85ae805f0007914d22e9eb344a732a9ccaf22bd600b82351",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "7edb7928ca70d5ccfe3b8552f23402af22e0a382cf5bfb512f5190685e1f88ed"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-1a815a4d73262defffde75eba4847b8f76b73286eae4fd210a4b7b11438959be-reviewed.mp3",
+  "text": "Was she looking forward to Bristol?",
+  "durationMs": 2856,
+  "sha256": "1a815a4d73262defffde75eba4847b8f76b73286eae4fd210a4b7b11438959be",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "a989aa4fc43ace56c4d8189280fb8b773ec541f6bad8125c5e92ee8671b3d331"
+}

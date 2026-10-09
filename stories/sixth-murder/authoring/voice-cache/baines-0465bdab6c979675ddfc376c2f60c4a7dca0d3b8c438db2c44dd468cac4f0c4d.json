@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-0465bdab6c979675ddfc376c2f60c4a7dca0d3b8c438db2c44dd468cac4f0c4d-reviewed.mp3",
+  "text": "A bent loop handle and blue wax. I took it in last night.",
+  "durationMs": 5064,
+  "sha256": "0465bdab6c979675ddfc376c2f60c4a7dca0d3b8c438db2c44dd468cac4f0c4d",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "9e3e4e2865d6df5cfa150c5bdd06d140d0de3a4c0151635e39460ca2922a8770"
+}

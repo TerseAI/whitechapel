@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-41ff43efe302f8d918a29127f1d66f19b4820349348802d87eaaececa1062408-reviewed.mp3",
+  "text": "She had her ticket and work arranged. Did you think she would stay?",
+  "durationMs": 5304,
+  "sha256": "41ff43efe302f8d918a29127f1d66f19b4820349348802d87eaaececa1062408",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "474912b2bf843baf079f6f8eae789936fdd1d37162b302b9838b79d246d02dc7"
+}

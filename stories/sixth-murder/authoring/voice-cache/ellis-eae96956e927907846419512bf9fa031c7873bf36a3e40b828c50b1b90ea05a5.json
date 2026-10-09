@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-eae96956e927907846419512bf9fa031c7873bf36a3e40b828c50b1b90ea05a5-reviewed.mp3",
+  "text": "Mrs Baines heard a cry and a thud.",
+  "durationMs": 3384,
+  "sha256": "eae96956e927907846419512bf9fa031c7873bf36a3e40b828c50b1b90ea05a5",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "e25b5c749c2e0b1576b86861cf690367c4a83ac8dd82192cdce532349a14c222"
+}

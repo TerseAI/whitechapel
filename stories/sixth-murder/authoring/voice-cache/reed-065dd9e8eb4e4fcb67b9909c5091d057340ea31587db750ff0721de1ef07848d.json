@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-065dd9e8eb4e4fcb67b9909c5091d057340ea31587db750ff0721de1ef07848d-reviewed.mp3",
+  "text": "She says she attended your wedding.",
+  "durationMs": 3384,
+  "sha256": "065dd9e8eb4e4fcb67b9909c5091d057340ea31587db750ff0721de1ef07848d",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "a1d9a0d854de39622943d488a87394cc819ba8f57b8774e4f5e8f25082797389"
+}

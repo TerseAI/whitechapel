@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-be24eeca23edbd84ef07d988e70bf0fc5666b665c16842a399851dd23ef42d38-reviewed.mp3",
+  "text": "You’re certain about that?",
+  "durationMs": 2256,
+  "sha256": "be24eeca23edbd84ef07d988e70bf0fc5666b665c16842a399851dd23ef42d38",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "d199c5c8c3ea9d60958135a14687b0f341affc5856e93c256531974cb0195965"
+}

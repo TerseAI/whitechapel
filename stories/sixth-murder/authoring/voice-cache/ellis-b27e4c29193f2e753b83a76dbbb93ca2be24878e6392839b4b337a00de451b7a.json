@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-b27e4c29193f2e753b83a76dbbb93ca2be24878e6392839b4b337a00de451b7a-reviewed.mp3",
+  "text": "We’ve spoken to Maggie Shaw. She says you were Nora’s husband.",
+  "durationMs": 5136,
+  "sha256": "b27e4c29193f2e753b83a76dbbb93ca2be24878e6392839b4b337a00de451b7a",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "2a3b8caa2d780c2109c4f544172e6be1eb585fda11174f01345d077304913c96"
+}

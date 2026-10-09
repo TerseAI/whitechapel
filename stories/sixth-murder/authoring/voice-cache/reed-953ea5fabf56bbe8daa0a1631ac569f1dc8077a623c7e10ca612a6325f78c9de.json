@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-953ea5fabf56bbe8daa0a1631ac569f1dc8077a623c7e10ca612a6325f78c9de-reviewed.mp3",
+  "text": "So you wanted us to think it was him?",
+  "durationMs": 3408,
+  "sha256": "953ea5fabf56bbe8daa0a1631ac569f1dc8077a623c7e10ca612a6325f78c9de",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "c424d588fe5fdbaff21feac12e6543bbe971c8fd16624aab6cf98e62702ab99b"
+}

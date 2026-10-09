@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-6731b8e86f2f7fb7bc933fb88e3b47b463b2879487a2c567f91d3e5054ae2ab4-reviewed.mp3",
+  "text": "Did you see anyone coming or going?",
+  "durationMs": 3096,
+  "sha256": "6731b8e86f2f7fb7bc933fb88e3b47b463b2879487a2c567f91d3e5054ae2ab4",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "2e870d5444ca30345c9d1c951067c385db23465e6d262791c7f42a4c137727dc"
+}

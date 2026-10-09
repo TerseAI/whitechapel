@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-8b901cc8b55b72db1a597c4a9aa330f42d1f46272cb9858f28189e540c92a8c1-reviewed.mp3",
+  "text": "We found these remains in your fireplace. Were they what you wore to see Nora?",
+  "durationMs": 6696,
+  "sha256": "8b901cc8b55b72db1a597c4a9aa330f42d1f46272cb9858f28189e540c92a8c1",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "9468f3bd2992acb43313ee6ccfebc435fae2ea897ae48fecd4c772e39e89c2bf"
+}

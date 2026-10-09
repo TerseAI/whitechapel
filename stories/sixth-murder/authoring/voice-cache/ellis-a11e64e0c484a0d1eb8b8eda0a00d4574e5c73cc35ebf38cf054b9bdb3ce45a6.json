@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-a11e64e0c484a0d1eb8b8eda0a00d4574e5c73cc35ebf38cf054b9bdb3ce45a6-reviewed.mp3",
+  "text": "Hale recovered a knife beside Nora. Alden says it wasn’t what killed her.",
+  "durationMs": 5088,
+  "sha256": "a11e64e0c484a0d1eb8b8eda0a00d4574e5c73cc35ebf38cf054b9bdb3ce45a6",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "86a25f9b3c87b7aed48184fa38fa416e95e94c3211564f0374a745b8cbd14887"
+}

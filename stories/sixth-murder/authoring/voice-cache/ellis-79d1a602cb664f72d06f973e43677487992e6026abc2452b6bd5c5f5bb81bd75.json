@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-79d1a602cb664f72d06f973e43677487992e6026abc2452b6bd5c5f5bb81bd75-reviewed.mp3",
+  "text": "Her bedding was inside the trunk, stained with blood. The packing was left in her room.",
+  "durationMs": 6456,
+  "sha256": "79d1a602cb664f72d06f973e43677487992e6026abc2452b6bd5c5f5bb81bd75",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "3ec3d17e08dce093036587edb5aa457108a2b4a98628152778eb1433a33c1414"
+}

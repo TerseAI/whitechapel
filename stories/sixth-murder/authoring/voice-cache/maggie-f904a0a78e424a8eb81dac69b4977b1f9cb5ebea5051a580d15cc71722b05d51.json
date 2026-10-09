@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-f904a0a78e424a8eb81dac69b4977b1f9cb5ebea5051a580d15cc71722b05d51-reviewed.mp3",
+  "text": "That she couldn’t go anywhere without having to explain herself afterwards. She wanted to leave, so I helped her take a few things to the Lantern.",
+  "durationMs": 9504,
+  "sha256": "f904a0a78e424a8eb81dac69b4977b1f9cb5ebea5051a580d15cc71722b05d51",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "8a951260f542f169723fa5e93a31e6edd2355e7de8e37fc43220c2d53176aa6a"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-2c95ff8c21a37ccc9687ec7a36d673170cad8e11b86b15af503846a94bf3fb25-reviewed.mp3",
+  "text": "Hale has put a constable at the back steps. He’ll stay there while we finish our enquiries.",
+  "durationMs": 5568,
+  "sha256": "2c95ff8c21a37ccc9687ec7a36d673170cad8e11b86b15af503846a94bf3fb25",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "28738634e7167b19bf0cdd8d9d5d0e4704242b8e55ea16ca901cfb6c34930500"
+}

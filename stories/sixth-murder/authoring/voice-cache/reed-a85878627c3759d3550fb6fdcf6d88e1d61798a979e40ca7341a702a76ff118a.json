@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-a85878627c3759d3550fb6fdcf6d88e1d61798a979e40ca7341a702a76ff118a-reviewed.mp3",
+  "text": "Will he remain there while we finish our enquiries?",
+  "durationMs": 4248,
+  "sha256": "a85878627c3759d3550fb6fdcf6d88e1d61798a979e40ca7341a702a76ff118a",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "228a47e76b01880ab816ae9d2e7eade380973f6d792fad21adfb5ee6bb541bad"
+}

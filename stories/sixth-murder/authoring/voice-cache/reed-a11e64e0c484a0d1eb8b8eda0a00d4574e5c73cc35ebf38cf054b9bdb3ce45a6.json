@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-a11e64e0c484a0d1eb8b8eda0a00d4574e5c73cc35ebf38cf054b9bdb3ce45a6-reviewed.mp3",
+  "text": "Hale recovered a knife beside Nora. Alden says it wasn’t what killed her.",
+  "durationMs": 6504,
+  "sha256": "a11e64e0c484a0d1eb8b8eda0a00d4574e5c73cc35ebf38cf054b9bdb3ce45a6",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "275e43cb0ff9736bcad48fa6f77e59821af6990957ccfa31a885e2cbb2c44ae0"
+}

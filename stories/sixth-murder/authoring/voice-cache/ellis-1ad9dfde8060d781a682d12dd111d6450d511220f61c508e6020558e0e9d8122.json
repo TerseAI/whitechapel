@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-1ad9dfde8060d781a682d12dd111d6450d511220f61c508e6020558e0e9d8122-reviewed.mp3",
+  "text": "Tell her we will write about the enquiry, and that Nora’s things are safe.",
+  "durationMs": 4608,
+  "sha256": "1ad9dfde8060d781a682d12dd111d6450d511220f61c508e6020558e0e9d8122",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "02a9a6034cae991b2f6f13067900e186cbe31890da36c971472e9a21991f50e7"
+}

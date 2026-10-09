@@ -1,0 +1,20 @@
+[
+  {
+    "id": "trunk-open",
+    "ref": "trunk-closed",
+    "prompt": "Edit only the trunk in this inspection image to open its broad hinged lid fully. Preserve the exact trunk, leather straps, iron corners, camera and inn service entrance. Inside it show a few loose travelling clothes spread loosely over everything beneath, a dark skirt, pale chemise, folded cloth. Clothes fully conceal lining and bedding beneath. No blood, no body, no weapons, no modern objects. Maintain material realism and muted soft November morning light. Clear wide inspectable art, no text."
+  },
+  {
+    "id": "room-blood",
+    "ref": "room-packing",
+    "prompt": "Edit only the rag rug in this exact Victorian bedroom inspection image. Lift and fold back its near-right corner enough to reveal one small irregular dark dried blood stain on floorboards under that corner. No fresh dripping blood, no gore or body, no weapon. Keep every object and room layout unchanged, particularly bare bed missing blanket, emptied clothes, washstand at right and empty bedside table with circular mark. Camera unchanged. Finished realistic evidence illustration, no words or UI."
+  },
+  {
+    "id": "cart-sacks",
+    "prompt": "Use case: historical-scene. Evidence inspection art for Whitechapel 1888. A simple small sturdy Victorian wooden coal cart left overnight in the rear brick yard of a modest inn, no horse attached. Two large iron-rimmed wooden wheels visible, two long wooden shafts at front, old coarse burlap coal sacks cover its shallow bed. Cold damp morning in London, ordinary paving and brick service wall, cart stationary. Wide three-quarter close view allows inspection of sacks and all cart wheels. Realistic tactile painterly style, muted slate and umber. No candlestick visible yet, no blood, no people, no body, no text, no labels, no modern objects or watermark."
+  },
+  {
+    "id": "hearth-surface",
+    "prompt": "Use case: historical-scene. Evidence inspection art, London 1888. A cold modest brick hearth with black iron grate in Arthur Vale's plain rented room. Close view downward into ash: scraps of burned dark wool clothing, a partly charred folded newspaper with lettering indistinct, and charred black leather partly beneath ash. A glimmer of metal under leather, but no knife or sheath fully revealed yet. Pale cracked plaster fireplace surround, dark plank floor before hearth. Soft grey window light, realistic tactile ash, coal and scorched material, muted charcoal brown. No fire burning, no flames, no blood, no body, no text labels or UI, no modern forensic tools, no watermark. Scene should be clear and inspectable, quiet rather than horror."
+  }
+]

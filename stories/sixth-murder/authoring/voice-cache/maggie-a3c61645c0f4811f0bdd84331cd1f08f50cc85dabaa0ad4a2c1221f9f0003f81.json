@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-a3c61645c0f4811f0bdd84331cd1f08f50cc85dabaa0ad4a2c1221f9f0003f81-reviewed.mp3",
+  "text": "Will someone tell her sister? She’ll be waiting at the station.",
+  "durationMs": 4536,
+  "sha256": "a3c61645c0f4811f0bdd84331cd1f08f50cc85dabaa0ad4a2c1221f9f0003f81",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "17a57f0c59cf053a2d18684ba0d052d52280b96e8bc7eca8acfc74c2eda177b1"
+}

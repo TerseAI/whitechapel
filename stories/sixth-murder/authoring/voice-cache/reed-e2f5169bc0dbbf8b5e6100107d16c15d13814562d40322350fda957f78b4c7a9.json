@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-e2f5169bc0dbbf8b5e6100107d16c15d13814562d40322350fda957f78b4c7a9-reviewed.mp3",
+  "text": "Keep the yard clear while we have a look.",
+  "durationMs": 2904,
+  "sha256": "e2f5169bc0dbbf8b5e6100107d16c15d13814562d40322350fda957f78b4c7a9",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "c78a25c7dfc7bcf51da3ff4f5a2769cc2b1ab67ca9f7b6a0ae50f4455ab8fb24"
+}

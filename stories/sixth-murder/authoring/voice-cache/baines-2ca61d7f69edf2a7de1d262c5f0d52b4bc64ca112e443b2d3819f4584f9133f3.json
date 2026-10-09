@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-2ca61d7f69edf2a7de1d262c5f0d52b4bc64ca112e443b2d3819f4584f9133f3-reviewed.mp3",
+  "text": "I don’t know what you want me to say about that.",
+  "durationMs": 3024,
+  "sha256": "2ca61d7f69edf2a7de1d262c5f0d52b4bc64ca112e443b2d3819f4584f9133f3",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "bf3f04ed3e34362164cc595bc8c3446905aa9371b1a8b283ce168f2adcf5030c"
+}

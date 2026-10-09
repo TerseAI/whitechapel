@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-ba8d179a8dbd543d5a691f2bec174d4fa8e952c6c656fcf2662df60f25f223a3-reviewed.mp3",
+  "text": "No. That empty ring on the little table is where it stood.",
+  "durationMs": 4896,
+  "sha256": "ba8d179a8dbd543d5a691f2bec174d4fa8e952c6c656fcf2662df60f25f223a3",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "01a3a20a59214426e2801ffb03d4d4931f0fc810f89a73a0356ee568df7777bd"
+}

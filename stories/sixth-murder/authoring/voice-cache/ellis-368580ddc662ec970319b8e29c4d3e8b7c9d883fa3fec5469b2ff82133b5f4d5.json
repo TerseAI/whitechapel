@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-368580ddc662ec970319b8e29c4d3e8b7c9d883fa3fec5469b2ff82133b5f4d5-reviewed.mp3",
+  "text": "An officer will take you round to the horse. Come back to the yard afterwards—we may need another word.",
+  "durationMs": 6216,
+  "sha256": "368580ddc662ec970319b8e29c4d3e8b7c9d883fa3fec5469b2ff82133b5f4d5",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "73f96cde899a9c0abc29c878be4ae102638173ee048dc99aa42c9ca6f383c2df"
+}

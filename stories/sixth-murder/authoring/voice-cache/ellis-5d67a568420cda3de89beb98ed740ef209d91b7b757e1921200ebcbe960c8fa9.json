@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-5d67a568420cda3de89beb98ed740ef209d91b7b757e1921200ebcbe960c8fa9-reviewed.mp3",
+  "text": "Who do you mean?",
+  "durationMs": 1656,
+  "sha256": "5d67a568420cda3de89beb98ed740ef209d91b7b757e1921200ebcbe960c8fa9",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "cc1435adf3ab98087f8f1c2c634b2560dd06e4443b30ea525ac517ff59f87f92"
+}

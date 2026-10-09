@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-910bce7f0e858f0ca560f285a50e7eae0c45dc1932bac923519f2082c8f7f1d6-reviewed.mp3",
+  "text": "You say you covered her face because you couldn’t bear to look at her.",
+  "durationMs": 5064,
+  "sha256": "910bce7f0e858f0ca560f285a50e7eae0c45dc1932bac923519f2082c8f7f1d6",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "e48e58b6b5bce8f6ef4e60c05fe0f6e8dbc8d84d77d30ac37bfe410c1b4660b8"
+}

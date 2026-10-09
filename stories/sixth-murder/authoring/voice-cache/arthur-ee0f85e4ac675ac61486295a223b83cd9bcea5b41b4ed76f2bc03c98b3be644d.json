@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-ee0f85e4ac675ac61486295a223b83cd9bcea5b41b4ed76f2bc03c98b3be644d-reviewed.mp3",
+  "text": "No. There was a cart in the yard. I took it to be his.",
+  "durationMs": 5016,
+  "sha256": "ee0f85e4ac675ac61486295a223b83cd9bcea5b41b4ed76f2bc03c98b3be644d",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "c0fb2fd846e18da4f8bde30d009b3dc465d0974acf71ef22d0233d0f89ebe946"
+}

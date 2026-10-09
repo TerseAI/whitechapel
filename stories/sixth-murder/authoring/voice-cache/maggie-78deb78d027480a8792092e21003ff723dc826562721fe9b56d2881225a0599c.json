@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-78deb78d027480a8792092e21003ff723dc826562721fe9b56d2881225a0599c-reviewed.mp3",
+  "text": "Not once she knew their ways. She was good.",
+  "durationMs": 4728,
+  "sha256": "78deb78d027480a8792092e21003ff723dc826562721fe9b56d2881225a0599c",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "78a7418d4d6c689e4cce9443f6b001f59e2946cef8d26c7b539895d168dffcbc"
+}

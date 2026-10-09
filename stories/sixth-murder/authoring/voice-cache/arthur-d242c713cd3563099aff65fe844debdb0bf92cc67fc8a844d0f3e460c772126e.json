@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-d242c713cd3563099aff65fe844debdb0bf92cc67fc8a844d0f3e460c772126e-reviewed.mp3",
+  "text": "Her things. That’s what I thought.",
+  "durationMs": 3144,
+  "sha256": "d242c713cd3563099aff65fe844debdb0bf92cc67fc8a844d0f3e460c772126e",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "06115cb44e77f839a0307d5d89fbb74c4b7b030a2d77b6438a57079e1871ca91"
+}

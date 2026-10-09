@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-af8ece745c6622d5a016b348351783b3a5105c023cedeaa5f88699567409082c-reviewed.mp3",
+  "text": "You’ve examined Nora Vale?",
+  "durationMs": 2304,
+  "sha256": "af8ece745c6622d5a016b348351783b3a5105c023cedeaa5f88699567409082c",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "55693ce01fe5109006044c2d57b51c325ba27363f73ec081ff9ae41cda66c570"
+}

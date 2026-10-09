@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-bc765088cca97f2d8d98c71432c81a91ca055c7fd0aca5c4cad68700e2078ef5-reviewed.mp3",
+  "text": "Yes. I wasn’t watching everything she did.",
+  "durationMs": 4008,
+  "sha256": "bc765088cca97f2d8d98c71432c81a91ca055c7fd0aca5c4cad68700e2078ef5",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "74be41e0d24072ae3c6c76cc346d8802db8490486969d3b015981f4b80d4490b"
+}

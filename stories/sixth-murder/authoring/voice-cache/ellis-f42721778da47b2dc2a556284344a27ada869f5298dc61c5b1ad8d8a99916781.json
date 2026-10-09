@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-f42721778da47b2dc2a556284344a27ada869f5298dc61c5b1ad8d8a99916781-reviewed.mp3",
+  "text": "It was hidden beneath sacks you handled last night. Why shouldn’t we think you put it there?",
+  "durationMs": 6168,
+  "sha256": "f42721778da47b2dc2a556284344a27ada869f5298dc61c5b1ad8d8a99916781",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "8004b997f3be3c3ef2e528b9cd6ed7586eee59c20a35166e76a4d0a01d303e30"
+}

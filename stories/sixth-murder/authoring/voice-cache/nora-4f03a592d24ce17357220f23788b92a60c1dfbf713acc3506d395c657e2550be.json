@@ -1,0 +1,11 @@
+{
+  "src": "audio/nora-4f03a592d24ce17357220f23788b92a60c1dfbf713acc3506d395c657e2550be-reviewed.mp3",
+  "text": "She’s already said she will. I’ve had two letters telling me where to stand.",
+  "durationMs": 5304,
+  "sha256": "4f03a592d24ce17357220f23788b92a60c1dfbf713acc3506d395c657e2550be",
+  "actor": "nora",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Leda",
+  "direction": "Nora Vale, a 30-year-old English needleworker. Quiet clear and capable voice with a subtle working London accent; occasional dry humour and gentle uncertainty. Light clear mezzo, agile rhythm, soft precise consonants and a small dry lift on a witty observation. Speak with adult confidence, never breathy, childlike or portentous.",
+  "audioSha256": "eabeb69ae376d3aaa00efc03aa59ded65b9a5c3eb7176ad399980aaf2edf222c"
+}

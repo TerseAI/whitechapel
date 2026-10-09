@@ -1,0 +1,124 @@
+.verdict-dialog.briefing-card {
+  --brief-paper: #f1ead9;
+  --brief-ink: #29251e;
+  --brief-muted: #625746;
+  --brief-margin: 24px;
+  max-height: 90svh;
+  overflow: auto;
+  padding: 48px 44px 36px;
+  border: 1px solid #b8aa90;
+  background-color: var(--brief-paper);
+  background-image:
+    linear-gradient(90deg, transparent var(--brief-margin), #a15e4933 var(--brief-margin), #a15e4933 calc(var(--brief-margin) + 1px), transparent calc(var(--brief-margin) + 1px)),
+    radial-gradient(ellipse at top left, #a8884a12, transparent 55%),
+    linear-gradient(90deg, #9272420a, transparent 8%, transparent 94%, #9272420a);
+  color: var(--brief-ink);
+  box-shadow: 0 24px 80px #0008, inset 0 0 24px #9474440d;
+  font: 18px/1.7 Georgia, 'Times New Roman', serif;
+}
+
+.briefing-card.first-case-brief {
+  width: min(590px, calc(100% - 32px));
+}
+
+.briefing-card h1 {
+  margin: 0 0 16px;
+  padding-right: 24px;
+  color: var(--brief-ink);
+  font: 36px/1.2 Georgia, 'Times New Roman', serif;
+}
+
+.briefing-card p {
+  color: var(--brief-ink);
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+.briefing-card .brief-date,
+.briefing-card > .chapter-date {
+  margin-bottom: 24px;
+  padding-bottom: 18px;
+  border-bottom: 1px solid #8f826755;
+  color: var(--brief-muted);
+  font-size: 14px;
+}
+
+.briefing-card .brief-opening,
+.briefing-card > .chapter-opening {
+  margin-bottom: 20px;
+  font-size: 20px;
+  line-height: 1.65;
+}
+
+.briefing-card > .previous-report {
+  margin-bottom: 22px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #8f826755;
+  color: var(--brief-muted);
+  font-size: 16px;
+}
+
+.briefing-card .chapter-objective {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  margin: 24px 0;
+  padding: 18px 0;
+  border-block: 1px solid #8f826755;
+}
+
+.briefing-card .chapter-objective > svg {
+  flex-shrink: 0;
+  margin-top: 5px;
+}
+
+.briefing-card > .small {
+  color: var(--brief-muted);
+  font-size: 16px;
+}
+
+.briefing-card .close {
+  top: 10px;
+  right: 10px;
+  width: 44px;
+  height: 44px;
+  color: var(--brief-ink);
+}
+
+.briefing-card .close:hover {
+  background: #29251e0d;
+}
+
+.briefing-card :is(.text-button, .primary) {
+  min-height: 46px;
+  margin-top: 24px;
+  padding: 11px 20px;
+  border: 1px solid var(--brief-ink);
+  background: var(--brief-ink);
+  color: var(--brief-paper);
+  font: 600 14px/1.5 'Avenir Next', Avenir, 'Segoe UI', sans-serif;
+}
+
+.briefing-card :is(.text-button, .primary):hover {
+  background: #463b2b;
+}
+
+.briefing-card button:focus-visible {
+  outline-color: var(--brief-ink);
+}
+
+@media (max-width: 600px) {
+  .verdict-dialog.briefing-card {
+    --brief-margin: 14px;
+    padding: 48px 28px 28px;
+  }
+
+  .briefing-card h1 {
+    font-size: 30px;
+  }
+
+  .briefing-card .brief-opening,
+  .briefing-card > .chapter-opening {
+    font-size: 18px;
+  }
+}

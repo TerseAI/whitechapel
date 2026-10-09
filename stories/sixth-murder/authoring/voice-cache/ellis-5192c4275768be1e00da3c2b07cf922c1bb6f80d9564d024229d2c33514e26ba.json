@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-5192c4275768be1e00da3c2b07cf922c1bb6f80d9564d024229d2c33514e26ba-reviewed.mp3",
+  "text": "You thought it was the man from the papers?",
+  "durationMs": 2808,
+  "sha256": "5192c4275768be1e00da3c2b07cf922c1bb6f80d9564d024229d2c33514e26ba",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "0ace3a5adff445558b486c57e56efe822a64aaa9d4a65aa47c12aa1d5e423d4f"
+}

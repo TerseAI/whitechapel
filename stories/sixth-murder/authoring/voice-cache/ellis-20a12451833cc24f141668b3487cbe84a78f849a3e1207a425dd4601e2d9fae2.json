@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-20a12451833cc24f141668b3487cbe84a78f849a3e1207a425dd4601e2d9fae2-reviewed.mp3",
+  "text": "Where is she now?",
+  "durationMs": 1848,
+  "sha256": "20a12451833cc24f141668b3487cbe84a78f849a3e1207a425dd4601e2d9fae2",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "16f4bcaad92064d5e37c45c0ef8cea3214d0a54eabc81b16e8e4710d16cabf67"
+}

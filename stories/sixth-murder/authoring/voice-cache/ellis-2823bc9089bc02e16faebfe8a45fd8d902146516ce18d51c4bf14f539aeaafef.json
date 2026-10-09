@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-2823bc9089bc02e16faebfe8a45fd8d902146516ce18d51c4bf14f539aeaafef-reviewed.mp3",
+  "text": "We may need to speak to you again.",
+  "durationMs": 2736,
+  "sha256": "2823bc9089bc02e16faebfe8a45fd8d902146516ce18d51c4bf14f539aeaafef",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "f8e951756922d98435f22700f4691c3c6d134f1f0139ef4911c2c0b676c47f41"
+}

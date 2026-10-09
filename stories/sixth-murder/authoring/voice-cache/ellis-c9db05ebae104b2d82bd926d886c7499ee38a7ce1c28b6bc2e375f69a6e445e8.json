@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-c9db05ebae104b2d82bd926d886c7499ee38a7ce1c28b6bc2e375f69a6e445e8-reviewed.mp3",
+  "text": "And you hadn’t touched the sacks this morning?",
+  "durationMs": 3168,
+  "sha256": "c9db05ebae104b2d82bd926d886c7499ee38a7ce1c28b6bc2e375f69a6e445e8",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "09f4f86b56c77d3ce0056fd819b21e2933f4173747d90695792f260d338c5d48"
+}

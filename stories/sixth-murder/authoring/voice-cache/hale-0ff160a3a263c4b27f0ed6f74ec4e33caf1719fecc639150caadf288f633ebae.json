@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-0ff160a3a263c4b27f0ed6f74ec4e33caf1719fecc639150caadf288f633ebae-reviewed.mp3",
+  "text": "No. I kept the rear passage shut. Moss spoke in the yard; an officer took him round to his horse and back without passing through the front. Mrs Baines spoke in her own room. Neither has been in to see him.",
+  "durationMs": 13656,
+  "sha256": "0ff160a3a263c4b27f0ed6f74ec4e33caf1719fecc639150caadf288f633ebae",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "232df666a7a1fca3290477950b89cb773d092cb6359d84fb6f53e148219705d4"
+}

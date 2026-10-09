@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-572e23484bb2151475be5523da9d3a958290bc1eba0d8d9e506131dc36065992-reviewed.mp3",
+  "text": "That is not the candlestick. Show me the object with the bent handle.",
+  "durationMs": 5856,
+  "sha256": "572e23484bb2151475be5523da9d3a958290bc1eba0d8d9e506131dc36065992",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "edbfe5b323faee82dd828a1e0503e2db828a3362f4b5e42ccda0821539253ea9"
+}

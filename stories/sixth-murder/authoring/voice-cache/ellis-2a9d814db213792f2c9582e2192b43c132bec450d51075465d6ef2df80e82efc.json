@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-2a9d814db213792f2c9582e2192b43c132bec450d51075465d6ef2df80e82efc-reviewed.mp3",
+  "text": "Did you touch her before you went?",
+  "durationMs": 2856,
+  "sha256": "2a9d814db213792f2c9582e2192b43c132bec450d51075465d6ef2df80e82efc",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "b3f3f3dc2d61f0b7435213de7184937b7fe90203ebc7b4be175f9d166b5850d3"
+}

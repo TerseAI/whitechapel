@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-0300be3ed330ecd0d63d924c6c5998e829f4c43459553da07cf8e819158adf46-reviewed.mp3",
+  "text": "Save dragging the cart round again, anyway. I’ll bring the horse over in the morning and fetch the trunk down.",
+  "durationMs": 6528,
+  "sha256": "0300be3ed330ecd0d63d924c6c5998e829f4c43459553da07cf8e819158adf46",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "dd26fcbf1fd59dbd92d00ceeeed15eb37bd379cee697ddc04950b14a1bbb6f04"
+}

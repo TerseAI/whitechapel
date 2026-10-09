@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-8443233b7176d422d90e54815145379726f0f2fc2fd0e79c66cf91ca680eca9b-reviewed.mp3",
+  "text": "That isn’t clothing from my fireplace.",
+  "durationMs": 4296,
+  "sha256": "8443233b7176d422d90e54815145379726f0f2fc2fd0e79c66cf91ca680eca9b",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "96732bfa041ff2bb7f05580293c5784d0b1c8f07b7850be5ea4e6615fb7c27a1"
+}

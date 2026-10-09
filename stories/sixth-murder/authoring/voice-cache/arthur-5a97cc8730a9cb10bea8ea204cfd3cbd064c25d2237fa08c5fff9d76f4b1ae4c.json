@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-5a97cc8730a9cb10bea8ea204cfd3cbd064c25d2237fa08c5fff9d76f4b1ae4c-reviewed.mp3",
+  "text": "You keep telling me what I did. Why bother asking?",
+  "durationMs": 4104,
+  "sha256": "5a97cc8730a9cb10bea8ea204cfd3cbd064c25d2237fa08c5fff9d76f4b1ae4c",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "f66e4a2659bd102f2c356f01a5f71fde8175ec69e95dd16e6e6d554dc549a172"
+}

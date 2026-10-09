@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-fcfa220892ae994f4cb6f1ab32a3efcbffce8fc85a7ccfb2e9cf782caa3b0367-reviewed.mp3",
+  "text": "The trunk’s still here. So’s the cart. We didn’t use either to move her.",
+  "durationMs": 5256,
+  "sha256": "fcfa220892ae994f4cb6f1ab32a3efcbffce8fc85a7ccfb2e9cf782caa3b0367",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "990bce5f9cf7b7e7f9b2f44dab77a8394f53471a684cff20618a85b3460e0714"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-5f7d4ecea34a729627d0d7fbbe9941503087d65e018eca82a65e65f0c6af3055-reviewed.mp3",
+  "text": "You’ve the two rooms at the front. Breakfast’s at seven. Will you be wanting it earlier?",
+  "durationMs": 6168,
+  "sha256": "5f7d4ecea34a729627d0d7fbbe9941503087d65e018eca82a65e65f0c6af3055",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "a234e15b7398f9ed732eafc61e1617bff4f2c0837c1d2e9fb8faa795035591e5"
+}

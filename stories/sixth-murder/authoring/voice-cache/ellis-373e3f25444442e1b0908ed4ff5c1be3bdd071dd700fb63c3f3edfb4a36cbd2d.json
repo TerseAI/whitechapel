@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-373e3f25444442e1b0908ed4ff5c1be3bdd071dd700fb63c3f3edfb4a36cbd2d-reviewed.mp3",
+  "text": "Busy evening?",
+  "durationMs": 1464,
+  "sha256": "373e3f25444442e1b0908ed4ff5c1be3bdd071dd700fb63c3f3edfb4a36cbd2d",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "30ca4e099e6546898b52206693cce825ce598405244d183e5a5456a8185e0299"
+}

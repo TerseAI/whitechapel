@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-6b0c0d0526d77a5f2800a5da4cc510ebeca5c1d125255321139b2c876281eb2c-reviewed.mp3",
+  "text": "Moss, the doctor and the removal men. There’s a constable guarding the yard now. Arthur came after the removal; I’ve kept him here with me.",
+  "durationMs": 9984,
+  "sha256": "6b0c0d0526d77a5f2800a5da4cc510ebeca5c1d125255321139b2c876281eb2c",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "14240b2028a2e52ed44c7ec1d69b0a7714afb3d1dd45c5ed8bfb4eb218afcc3d"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-c2ecd5c77e3baf463b77f0fe7b89f0a035aa8ec6b45b865fc2b58cde8f09dd65-reviewed.mp3",
+  "text": "The illustration shows a woman in a yard with a scarf over her face. Nora was found like that.",
+  "durationMs": 7176,
+  "sha256": "c2ecd5c77e3baf463b77f0fe7b89f0a035aa8ec6b45b865fc2b58cde8f09dd65",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "7ee0244ab451485dd2ef4e37dec996efb44db4d30a3ef947a7b643bf7beb9a87"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/nora-6a8527277e50808e8b735319bff6778554f2b6bc2f26fe2a6c5126e8ef916e81-reviewed.mp3",
+  "text": "Mrs Baines reads every word. Then she tells me I shouldn’t worry.",
+  "durationMs": 5616,
+  "sha256": "6a8527277e50808e8b735319bff6778554f2b6bc2f26fe2a6c5126e8ef916e81",
+  "actor": "nora",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Leda",
+  "direction": "Nora Vale, a 30-year-old English needleworker. Quiet clear and capable voice with a subtle working London accent; occasional dry humour and gentle uncertainty. Light clear mezzo, agile rhythm, soft precise consonants and a small dry lift on a witty observation. Speak with adult confidence, never breathy, childlike or portentous.",
+  "audioSha256": "07b87dd2877cd23fb012adaec92f8b922afe2b6cbced3df437270e67fe104aff"
+}

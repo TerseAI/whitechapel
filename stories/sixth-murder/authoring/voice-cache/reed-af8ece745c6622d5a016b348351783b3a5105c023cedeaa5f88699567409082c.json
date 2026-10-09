@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-af8ece745c6622d5a016b348351783b3a5105c023cedeaa5f88699567409082c-reviewed.mp3",
+  "text": "You’ve examined Nora Vale?",
+  "durationMs": 2976,
+  "sha256": "af8ece745c6622d5a016b348351783b3a5105c023cedeaa5f88699567409082c",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "3b673a5f558986c36fe8616ca387e5c203e6a6137278db7a9c6bc724cb4969ed"
+}

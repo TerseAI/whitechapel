@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-9ce9d517750aed643d020f5a42c07ffa6daa9dab307e24c82c99f5b02ffd0869-reviewed.mp3",
+  "text": "You were there last night. Did you carry it down?",
+  "durationMs": 3936,
+  "sha256": "9ce9d517750aed643d020f5a42c07ffa6daa9dab307e24c82c99f5b02ffd0869",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "8bbb665a0321845b09bcf7e64ad36c3fbcb51aa8fab6e8102791259dc04af4f8"
+}

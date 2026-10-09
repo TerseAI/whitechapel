@@ -1,0 +1,13 @@
+{
+  "src": "audio/george-a43ce888fbc66f71545faf2c76feab774d9bd4ccdfcd49064803bf817e452207-reviewed.mp3",
+  "text": "No. I found her and went for Hale. I’ve told you.",
+  "durationMs": 4584,
+  "sha256": "a43ce888fbc66f71545faf2c76feab774d9bd4ccdfcd49064803bf817e452207",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "0e3a24533a185d6e59139d84072bbceb8b3245975fd4d4d321688dbbcea59a12",
+  "prompt": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance. Read the supplied dialogue exactly once, in a natural British English voice, with clean studio audio. Speech only; no music or sound effects.",
+  "synthesisText": "\"No. I found her and went for Hale. I’ve told you.\""
+}

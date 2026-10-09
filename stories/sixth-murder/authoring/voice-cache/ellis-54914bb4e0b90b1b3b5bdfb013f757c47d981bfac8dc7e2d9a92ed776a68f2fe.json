@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-54914bb4e0b90b1b3b5bdfb013f757c47d981bfac8dc7e2d9a92ed776a68f2fe-reviewed.mp3",
+  "text": "You were trying to make it look like one of the other murders.",
+  "durationMs": 3696,
+  "sha256": "54914bb4e0b90b1b3b5bdfb013f757c47d981bfac8dc7e2d9a92ed776a68f2fe",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "ae828b9903fa9bbc129e2f6c7c164a8d4fb11b817c709ca913f49c8496696199"
+}

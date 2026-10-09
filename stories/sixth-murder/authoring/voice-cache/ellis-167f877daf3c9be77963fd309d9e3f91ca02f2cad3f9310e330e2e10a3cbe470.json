@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-167f877daf3c9be77963fd309d9e3f91ca02f2cad3f9310e330e2e10a3cbe470-reviewed.mp3",
+  "text": "You’re certain we’re talking about the same man?",
+  "durationMs": 3456,
+  "sha256": "167f877daf3c9be77963fd309d9e3f91ca02f2cad3f9310e330e2e10a3cbe470",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "29245d6969d88c6c92f2ec5ce32ddeb29ca3ce096bb60ca856a2cb0d33192fbf"
+}

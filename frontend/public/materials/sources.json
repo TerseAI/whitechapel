@@ -1,0 +1,44 @@
+[
+  {
+    "asset": "dark_brick_wall",
+    "channel": "Diffuse",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/dark_brick_wall/dark_brick_wall_diff_1k.jpg",
+    "licence": "CC0-1.0",
+    "sourcePage": "https://polyhaven.com/a/dark_brick_wall"
+  },
+  {
+    "asset": "dark_brick_wall",
+    "channel": "nor_gl",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/dark_brick_wall/dark_brick_wall_nor_gl_1k.jpg",
+    "licence": "CC0-1.0",
+    "sourcePage": "https://polyhaven.com/a/dark_brick_wall"
+  },
+  {
+    "asset": "dark_brick_wall",
+    "channel": "Rough",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/dark_brick_wall/dark_brick_wall_rough_1k.jpg",
+    "licence": "CC0-1.0",
+    "sourcePage": "https://polyhaven.com/a/dark_brick_wall"
+  },
+  {
+    "asset": "cobblestone_floor_08",
+    "channel": "Diffuse",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_floor_08/cobblestone_floor_08_diff_1k.jpg",
+    "licence": "CC0-1.0",
+    "sourcePage": "https://polyhaven.com/a/cobblestone_floor_08"
+  },
+  {
+    "asset": "cobblestone_floor_08",
+    "channel": "nor_gl",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_floor_08/cobblestone_floor_08_nor_gl_1k.jpg",
+    "licence": "CC0-1.0",
+    "sourcePage": "https://polyhaven.com/a/cobblestone_floor_08"
+  },
+  {
+    "asset": "cobblestone_floor_08",
+    "channel": "Rough",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_floor_08/cobblestone_floor_08_rough_1k.jpg",
+    "licence": "CC0-1.0",
+    "sourcePage": "https://polyhaven.com/a/cobblestone_floor_08"
+  }
+]

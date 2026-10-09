@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-83c922abd82857ff0100bdbd17872de82df765331dd9aa2bad030b72f60458f0-reviewed.mp3",
+  "text": "Did she try to get away?",
+  "durationMs": 2544,
+  "sha256": "83c922abd82857ff0100bdbd17872de82df765331dd9aa2bad030b72f60458f0",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "70f519a9f4021ecb17e13e7894189fc34744e9bd9e32e2ff61efd210a4a1aa8a"
+}

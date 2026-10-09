@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-aa5fada929f7605f4018ff7325093d6a42ec63629be6c41a8906ec0b855ecdfe-reviewed.mp3",
+  "text": "And when you asked her to come home?",
+  "durationMs": 3384,
+  "sha256": "aa5fada929f7605f4018ff7325093d6a42ec63629be6c41a8906ec0b855ecdfe",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "fea8c2102baf1d827c133a4b2833f559221b6ffc383846c0f813346dad7d89a5"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-773a756813f84257c339a83126d48f66301582c38f3d756fc96829e7ff6e9150-reviewed.mp3",
+  "text": "Under some sacks in the yard. Could it have caused the head injury?",
+  "durationMs": 5208,
+  "sha256": "773a756813f84257c339a83126d48f66301582c38f3d756fc96829e7ff6e9150",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "f11f8cd6b6de3fe781298bb918d6198e6e74574e3a724648ca0548099031aed3"
+}

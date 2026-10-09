@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-da4c7d986a0f797697ffe141ace02a104e3aeca74093e021b96cb19cae4bb289-reviewed.mp3",
+  "text": "I don’t remember. There were enough of you about.",
+  "durationMs": 3888,
+  "sha256": "da4c7d986a0f797697ffe141ace02a104e3aeca74093e021b96cb19cae4bb289",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "8bf1f67e5effe2d41d7471f8acf3529209b8955ea2d880cbfacd458bce97f85d"
+}

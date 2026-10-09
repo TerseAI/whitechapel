@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-a37e262aebd117e1d2aba326e953f92ee034029d7dbddee8180807ed3263b5ed-reviewed.mp3",
+  "text": "Will your sister meet you?",
+  "durationMs": 2016,
+  "sha256": "a37e262aebd117e1d2aba326e953f92ee034029d7dbddee8180807ed3263b5ed",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "dce8b643eda43470e8aa995508eeb3a88624a42da83dd1236678a1e9caaccfb6"
+}

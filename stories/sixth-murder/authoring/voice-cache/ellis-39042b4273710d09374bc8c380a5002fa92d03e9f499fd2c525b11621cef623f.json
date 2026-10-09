@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-39042b4273710d09374bc8c380a5002fa92d03e9f499fd2c525b11621cef623f-reviewed.mp3",
+  "text": "Do you know who put it in the cart?",
+  "durationMs": 2544,
+  "sha256": "39042b4273710d09374bc8c380a5002fa92d03e9f499fd2c525b11621cef623f",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "e4ff7d03e2b1ac644abf240603d52a2e6734108c0faa69f67967b388d8b22f89"
+}

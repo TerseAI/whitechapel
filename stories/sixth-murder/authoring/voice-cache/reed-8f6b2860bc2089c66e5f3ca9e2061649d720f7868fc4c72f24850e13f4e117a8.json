@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-8f6b2860bc2089c66e5f3ca9e2061649d720f7868fc4c72f24850e13f4e117a8-reviewed.mp3",
+  "text": "All right. What time did you leave here last night?",
+  "durationMs": 4344,
+  "sha256": "8f6b2860bc2089c66e5f3ca9e2061649d720f7868fc4c72f24850e13f4e117a8",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "0a993c133f62d05b59fce57b6da9086599fb4ebc3f71286a776d826867084450"
+}

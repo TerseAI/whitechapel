@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-c09ef4324aebee7caa7f0badc7f83cda18df70d82e88d214426d449f6633ccf8-reviewed.mp3",
+  "text": "When did you last see Nora?",
+  "durationMs": 2736,
+  "sha256": "c09ef4324aebee7caa7f0badc7f83cda18df70d82e88d214426d449f6633ccf8",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "c31e3c16c9fdd1b649d66ce54b503763bde10382fb28505ac197ff5f74021da8"
+}

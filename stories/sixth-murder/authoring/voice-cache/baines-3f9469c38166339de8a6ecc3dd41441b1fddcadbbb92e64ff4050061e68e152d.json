@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-3f9469c38166339de8a6ecc3dd41441b1fddcadbbb92e64ff4050061e68e152d-reviewed.mp3",
+  "text": "It was. I lent it to her last night. That bent handle is unmistakable to me.",
+  "durationMs": 7104,
+  "sha256": "3f9469c38166339de8a6ecc3dd41441b1fddcadbbb92e64ff4050061e68e152d",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "e83f9b6c6a20782f8c4d954b6e848c37adc9a7605ca9485902448fab6f612687"
+}

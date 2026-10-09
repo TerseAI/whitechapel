@@ -1,0 +1,15 @@
+.reset-game-trigger { display: inline-flex; align-items: center; justify-content: center; flex: none; gap: 8px; min-height: 44px; padding: 8px; color: var(--muted); font-size: 13px; }
+.reset-game-trigger:hover { color: var(--gold); background: var(--panel-light); }
+.case-footer > .reset-game-trigger { font-size: 13px; }
+.lobby > .reset-game-trigger { margin-top: 20px; }
+.reset-game-dialog { width: min(480px, calc(100% - 32px)); max-height: calc(100svh - 32px); margin: auto; padding: 28px; overflow: auto; border: 1px solid var(--line); background: var(--ink); color: var(--text, #e7e5df); }
+.reset-game-dialog::backdrop { background: #081219d9; }
+.reset-game-dialog::selection { background: var(--gold); color: var(--ink); }
+.reset-game-dialog h2 { margin-bottom: 16px; font-size: 30px; text-wrap: balance; }
+.reset-game-dialog p { margin-top: 12px; color: var(--muted); font-size: 14px; }
+.reset-game-dialog .form-error { color: #ecc2a8; }
+.reset-game-actions { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 12px; margin-top: 28px; }
+@media (max-width: 480px) {
+  .reset-game-dialog { padding: 24px; }
+  .reset-game-actions { flex-direction: column; }
+}

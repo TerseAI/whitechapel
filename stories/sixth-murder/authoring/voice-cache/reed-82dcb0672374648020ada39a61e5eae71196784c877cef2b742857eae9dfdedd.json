@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-82dcb0672374648020ada39a61e5eae71196784c877cef2b742857eae9dfdedd-reviewed.mp3",
+  "text": "Is there anything else you can tell us about the evening?",
+  "durationMs": 3264,
+  "sha256": "82dcb0672374648020ada39a61e5eae71196784c877cef2b742857eae9dfdedd",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "b84d510b0d1d80c1e160efc3d5d01259822eff7d3c7e6e5a9247503046b62421"
+}

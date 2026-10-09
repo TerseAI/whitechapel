@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-e9dd3cc9214ec65e846c2eae84537e969e4020b694dd6cdcfc50b0525c56b89d-reviewed.mp3",
+  "text": "Arthur was her husband. I was at their wedding.",
+  "durationMs": 3936,
+  "sha256": "e9dd3cc9214ec65e846c2eae84537e969e4020b694dd6cdcfc50b0525c56b89d",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "05118d180f12a950f1eb3723735cdb4bb3383d7b391f62c3e1639af6d355fe6e"
+}

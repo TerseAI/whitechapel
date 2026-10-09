@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-5e901c65e2941758f455b606afdc1ebb600264ca63a1974daf331b879695cbba-reviewed.mp3",
+  "text": "People will think of the other murders.",
+  "durationMs": 3096,
+  "sha256": "5e901c65e2941758f455b606afdc1ebb600264ca63a1974daf331b879695cbba",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "0f95586e98b645fcbabccb8a959a1f376751cf54d7d855037269f92bf4be1a54"
+}

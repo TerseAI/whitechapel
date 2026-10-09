@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-8a16c70c2c4b273a89130f911af693db43e6ed16ee7035b5516db83811e5f462-reviewed.mp3",
+  "text": "I’ve started three times. There is no decent first sentence for a letter like this.",
+  "durationMs": 6816,
+  "sha256": "8a16c70c2c4b273a89130f911af693db43e6ed16ee7035b5516db83811e5f462",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "736b8d84bbf737f85d4370049b2f27a25ab8eaa905df18b9da7826dd301e4b01"
+}

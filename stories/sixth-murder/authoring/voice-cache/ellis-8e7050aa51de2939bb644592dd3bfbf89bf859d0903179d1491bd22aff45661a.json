@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-8e7050aa51de2939bb644592dd3bfbf89bf859d0903179d1491bd22aff45661a-reviewed.mp3",
+  "text": "Did she ask you for anything?",
+  "durationMs": 2208,
+  "sha256": "8e7050aa51de2939bb644592dd3bfbf89bf859d0903179d1491bd22aff45661a",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "a4339ef31235fa735c281117f8bf31a47c9fb5cc3579fe5376231a48613dd49d"
+}

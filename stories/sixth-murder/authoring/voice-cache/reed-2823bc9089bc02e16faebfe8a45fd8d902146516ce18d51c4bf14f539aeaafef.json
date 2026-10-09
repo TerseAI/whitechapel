@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-2823bc9089bc02e16faebfe8a45fd8d902146516ce18d51c4bf14f539aeaafef-reviewed.mp3",
+  "text": "We may need to speak to you again.",
+  "durationMs": 2928,
+  "sha256": "2823bc9089bc02e16faebfe8a45fd8d902146516ce18d51c4bf14f539aeaafef",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "20de7fd1b0eeb00e634ca68fce84fe414257ac886f0f2b229d87603387e37e1f"
+}

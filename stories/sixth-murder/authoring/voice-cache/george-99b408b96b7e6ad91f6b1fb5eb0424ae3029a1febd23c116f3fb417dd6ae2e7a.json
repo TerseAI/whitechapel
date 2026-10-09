@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-99b408b96b7e6ad91f6b1fb5eb0424ae3029a1febd23c116f3fb417dd6ae2e7a-reviewed.mp3",
+  "text": "Last night, finishing the delivery. I left the cart here afterwards.",
+  "durationMs": 5736,
+  "sha256": "99b408b96b7e6ad91f6b1fb5eb0424ae3029a1febd23c116f3fb417dd6ae2e7a",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "13edf2448bd1a70152e3ae2f9256eb91c497d8f0bf2668c659dbbe0cab238112"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-46c9acbf720b9a28b953e841aaee7b125d814abf629f17abb4f99f1aa342203d-reviewed.mp3",
+  "text": "Why George?",
+  "durationMs": 1656,
+  "sha256": "46c9acbf720b9a28b953e841aaee7b125d814abf629f17abb4f99f1aa342203d",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "f468f088b49660b6a52cb9f26bcfbf78d746773734c6118f60a33e62b2a8fc03"
+}

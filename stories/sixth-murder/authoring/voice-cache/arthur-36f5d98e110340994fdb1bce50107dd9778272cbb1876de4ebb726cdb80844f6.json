@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-36f5d98e110340994fdb1bce50107dd9778272cbb1876de4ebb726cdb80844f6-reviewed.mp3",
+  "text": "A carman. George, I think. She said it was arranged.",
+  "durationMs": 5784,
+  "sha256": "36f5d98e110340994fdb1bce50107dd9778272cbb1876de4ebb726cdb80844f6",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "fbf85a6bbbbbe40dcfa09289b829428d7a45708e64866216d94596746483f86a"
+}

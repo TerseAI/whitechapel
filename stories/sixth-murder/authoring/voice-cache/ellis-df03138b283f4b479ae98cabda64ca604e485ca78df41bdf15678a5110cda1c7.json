@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-df03138b283f4b479ae98cabda64ca604e485ca78df41bdf15678a5110cda1c7-reviewed.mp3",
+  "text": "What did you say to that?",
+  "durationMs": 1824,
+  "sha256": "df03138b283f4b479ae98cabda64ca604e485ca78df41bdf15678a5110cda1c7",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "33bf44f3fc98ff358fe8dd46e0b38b3e316862f84dd3e897af2f390773608b8d"
+}

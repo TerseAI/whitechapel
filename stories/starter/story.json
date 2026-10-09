@@ -1,0 +1,137 @@
+{
+  "$schema": "../story.schema.json",
+  "schemaVersion": 2,
+  "id": "starter",
+  "version": "1",
+  "title": "Whitechapel",
+  "subtitle": "A case for two",
+  "description": "",
+  "assets": {},
+  "models": {},
+  "inspectors": [
+    {
+      "id": "reed",
+      "name": "Inspector Reed",
+      "description": "Short and stocky, with a magnificent moustache.",
+      "appearance": {
+        "coat": "#6a5949",
+        "waistcoat": "#847458",
+        "hair": "#473a31",
+        "skin": "#bd9879",
+        "accent": "#beb090",
+        "hat": "bowler",
+        "beard": "handlebar",
+        "height": 0.86,
+        "build": 1.3,
+        "face": [
+          1.08,
+          0.96,
+          1.02
+        ],
+        "garment": "frock",
+        "hairStyle": "short",
+        "neckwear": "#533f31"
+      }
+    },
+    {
+      "id": "ellis",
+      "name": "Inspector Ellis",
+      "description": "Very tall, with prominent sideburns.",
+      "appearance": {
+        "coat": "#344b56",
+        "waistcoat": "#847458",
+        "hair": "#473a31",
+        "skin": "#bd9879",
+        "accent": "#beb090",
+        "hat": "bowler",
+        "beard": "sideburns",
+        "height": 1.28,
+        "build": 0.92,
+        "face": [
+          0.91,
+          1.12,
+          0.96
+        ],
+        "garment": "frock",
+        "hairStyle": "short",
+        "neckwear": "#303e4d"
+      }
+    }
+  ],
+  "sites": {
+    "studio": {
+      "id": "studio",
+      "name": "Studio",
+      "kind": "fictional",
+      "address": "",
+      "precision": "fictional",
+      "point": null,
+      "note": "",
+      "sources": [],
+      "placement": "",
+      "reviewed": ""
+    }
+  },
+  "voices": {},
+  "chapters": [
+    {
+      "title": "Untitled investigation",
+      "date": "",
+      "opening": "",
+      "goal": "",
+      "locations": [
+        {
+          "id": "empty-room",
+          "siteId": "studio",
+          "name": "Empty scene",
+          "subtitle": "",
+          "description": "",
+          "scene": "basic-room",
+          "hotspots": [],
+          "navigation": {
+            "bounds": {
+              "minX": -4.15,
+              "maxX": 4.15,
+              "minZ": -8,
+              "maxZ": 10
+            },
+            "obstacles": [],
+            "characters": {},
+            "clues": {}
+          },
+          "indoor": true
+        }
+      ],
+      "flow": {
+        "entry": "empty-room",
+        "completion": {
+          "kind": "continue",
+          "label": "Finish"
+        },
+        "after": {
+          "target": "finish"
+        }
+      },
+      "epilogueLocations": [],
+      "npcIds": [],
+      "epilogueNpcIds": [],
+      "clueIds": [],
+      "reviewEvidence": [],
+      "deductionIds": [],
+      "requiredEvidence": [],
+      "question": "",
+      "options": [],
+      "acceptedAnswers": [],
+      "report": "",
+      "reportByAnswer": {}
+    }
+  ],
+  "characters": [],
+  "clues": {},
+  "deductions": [],
+  "documents": {},
+  "objects": {},
+  "reconstructions": [],
+  "cutscenes": [],
+  "ending": "End of investigation."
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-8c91f3703e7d76e81105c0653e9ad0cae71d22e40c7fbddf5b2d5d55212de5d2-reviewed.mp3",
+  "text": "She was going away. I was helping.",
+  "durationMs": 3624,
+  "sha256": "8c91f3703e7d76e81105c0653e9ad0cae71d22e40c7fbddf5b2d5d55212de5d2",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "ff85e1fcbeea7a52eb1be27b20ae2885b7150219b5071d43ff31544d81557feb"
+}

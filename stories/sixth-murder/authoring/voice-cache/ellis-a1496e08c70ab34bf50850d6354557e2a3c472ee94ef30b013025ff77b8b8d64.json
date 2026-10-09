@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-a1496e08c70ab34bf50850d6354557e2a3c472ee94ef30b013025ff77b8b8d64-reviewed.mp3",
+  "text": "Did you help take her luggage down?",
+  "durationMs": 2664,
+  "sha256": "a1496e08c70ab34bf50850d6354557e2a3c472ee94ef30b013025ff77b8b8d64",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "2151efe0f3c4397d10bc83e136bbda74e43911f22f4732f1a936160796530df3"
+}

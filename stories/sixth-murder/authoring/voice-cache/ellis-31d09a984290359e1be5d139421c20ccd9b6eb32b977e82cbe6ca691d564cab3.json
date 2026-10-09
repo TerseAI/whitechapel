@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-31d09a984290359e1be5d139421c20ccd9b6eb32b977e82cbe6ca691d564cab3-reviewed.mp3",
+  "text": "What did you do when you saw him?",
+  "durationMs": 2736,
+  "sha256": "31d09a984290359e1be5d139421c20ccd9b6eb32b977e82cbe6ca691d564cab3",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "4b189b2c2561e9d1130c720adda3aa694955662f0676ee73b2a83a36e541ac16"
+}

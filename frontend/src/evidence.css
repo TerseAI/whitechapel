@@ -1,0 +1,71 @@
+/* Exhibits are readable paper and objects; the frame stays quiet. */
+dialog.detail-panel.source-reader{position:fixed;inset:20px 24px 20px auto;margin:0;width:min(790px,calc(100% - 48px));max-width:none;height:calc(100svh - 40px);max-height:none;padding:48px 30px 26px;background:#273633;color:#eee5d0;border:1px solid #697367;box-shadow:0 20px 75px #0007}
+dialog.source-reader::backdrop{background:#07151280;backdrop-filter:blur(3px)}
+.source-reader .close{top:9px;right:12px;color:#e9dfc9;width:36px;height:36px}
+.source-reader .reader-casebook{color:#e5d4ab;margin:22px 0 0;min-height:44px}
+.evidence-document{min-width:0}.exhibit-toolbar{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:0 2px 14px;color:#d5d6c7;font-size:12px}
+.exhibit-toolbar>span:last-child{display:flex;align-items:center;gap:6px;color:#c1ccbd;font-size:11px}
+.source-pages{display:flex;gap:5px;flex-wrap:wrap;margin:0 0 15px;border-bottom:1px solid #84918566;padding:0 0 10px}
+.source-pages button{min-height:42px;padding:9px 14px;color:#d1d7ca;font-size:13px;border:1px solid transparent;border-radius:2px}
+.source-pages button[aria-pressed=true]{background:#e9dfc4;color:#333b30;box-shadow:0 2px 5px #1113}
+.source-pages button:hover{border-color:#b7b798}
+.source-sheet{--sheet:#e9dfc7;position:relative;isolation:isolate;min-width:0;background:var(--sheet);background-image:radial-gradient(ellipse at 0 100%,#ae82531a,transparent 55%),linear-gradient(95deg,#8066430a,transparent 8%,transparent 94%,#7659360b);color:#3b3d31;padding:34px 36px 36px;box-shadow:0 4px 12px #0002;border:1px solid #c6b797;font:17px/1.65 Georgia,'Times New Roman',serif;overflow-wrap:anywhere}
+.source-heading{position:relative;margin-bottom:24px}.source-heading h3{font:32px/1.15 Georgia,'Times New Roman',serif;color:inherit;margin:9px 0 0;letter-spacing:-.5px}
+.source-heading .source-kicker{font:11px/1.5 'Avenir Next',sans-serif;text-transform:uppercase;letter-spacing:1.2px;color:#696754;margin:0}
+.source-heading .source-date{font:13px/1.5 Georgia,serif;color:#665f4c;margin:12px 0 0}
+.source-body{position:relative}.source-body p{margin:0 0 19px}.source-body p:last-child{margin-bottom:0}
+.source-fields{margin:0;position:relative}.source-fields>div{display:grid;grid-template-columns:minmax(100px,1fr) 2fr;gap:18px;border-bottom:1px solid #8d846b44;padding:13px 0}
+.source-fields dt{font:12px/1.55 'Avenir Next',sans-serif;color:#686b58;padding-top:3px}.source-fields dd{margin:0;line-height:1.5}
+.source-fields+.source-body{margin-top:26px}
+.source-table-wrap{overflow:auto;scrollbar-width:thin;position:relative}.source-table{width:100%;border-collapse:collapse;text-align:left;font-size:15px;line-height:1.55}
+.source-table th{padding:9px 11px;border-block:2px solid #8d816966;font:11px/1.4 'Avenir Next',sans-serif;letter-spacing:.3px;color:#5e614e;vertical-align:bottom}
+.source-table td{padding:13px 11px;border-bottom:1px solid #928c6d55;vertical-align:top}.source-table th+th,.source-table td+td{border-left:1px solid #b9907644}
+.source-ledger{border-left:9px solid #75604a;padding-left:27px;background-image:linear-gradient(90deg,#46392a18,transparent 30px),linear-gradient(0deg,#d2c2a318,transparent)}
+.source-ledger .source-heading{padding-bottom:18px;border-bottom:1px solid #9d8f75}
+.ledger-addition{display:block;color:#5f5e82;font:italic 23px/1.2 Georgia,serif;transform:rotate(-5deg);margin-top:3px}
+.source-signature{position:relative;text-align:right;margin:27px 0 0;font:italic 19px/1.5 Georgia,serif;color:#575843}
+.source-marginalia{position:relative;margin:27px 0 0;padding-top:12px;border-top:1px solid #90887355;font:italic 14px/1.6 Georgia,serif;color:#666652}
+.source-note,.source-postcard{--sheet:#eee2c9;min-height:300px;background-image:linear-gradient(0deg,transparent 49.7%,#ad977d22 49.9%,#fff5 50%,transparent 50.5%)}
+.source-note .source-body,.source-postcard .source-body{font-style:italic;font-size:22px;line-height:1.85;color:#484b36}
+.source-note .source-heading h3{font-size:27px;font-style:italic}
+.source-postcard .source-body{color:#844e42}.source-postcard .source-heading{border-bottom:1px solid #967e6055;padding-bottom:18px}
+.source-statement{--sheet:#e8e2ce;border-left:8px solid #6a7060;background-image:linear-gradient(90deg,transparent 23px,#aa797933 24px,transparent 25px)}
+.source-statement .source-body{background:repeating-linear-gradient(transparent 0,transparent 31px,#938d741f 32px);line-height:32px;font-style:italic}
+.source-statement .source-body p{margin-bottom:20px}
+.source-news{--sheet:#e2decd;border:0;border-top:4px double #6d705c;border-bottom:2px solid #8b8c76;box-shadow:1px 5px 13px #0002}
+.source-news .source-heading{text-align:center;border-bottom:3px double #686952;padding-bottom:22px}.source-news .source-heading h3{font-size:37px;letter-spacing:-1px}
+.source-news .source-body{font-size:18px;line-height:1.7}.source-news .source-body p:first-child::first-letter{float:left;font:54px/1 Georgia,serif;padding:6px 7px 0 0}
+.source-plan{--sheet:#e3e0cf}.source-plan .source-heading h3{font-size:28px}.source-plan .cross-route-document{margin-top:0}.source-plan .discovery-time-report{margin:0}
+.source-object{--sheet:#dedac6}.source-object .source-heading{margin-bottom:10px}
+.source-violet{color:#634c78}.source-violet .source-table th,.source-violet .source-signature,.source-violet .source-marginalia{color:#634c78}.source-violet .source-body{font-size:25px;font-style:italic;min-height:125px;padding:22px 0}
+.torn-sheet{clip-path:polygon(0 0,100% 0,100% calc(100% - 63px),97% calc(100% - 61px),98% calc(100% - 51px),94% calc(100% - 48px),93% calc(100% - 37px),89% calc(100% - 31px),89% calc(100% - 23px),85% calc(100% - 21px),84% 100%,0 100%);padding-bottom:76px}
+.source-drawing{width:100%;height:auto;display:block;margin:6px 0 21px}.source-drawing text{font:17px Georgia,serif;fill:#4a4f3d}.source-drawing .trunk-name{font-size:16px;fill:#574936}.source-drawing .plan-cross{font-size:31px;fill:#5a7159}
+.plan-building{fill:#b3ae912e;stroke:#898974;stroke-width:2}.plan-wall{fill:none;stroke:#6d705b;stroke-width:3}.plan-route{fill:none;stroke:#846344;stroke-width:2.5;stroke-dasharray:7 5}
+.source-print .source-heading{max-width:420px;margin-inline:auto;text-align:center;border-block:3px double #77745e;padding-block:20px}.source-print .source-body{text-align:center}.source-print .source-body p:first-child{font-size:23px}
+.damaged-type{position:relative;display:inline-block}.damaged-type::after{content:'';position:absolute;right:-.015em;top:.48em;width:.28em;height:.063em;transform:rotate(-10deg);background:var(--sheet)}
+.paper-watermark{position:absolute;right:12%;top:180px;width:145px;opacity:.12;z-index:-1;transition:opacity .2s}.paper-watermark svg,.paper-details svg{width:100%;fill:none;stroke:currentColor;stroke-width:2}
+.paper-lit{--sheet:#f2e7c7;box-shadow:0 0 25px #e4d39833}.paper-lit .paper-watermark{opacity:.46}.crown-split{stroke-width:3}
+.paper-examination{position:relative;margin-top:25px;border-top:1px solid #a0917144;padding-top:12px}.paper-light-button{display:flex;align-items:center;gap:8px;min-height:44px;color:#4d5540;font:13px 'Avenir Next',sans-serif}
+.paper-details{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:10px}.paper-details figure{margin:0;text-align:center;border:1px solid #9f906852;padding:10px;background:#fff1}
+.paper-details svg{display:block;width:110px;height:95px;margin:auto}.paper-details figcaption{font:12px/1.5 'Avenir Next',sans-serif;margin-top:10px}.type-detail{font:100px/.95 Georgia,serif;display:block;height:95px}
+.evidence-card .evidence-preview{position:relative;margin:18px -2px 0;height:192px;overflow:hidden;border:1px solid #405652;background:#273b36;box-shadow:inset 0 0 30px #0002}
+.source-miniature{position:absolute;top:11px;left:8%;width:84%;height:220px;pointer-events:none;overflow:hidden;transform:rotate(-2deg);transform-origin:center top}
+.source-miniature>.source-sheet{padding:15px 16px 26px;min-height:250px;border-width:1px;font-size:11px;box-shadow:2px 2px 7px #0003}
+.source-miniature .source-heading{margin-bottom:12px;padding-bottom:8px}.source-miniature .source-heading h3{font-size:19px;line-height:1.15;margin-top:5px}
+.source-miniature .source-kicker{font-size:7px;letter-spacing:.5px}.source-miniature .source-date{font-size:8px;margin-top:5px}.source-miniature .source-body,.source-miniature .source-body p{font-size:11px;line-height:1.65;margin:0}
+.source-miniature .source-fields>div{padding:6px 0;gap:9px;grid-template-columns:1fr 1.5fr}.source-miniature .source-fields dt{font-size:8px}.source-miniature .source-fields dd{font-size:10px}
+.source-miniature .source-table{font-size:10px}.source-miniature .source-table th{font-size:7px}.source-miniature .source-table :is(th,td){padding:5px}.source-miniature .ledger-addition{font-size:15px}
+.source-miniature .source-signature{font-size:11px;margin-top:12px}.source-miniature .source-drawing{margin-block:0}.source-miniature .source-news .source-body p:first-child::first-letter{font-size:28px;padding-top:2px}
+.source-miniature .cross-route-document>figcaption{font-size:10px}.source-miniature .cross-route-document>figcaption>svg{width:12px}.source-miniature .route-stops,.source-miniature .route-stop-detail,.source-miniature .route-legend{display:none}
+.source-miniature .discovery-time-report figcaption{font-size:16px}.source-miniature .time-estimates{gap:3px}.source-miniature .time-estimate>span{font-size:8px}.source-miniature .time-estimate>time{font-size:23px}.source-miniature .time-estimate svg{display:none}.source-miniature .time-estimate time small{font-size:8px}.source-miniature .time-discrepancy,.source-miniature .report-date{font-size:9px}
+.open-source{position:absolute;inset:0;width:100%;display:flex;align-items:flex-end;justify-content:space-between;padding:0 14px 12px;background:linear-gradient(transparent 57%,#1e302fec 85%);color:#eee2c7;text-align:left}
+.open-source>span{font-size:12px;display:flex;gap:9px;align-items:center}.open-source small{font-size:10px;color:#c0c9bd}.open-source svg{margin-bottom:1px}.open-source:hover{background:linear-gradient(transparent 55%,#304b41f2 85%)}
+.evidence-card .evidence-preview:has(.open-source:focus-visible){outline:2px solid #e6cd8c;outline-offset:3px}.open-source:focus-visible{outline:none}
+.casebook .evidence-grid{grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr))}.casebook .evidence-card h3{font-size:23px}.casebook .evidence-card>label>p{font-size:12px}.casebook .evidence-preview{height:164px}
+@media(max-width:600px){dialog.detail-panel.source-reader{inset:0;width:100%;height:100svh;padding:48px 12px 22px;border:0}.source-sheet{padding:25px 19px 28px;font-size:16px}.source-heading h3{font-size:27px}.source-heading .source-kicker{font-size:10px}.source-news .source-heading h3{font-size:30px}.source-news .source-body{font-size:16px}.source-table{font-size:13px}.source-table th{font-size:10px}.source-table :is(th,td){padding:10px 7px}.source-fields>div{gap:12px;grid-template-columns:minmax(85px,1fr) 2fr}.source-fields dd{font-size:15px}.source-fields dt{font-size:11px}.source-note .source-body,.source-postcard .source-body{font-size:20px}.source-signature{font-size:17px}.source-ledger{padding-left:17px;border-left-width:6px}.source-pages{gap:2px}.source-pages button{font-size:12px;padding-inline:10px}.exhibit-toolbar{font-size:11px;padding-inline:3px}.exhibit-toolbar>span:last-child{font-size:10px}.source-sheet.torn-sheet{padding-bottom:76px}.evidence-card .evidence-preview{height:188px}.source-drawing text{font-size:19px}.paper-details{gap:8px}}
+@media(prefers-reduced-motion:reduce){.paper-watermark{transition:none}}
+
+.reconstruction-source{display:flex;min-height:44px;gap:12px;color:var(--ink)}
+.recorded-statements{margin:24px 0}.recorded-statements>section+section{border-top:1px solid #90887355;margin-top:22px;padding-top:16px}.recorded-statements h3{font-size:17px}.recorded-statements dl{margin:0}.recorded-statements dl>div{margin:14px 0}.recorded-statements dt{font-size:12px;font-weight:700;letter-spacing:.02em}.recorded-statements dd{margin:4px 0 0;white-space:pre-wrap;line-height:1.55}
+
+.casebook .evidence-card .evidence-preview{margin:0 0 17px}.casebook .evidence-card-top{position:absolute;top:9px;right:10px;z-index:2;margin:0;padding:5px;background:#e4e0d3;border-radius:2px}.casebook .evidence-card h3{margin-top:0}

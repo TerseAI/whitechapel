@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-611e58e8fef13fc7260fedcd828094ae03af360d5783bb9c35adff8f50e7f1f0-reviewed.mp3",
+  "text": "No, sir. I told him Nora had been found in the yard. Nothing about the cart search.",
+  "durationMs": 5856,
+  "sha256": "611e58e8fef13fc7260fedcd828094ae03af360d5783bb9c35adff8f50e7f1f0",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "576748c8184677747586680a35077446382c4b971a23977d0b45910c14be141f"
+}

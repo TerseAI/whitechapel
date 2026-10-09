@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-d103005c94922f62085bdcdcc5030d94de0e815a3cafd92b951e816b245c0bc0-reviewed.mp3",
+  "text": "How was she then?",
+  "durationMs": 1944,
+  "sha256": "d103005c94922f62085bdcdcc5030d94de0e815a3cafd92b951e816b245c0bc0",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "3b2d08ffaacff8e07a5a326cbf13a36586df01bbe0da2c94ae056773fb3a431b"
+}

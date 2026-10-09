@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-383838b40dd076ac24ea30f3dfe8dedc5df10d631b8b8bbe9651c125489808b2-reviewed.mp3",
+  "text": "You said Nora was still packing when you left.",
+  "durationMs": 3384,
+  "sha256": "383838b40dd076ac24ea30f3dfe8dedc5df10d631b8b8bbe9651c125489808b2",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "49146e12158c280c8b55fe4aca81a6c2ee191aeef60e85b9732dbc5d7ccbf2d4"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-5fd0f86241646c69135217fa38711b7f8d6aa85feb820a3dd2ee6992f66d7e0c-reviewed.mp3",
+  "text": "Could you walk together?",
+  "durationMs": 2016,
+  "sha256": "5fd0f86241646c69135217fa38711b7f8d6aa85feb820a3dd2ee6992f66d7e0c",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "02f6295736e5a446e17763c47dd3d29d0776cf784535915790fbd067fc1665d2"
+}

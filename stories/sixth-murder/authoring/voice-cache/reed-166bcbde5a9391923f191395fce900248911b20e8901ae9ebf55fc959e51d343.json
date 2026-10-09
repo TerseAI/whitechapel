@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-166bcbde5a9391923f191395fce900248911b20e8901ae9ebf55fc959e51d343-reviewed.mp3",
+  "text": "Seven will suit us nicely, thank you. Which way’s upstairs?",
+  "durationMs": 5928,
+  "sha256": "166bcbde5a9391923f191395fce900248911b20e8901ae9ebf55fc959e51d343",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "2b1fc52364427cc495c381cf1c0af98a405800d9352b3a1ef77b1161eebb2f48"
+}

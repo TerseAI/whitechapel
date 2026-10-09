@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-c7874f0d47e378f4ba8ea6a347325c8c0aa3c9ac26cba42d2e89eaf363f45475-reviewed.mp3",
+  "text": "He won’t leave while we’re talking?",
+  "durationMs": 2784,
+  "sha256": "c7874f0d47e378f4ba8ea6a347325c8c0aa3c9ac26cba42d2e89eaf363f45475",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "0b27f4d2a75711078ddee0ac80cacdb7e754249c2b17dbacc0249e16ac0828f7"
+}

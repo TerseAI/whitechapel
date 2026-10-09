@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-2838ecc8acf4ffac578d91e32b3ae1401257524b64df7a3c4344d33e4a6b8017-reviewed.mp3",
+  "text": "You said you carried Nora’s trunk down for her.",
+  "durationMs": 3648,
+  "sha256": "2838ecc8acf4ffac578d91e32b3ae1401257524b64df7a3c4344d33e4a6b8017",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "d6855e095ac16934966f029a8e79c201e2555fee2bd28a53288f4731efbf485b"
+}

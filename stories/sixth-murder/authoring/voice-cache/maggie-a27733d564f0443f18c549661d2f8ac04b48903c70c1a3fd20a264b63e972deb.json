@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-a27733d564f0443f18c549661d2f8ac04b48903c70c1a3fd20a264b63e972deb-reviewed.mp3",
+  "text": "Yes. The money, the waiting. What happened at home, I only know what she told me.",
+  "durationMs": 7224,
+  "sha256": "a27733d564f0443f18c549661d2f8ac04b48903c70c1a3fd20a264b63e972deb",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "293ce6134a8eb44215aa4e9d6d273b1286b0aa301b829df05b1b6f9b1ba57ea1"
+}

@@ -1,0 +1,62 @@
+import assert from 'node:assert/strict';
+import { mkdir, writeFile } from 'node:fs/promises';
+import { chromium, expect } from '@playwright/test';
+
+const origin = process.env.GAME_ORIGIN ?? 'http://127.0.0.1:5388';
+const story = await (await fetch(`${origin}/api/story`)).json();
+const newspaperWidth = story.assets['inn-newspaper-original'].width;
+const browser = await chromium.launch({ channel: 'chrome', headless: true });
+const pages = await Promise.all([browser.newPage({ viewport: { width: 1440, height: 1000 } }), browser.newPage()]);
+const [one, two] = pages, errors = [], requests = [];
+await mkdir('.qa/newspaper', { recursive: true });
+for (const page of pages) page.on('pageerror', error => errors.push(error.message));
+one.on('response', response => { if (response.url().includes('inn-newspaper')) requests.push({ url: response.url(), status: response.status() }); });
+try {
+  await one.goto(origin);
+  await one.getByRole('button', { name: 'Play with a partner', exact: true }).click();
+  await one.getByRole('button', { name: /Inspector Reed Short/ }).click();
+  await two.goto(await one.getByLabel('Invite link', { exact: true }).inputValue());
+  await two.getByRole('button', { name: 'Join your partner', exact: true }).click();
+  await two.getByRole('button', { name: /Inspector Ellis Very tall/ }).click();
+  for (const page of pages) await page.getByRole('button', { name: 'I’m ready', exact: true }).click();
+  for (const page of pages) {
+    await page.getByRole('button', { name: 'Begin the enquiry', exact: true }).click();
+    await expect(page.locator('.world-3d[data-ready=true] canvas')).toBeVisible({ timeout: 20000 });
+  }
+  assert.ok(requests.some(item => item.status === 200), 'The newspaper artwork must load as a room prop before collection.');
+  await one.screenshot({ path: '.qa/newspaper/room.png' });
+  await one.getByRole('button', { name: 'Inspect Illustrated newspaper', exact: true }).click();
+  await expect(one.locator('.document-reader')).toBeVisible({ timeout: 30000 });
+  await one.screenshot({ path: '.qa/newspaper/transcription.png' });
+  await expect(one.getByRole('article', { name: 'Document transcription' })).toBeVisible();
+  assert.ok((await one.locator('.document-viewport').boundingBox()).height > 300, 'The newspaper body needs a visible reading area.');
+  await one.getByRole('button', { name: 'View original', exact: true }).click();
+  await expect(one.locator('.document-page.is-original')).toBeVisible();
+  await expect(one.locator('.document-original')).toBeInViewport();
+  assert.ok(await one.locator('.document-original').evaluate((img, width) => img.complete && img.naturalWidth === width, newspaperWidth));
+  await one.screenshot({ path: '.qa/newspaper/original.png' });
+  await one.getByRole('button', { name: 'Read transcription', exact: true }).click();
+  await one.setViewportSize({ width: 390, height: 844 });
+  await one.screenshot({ path: '.qa/newspaper/mobile.png' });
+  assert.ok((await one.locator('.document-viewport').boundingBox()).height > 300, 'The mobile reader must retain its reading area.');
+  await one.getByRole('button', { name: 'View original', exact: true }).click();
+  await expect(one.locator('.document-original')).toBeInViewport();
+  await one.screenshot({ path: '.qa/newspaper/mobile-original.png' });
+  assert.ok(await one.evaluate(() => document.documentElement.scrollWidth <= innerWidth));
+  await one.setViewportSize({ width: 1440, height: 1000 });
+  await one.getByRole('button', { name: 'Close document', exact: true }).click();
+  await one.screenshot({ path: '.qa/newspaper/near-table.png' });
+  await one.getByRole('button', { name: 'Case map', exact: true }).click();
+  const paper = one.locator('.map-paper').filter({ has: one.getByRole('button', { name: 'Read The illustrated report', exact: true }) });
+  await expect(paper.locator('.map-paper-original img')).toBeInViewport();
+  assert.ok(await paper.locator('img').evaluate((img, width) => img.complete && img.naturalWidth === width, newspaperWidth));
+  await one.screenshot({ path: '.qa/newspaper/case-map.png' });
+  await paper.hover();
+  await paper.getByRole('button', { name: 'Read The illustrated report', exact: true }).click();
+  await expect(one.locator('.document-page.is-original')).toBeVisible();
+  assert.ok((await one.locator('.document-viewport').boundingBox()).height > 300, 'The Case Map must reopen a visible reader and preserve original-view preference.');
+  assert.deepEqual(errors, []);
+  assert.ok(requests.length && requests.every(item => item.status === 200));
+  await writeFile('.qa/newspaper/results.json', JSON.stringify({ errors, requests }, null, 2));
+  console.log('Newspaper: tabletop original, default transcription, original inspection, mobile layout and Case Map reopening verified.');
+} finally { await browser.close(); }

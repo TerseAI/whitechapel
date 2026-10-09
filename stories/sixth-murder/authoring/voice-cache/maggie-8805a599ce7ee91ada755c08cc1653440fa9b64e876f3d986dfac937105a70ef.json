@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-8805a599ce7ee91ada755c08cc1653440fa9b64e876f3d986dfac937105a70ef-reviewed.mp3",
+  "text": "You may. I have said the enquiry is complete, and that you will write to her.",
+  "durationMs": 6528,
+  "sha256": "8805a599ce7ee91ada755c08cc1653440fa9b64e876f3d986dfac937105a70ef",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "d010e5ed29b036141cc05c2d19072d454dd3c68400ddec44651583c44917e089"
+}

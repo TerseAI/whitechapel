@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-f3782a0ab16e62b95d3808923b3876786fed1ca8ae3895ae7ffa339d8407a21a-reviewed.mp3",
+  "text": "Had Nora asked you to come and see her?",
+  "durationMs": 3264,
+  "sha256": "f3782a0ab16e62b95d3808923b3876786fed1ca8ae3895ae7ffa339d8407a21a",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "5f6be600bef8aa6faea9e4b039d312766e6be1598529dbd2eea232023c8b5814"
+}

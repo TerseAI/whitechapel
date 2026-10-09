@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-2563485fb3fa70f053365258f607f1ea7ecb7215fbc647f424b24b54c758d2c1-reviewed.mp3",
+  "text": "Beyond the washhouse. I was going towards the steps when I saw her.",
+  "durationMs": 4656,
+  "sha256": "2563485fb3fa70f053365258f607f1ea7ecb7215fbc647f424b24b54c758d2c1",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "08b4273ea52efc735af7a2d088dc6a76890cf1ac8cff9066ce71ffb20c79c8b1"
+}

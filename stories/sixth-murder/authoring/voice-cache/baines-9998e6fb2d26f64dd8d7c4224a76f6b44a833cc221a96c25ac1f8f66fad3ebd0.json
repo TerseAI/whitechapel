@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-9998e6fb2d26f64dd8d7c4224a76f6b44a833cc221a96c25ac1f8f66fad3ebd0-reviewed.mp3",
+  "text": "Later I heard someone on the steps. I looked from my window.",
+  "durationMs": 4896,
+  "sha256": "9998e6fb2d26f64dd8d7c4224a76f6b44a833cc221a96c25ac1f8f66fad3ebd0",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "17e2837c3881ce0cfc1745382b40c652aa0fa2175d91a4898e02c9799e10eaaf"
+}

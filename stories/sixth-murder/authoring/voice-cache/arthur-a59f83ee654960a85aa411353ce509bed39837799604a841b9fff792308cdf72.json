@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-a59f83ee654960a85aa411353ce509bed39837799604a841b9fff792308cdf72-reviewed.mp3",
+  "text": "She wouldn’t stop to listen to me.",
+  "durationMs": 2376,
+  "sha256": "a59f83ee654960a85aa411353ce509bed39837799604a841b9fff792308cdf72",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "38ed410e405a8aabc87e609cca1c7f8cab9a92f405b54012ebf7cb6dee58eedd"
+}

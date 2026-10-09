@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-3a6adf7fc0b6a911a9e5e075cd4f6f8d46fafaeff42255de5c72dedb64e842a4-reviewed.mp3",
+  "text": "An early start, then?",
+  "durationMs": 1848,
+  "sha256": "3a6adf7fc0b6a911a9e5e075cd4f6f8d46fafaeff42255de5c72dedb64e842a4",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "ca06931ae7c6803309ae98af23ce52c46bba4bb064cc091716fe34103318b06b"
+}

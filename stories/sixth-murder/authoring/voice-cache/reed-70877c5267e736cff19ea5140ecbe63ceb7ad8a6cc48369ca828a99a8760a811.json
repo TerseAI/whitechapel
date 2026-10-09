@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-70877c5267e736cff19ea5140ecbe63ceb7ad8a6cc48369ca828a99a8760a811-reviewed.mp3",
+  "text": "Don’t trouble yourself if we’re off before then. We won’t disturb anyone leaving early, will we?",
+  "durationMs": 6144,
+  "sha256": "70877c5267e736cff19ea5140ecbe63ceb7ad8a6cc48369ca828a99a8760a811",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "f49a7a174947247fa8f7c9dd4eb2492d386578c33bdcdb93f8067332f4d58818"
+}

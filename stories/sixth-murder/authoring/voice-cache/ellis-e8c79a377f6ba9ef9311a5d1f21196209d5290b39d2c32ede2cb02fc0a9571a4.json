@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-e8c79a377f6ba9ef9311a5d1f21196209d5290b39d2c32ede2cb02fc0a9571a4-reviewed.mp3",
+  "text": "Will you write to her sister?",
+  "durationMs": 2256,
+  "sha256": "e8c79a377f6ba9ef9311a5d1f21196209d5290b39d2c32ede2cb02fc0a9571a4",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "66360e82378bf4250e6c51b4af9f5d40ddef7ee6af6842ced71605132173ebb8"
+}

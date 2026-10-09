@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-eb41f49cb8cf0b27da95a8c2ed10f4d26c24a0bbc12e8a4fee93add06a4d6dc6-reviewed.mp3",
+  "text": "Shall I arrange that?",
+  "durationMs": 1656,
+  "sha256": "eb41f49cb8cf0b27da95a8c2ed10f4d26c24a0bbc12e8a4fee93add06a4d6dc6",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "27ad8758b3f7cff36b24bef777544c7d40cce6be88dbc4405661d27140780ced"
+}

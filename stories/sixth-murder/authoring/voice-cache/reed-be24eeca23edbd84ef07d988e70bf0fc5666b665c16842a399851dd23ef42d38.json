@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-be24eeca23edbd84ef07d988e70bf0fc5666b665c16842a399851dd23ef42d38-reviewed.mp3",
+  "text": "You’re certain about that?",
+  "durationMs": 2736,
+  "sha256": "be24eeca23edbd84ef07d988e70bf0fc5666b665c16842a399851dd23ef42d38",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "270e056190a4e104fc90679eb3d2da2fe8c24621d070b693a36d751e445298ff"
+}

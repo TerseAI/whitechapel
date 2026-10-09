@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-fd95155ba8493c8a16c784a306d97656c0be8cd96d460a638f08826b9deeb2df-reviewed.mp3",
+  "text": "What are you afraid he’ll hear?",
+  "durationMs": 2424,
+  "sha256": "fd95155ba8493c8a16c784a306d97656c0be8cd96d460a638f08826b9deeb2df",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "1369619943c2db0f676559368fcb6741b13ca99b1c89c6b0d0ab6688b4529b4c"
+}

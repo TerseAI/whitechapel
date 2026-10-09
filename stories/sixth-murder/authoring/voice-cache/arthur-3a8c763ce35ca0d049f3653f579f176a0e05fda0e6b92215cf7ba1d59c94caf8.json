@@ -1,0 +1,13 @@
+{
+  "src": "audio/arthur-3a8c763ce35ca0d049f3653f579f176a0e05fda0e6b92215cf7ba1d59c94caf8-reviewed.mp3",
+  "text": "In her room.",
+  "durationMs": 1536,
+  "sha256": "3a8c763ce35ca0d049f3653f579f176a0e05fda0e6b92215cf7ba1d59c94caf8",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "589c50b62968cd2db6df8c9a4055ec6c246ebbdc0501c5db833ff33302b53c1c",
+  "prompt": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning. Read the supplied dialogue exactly, in a natural British English voice, with clean studio audio. Speech only; no music or sound effects.",
+  "synthesisText": "\"In her room.\""
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-21dbadb045ccd1eb0569ea73a693bd59dd70d8e862e0c8bccd1269d19fe82652-reviewed.mp3",
+  "text": "That’s what you think. I’ve told you why I covered her.",
+  "durationMs": 4224,
+  "sha256": "21dbadb045ccd1eb0569ea73a693bd59dd70d8e862e0c8bccd1269d19fe82652",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "317d920cfcbdf1dd41bb434e76de0aeeca283dbe800c492b5cb6517b306cbb3c"
+}

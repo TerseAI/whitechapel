@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-fa20aa6460e068bbd198df05d27c1335e1bfcbb04b8ea0dcab2aedeca8f3294a-reviewed.mp3",
+  "text": "And you didn’t come back until this morning?",
+  "durationMs": 3096,
+  "sha256": "fa20aa6460e068bbd198df05d27c1335e1bfcbb04b8ea0dcab2aedeca8f3294a",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "b008708eea1ad6a9eeb6810face4397108a4f5524ccd298cee699492e184abb7"
+}

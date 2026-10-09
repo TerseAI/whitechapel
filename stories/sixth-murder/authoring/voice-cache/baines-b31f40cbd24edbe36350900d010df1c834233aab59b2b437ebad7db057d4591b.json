@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-b31f40cbd24edbe36350900d010df1c834233aab59b2b437ebad7db057d4591b-reviewed.mp3",
+  "text": "Let me see the edge.",
+  "durationMs": 2016,
+  "sha256": "b31f40cbd24edbe36350900d010df1c834233aab59b2b437ebad7db057d4591b",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "d42c2f5cd523df059a6b61f41037d61610dded54c415426eac6e73056611235f"
+}

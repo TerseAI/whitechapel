@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-167f877daf3c9be77963fd309d9e3f91ca02f2cad3f9310e330e2e10a3cbe470-reviewed.mp3",
+  "text": "You’re certain we’re talking about the same man?",
+  "durationMs": 3456,
+  "sha256": "167f877daf3c9be77963fd309d9e3f91ca02f2cad3f9310e330e2e10a3cbe470",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "58ba322fe54e4eef97c5eb393e2eeaa5761a7f8e1188fd9c6ccc0536ab97e37b"
+}

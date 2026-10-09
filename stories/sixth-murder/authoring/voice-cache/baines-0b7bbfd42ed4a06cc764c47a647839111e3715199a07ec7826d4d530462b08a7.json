@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-0b7bbfd42ed4a06cc764c47a647839111e3715199a07ec7826d4d530462b08a7-reviewed.mp3",
+  "text": "She was all ready to go. I was expecting her down this morning.",
+  "durationMs": 4824,
+  "sha256": "0b7bbfd42ed4a06cc764c47a647839111e3715199a07ec7826d4d530462b08a7",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "4ec7baebc66ade11e9d462fbc6d1ba743df8b5ef2dd0c37e5d6689826d4c7c15"
+}

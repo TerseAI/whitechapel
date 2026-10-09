@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-2604bc904dbf97992dea72e66dd1e4f86748ffb3528eed3b4874d5f1e54d3c2c-reviewed.mp3",
+  "text": "Just finishing. Mrs Baines wanted the coal brought in, and now she’s found me another job for the morning.",
+  "durationMs": 7464,
+  "sha256": "2604bc904dbf97992dea72e66dd1e4f86748ffb3528eed3b4874d5f1e54d3c2c",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "faf8e24d2f358c97bcffb7737e888cddb01d3950914d9ab33f2be1943654872f"
+}

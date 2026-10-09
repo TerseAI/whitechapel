@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-9b7ee4c27663fdd738543ccb63b046a94e56eeea495882e493153da6d023665b-reviewed.mp3",
+  "text": "As far as I know.",
+  "durationMs": 2088,
+  "sha256": "9b7ee4c27663fdd738543ccb63b046a94e56eeea495882e493153da6d023665b",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "c69b1249cd418b3fe276c1cfb8a51b20edd3fb75de97a24fc1010e6a28361e76"
+}

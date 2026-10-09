@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-681a4951f81b45dbc10d96ec79de42cf1fd03649c40c28968bc4769aeefd8390-reviewed.mp3",
+  "text": "He won’t let anyone through.",
+  "durationMs": 2328,
+  "sha256": "681a4951f81b45dbc10d96ec79de42cf1fd03649c40c28968bc4769aeefd8390",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "691826bee2c032b6aa872d9ba69add5ecaf1c1d6c48bae4ed8516571eb646c52"
+}

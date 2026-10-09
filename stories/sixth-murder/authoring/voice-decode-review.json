@@ -1,0 +1,11 @@
+{
+  "decodedFiles": 809,
+  "checkedCueIds": 811,
+  "model": "gemini-3.1-flash-tts-preview",
+  "checks": [
+    "full FFmpeg decode",
+    "SHA-256 matches recorded bytes",
+    "measured duration matches registered duration"
+  ],
+  "failures": []
+}

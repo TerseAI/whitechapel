@@ -1,0 +1,819 @@
+{
+  "$schema": "../../../stories/story.schema.json",
+  "schemaVersion": 2,
+  "id": "framework-test",
+  "version": "1",
+  "title": "Framework exercise",
+  "subtitle": "A case for two",
+  "description": "",
+  "assets": {
+    "front": {
+      "src": "front.svg",
+      "width": 600,
+      "height": 800,
+      "description": "Non-production front test image."
+    },
+    "back": {
+      "src": "back.svg",
+      "width": 600,
+      "height": 800,
+      "description": "Non-production back test image."
+    },
+    "page-one": {
+      "src": "page-one.svg",
+      "width": 600,
+      "height": 800,
+      "description": "Non-production page-one test image."
+    },
+    "page-two": {
+      "src": "page-two.svg",
+      "width": 600,
+      "height": 800,
+      "description": "Non-production page-two test image."
+    }
+  },
+  "models": {
+    "sample-model": "sample.gltf"
+  },
+  "inspectors": [
+    {
+      "id": "reed",
+      "name": "Inspector Reed",
+      "description": "Short and stocky, with a magnificent moustache.",
+      "appearance": {
+        "coat": "#6a5949",
+        "waistcoat": "#847458",
+        "hair": "#473a31",
+        "skin": "#bd9879",
+        "accent": "#beb090",
+        "hat": "bowler",
+        "beard": "handlebar",
+        "height": 0.86,
+        "build": 1.3,
+        "face": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "id": "ellis",
+      "name": "Inspector Ellis",
+      "description": "Very tall, with prominent sideburns.",
+      "appearance": {
+        "coat": "#344b56",
+        "waistcoat": "#847458",
+        "hair": "#473a31",
+        "skin": "#bd9879",
+        "accent": "#beb090",
+        "hat": "bowler",
+        "beard": "sideburns",
+        "height": 1.28,
+        "build": 0.92,
+        "face": [
+          1,
+          1,
+          1
+        ]
+      }
+    }
+  ],
+  "sites": {
+    "studio": {
+      "id": "studio",
+      "name": "Studio",
+      "kind": "fictional",
+      "address": "",
+      "precision": "fictional",
+      "point": [
+        600,
+        400
+      ],
+      "note": "",
+      "sources": [],
+      "placement": "",
+      "reviewed": ""
+    }
+  },
+  "voices": {},
+  "chapters": [
+    {
+      "title": "Arrival",
+      "date": "Framework preview",
+      "opening": "",
+      "goal": "",
+      "locations": [
+        {
+          "id": "preview-common",
+          "siteId": "studio",
+          "name": "Preview common",
+          "subtitle": "Framework demonstration",
+          "description": "An unpinned demonstration space.",
+          "scene": "basic-room",
+          "hotspots": [],
+          "navigation": {
+            "bounds": {
+              "minX": -4.15,
+              "maxX": 4.15,
+              "minZ": -8,
+              "maxZ": 10
+            },
+            "obstacles": [],
+            "clues": {},
+            "characters": {}
+          },
+          "indoor": true
+        }
+      ],
+      "flow": {
+        "entry": "preview-common",
+        "entryCutscene": "preview-arrival",
+        "completion": {
+          "kind": "continue",
+          "label": "Retire for the evening"
+        },
+        "after": {
+          "target": "advance",
+          "cutscene": "preview-morning"
+        }
+      },
+      "epilogueLocations": [],
+      "npcIds": [],
+      "epilogueNpcIds": [],
+      "clueIds": [],
+      "reviewEvidence": [],
+      "deductionIds": [],
+      "requiredEvidence": [],
+      "question": "Which statements describe this exercise?",
+      "options": [],
+      "acceptedAnswers": [],
+      "report": "Both inspectors agreed to continue.",
+      "reportByAnswer": {},
+      "briefing": "orientation"
+    },
+    {
+      "title": "Explore the district",
+      "date": "Framework preview",
+      "opening": "",
+      "goal": "",
+      "locations": [
+        {
+          "id": "preview-common",
+          "siteId": "studio",
+          "name": "Preview common",
+          "subtitle": "Framework demonstration",
+          "description": "An unpinned demonstration space.",
+          "scene": "basic-room",
+          "hotspots": [],
+          "navigation": {
+            "bounds": {
+              "minX": -4.15,
+              "maxX": 4.15,
+              "minZ": -8,
+              "maxZ": 10
+            },
+            "obstacles": [],
+            "clues": {},
+            "characters": {}
+          },
+          "indoor": true
+        },
+        {
+          "id": "preview-yard",
+          "siteId": "studio",
+          "name": "Preview yard",
+          "subtitle": "Framework demonstration",
+          "description": "An unpinned demonstration space.",
+          "scene": "basic-yard",
+          "hotspots": [],
+          "navigation": {
+            "bounds": {
+              "minX": -4.15,
+              "maxX": 4.15,
+              "minZ": -13,
+              "maxZ": 10
+            },
+            "obstacles": [],
+            "clues": {},
+            "characters": {}
+          },
+          "indoor": false
+        },
+        {
+          "id": "preview-bedroom",
+          "siteId": "studio",
+          "name": "Preview bedroom",
+          "subtitle": "Framework demonstration",
+          "description": "An unpinned demonstration space.",
+          "scene": "basic-room",
+          "hotspots": [
+            {
+              "id": "specimen",
+              "label": "Sample specimen",
+              "x": 50,
+              "y": 50
+            }
+          ],
+          "navigation": {
+            "bounds": {
+              "minX": -4.15,
+              "maxX": 4.15,
+              "minZ": -8,
+              "maxZ": 10
+            },
+            "obstacles": [],
+            "clues": {
+              "specimen": [
+                1.6,
+                0.7,
+                -2
+              ]
+            },
+            "characters": {}
+          },
+          "indoor": true
+        },
+        {
+          "id": "preview-workshop",
+          "siteId": "studio",
+          "name": "Preview workshop",
+          "subtitle": "Framework demonstration",
+          "description": "An unpinned demonstration space.",
+          "scene": "basic-room",
+          "hotspots": [],
+          "navigation": {
+            "bounds": {
+              "minX": -4.15,
+              "maxX": 4.15,
+              "minZ": -8,
+              "maxZ": 10
+            },
+            "obstacles": [],
+            "clues": {},
+            "characters": {
+              "curator": [
+                -2.6,
+                0,
+                -1
+              ]
+            }
+          },
+          "indoor": true,
+          "props": [
+            {
+              "id": "model-prop",
+              "model": "gltf",
+              "asset": "sample-model",
+              "position": [
+                2,
+                0,
+                -5
+              ]
+            }
+          ]
+        },
+        {
+          "id": "preview-mortuary",
+          "siteId": "studio",
+          "name": "Preview mortuary",
+          "subtitle": "Framework demonstration",
+          "description": "An unpinned demonstration space.",
+          "scene": "basic-room",
+          "hotspots": [
+            {
+              "id": "paper-record",
+              "label": "Handling record",
+              "x": 50,
+              "y": 50
+            }
+          ],
+          "navigation": {
+            "bounds": {
+              "minX": -4.15,
+              "maxX": 4.15,
+              "minZ": -8,
+              "maxZ": 10
+            },
+            "obstacles": [],
+            "clues": {
+              "paper-record": [
+                1.6,
+                0.7,
+                -2
+              ]
+            },
+            "characters": {}
+          },
+          "indoor": true
+        },
+        {
+          "id": "preview-station",
+          "siteId": "studio",
+          "name": "Preview station",
+          "subtitle": "Framework demonstration",
+          "description": "An unpinned demonstration space.",
+          "scene": "model",
+          "hotspots": [],
+          "navigation": {
+            "bounds": {
+              "minX": -4.15,
+              "maxX": 4.15,
+              "minZ": -8,
+              "maxZ": 10
+            },
+            "obstacles": [],
+            "clues": {},
+            "characters": {}
+          },
+          "indoor": true,
+          "sceneAsset": "sample-model"
+        }
+      ],
+      "flow": {
+        "entry": "preview-yard",
+        "completion": {
+          "kind": "findings",
+          "options": [
+            {
+              "id": "together",
+              "label": "Two inspectors took part."
+            },
+            {
+              "id": "six-places",
+              "label": "Six separate destinations are available."
+            },
+            {
+              "id": "alone",
+              "label": "One inspector began alone."
+            }
+          ],
+          "supported": [
+            "together",
+            "six-places"
+          ],
+          "rejection": "Check the two-player requirement and the available destinations."
+        },
+        "after": {
+          "target": "advance"
+        }
+      },
+      "epilogueLocations": [],
+      "npcIds": [
+        "curator"
+      ],
+      "epilogueNpcIds": [],
+      "clueIds": [
+        "specimen",
+        "account",
+        "paper-record"
+      ],
+      "reviewEvidence": [],
+      "deductionIds": [
+        "comparison"
+      ],
+      "requiredEvidence": [
+        "specimen",
+        "account",
+        "paper-record"
+      ],
+      "question": "Which statements describe this exercise?",
+      "options": [],
+      "acceptedAnswers": [],
+      "report": "Both inspectors agreed to continue.",
+      "reportByAnswer": {},
+      "requiredInterviews": [
+        "curator"
+      ]
+    },
+    {
+      "title": "Return",
+      "date": "Framework preview",
+      "opening": "",
+      "goal": "",
+      "locations": [
+        {
+          "id": "preview-common",
+          "siteId": "studio",
+          "name": "Preview common",
+          "subtitle": "Framework demonstration",
+          "description": "An unpinned demonstration space.",
+          "scene": "basic-room",
+          "hotspots": [],
+          "navigation": {
+            "bounds": {
+              "minX": -4.15,
+              "maxX": 4.15,
+              "minZ": -8,
+              "maxZ": 10
+            },
+            "obstacles": [],
+            "clues": {},
+            "characters": {}
+          },
+          "indoor": true
+        }
+      ],
+      "flow": {
+        "entry": "preview-common",
+        "entryCutscene": "preview-return",
+        "completion": {
+          "kind": "continue",
+          "label": "Finish the exercise"
+        },
+        "after": {
+          "target": "finish"
+        }
+      },
+      "epilogueLocations": [],
+      "npcIds": [],
+      "epilogueNpcIds": [],
+      "clueIds": [],
+      "reviewEvidence": [],
+      "deductionIds": [],
+      "requiredEvidence": [],
+      "question": "Which statements describe this exercise?",
+      "options": [],
+      "acceptedAnswers": [],
+      "report": "Both inspectors agreed to continue.",
+      "reportByAnswer": {}
+    }
+  ],
+  "characters": [
+    {
+      "id": "curator",
+      "name": "Curator",
+      "occupation": "Test witness",
+      "location": "preview-workshop",
+      "appearance": {
+        "coat": "#6a5949",
+        "waistcoat": "#847458",
+        "hair": "#473a31",
+        "skin": "#bd9879",
+        "accent": "#beb090",
+        "hat": "bowler",
+        "beard": "handlebar",
+        "height": 0.86,
+        "build": 1.3,
+        "face": [
+          1,
+          1,
+          1
+        ]
+      },
+      "greeting": "I have the sample record ready.",
+      "historical": "Test character.",
+      "topics": [
+        {
+          "id": "record",
+          "label": "Sample record",
+          "ask": "May we see the record?",
+          "claim": "The record was made when the sample arrived.",
+          "observation": "",
+          "documentId": "account",
+          "correct": "reassure",
+          "success": {
+            "text": "I checked the sample on arrival.",
+            "reward": "account"
+          },
+          "failure": {
+            "text": "Please ask about the sample."
+          }
+        }
+      ],
+      "entityId": "curator"
+    }
+  ],
+  "clues": {
+    "specimen": {
+      "id": "specimen",
+      "title": "Sample specimen",
+      "description": "Sample specimen recorded.",
+      "detail": "Fixture evidence for checking the reusable shell.",
+      "provenance": "Test fixture.",
+      "location": "preview-bedroom",
+      "kind": "object",
+      "chapter": 1,
+      "image": "back"
+    },
+    "account": {
+      "id": "account",
+      "title": "Curator’s account",
+      "description": "Curator’s account recorded.",
+      "detail": "Fixture evidence for checking the reusable shell.",
+      "provenance": "Test fixture.",
+      "location": "preview-workshop",
+      "kind": "testimony",
+      "chapter": 1
+    },
+    "paper-record": {
+      "id": "paper-record",
+      "title": "Handling record",
+      "description": "Handling record recorded.",
+      "detail": "Fixture evidence for checking the reusable shell.",
+      "provenance": "Test fixture.",
+      "location": "preview-mortuary",
+      "kind": "object",
+      "chapter": 1,
+      "documentId": "orientation"
+    }
+  },
+  "deductions": [
+    {
+      "id": "comparison",
+      "title": "Compare the records",
+      "question": "What connects the sample to its record?",
+      "explanation": "The sample and the record have been compared.",
+      "requires": [
+        "specimen",
+        "account"
+      ]
+    }
+  ],
+  "documents": {
+    "orientation": {
+      "id": "orientation",
+      "title": "Exercise instructions",
+      "format": "Test letter",
+      "pages": [
+        {
+          "label": "First page",
+          "heading": "Exercise instructions",
+          "artwork": "page-one",
+          "paragraphs": [
+            "Inspect the sample and compare it with the curator’s account."
+          ]
+        },
+        {
+          "label": "Second page",
+          "heading": "Handling record",
+          "artwork": "page-two",
+          "fields": [
+            [
+              "Sample",
+              "A"
+            ],
+            [
+              "Condition",
+              "Marked"
+            ]
+          ],
+          "paragraphs": [
+            "This is a reader test, not story content."
+          ]
+        }
+      ]
+    }
+  },
+  "objects": {
+    "sample": {
+      "id": "sample",
+      "title": "Sample object",
+      "model": "box",
+      "siteId": "studio",
+      "hotspots": [
+        "specimen"
+      ],
+      "views": {
+        "initial": "front",
+        "steps": {
+          "surface": {
+            "image": "front",
+            "point": [
+              50,
+              45
+            ]
+          },
+          "turn": {
+            "image": "back",
+            "point": [
+              50,
+              65
+            ]
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "surface",
+          "label": "Examine the surface",
+          "observation": "The surface has a mark."
+        },
+        {
+          "id": "turn",
+          "label": "Turn the sample",
+          "observation": "A second mark is visible beneath.",
+          "requires": [
+            "surface"
+          ],
+          "requiresEvidence": [
+            "account"
+          ],
+          "togetherAt": "preview-bedroom"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "specimen",
+          "chapter": 1,
+          "steps": [
+            "surface",
+            "turn"
+          ],
+          "reviewAsObject": true
+        }
+      ]
+    }
+  },
+  "reconstructions": [
+    {
+      "id": "comparison",
+      "title": "Record the handling sequence",
+      "instruction": "Put the three handling events in order.",
+      "pairs": [
+        [
+          "specimen",
+          "account"
+        ]
+      ],
+      "events": [
+        {
+          "id": "recorded",
+          "label": "Enter the result"
+        },
+        {
+          "id": "received",
+          "label": "Receive the sample"
+        },
+        {
+          "id": "checked",
+          "label": "Check the sample"
+        }
+      ],
+      "order": [
+        "received",
+        "checked",
+        "recorded"
+      ],
+      "failure": "Receive the sample, check it, then enter the result."
+    }
+  ],
+  "cutscenes": [
+    {
+      "id": "preview-arrival",
+      "title": "Arrival",
+      "location": "preview-common",
+      "steps": [
+        {
+          "kind": "card",
+          "title": "Framework preview",
+          "text": "A short demonstration. This is not the new story.",
+          "image": "front"
+        },
+        {
+          "kind": "shot",
+          "speaker": "reed",
+          "text": "Ready, Inspector Ellis?",
+          "camera": {
+            "position": [
+              3,
+              2.6,
+              6
+            ],
+            "target": [
+              -0.9,
+              1.4,
+              1
+            ]
+          },
+          "actors": [
+            {
+              "id": "reed",
+              "position": [
+                -1.1,
+                0,
+                1
+              ],
+              "heading": 1
+            },
+            {
+              "id": "ellis",
+              "position": [
+                1.1,
+                0,
+                1
+              ],
+              "heading": -1
+            }
+          ]
+        },
+        {
+          "kind": "shot",
+          "speaker": "ellis",
+          "text": "After you, Inspector Reed.",
+          "camera": {
+            "position": [
+              -3,
+              3,
+              6
+            ],
+            "target": [
+              0.9,
+              1.8,
+              1
+            ]
+          },
+          "actors": [
+            {
+              "id": "reed",
+              "position": [
+                -1.1,
+                0,
+                1
+              ],
+              "heading": 1
+            },
+            {
+              "id": "ellis",
+              "position": [
+                1.1,
+                0,
+                1
+              ],
+              "heading": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "preview-morning",
+      "title": "The following morning",
+      "location": "preview-yard",
+      "steps": [
+        {
+          "kind": "card",
+          "title": "The following morning",
+          "text": "The inspectors return to the yard."
+        },
+        {
+          "kind": "shot",
+          "text": "The district is open to both inspectors.",
+          "camera": {
+            "position": [
+              4,
+              5,
+              9
+            ],
+            "target": [
+              0,
+              1,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "preview-return",
+      "title": "Return",
+      "location": "preview-common",
+      "steps": [
+        {
+          "kind": "card",
+          "text": "Later that day"
+        },
+        {
+          "kind": "shot",
+          "speaker": "reed",
+          "text": "That concludes our visit.",
+          "camera": {
+            "position": [
+              3,
+              2.7,
+              6
+            ],
+            "target": [
+              0,
+              1.5,
+              1
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "ending": "The framework exercise is complete. The story remains in script review.",
+  "map": {
+    "kind": "fictional",
+    "src": "map.svg",
+    "width": 1200,
+    "height": 800,
+    "title": "Framework test map",
+    "description": "A fictional map used only for renderer checks.",
+    "source": {
+      "title": "Repository test fixture",
+      "url": "https://example.com"
+    }
+  }
+}

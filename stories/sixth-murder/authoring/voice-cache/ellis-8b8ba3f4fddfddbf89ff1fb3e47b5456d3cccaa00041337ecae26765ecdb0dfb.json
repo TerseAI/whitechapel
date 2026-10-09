@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-8b8ba3f4fddfddbf89ff1fb3e47b5456d3cccaa00041337ecae26765ecdb0dfb-reviewed.mp3",
+  "text": "What killed her?",
+  "durationMs": 1464,
+  "sha256": "8b8ba3f4fddfddbf89ff1fb3e47b5456d3cccaa00041337ecae26765ecdb0dfb",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "d883c4a90d094a231931eda494c5cb655371a1edd325b30b6bf8c131c36d3e6c"
+}

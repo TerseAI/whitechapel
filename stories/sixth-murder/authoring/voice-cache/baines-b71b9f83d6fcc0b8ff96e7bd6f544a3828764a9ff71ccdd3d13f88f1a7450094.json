@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-b71b9f83d6fcc0b8ff96e7bd6f544a3828764a9ff71ccdd3d13f88f1a7450094-reviewed.mp3",
+  "text": "After that cry? I was terrified. And then this morning they found her.",
+  "durationMs": 6384,
+  "sha256": "b71b9f83d6fcc0b8ff96e7bd6f544a3828764a9ff71ccdd3d13f88f1a7450094",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "5d419cf8f4bbfb3c221e1e8c3667b6d56b646f0c61f2f28f684b8fc095f3fb4f"
+}

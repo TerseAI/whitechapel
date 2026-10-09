@@ -1,0 +1,11 @@
+{
+  "src": "audio/maggie-6df0b154aded41c89b76c2e816973ca09aedcc5cffb738bbb2f0595227664dfc-reviewed.mp3",
+  "text": "Yes. Worried about making a start somewhere new, of course. She kept asking whether they’d expect her to work faster.",
+  "durationMs": 8184,
+  "sha256": "6df0b154aded41c89b76c2e816973ca09aedcc5cffb738bbb2f0595227664dfc",
+  "actor": "maggie",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Sulafat",
+  "direction": "Maggie Shaw, an adult London garment worker. Warm mid-register woman voice with a subtle working London accent; guarded concern and plain speaking. Full warm middle mezzo with a firm forward edge, stronger consonant attacks and a more direct rhythm than Nora. Let concern soften phrase endings without making every line tremulous or tearful.",
+  "audioSha256": "1410c8f3f38a6bbb7bd8ee0fd0160e20758edc957ae7fb0af25211e1f18f1062"
+}

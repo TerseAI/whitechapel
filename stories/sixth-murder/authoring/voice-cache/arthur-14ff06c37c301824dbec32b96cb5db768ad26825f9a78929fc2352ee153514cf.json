@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-14ff06c37c301824dbec32b96cb5db768ad26825f9a78929fc2352ee153514cf-reviewed.mp3",
+  "text": "I don’t remember which clothes I put in.",
+  "durationMs": 2808,
+  "sha256": "14ff06c37c301824dbec32b96cb5db768ad26825f9a78929fc2352ee153514cf",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "d2eb66ee8a7f93a1d2c0d0b8561fe617b06ac06c5ebdc08d906f70e469763e37"
+}

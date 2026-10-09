@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-f13ca8a2cc0ee7e5e064c9ebf2c42311d65d418ef4495329d27acc0c754d3ee9-reviewed.mp3",
+  "text": "Who found her?",
+  "durationMs": 1584,
+  "sha256": "f13ca8a2cc0ee7e5e064c9ebf2c42311d65d418ef4495329d27acc0c754d3ee9",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "dfcbc4116e8251d319a5728c35088f3f388148ebfc3fa3001a467904d57707a6"
+}

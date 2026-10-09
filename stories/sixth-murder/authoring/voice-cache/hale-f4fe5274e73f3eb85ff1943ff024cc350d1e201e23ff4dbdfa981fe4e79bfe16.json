@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-f4fe5274e73f3eb85ff1943ff024cc350d1e201e23ff4dbdfa981fe4e79bfe16-reviewed.mp3",
+  "text": "Yes, sir. I’ll stay here with Arthur.",
+  "durationMs": 2808,
+  "sha256": "f4fe5274e73f3eb85ff1943ff024cc350d1e201e23ff4dbdfa981fe4e79bfe16",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "a7d92696895ca9f90896292622705e64f0d8f5f2fd7ed46de382f53e59375900"
+}

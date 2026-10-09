@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-70fa1df215b0e19864e91176a3e7db1fd5dfe5ae4b5d54443fbde69ce3e941bf-reviewed.mp3",
+  "text": "Wouldn’t you be? With what’s happened to that girl?",
+  "durationMs": 3648,
+  "sha256": "70fa1df215b0e19864e91176a3e7db1fd5dfe5ae4b5d54443fbde69ce3e941bf",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "a56d2c0424777cb44ffee7e175bb36b5899485a6a9c49d99373441b50c908a33"
+}

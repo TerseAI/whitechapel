@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-999a67f662925e12bab0cc9ea0277e9322c47f2eb68cfd82a539b8e6bfe99321-reviewed.mp3",
+  "text": "Mrs Baines. She said Nora hadn’t come down. Asked if I’d help see what was keeping her.",
+  "durationMs": 7608,
+  "sha256": "999a67f662925e12bab0cc9ea0277e9322c47f2eb68cfd82a539b8e6bfe99321",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "b3455bd0f92ca8817879d8d0507919bd346aa635cc1cd3f16121f2696dff146b"
+}

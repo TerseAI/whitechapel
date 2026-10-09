@@ -1,0 +1,80 @@
+{
+  "orders-original": {
+    "src": "documents/orders-original.webp",
+    "width": 1086,
+    "height": 1448,
+    "description": "Abberline’s orders, Temporary assignment. Fictional illustrated original."
+  },
+  "inn-newspaper-original": {
+    "src": "documents/inn-newspaper-revised.webp",
+    "width": 1086,
+    "height": 1448,
+    "description": "A fictional sensational newspaper. The woodcut shows a clothed, non-graphic figure with a scarf laid across her face. This is an invented report and illustration, not a reproduction of an actual issue."
+  },
+  "travel-sleeve-original": {
+    "src": "documents/travel-sleeve-original.webp",
+    "width": 1086,
+    "height": 1448,
+    "description": "A small stiff card railway ticket rests beside its folded paper sleeve. The passenger name is handwritten on the sleeve, not printed on the ticket."
+  },
+  "sister-letter-original": {
+    "src": "documents/sister-letter-original.webp",
+    "width": 1086,
+    "height": 1448,
+    "description": "Nora’s Bristol journey, A place in Bristol. Fictional illustrated original."
+  },
+  "work-correspondence-original": {
+    "src": "documents/work-correspondence-original.webp",
+    "width": 1087,
+    "height": 1447,
+    "description": "Maggie’s work note, Work left at the workshop. Fictional illustrated original."
+  },
+  "torn-wedding-front": {
+    "src": "documents/torn-wedding-front.webp",
+    "width": 1200,
+    "height": 1600,
+    "description": "Nora stands beside her mother in a formal studio wedding portrait. The right-hand portion, where another person stood, has been torn away. The surviving portion does not identify the missing man."
+  },
+  "torn-wedding-back": {
+    "src": "documents/torn-wedding-back.webp",
+    "width": 1086,
+    "height": 1448,
+    "description": "The handwritten date is intact on the reverse of the surviving card. No groom’s name remains."
+  },
+  "finch-work-card-original": {
+    "src": "documents/finch-work-card-original.webp",
+    "width": 1086,
+    "height": 1448,
+    "description": "An ordinary work card from before the wedding, kept with Maggie’s older accounts."
+  },
+  "complete-wedding-front": {
+    "src": "documents/complete-wedding-front.webp",
+    "width": 1200,
+    "height": 1600,
+    "description": "The same wedding portrait as Nora’s torn print. Nora stands between her mother and Arthur Vale. Arthur is visibly the visitor interviewed at the Lantern. Maggie’s identification supplies the names and occasion."
+  },
+  "complete-wedding-back": {
+    "src": "documents/complete-wedding-back.webp",
+    "width": 1086,
+    "height": 1448,
+    "description": "The couple’s names, wedding date and dedication are handwritten on the reverse."
+  },
+  "medical-findings-original": {
+    "src": "documents/medical-findings-blunt-v2.png",
+    "width": 1086,
+    "height": 1448,
+    "description": "Alden’s signed findings: fatal blunt head injury, post-mortem knife wounds. Fictional illustrated original."
+  },
+  "burned-report-original": {
+    "src": "documents/burned-report-revised.webp",
+    "width": 1086,
+    "height": 1448,
+    "description": "A partly burned portion of another copy of the inn newspaper. Enough of the masthead, date, article and scarf illustration remains to compare the edition. This is not a piece torn from the inn’s complete copy."
+  },
+  "closing-letter-original": {
+    "src": "documents/closing-letter-revised.webp",
+    "width": 1086,
+    "height": 1448,
+    "description": "Maggie’s letter to Nora’s sister, From the Lantern. Fictional illustrated original."
+  }
+}

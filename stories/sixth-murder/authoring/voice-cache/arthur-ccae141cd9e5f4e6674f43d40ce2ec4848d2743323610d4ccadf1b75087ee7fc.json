@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-ccae141cd9e5f4e6674f43d40ce2ec4848d2743323610d4ccadf1b75087ee7fc-reviewed.mp3",
+  "text": "What’s that got to do with the trunk?",
+  "durationMs": 2568,
+  "sha256": "ccae141cd9e5f4e6674f43d40ce2ec4848d2743323610d4ccadf1b75087ee7fc",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "1870ed6349764ba3f00445da7c6b6ce7fdaa9249dc54da6003752933374b6995"
+}

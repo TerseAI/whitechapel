@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-26861ba7c74ac130ab748bea79610a9c1e5969a504ff5b65351cf63ac8fd17e4-reviewed.mp3",
+  "text": "She worked with Nora.",
+  "durationMs": 2136,
+  "sha256": "26861ba7c74ac130ab748bea79610a9c1e5969a504ff5b65351cf63ac8fd17e4",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "f8d6b318970f4a4e031b3cbbea1a892c8dc8b8c243deaa018c92f337b734eb8e"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-fc3381b9382524343ea1e845545aad1dc629a87ac48684936deb560ce9d3c333-reviewed.mp3",
+  "text": "Has anyone been inside his room?",
+  "durationMs": 2784,
+  "sha256": "fc3381b9382524343ea1e845545aad1dc629a87ac48684936deb560ce9d3c333",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "8695e2c47da630dfc6f9bfb57ea92d1fadfbdeefc243daa312db2cb1785e1ee9"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-ba7b66603c0055a4d0b2bb03a90d0ec0ce919ac5a3682c21cf316f8be5a0d802-reviewed.mp3",
+  "text": "Who is Maggie Shaw?",
+  "durationMs": 3144,
+  "sha256": "ba7b66603c0055a4d0b2bb03a90d0ec0ce919ac5a3682c21cf316f8be5a0d802",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "03eaa0f8418d1332f3f809ee0cb379ceef9392d480c232eb99fdf56341c44548"
+}

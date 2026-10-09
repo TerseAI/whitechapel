@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-84b6c76764af33a04db04e23fe155173bae9914a152a6346d5caba23ffe11039-reviewed.mp3",
+  "text": "Anyone who came into the yard. There’s nothing to stop them.",
+  "durationMs": 4608,
+  "sha256": "84b6c76764af33a04db04e23fe155173bae9914a152a6346d5caba23ffe11039",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "c53522d3e7439df978fcb8d43485aae67d7d4f2906de14d9f4e39a847177bc13"
+}

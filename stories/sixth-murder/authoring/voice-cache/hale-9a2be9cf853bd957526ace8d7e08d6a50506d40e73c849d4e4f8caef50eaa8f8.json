@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-9a2be9cf853bd957526ace8d7e08d6a50506d40e73c849d4e4f8caef50eaa8f8-reviewed.mp3",
+  "text": "That she was dead. He wanted a proper examination before saying any more. He’s expecting you at his workroom.",
+  "durationMs": 7968,
+  "sha256": "9a2be9cf853bd957526ace8d7e08d6a50506d40e73c849d4e4f8caef50eaa8f8",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "36c35050d17919201d23da7bdee9259ca9da4f0f9dd27ea7a384533184e79959"
+}

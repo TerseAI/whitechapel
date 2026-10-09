@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-bb54962961355b3c073627c0596daad6e144f30d1d6a7e480d709ac3c3936162-reviewed.mp3",
+  "text": "One of your men.",
+  "durationMs": 2208,
+  "sha256": "bb54962961355b3c073627c0596daad6e144f30d1d6a7e480d709ac3c3936162",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "4cd9b59a81e626a53f73a53436f36abdde9f4a6f974966f319d96d21983af06c"
+}

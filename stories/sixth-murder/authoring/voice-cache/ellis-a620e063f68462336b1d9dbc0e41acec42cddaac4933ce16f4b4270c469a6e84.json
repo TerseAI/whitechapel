@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-a620e063f68462336b1d9dbc0e41acec42cddaac4933ce16f4b4270c469a6e84-reviewed.mp3",
+  "text": "And the knife?",
+  "durationMs": 1536,
+  "sha256": "a620e063f68462336b1d9dbc0e41acec42cddaac4933ce16f4b4270c469a6e84",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "a4edbf983bc573cf2cd697be2d54be5a2804bbb98728fdbc28f35255656fa3f5"
+}

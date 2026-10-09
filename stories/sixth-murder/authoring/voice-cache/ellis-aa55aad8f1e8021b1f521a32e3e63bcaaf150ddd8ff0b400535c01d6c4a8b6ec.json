@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-aa55aad8f1e8021b1f521a32e3e63bcaaf150ddd8ff0b400535c01d6c4a8b6ec-reviewed.mp3",
+  "text": "Has he given notice?",
+  "durationMs": 1896,
+  "sha256": "aa55aad8f1e8021b1f521a32e3e63bcaaf150ddd8ff0b400535c01d6c4a8b6ec",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "badae471602447e11f55cee7bbf32d65437f42f658bd6f99a3ff87cb39e39730"
+}

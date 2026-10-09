@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-b20fbf640ff57b2522d7a1ad101a7c92537dddb592215a203c2caee74c07d130-reviewed.mp3",
+  "text": "Mrs Baines saw a man carrying Nora’s trunk down last night. She couldn’t see his face.",
+  "durationMs": 6024,
+  "sha256": "b20fbf640ff57b2522d7a1ad101a7c92537dddb592215a203c2caee74c07d130",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "041a061f6df1dd990c605d52d73408190a9c83032136e64977631c0440ce4d75"
+}

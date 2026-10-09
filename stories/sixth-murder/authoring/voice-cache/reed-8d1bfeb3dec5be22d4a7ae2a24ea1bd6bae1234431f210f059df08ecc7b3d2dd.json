@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-8d1bfeb3dec5be22d4a7ae2a24ea1bd6bae1234431f210f059df08ecc7b3d2dd-reviewed.mp3",
+  "text": "They’ll have to stay where they are for now.",
+  "durationMs": 2856,
+  "sha256": "8d1bfeb3dec5be22d4a7ae2a24ea1bd6bae1234431f210f059df08ecc7b3d2dd",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "479ce836d942804487a37eb1f5ff9bb91be0e39f0b3a26a845da1704c5dd2127"
+}

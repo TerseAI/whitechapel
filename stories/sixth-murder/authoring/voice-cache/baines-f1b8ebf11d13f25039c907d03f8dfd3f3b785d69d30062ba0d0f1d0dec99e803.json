@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-f1b8ebf11d13f25039c907d03f8dfd3f3b785d69d30062ba0d0f1d0dec99e803-reviewed.mp3",
+  "text": "Nora’s room, out the back. She needs a candle.",
+  "durationMs": 4536,
+  "sha256": "f1b8ebf11d13f25039c907d03f8dfd3f3b785d69d30062ba0d0f1d0dec99e803",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "29a1272efc3da349e84629b9b03adc14b1f850955a331f08a4fabd64bc552606"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-2aae22393a150b481f19845eb8aea8b2ef3ebadf5bd1bbc09cc7f68aaad8bbaa-reviewed.mp3",
+  "text": "We will help with the belongings when they may be released.",
+  "durationMs": 4104,
+  "sha256": "2aae22393a150b481f19845eb8aea8b2ef3ebadf5bd1bbc09cc7f68aaad8bbaa",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "6bdfaea985c64985873b36841a26e3d90d98132dbf5cd7fc321b2909fa0a2aeb"
+}

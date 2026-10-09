@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-ad0d62fc157e8a0b9b5e459d940383dae596aaf9c464f6e1c147e6207b4d8be2-reviewed.mp3",
+  "text": "You said there was blood in the trunk. Show me what you mean.",
+  "durationMs": 4608,
+  "sha256": "ad0d62fc157e8a0b9b5e459d940383dae596aaf9c464f6e1c147e6207b4d8be2",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "bf90abd9cddcf2e00aa1ee4b7d4e84a533928329b336e9568fb251c5fb84e9b7"
+}

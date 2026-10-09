@@ -1,0 +1,11 @@
+{
+  "src": "audio/nora-fc3c3d4a3ba2ad74251325138bbd958ba9e1ff52672182c8956d4cc0a2d35af3-reviewed.mp3",
+  "text": "There’s room here. Mind the pins.",
+  "durationMs": 3096,
+  "sha256": "fc3c3d4a3ba2ad74251325138bbd958ba9e1ff52672182c8956d4cc0a2d35af3",
+  "actor": "nora",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Leda",
+  "direction": "Nora Vale, a 30-year-old English needleworker. Quiet clear and capable voice with a subtle working London accent; occasional dry humour and gentle uncertainty. Light clear mezzo, agile rhythm, soft precise consonants and a small dry lift on a witty observation. Speak with adult confidence, never breathy, childlike or portentous.",
+  "audioSha256": "aedcba35ddc246a091bed1689279c810c650a16a40b2f4ddea2fe745a563b681"
+}

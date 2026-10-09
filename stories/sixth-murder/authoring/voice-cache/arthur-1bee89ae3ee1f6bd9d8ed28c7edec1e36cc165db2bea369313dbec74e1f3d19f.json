@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-1bee89ae3ee1f6bd9d8ed28c7edec1e36cc165db2bea369313dbec74e1f3d19f-reviewed.mp3",
+  "text": "No. I didn’t touch the trunk.",
+  "durationMs": 3384,
+  "sha256": "1bee89ae3ee1f6bd9d8ed28c7edec1e36cc165db2bea369313dbec74e1f3d19f",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "ee5f246c1c385592f9faddbe6d6552706904da0a42fbc00ae5aded725adb31c5"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-99c59ca5f956261d069a0140c3724b8a295be54aa49582a8f33b8f6d7e5da4be-reviewed.mp3",
+  "text": "The trunk was stained inside. Were you helping Nora pack?",
+  "durationMs": 5904,
+  "sha256": "99c59ca5f956261d069a0140c3724b8a295be54aa49582a8f33b8f6d7e5da4be",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "75009406d264485db42783453cbc5cef7dff7c252643c17b42d55cc1aea92487"
+}

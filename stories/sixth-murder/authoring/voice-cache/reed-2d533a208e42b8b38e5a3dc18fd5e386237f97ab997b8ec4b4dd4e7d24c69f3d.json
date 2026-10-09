@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-2d533a208e42b8b38e5a3dc18fd5e386237f97ab997b8ec4b4dd4e7d24c69f3d-reviewed.mp3",
+  "text": "We’re not keeping you from your work?",
+  "durationMs": 2808,
+  "sha256": "2d533a208e42b8b38e5a3dc18fd5e386237f97ab997b8ec4b4dd4e7d24c69f3d",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "b37f177e740ff89d8cef21db30cf4f81db8aee4e01768e446ee56397c6c0eda1"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-54df7b64f568fa2a42f0f872672aeae9457808aedb67cb2d8cfe9e6f5fc92a7a-reviewed.mp3",
+  "text": "Did you see another man?",
+  "durationMs": 2424,
+  "sha256": "54df7b64f568fa2a42f0f872672aeae9457808aedb67cb2d8cfe9e6f5fc92a7a",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "78834e520927ea8dddd5aaf8975e53f91d3c02cc96c701334c036e614cf88783"
+}

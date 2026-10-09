@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-b9351afa7eab74631a48482be2cd471b35a68c5487deed16484dd7f09f01f51d-reviewed.mp3",
+  "text": "This is where we found it. Hale kept you away from the search, and the recovery wasn’t discussed in front of you.",
+  "durationMs": 8304,
+  "sha256": "b9351afa7eab74631a48482be2cd471b35a68c5487deed16484dd7f09f01f51d",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "fc8be4725c1f71a18cc4c0eb37723dc6f7ee8a1912a1e6f23066c4ad52dc619d"
+}

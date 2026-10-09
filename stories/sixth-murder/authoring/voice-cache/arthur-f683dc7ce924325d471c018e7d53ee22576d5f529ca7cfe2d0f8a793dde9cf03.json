@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-f683dc7ce924325d471c018e7d53ee22576d5f529ca7cfe2d0f8a793dde9cf03-reviewed.mp3",
+  "text": "Nothing comes to mind. If it does, I’ll tell you.",
+  "durationMs": 3744,
+  "sha256": "f683dc7ce924325d471c018e7d53ee22576d5f529ca7cfe2d0f8a793dde9cf03",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "8dd6070e6995893001da4fb54ab0dce671e84dcc7fc4f162e92ba5ce45eafda0"
+}

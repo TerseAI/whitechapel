@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-02bc56a7274d199fdc0c1050b6717757a85b4e9597b672767439402eb6b98eba-reviewed.mp3",
+  "text": "Keep him there while we search. No one is to discuss what we find within his hearing.",
+  "durationMs": 6336,
+  "sha256": "02bc56a7274d199fdc0c1050b6717757a85b4e9597b672767439402eb6b98eba",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "b96f75fb0e6e0bb3043eb06ddb6916b3effa4702d77a04f4c85972a15085cd95"
+}

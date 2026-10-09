@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-dcda83ef39d3d26161023f515818a1074ce161a7765fb6e2eed51712eb954c0f-reviewed.mp3",
+  "text": "They were worn out. That’s why I got rid of them.",
+  "durationMs": 3024,
+  "sha256": "dcda83ef39d3d26161023f515818a1074ce161a7765fb6e2eed51712eb954c0f",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "8b8c061edb83dfc725614f7f34f59b4577326c558dce32c740c0134a79b525fc"
+}

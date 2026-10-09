@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-b3827e262c82cc7f4d71432c8dcbd0e6d3390e394d7531747d0533716e6a8a83-reviewed.mp3",
+  "text": "How would we recognise it?",
+  "durationMs": 2328,
+  "sha256": "b3827e262c82cc7f4d71432c8dcbd0e6d3390e394d7531747d0533716e6a8a83",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "cc76827e5c14ece89b2f829bf7e56a3baab31a0c5df817acbe210a0f48f61e76"
+}

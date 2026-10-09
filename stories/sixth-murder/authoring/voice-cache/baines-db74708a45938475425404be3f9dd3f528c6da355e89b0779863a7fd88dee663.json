@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-db74708a45938475425404be3f9dd3f528c6da355e89b0779863a7fd88dee663-reviewed.mp3",
+  "text": "I can see that. But you’ll go away when you’ve finished here.",
+  "durationMs": 4608,
+  "sha256": "db74708a45938475425404be3f9dd3f528c6da355e89b0779863a7fd88dee663",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "3b8f0beb43d1bc571583e8aede63b4516c33cbda0f4a61109540f432edcc0899"
+}

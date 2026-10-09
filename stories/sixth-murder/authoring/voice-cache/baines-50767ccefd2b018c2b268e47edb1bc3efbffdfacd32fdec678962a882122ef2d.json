@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-50767ccefd2b018c2b268e47edb1bc3efbffdfacd32fdec678962a882122ef2d-reviewed.mp3",
+  "text": "I only lent her a candlestick. I don’t look inside lodgers’ trunks.",
+  "durationMs": 6288,
+  "sha256": "50767ccefd2b018c2b268e47edb1bc3efbffdfacd32fdec678962a882122ef2d",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "6d08ffd3d80ba73bd5d2418bdd4500516771ed5477c2794296c13cf9efac5225"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-c70a1d22994b4be4b1cb863236daddb9636a11bf52a08c096fc22aba47f7f683-reviewed.mp3",
+  "text": "We argued. Then I went.",
+  "durationMs": 2784,
+  "sha256": "c70a1d22994b4be4b1cb863236daddb9636a11bf52a08c096fc22aba47f7f683",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "26584b06abfacf78ecd1a9c3c42e10973b76f2313a3b3b295fd20352b55ed337"
+}

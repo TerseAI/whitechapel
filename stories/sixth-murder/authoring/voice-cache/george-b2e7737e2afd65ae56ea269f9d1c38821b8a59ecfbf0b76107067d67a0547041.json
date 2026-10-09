@@ -1,0 +1,11 @@
+{
+  "src": "audio/george-b2e7737e2afd65ae56ea269f9d1c38821b8a59ecfbf0b76107067d67a0547041-reviewed.mp3",
+  "text": "Can I see to the horse? He’s still waiting outside.",
+  "durationMs": 4224,
+  "sha256": "b2e7737e2afd65ae56ea269f9d1c38821b8a59ecfbf0b76107067d67a0547041",
+  "actor": "george",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Algenib",
+  "direction": "George Moss, a working London carman. Adult male rough textured voice and restrained London accent. Plain spoken, practical, no caricature. Gravelly lower baritone, broad but intelligible working London vowels and economical phrases. Slightly uneven workaday rhythm, blunt endings and understated humour; no comic Cockney performance.",
+  "audioSha256": "b94b1ee3ea6b8448b2ae21e17b7905645328bd80a7adcf93032fbd3ff927db2a"
+}

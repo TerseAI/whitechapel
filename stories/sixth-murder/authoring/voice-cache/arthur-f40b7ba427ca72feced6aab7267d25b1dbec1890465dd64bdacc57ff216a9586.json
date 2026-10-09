@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-f40b7ba427ca72feced6aab7267d25b1dbec1890465dd64bdacc57ff216a9586-reviewed.mp3",
+  "text": "You said you were asking about the candlestick.",
+  "durationMs": 3288,
+  "sha256": "f40b7ba427ca72feced6aab7267d25b1dbec1890465dd64bdacc57ff216a9586",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "0a2ec6950b4c440801bf5127fc6a258c521845c2910b0fd62025c295a05024f0"
+}

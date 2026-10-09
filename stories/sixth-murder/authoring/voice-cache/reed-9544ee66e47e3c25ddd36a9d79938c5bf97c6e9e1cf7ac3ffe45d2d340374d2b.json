@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-9544ee66e47e3c25ddd36a9d79938c5bf97c6e9e1cf7ac3ffe45d2d340374d2b-reviewed.mp3",
+  "text": "In a moment, Mr Moss. Tell us what happened this morning.",
+  "durationMs": 4728,
+  "sha256": "9544ee66e47e3c25ddd36a9d79938c5bf97c6e9e1cf7ac3ffe45d2d340374d2b",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "7e4cc3881c0563dee6d5b3f1b055a004815db2752cfe936fb70f65a7607b2e2b"
+}

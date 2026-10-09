@@ -1,0 +1,11 @@
+{
+  "src": "audio/baines-8e2b2de10d6742fd7fcda41fbfbbad66289b5894fbec30ca42c2f26113dfe794-reviewed.mp3",
+  "text": "Through there, then up the front stairs. If you need anything, my room’s down the back passage, beside Nora’s.",
+  "durationMs": 8136,
+  "sha256": "8e2b2de10d6742fd7fcda41fbfbbad66289b5894fbec30ca42c2f26113dfe794",
+  "actor": "baines",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "direction": "Mrs Baines, a middle-aged London innkeeper. Mature warm slightly husky voice with a subtle working London accent; practical and worried, never theatrical. Low contralto, lightly husky, rounded vowels and brisk practical phrasing. Familiar warmth comes through even when worried; stress household details with matter-of-fact emphasis.",
+  "audioSha256": "0003993ea1888f2a1193a1178e2241f69aff4b19e5aa88c028be449bb4b93ee5"
+}

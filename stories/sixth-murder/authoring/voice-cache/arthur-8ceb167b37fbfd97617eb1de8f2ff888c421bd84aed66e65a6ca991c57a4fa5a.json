@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-8ceb167b37fbfd97617eb1de8f2ff888c421bd84aed66e65a6ca991c57a4fa5a-reviewed.mp3",
+  "text": "There was work here. She was throwing our marriage away.",
+  "durationMs": 5448,
+  "sha256": "8ceb167b37fbfd97617eb1de8f2ff888c421bd84aed66e65a6ca991c57a4fa5a",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "913f37ee33f761be91b235d291ea172c9585adaeb0910b612a523a565d01530a"
+}

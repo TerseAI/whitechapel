@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-8dbbb1cb348a388df8450eca64512f253a661578d2ee4d544fb4b60203fa2662-reviewed.mp3",
+  "text": "Were you helping Nora hide from someone?",
+  "durationMs": 3576,
+  "sha256": "8dbbb1cb348a388df8450eca64512f253a661578d2ee4d544fb4b60203fa2662",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "c6d01ca3cfec9c55c50701f3767ab314344f5dae385d534e88f7ef69847289ff"
+}

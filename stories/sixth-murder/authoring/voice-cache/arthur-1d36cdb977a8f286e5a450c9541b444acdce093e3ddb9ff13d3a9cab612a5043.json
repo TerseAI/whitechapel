@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-1d36cdb977a8f286e5a450c9541b444acdce093e3ddb9ff13d3a9cab612a5043-reviewed.mp3",
+  "text": "Let me see it.",
+  "durationMs": 1488,
+  "sha256": "1d36cdb977a8f286e5a450c9541b444acdce093e3ddb9ff13d3a9cab612a5043",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "f8ecaffb89c0f2cfc4150401690f593fc2c908811cffdd1d14aed2fc46187f4e"
+}

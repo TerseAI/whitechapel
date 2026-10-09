@@ -1,0 +1,11 @@
+{
+  "src": "audio/reed-6fd37dc9bf219269b87b81940fbead90467755d7334918fa4d48c625f8d64716-reviewed.mp3",
+  "text": "This is how the paper shows it. You’d read it, and then you left Nora like this in the yard.",
+  "durationMs": 9864,
+  "sha256": "6fd37dc9bf219269b87b81940fbead90467755d7334918fa4d48c625f8d64716",
+  "actor": "reed",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Charon",
+  "direction": "Inspector Reed, a stocky middle-aged London detective. Low measured chest voice, direct and observant, restrained natural English London accent. Compact bass-baritone with chest resonance and a little vocal grain. Short deliberate phrases, firm downward endings, patient silence between questions. Keep pressure quiet; never bark.",
+  "audioSha256": "0ce4cbfaa67ec8a4b014db57c8ca5b5aea33e21021f2b97829b110ec2d9a1503"
+}

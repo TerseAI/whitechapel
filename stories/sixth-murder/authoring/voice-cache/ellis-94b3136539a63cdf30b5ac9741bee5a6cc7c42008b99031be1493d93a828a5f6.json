@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-94b3136539a63cdf30b5ac9741bee5a6cc7c42008b99031be1493d93a828a5f6-reviewed.mp3",
+  "text": "Do you recognise the damage?",
+  "durationMs": 2448,
+  "sha256": "94b3136539a63cdf30b5ac9741bee5a6cc7c42008b99031be1493d93a828a5f6",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "40f7172ab7a8cdce65e0c6f4d849d6ef1e9e65c24a278a8d7018933ea53f3560"
+}

@@ -1,0 +1,11 @@
+{
+  "src": "audio/hale-d419e761c57b6c9e6f40c128329807e35799f23707ccb77aa3856e83ecd2d776-reviewed.mp3",
+  "text": "A knife. It was out in the open beside her. I picked it up before they brought the stretcher. I’ve kept it wrapped here.",
+  "durationMs": 7488,
+  "sha256": "d419e761c57b6c9e6f40c128329807e35799f23707ccb77aa3856e83ecd2d776",
+  "actor": "hale",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Orus",
+  "direction": "Constable Hale, a conscientious London policeman. Adult male firm mid-register voice, mild London accent, respectful and factual. Firm clear middle baritone with an upright, even cadence. Neat consonants, brisk reports and respectful question endings. Sound conscientious rather than grand or commanding.",
+  "audioSha256": "a6ef1011ca6395ed6cba03fc19ab612b3c2f81d62beab7cf99c4d827c21b941a"
+}

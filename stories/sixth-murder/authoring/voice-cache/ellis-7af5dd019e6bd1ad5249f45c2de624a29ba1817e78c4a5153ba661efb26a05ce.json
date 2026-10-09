@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-7af5dd019e6bd1ad5249f45c2de624a29ba1817e78c4a5153ba661efb26a05ce-reviewed.mp3",
+  "text": "You were kept away from the yard while we searched. Nobody discussed the recovery in front of you.",
+  "durationMs": 5784,
+  "sha256": "7af5dd019e6bd1ad5249f45c2de624a29ba1817e78c4a5153ba661efb26a05ce",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "50ee3bd2743d7ecbfb523a06e30dbc48e091878ec3e94fee562473f86022afe1"
+}

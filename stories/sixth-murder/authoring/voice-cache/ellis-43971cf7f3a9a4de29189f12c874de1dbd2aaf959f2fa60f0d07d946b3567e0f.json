@@ -1,0 +1,13 @@
+{
+  "src": "audio/ellis-43971cf7f3a9a4de29189f12c874de1dbd2aaf959f2fa60f0d07d946b3567e0f-reviewed.mp3",
+  "text": "Very little.",
+  "durationMs": 1368,
+  "sha256": "43971cf7f3a9a4de29189f12c874de1dbd2aaf959f2fa60f0d07d946b3567e0f",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "229ed2632d983a4d253292e3f7740ccdb0a0f3b30f15072e11512f7a37e7722b",
+  "prompt": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight. Read the supplied dialogue exactly, in a natural British English voice, with clean studio audio. Speech only; no music or sound effects.",
+  "synthesisText": "\"Very little.\""
+}

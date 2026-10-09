@@ -1,0 +1,11 @@
+{
+  "src": "audio/arthur-b2e4e5a8fc4ff5c1d2f823087600584b53c1722040fe3b79bd22e357696ca4d3-reviewed.mp3",
+  "text": "That isn’t the doctor’s report.",
+  "durationMs": 2568,
+  "sha256": "b2e4e5a8fc4ff5c1d2f823087600584b53c1722040fe3b79bd22e357696ca4d3",
+  "actor": "arthur",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Schedar",
+  "direction": "Arthur Vale, an English man in his mid thirties. Adult male medium low voice, controlled defensiveness and contained strain. Natural London accent. Let admissions falter slightly; never villainous or melodramatic. Smooth narrow middle baritone, tighter resonance and more guarded phrasing than the other men. Carefully finish ordinary answers; strain introduces brief catches only when the supplied words warrant them. Keep the same vocal identity in casual conversation and questioning.",
+  "audioSha256": "b67850365dcdb219f35a59f0c8b6349b776e8b5838ed20f640aff230e05642a4"
+}

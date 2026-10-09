@@ -1,0 +1,11 @@
+{
+  "src": "audio/ellis-e6e42f6e43dc50e0dc1e67c779861e170373d36d4eedf389da99c512b7dd903a-reviewed.mp3",
+  "text": "Where was Nora when you carried it down?",
+  "durationMs": 3216,
+  "sha256": "e6e42f6e43dc50e0dc1e67c779861e170373d36d4eedf389da99c512b7dd903a",
+  "actor": "ellis",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "direction": "Inspector Ellis, a tall middle-aged London detective. Clear dry precise voice, educated southern English accent, quietly persistent. Lighter upper baritone with a dry, clean edge, crisp consonants and slightly quicker connected phrasing. Understate questions with a small questioning lift. Never adopt Reed’s bass weight.",
+  "audioSha256": "3dd7d362721fc6786101d5e63c01f25085105f4cc575115ed8ce2ee701322b4b"
+}
