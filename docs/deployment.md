@@ -59,6 +59,12 @@ Gemini 3.8 Flash writes dialogue with medium thinking. Jev chooses disclosures a
 
 Generated audio stays with fal and each client plays its returned HTTPS media URL directly. Microphone recordings go directly to ConversationActor over its authenticated socket. Whitechapel saves text, duration and provider-job metadata, not generated audio files. There is no Blob store or persistent application disk. Old conversations remain readable when provider recordings expire. There are no Vercel audio routes or audio signing keys. Conversation socket heartbeats resume checkpointed work; generation is awaited inside the actor runtime, independent of Vercel request lifetime.
 
+## Web Analytics
+
+Enable **Web Analytics** for your project in the Vercel dashboard before deploying. Production builds include the official React analytics component; local development does not send visits. The dashboard shows visitors and page views from the time collection starts, with production and preview traffic available separately.
+
+Tracked page URLs exclude query parameters and fragments, including case invitation codes. The integration does not send game conversations, player credentials or custom gameplay events. No additional environment variables are required.
+
 ## Playing together
 
 Open the same production URL on both devices. Choose **Play with a partner**, share the case invitation, select different inspectors and mark both ready. Both players must agree on reports. **Play solo** creates a separate case with one detective and adapted requirements. Each browser retains its own player credentials; use the same browser profile to return.

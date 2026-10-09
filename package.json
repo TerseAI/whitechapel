@@ -48,6 +48,7 @@
     "@react-three/fiber": "^9.7.0",
     "@ricky0123/vad-web": "^0.0.31",
     "@typesafe-ai/sdk": "0.6.0",
+    "@vercel/analytics": "2.0.1",
     "@xyflow/react": "^12.11.6",
     "durable-actors": "0.7.16",
     "express": "^5.1.0",
